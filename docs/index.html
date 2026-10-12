@@ -18,6 +18,9 @@
   --dot: #d7d7db;
   --dot-on: #1d1d1f;
   --bar: #eef1f5;
+  --s1: #0a66d8;
+  --s2: #d9692a;
+  --grid: #ececef;
 }
 @media (prefers-color-scheme: dark) {
   :root {
@@ -31,6 +34,9 @@
     --dot: #3a3a3f;
     --dot-on: #f2f2f4;
     --bar: #24272c;
+    --s1: #5aa2ff;
+    --s2: #f0955a;
+    --grid: #2a2a2e;
   }
 }
 * { box-sizing: border-box; }
@@ -90,6 +96,21 @@ li:first-child { border-top: 0; }
 .barrow .bar { position: absolute; inset: 3px auto 3px 0; background: var(--bar); border-radius: 4px; z-index: 0; }
 .barrow > * { position: relative; z-index: 1; }
 
+.chart { width: 100%; height: auto; display: block; margin: 4px 0 10px; overflow: visible; }
+.chart text { font-size: 11px; fill: var(--muted); font-variant-numeric: tabular-nums; }
+.chart .gridline { stroke: var(--grid); stroke-width: 1; }
+.chart .gap { stroke: var(--faint); stroke-dasharray: 2 3; stroke-width: 1; }
+.legend { display: flex; flex-wrap: wrap; gap: 4px 14px; font-size: 12px; color: var(--muted); margin-bottom: 4px; }
+.legend span::before { content: ""; display: inline-block; width: 10px; height: 3px; border-radius: 2px; margin: 0 6px 3px 0; background: var(--c); vertical-align: middle; }
+.small { display: grid; gap: 12px; grid-template-columns: repeat(auto-fill, minmax(220px, 1fr)); }
+.small .card { padding: 14px 14px 6px; }
+.small h3 { font-size: 14px; }
+.small .figure { display: flex; align-items: baseline; justify-content: space-between; gap: 8px; font-size: 12px; color: var(--muted); }
+.small .figure b { font-size: 15px; color: var(--text); font-variant-numeric: tabular-nums; }
+.up { color: var(--s1); } .down { color: var(--s2); }
+.lead { color: var(--muted); font-size: 13px; margin: -8px 0 16px; }
+.cite { color: var(--faint); font-size: 12px; margin: 12px 0 0; }
+.cite a { text-decoration: underline; }
 .empty { color: var(--muted); font-size: 13px; padding: 12px 0 18px; }
 .err { color: #c4472b; font-size: 12px; margin: 0 0 8px; }
 footer { color: var(--faint); font-size: 12px; border-top: 1px solid var(--line); padding-top: 20px; }
@@ -169,12 +190,24 @@ footer a { text-decoration: underline; }
     </div>
   </section>
 
+  <section id="longterm" hidden>
+    <h2>数十年単位の流れ</h2>
+    <p class="lead">暮らしの意識と、家計の使いみちの移り変わりです。どちらも年に1回の調査です。</p>
+    <div class="grid" id="opinion"></div>
+    <p class="cite" id="opinionCite"></p>
+    <h3 style="font-size:15px;margin:32px 0 4px">家計の使いみち</h3>
+    <p class="lead" style="margin:0 0 14px" id="kakeiLead"></p>
+    <div class="small" id="kakei"></div>
+    <p class="cite" id="kakeiCite"></p>
+  </section>
+
   <footer>
     毎朝6時ごろ（日本時間）に自動で更新しています。出典:
     <a href="https://trends.google.co.jp/trending?geo=JP">Google トレンド</a>、
     <a href="https://trends24.in/japan/">trends24.in</a>（X のトレンド）、
     <a href="https://b.hatena.ne.jp/hotentry/all">はてなブックマーク</a>、
-    <a href="https://wikitech.wikimedia.org/wiki/Analytics/AQS/Pageviews">Wikimedia Pageviews API</a>
+    <a href="https://wikitech.wikimedia.org/wiki/Analytics/AQS/Pageviews">Wikimedia Pageviews API</a>。
+    数十年単位の流れは、内閣府と総務省統計局の公表データを当サイトで抜き出してグラフにしたものです。
   </footer>
 </div>
 
@@ -301,7 +334,75 @@ async function main() {
   try { w = localStorage.getItem("window") || "30"; } catch (e) {}
   renderWindow(DATA.windows[w] ? w : "30");
 }
+// 折れ線グラフ。segments ごとに線を切るので、調査方法が変わった前後をつながずに描ける
+function lineChart({ series, x0, x1, y0, y1, w = 360, h = 180, yFmt = (v) => v, xTicks = [], gapAt = null, yLabels = true }) {
+  const L = yLabels ? 34 : 14, R = 8, T = 8, B = 20;
+  const X = (x) => L + ((x - x0) / (x1 - x0)) * (w - L - R);
+  const Y = (y) => T + (1 - (y - y0) / (y1 - y0)) * (h - T - B);
+  let g = "";
+  const steps = 4;
+  for (let i = 0; i <= steps; i++) {
+    const v = y0 + ((y1 - y0) * i) / steps;
+    g += `<line class="gridline" x1="${L}" x2="${w - R}" y1="${Y(v)}" y2="${Y(v)}"/>${yLabels ? `<text x="${L - 6}" y="${Y(v) + 4}" text-anchor="end">${yFmt(v)}</text>` : ""}`;
+  }
+  for (const t of xTicks) g += `<text x="${X(t)}" y="${h - 4}" text-anchor="middle">${t}</text>`;
+  if (gapAt) g += `<line class="gap" x1="${X(gapAt)}" x2="${X(gapAt)}" y1="${T}" y2="${h - B}"/>`;
+  for (const s of series) {
+    for (const seg of s.segments) {
+      if (!seg.length) continue;
+      const d = seg.map(([x, y], i) => `${i ? "L" : "M"}${X(x).toFixed(1)},${Y(y).toFixed(1)}`).join("");
+      g += `<path d="${d}" fill="none" stroke="${s.color}" stroke-width="${s.width || 1.8}" stroke-linejoin="round" stroke-linecap="round"/>`;
+    }
+  }
+  return `<svg class="chart" viewBox="0 0 ${w} ${h}" role="img" aria-label="${esc(series.map((s) => s.name).join("と"))}の推移">${g}</svg>`;
+}
+
+const yen = (v) => v >= 100000 ? `${Math.round(v / 10000)}万` : v >= 10000 ? `${(v / 10000).toFixed(1)}万` : Math.round(v).toLocaleString("ja-JP");
+
+async function renderLongterm() {
+  let LT;
+  try { LT = await (await fetch("data/longterm.json", { cache: "no-cache" })).json(); } catch (e) { return; }
+  const colors = ["var(--s1)", "var(--s2)"];
+
+  const op = LT.opinion;
+  $("opinion").innerHTML = op.charts.map((c) => {
+    const keys = Object.keys(c.old);
+    const all = keys.flatMap((k) => [...c.old[k], ...(c.new[k] || [])]);
+    const x0 = Math.floor(Math.min(...all.map((p) => p[0])));
+    const x1 = Math.ceil(Math.max(...all.map((p) => p[0])));
+    const series = keys.map((k, i) => ({ name: k, color: colors[i], segments: [c.old[k], c.new[k] || []] }));
+    const last = keys.map((k, i) => { const p = (c.new[k] || c.old[k]).at(-1); return `<span style="--c:${colors[i]}">${esc(k)} ${p[1]}%</span>`; }).join("");
+    const ticks = []; for (let t = Math.ceil(x0 / 10) * 10; t <= x1; t += 10) ticks.push(t);
+    return `<div class="card"><h3>${esc(c.title)}</h3><p class="sub">${x0}年から${x1 - 1}年までの回答の割合</p>
+      <div class="legend">${last}</div>
+      ${lineChart({ series, x0, x1, y0: 0, y1: 80, yFmt: (v) => v + "%", xTicks: ticks, gapAt: 2020 })}</div>`;
+  }).join("");
+  $("opinionCite").innerHTML = `${esc(op.note)} 出典: <a href="${esc(op.source_url)}" target="_blank" rel="noopener">${esc(op.source)}</a>（当サイトで加工）`;
+
+  const kk = LT.kakei;
+  const items = kk.items.map((it) => {
+    const p0 = it.points[0], p1 = it.points.at(-1);
+    return { ...it, p0, p1, change: (p1[1] / p0[1] - 1) * 100 };
+  });
+  const [total, ...rest] = items;
+  rest.sort((a, b) => b.change - a.change);
+  $("kakeiLead").textContent = `${kk.unit}。最初の年から最新の年までに増えた順に並べています。物価の変化は補正していません。`;
+  $("kakei").innerHTML = [total, ...rest].map((it, idx) => {
+    const ys = it.points.map((p) => p[1]);
+    const max = Math.max(...ys) * 1.05;
+    const cls = it.change >= 0 ? "up" : "down";
+    const sign = it.change >= 0 ? "+" : "−";
+    return `<div class="card"><h3>${esc(it.name)}</h3>
+      <div class="figure"><span>${it.p0[0]}年 ${yen(it.p0[1])}円 から</span><span class="${cls}">${sign}${Math.abs(it.change).toFixed(0)}%</span></div>
+      ${lineChart({ series: [{ name: it.name, color: idx === 0 ? "var(--text)" : (it.change >= 0 ? colors[0] : colors[1]), segments: [it.points] }], x0: it.p0[0], x1: it.p1[0], y0: 0, y1: max, w: 260, h: 100, yLabels: false, xTicks: [it.p0[0], it.p1[0]] })}
+      <div class="figure"><span>${it.p1[0]}年</span><b>${yen(it.p1[1])}円</b></div></div>`;
+  }).join("");
+  $("kakeiCite").innerHTML = `2018年に家計簿の様式が変わったため、その前後で値に段差が出ている品目があります。携帯電話通信料、新聞、喫茶代は2015年からの値です。出典: <a href="${esc(kk.source_url)}" target="_blank" rel="noopener">${esc(kk.source)}</a>（当サイトで加工）`;
+  $("longterm").hidden = false;
+}
+
 main();
+renderLongterm();
 </script>
 </body>
 </html>

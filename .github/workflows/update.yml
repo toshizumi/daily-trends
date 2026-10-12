@@ -16,12 +16,18 @@ jobs:
   update:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-python@v5
+      - uses: actions/checkout@v5
+      - uses: actions/setup-python@v6
         with:
           python-version: "3.12"
       - name: トレンドを集める
         run: python scripts/collect.py
+      - name: 長期データを取り直す（毎月1日と手動実行のとき）
+        continue-on-error: true
+        run: |
+          if [ "$(TZ=Asia/Tokyo date +%d)" = "01" ] || [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
+            python scripts/longterm.py
+          fi
       - name: データをコミットする
         run: |
           git config user.name "github-actions[bot]"
