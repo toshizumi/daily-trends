@@ -82,10 +82,13 @@ def kakei() -> dict:
             raise ValueError(f"家計調査の長期表に「{name}」がありません")
         items.append({"name": label, "points": [[y, _num(v)] for y, v in zip(years, vals) if y and _num(v) is not None]})
 
+    long_last = max(y for y in years if y)
     detail: dict[str, dict[int, float]] = {code: {} for _, code in DETAIL_ITEMS}
+    detail_last = 0
     for sid in KAKEI_DETAIL:
         rows = _csv_rows(fetch(ESTAT.format(sid)))
         ys = [_year(c) for c in rows[1][8:]]
+        detail_last = max([detail_last] + [y for y in ys if y])
         for r in rows[3:]:
             if len(r) > 8 and r[6] in detail:
                 for y, v in zip(ys, r[8:]):
@@ -99,6 +102,9 @@ def kakei() -> dict:
         need = 20 if i < len(LONG_ITEMS) else 10
         if len(it["points"]) < need:
             raise ValueError(f"家計調査「{it['name']}」の年数が {len(it['points'])} 年しかありません（{need} 年以上のはず）")
+        last = long_last if i < len(LONG_ITEMS) else detail_last
+        if it["points"][-1][0] != last:
+            raise ValueError(f"家計調査「{it['name']}」に {last} 年の値がありません")
     return {
         "unit": "円（1世帯あたりの年間支出、二人以上の世帯）",
         "items": items,
