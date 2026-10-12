@@ -1,0 +1,307 @@
+<!doctype html>
+<html lang="ja">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>今日のトレンド</title>
+<meta name="description" content="Googleトレンド、Xのトレンド、はてなブックマーク、Wikipediaの閲覧数を毎朝まとめたページ">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'><rect width='32' height='32' rx='7' fill='%23222'/><path d='M7 21l6-6 4 4 8-8' stroke='%23fff' stroke-width='3' fill='none' stroke-linecap='round' stroke-linejoin='round'/></svg>">
+<style>
+:root {
+  --bg: #fbfbfa;
+  --surface: #ffffff;
+  --text: #1d1d1f;
+  --muted: #6e6e73;
+  --faint: #a1a1a6;
+  --line: #e8e8ea;
+  --accent: #0a66d8;
+  --dot: #d7d7db;
+  --dot-on: #1d1d1f;
+  --bar: #eef1f5;
+}
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg: #111112;
+    --surface: #1a1a1c;
+    --text: #f2f2f4;
+    --muted: #9d9da3;
+    --faint: #6a6a70;
+    --line: #2a2a2e;
+    --accent: #5aa2ff;
+    --dot: #3a3a3f;
+    --dot-on: #f2f2f4;
+    --bar: #24272c;
+  }
+}
+* { box-sizing: border-box; }
+html { -webkit-text-size-adjust: 100%; }
+body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--text);
+  font: 15px/1.6 -apple-system, BlinkMacSystemFont, "Hiragino Sans", "Noto Sans JP", "Yu Gothic UI", sans-serif;
+  font-feature-settings: "palt";
+}
+a { color: inherit; text-decoration: none; }
+a:hover { color: var(--accent); }
+.wrap { max-width: 1120px; margin: 0 auto; padding: 40px 24px 80px; }
+
+header { display: flex; flex-wrap: wrap; align-items: baseline; gap: 4px 16px; margin-bottom: 40px; }
+h1 { font-size: 28px; line-height: 1.2; margin: 0; letter-spacing: .01em; }
+.meta { color: var(--muted); font-size: 13px; }
+
+section { margin-bottom: 56px; }
+h2 { font-size: 13px; font-weight: 600; color: var(--muted); letter-spacing: .08em; margin: 0 0 16px; }
+.sectionhead { display: flex; align-items: center; justify-content: space-between; gap: 12px; margin-bottom: 16px; }
+.sectionhead h2 { margin: 0; }
+
+.grid { display: grid; gap: 16px; grid-template-columns: repeat(3, minmax(0, 1fr)); }
+.grid.two { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+@media (max-width: 900px) { .grid, .grid.two { grid-template-columns: 1fr; } }
+
+.card { background: var(--surface); border: 1px solid var(--line); border-radius: 14px; padding: 18px 18px 8px; min-width: 0; }
+.card h3 { font-size: 15px; margin: 0 0 2px; }
+.card .sub { color: var(--muted); font-size: 12px; margin: 0 0 10px; }
+
+ol { list-style: none; margin: 0; padding: 0; }
+li { display: grid; grid-template-columns: 22px minmax(0, 1fr) auto; gap: 8px; align-items: baseline; padding: 9px 0; border-top: 1px solid var(--line); }
+li:first-child { border-top: 0; }
+.rank { color: var(--faint); font-size: 12px; font-variant-numeric: tabular-nums; text-align: right; }
+.main { min-width: 0; }
+.term { font-weight: 600; overflow-wrap: anywhere; }
+.note { display: block; color: var(--muted); font-size: 12px; line-height: 1.5; margin-top: 2px; overflow: hidden; text-overflow: ellipsis; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; }
+.num { color: var(--muted); font-size: 12px; font-variant-numeric: tabular-nums; white-space: nowrap; }
+.title { overflow-wrap: anywhere; }
+.clamp { display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
+
+.more { display: block; width: 100%; background: none; border: 0; border-top: 1px solid var(--line); color: var(--muted); font: inherit; font-size: 12px; padding: 10px 0; cursor: pointer; }
+.more:hover { color: var(--accent); }
+
+.seg { display: inline-flex; background: var(--line); border-radius: 9px; padding: 2px; }
+.seg button { border: 0; background: none; color: var(--muted); font: inherit; font-size: 13px; padding: 5px 14px; border-radius: 7px; cursor: pointer; }
+.seg button[aria-pressed="true"] { background: var(--surface); color: var(--text); box-shadow: 0 1px 2px rgba(0,0,0,.12); }
+
+.dots { display: flex; gap: 2px; margin-top: 6px; flex-wrap: wrap; }
+.dots i { width: 6px; height: 6px; border-radius: 2px; background: var(--dot); }
+.dots i.on { background: var(--dot-on); }
+.dots.dense i { width: 3px; }
+
+.barrow { position: relative; }
+.barrow .bar { position: absolute; inset: 3px auto 3px 0; background: var(--bar); border-radius: 4px; z-index: 0; }
+.barrow > * { position: relative; z-index: 1; }
+
+.empty { color: var(--muted); font-size: 13px; padding: 12px 0 18px; }
+.err { color: #c4472b; font-size: 12px; margin: 0 0 8px; }
+footer { color: var(--faint); font-size: 12px; border-top: 1px solid var(--line); padding-top: 20px; }
+footer a { text-decoration: underline; }
+
+@media (max-width: 600px) {
+  .wrap { padding: 28px 16px 64px; }
+  h1 { font-size: 24px; }
+  .sectionhead { flex-wrap: wrap; }
+}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <h1>今日のトレンド</h1>
+    <span class="meta" id="updated">読み込み中…</span>
+  </header>
+
+  <section>
+    <h2>いま話題になっていること</h2>
+    <div class="grid">
+      <div class="card">
+        <h3>Google 急上昇ワード</h3>
+        <p class="sub">日本でここ1日に検索が急に増えた言葉</p>
+        <div id="google"></div>
+      </div>
+      <div class="card">
+        <h3>X のトレンド</h3>
+        <p class="sub">過去24時間で、トレンド入りしていた時間の長い順</p>
+        <div id="x"></div>
+      </div>
+      <div class="card">
+        <h3>はてなブックマーク</h3>
+        <p class="sub">人気エントリー（総合）</p>
+        <div id="hatena"></div>
+      </div>
+    </div>
+  </section>
+
+  <section>
+    <h2>Wikipedia でよく読まれている記事</h2>
+    <div class="grid two">
+      <div class="card">
+        <h3>直近の1日でよく読まれた記事</h3>
+        <p class="sub" id="wikiDate"></p>
+        <div id="wikiDay"></div>
+      </div>
+      <div class="card">
+        <h3>最近急に読まれ始めた記事</h3>
+        <p class="sub">直近7日の1日平均閲覧数を、その前の23日と比べています</p>
+        <div id="wikiRising"></div>
+      </div>
+    </div>
+  </section>
+
+  <section>
+    <div class="sectionhead">
+      <h2>ここ数か月の流れ</h2>
+      <div class="seg" role="group" aria-label="期間">
+        <button type="button" data-w="7">7日</button>
+        <button type="button" data-w="30" aria-pressed="true">30日</button>
+        <button type="button" data-w="90">90日</button>
+      </div>
+    </div>
+    <div class="grid two">
+      <div class="card">
+        <h3>くり返し話題になった言葉</h3>
+        <p class="sub" id="recurringSub">Google と X のトレンドに登場した日数の多い順</p>
+        <div id="recurring"></div>
+      </div>
+      <div class="card">
+        <h3>期間中によく読まれた Wikipedia 記事</h3>
+        <p class="sub" id="wikiWinSub"></p>
+        <div id="wikiWin"></div>
+      </div>
+    </div>
+  </section>
+
+  <footer>
+    毎朝6時ごろ（日本時間）に自動で更新しています。出典:
+    <a href="https://trends.google.co.jp/trending?geo=JP">Google トレンド</a>、
+    <a href="https://trends24.in/japan/">trends24.in</a>（X のトレンド）、
+    <a href="https://b.hatena.ne.jp/hotentry/all">はてなブックマーク</a>、
+    <a href="https://wikitech.wikimedia.org/wiki/Analytics/AQS/Pageviews">Wikimedia Pageviews API</a>
+  </footer>
+</div>
+
+<script>
+const $ = (id) => document.getElementById(id);
+const esc = (s) => String(s ?? "").replace(/[&<>"']/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
+const fmt = (n) => n >= 10000 ? (n / 10000).toFixed(n >= 100000 ? 0 : 1) + "万" : n.toLocaleString("ja-JP");
+const wikiUrl = (a) => "https://ja.wikipedia.org/wiki/" + encodeURIComponent(a);
+const wikiName = (a) => a.replace(/_/g, " ");
+const jaDate = (iso) => { const d = new Date(iso + (iso.length === 10 ? "T00:00:00+09:00" : "")); return `${d.getMonth() + 1}月${d.getDate()}日`; };
+
+// 長い一覧は最初の件数だけ見せて、残りは「さらに表示」で開く
+function list(el, rows, limit = 10) {
+  if (!rows.length) { el.innerHTML = `<p class="empty">データがありません</p>`; return; }
+  const render = (n) => {
+    el.innerHTML = `<ol>${rows.slice(0, n).map((r, i) => `<li class="${r.cls || ""}">${r.bar != null ? `<span class="bar" style="width:${r.bar}%"></span>` : ""}<span class="rank">${i + 1}</span><span class="main">${r.main}</span><span class="num">${r.num ?? ""}</span></li>`).join("")}</ol>`;
+    if (rows.length > n) {
+      const b = document.createElement("button");
+      b.className = "more"; b.type = "button";
+      b.textContent = `さらに${rows.length - n}件を表示`;
+      b.onclick = () => render(rows.length);
+      el.appendChild(b);
+    }
+  };
+  render(limit);
+}
+
+function dots(dates, days, endIso) {
+  const set = new Set(dates);
+  const end = new Date(endIso + "T00:00:00+09:00");
+  let html = "";
+  for (let i = days - 1; i >= 0; i--) {
+    const d = new Date(end.getTime() - i * 864e5);
+    const iso = new Date(d.getTime() + 9 * 36e5).toISOString().slice(0, 10);
+    html += `<i class="${set.has(iso) ? "on" : ""}"></i>`;
+  }
+  return `<span class="dots ${days > 30 ? "dense" : ""}" aria-hidden="true">${html}</span>`;
+}
+
+let DATA;
+
+function renderWindow(w) {
+  document.querySelectorAll(".seg button").forEach((b) => b.setAttribute("aria-pressed", b.dataset.w === String(w)));
+  const win = DATA.windows[w];
+  const today = DATA.today.date;
+
+  const rec = win.recurring;
+  $("recurringSub").textContent = DATA.history_days < w
+    ? `Google と X のトレンドに登場した日数の多い順。記録は${jaDate(DATA.history_since)}から始めたので、いまは${DATA.history_days}日分です。`
+    : "Google と X のトレンドに登場した日数の多い順";
+  if (!rec.length) {
+    $("recurring").innerHTML = `<p class="empty">2日以上トレンドに入った言葉はまだありません。毎日の記録がたまると、ここに表示されます。</p>`;
+  } else {
+    list($("recurring"), rec.map((r) => ({
+      main: `<a class="term" href="https://www.google.com/search?q=${encodeURIComponent(r.term)}" target="_blank" rel="noopener">${esc(r.term)}</a>${dots(r.dates, Number(w), today)}`,
+      num: `${r.days}日`,
+    })));
+  }
+
+  const ww = win.wiki;
+  $("wikiWinSub").textContent = `${jaDate(DATA.wiki_date)}までの${w}日間の閲覧数の合計（データがあるのは${ww.covered_days}日分）`;
+  const max = ww.articles[0]?.views || 1;
+  list($("wikiWin"), ww.articles.map((a) => ({
+    cls: "barrow", bar: Math.max(2, (a.views / max) * 100),
+    main: `<a class="title" href="${wikiUrl(a.article)}" target="_blank" rel="noopener">${esc(wikiName(a.article))}</a>`,
+    num: fmt(a.views),
+  })));
+  try { localStorage.setItem("window", w); } catch (e) {}
+}
+
+async function main() {
+  try {
+    DATA = await (await fetch("data/latest.json", { cache: "no-cache" })).json();
+  } catch (e) {
+    $("updated").textContent = "データを読み込めませんでした。時間をおいて再読み込みしてください。";
+    return;
+  }
+  const t = DATA.today;
+  const at = new Date(t.collected_at);
+  $("updated").textContent = `${at.getMonth() + 1}月${at.getDate()}日 ${at.getHours()}:${String(at.getMinutes()).padStart(2, "0")} に更新`;
+
+  const errNote = (name) => {
+    if (!t.errors?.[name]) return "";
+    const kept = t.kept_from?.[name];
+    const when = kept ? (() => { const d = new Date(kept); return `${d.getHours()}:${String(d.getMinutes()).padStart(2, "0")}`; })() : "";
+    return `<p class="err">今回は取得に失敗しました${kept ? `。${when}に取得した結果を表示しています` : ""}（${esc(t.errors[name])}）</p>`;
+  };
+
+  list($("google"), (t.google || []).map((g) => ({
+    main: `<a class="term" href="https://www.google.com/search?q=${encodeURIComponent(g.term)}" target="_blank" rel="noopener">${esc(g.term)}</a>`
+      + (g.news_title ? `<a class="note" href="${esc(g.news_url)}" target="_blank" rel="noopener">${esc(g.news_title)}${g.news_source ? `（${esc(g.news_source)}）` : ""}</a>` : ""),
+    num: g.traffic ? `${esc(g.traffic)}件` : "",
+  })));
+  $("google").insertAdjacentHTML("afterbegin", errNote("google"));
+
+  list($("x"), (t.x || []).map((x) => ({
+    main: `<a class="term" href="${esc(x.url)}" target="_blank" rel="noopener">${esc(x.term)}</a>`,
+    num: `${x.hours}時間`,
+  })));
+  $("x").insertAdjacentHTML("afterbegin", errNote("x"));
+
+  list($("hatena"), (t.hatena || []).map((h) => ({
+    main: `<a class="title clamp" href="${esc(h.url)}" title="${esc(h.title)}" target="_blank" rel="noopener">${esc(h.title)}</a>`,
+    num: `${h.users} users`,
+  })));
+  $("hatena").insertAdjacentHTML("afterbegin", errNote("hatena"));
+
+  $("wikiDate").textContent = DATA.wiki_date ? `${jaDate(DATA.wiki_date)}の閲覧数（Wikipedia の集計は2〜3日遅れて公開されます）` : "";
+  const dmax = DATA.wiki_yesterday[0]?.views || 1;
+  list($("wikiDay"), DATA.wiki_yesterday.map((a) => ({
+    cls: "barrow", bar: Math.max(2, (a.views / dmax) * 100),
+    main: `<a class="title" href="${wikiUrl(a.article)}" target="_blank" rel="noopener">${esc(wikiName(a.article))}</a>`,
+    num: fmt(a.views),
+  })));
+
+  list($("wikiRising"), DATA.wiki_rising.map((a) => ({
+    main: `<a class="title" href="${wikiUrl(a.article)}" target="_blank" rel="noopener">${esc(wikiName(a.article))}</a>`
+      + `<span class="note">1日平均 ${fmt(a.recent_avg)} 回${a.base_avg ? `（前は ${fmt(a.base_avg)} 回）` : "（前の期間はランキング外）"}</span>`,
+    num: a.ratio ? `${a.ratio}倍` : "新登場",
+  })));
+
+  document.querySelectorAll(".seg button").forEach((b) => b.addEventListener("click", () => renderWindow(b.dataset.w)));
+  let w = "30";
+  try { w = localStorage.getItem("window") || "30"; } catch (e) {}
+  renderWindow(DATA.windows[w] ? w : "30");
+}
+main();
+</script>
+</body>
+</html>
