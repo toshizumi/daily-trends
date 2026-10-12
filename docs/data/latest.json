@@ -1,15 +1,22 @@
 {
- "generated_at": "2026-10-12T12:36+09:00",
+ "generated_at": "2026-10-12T12:46+09:00",
  "today": {
   "date": "2026-10-12",
-  "collected_at": "2026-10-12T12:36+09:00",
+  "collected_at": "2026-10-12T12:46+09:00",
   "errors": {},
   "google": [
    {
+    "term": "マック",
+    "traffic": "10000+",
+    "news_title": "全国の日本マクドナルド店舗(一部の店舗は除く)",
+    "news_url": "https://www.mcdonalds.co.jp/company/news/2026/1008a/",
+    "news_source": "マクドナルド"
+   },
+   {
     "term": "北 朝鮮 ミサイル",
     "traffic": "5000+",
-    "news_title": "北が2度ミサイル EEZ外に落下か",
-    "news_url": "https://news.yahoo.co.jp/pickup/6598471",
+    "news_title": "【速報】北朝鮮が弾道ミサイルの可能性があるものを再び発射～防衛省",
+    "news_url": "https://news.yahoo.co.jp/pickup/6598468",
     "news_source": "Yahoo!ニュース"
    },
    {
@@ -25,13 +32,6 @@
     "news_title": "JUNONが作詞・作曲に参加！『RYUJI 竜二』×BE:FIRST主題歌コラボ映像公開（シネマトゥデイ）",
     "news_url": "https://news.yahoo.co.jp/articles/cdba3597bc6371398b4cc9dfe24b6415131f7462",
     "news_source": "Yahoo!ニュース"
-   },
-   {
-    "term": "cdtvライブライブ",
-    "traffic": "1000+",
-    "news_title": "「CDTVライブ!ライブ!」10月12日の出演者と歌唱曲一覧 Number_i、スピッツら登場",
-    "news_url": "https://www.fukuishimbun.co.jp/articles/-/2718829",
-    "news_source": "福井新聞社"
    },
    {
     "term": "ドジャース結果",
@@ -62,18 +62,18 @@
     "news_source": "Yahoo!ニュース"
    },
    {
+    "term": "nhk 受信料",
+    "traffic": "200+",
+    "news_title": "",
+    "news_url": "",
+    "news_source": ""
+   },
+   {
     "term": "ヒルナンデス",
     "traffic": "200+",
     "news_title": "M!LK塩﨑太智、ミニーに吉田仁人の“代理謝罪” ディズニー・ハロウィーンをガイド（オリコン）",
     "news_url": "https://news.yahoo.co.jp/articles/3e757c0800f41874aec5d1d559b7a3a4ba661796",
     "news_source": "Yahoo!ニュース"
-   },
-   {
-    "term": "nhk 受信料",
-    "traffic": "100+",
-    "news_title": "",
-    "news_url": "",
-    "news_source": ""
    }
   ],
   "x": [
@@ -322,72 +322,77 @@
    {
     "title": "証券口座パスキーの安全性を高めよ！”物理キー”を本格導入した話",
     "url": "https://toruoka.xyz/202610_security_key/",
-    "users": 224
+    "users": 230
    },
    {
     "title": "【仮説】ロシアのデータセンターが損傷したら起きたこと〜世界中の投稿の煽りトレンドが変わる？ - INVISIBLE Dojo.　ーQUIET & COLORFUL PLACE-",
     "url": "https://m-dojo.hatenadiary.com/entry/2026/10/12/072722",
-    "users": 97
+    "users": 101
    },
    {
     "title": "ブライアン・イーノ展（仮称） | 展覧会",
     "url": "https://www.mot-art-museum.jp/exhibitions/ENO/",
-    "users": 164
+    "users": 166
    },
    {
     "title": "【やじうまミニレビュー】 こういうのでいいんだよ……のはずだった。Amazonベーシック格安USB4ケーブル",
     "url": "https://pc.watch.impress.co.jp/docs/column/yajiuma-mini-review/2147366.html",
-    "users": 82
+    "users": 87
    },
    {
     "title": "『ドラクエ』『ポートピア』堀井雄二氏がAIを活用して作ってみたゲーム『取調室の小宮』が無料公開。制作時間「30分ほど」の推理アドベンチャー | ゲーム・エンタメ最新情報のファミ通.com",
     "url": "https://www.famitsu.com/article/202610/90698",
-    "users": 281
+    "users": 284
    },
    {
     "title": "Opus 5.5のおかげで3Dプリンターを活用できるようになった - Write and Run",
     "url": "https://diary.hatenablog.jp/entry/2026/10/11/204055",
-    "users": 90
+    "users": 97
    },
    {
     "title": "『ポートピア連続殺人事件』堀井雄二氏がAIを用いて制作した推理ゲーム『取調室の小宮』が無料公開。制作にかかった時間は“ほんの30分ほど”",
     "url": "https://news.denfaminicogamer.jp/news/261011n",
-    "users": 54
-   },
-   {
-    "title": "トランプ氏、ロシアとウクライナがエネ施設攻撃停止「合意」主張　ゼレンスキー氏「初耳」",
-    "url": "https://www.sankei.com/article/20261012-FKJGIUZY2RNUFOTYZWB43WKY7Y/",
-    "users": 99
+    "users": 55
    },
    {
     "title": "女がタバコを吸うのは必ず男の影響とは言うが、逆に男が絶対に女の影響がないとハマらないものというのがあって、それは、ちいかわ→「めじるしアクセサリーも追加で」",
     "url": "https://posfie.com/@mumimushunyu/p/kvRGj3z",
-    "users": 54
-   },
-   {
-    "title": "英国で「子宮頸がん死者ゼロ」、日本は今も年3000人…HPVワクチンを叩いたマスコミに「ペンの力で人命を奪った」と批判殺到",
-    "url": "https://posfie.com/@cashewNutsUmai/p/14SmdJp",
-    "users": 269
-   },
-   {
-    "title": "最近のBOOKOFFのこと - WASTE OF POPS 80s-90s",
-    "url": "https://www.wasteofpops.com/entry/2026/10/11/000000",
-    "users": 40
+    "users": 63
    },
    {
     "title": "Microsoft セキュリティ、これをやってください！～ 実践ベストプラクティス - Qiita",
     "url": "https://qiita.com/carol0226/items/bdb16dbd5c16a2c43ad5",
-    "users": 42
+    "users": 48
+   },
+   {
+    "title": "最近のBOOKOFFのこと - WASTE OF POPS 80s-90s",
+    "url": "https://www.wasteofpops.com/entry/2026/10/11/000000",
+    "users": 43
+   },
+   {
+    "title": "トランプ氏、ロシアとウクライナがエネ施設攻撃停止「合意」主張　ゼレンスキー氏「初耳」",
+    "url": "https://www.sankei.com/article/20261012-FKJGIUZY2RNUFOTYZWB43WKY7Y/",
+    "users": 102
+   },
+   {
+    "title": "英国で「子宮頸がん死者ゼロ」、日本は今も年3000人…HPVワクチンを叩いたマスコミに「ペンの力で人命を奪った」と批判殺到",
+    "url": "https://posfie.com/@cashewNutsUmai/p/14SmdJp",
+    "users": 276
    },
    {
     "title": "攻撃者はWebアプリのどこを狙う？ 初心者でも今すぐできるセキュリティチェックリスト - Qiita",
     "url": "https://qiita.com/Koukyosyumei/items/8aaa44ff15a3b404fd8b",
-    "users": 23
+    "users": 25
    },
    {
-    "title": "Claude Artifact",
+    "title": "取調室の小宮 - Claude Artifact",
     "url": "https://claude.ai/artifact/HgsUQQywVPG8X87dp1NWHu",
-    "users": 176
+    "users": 177
+   },
+   {
+    "title": "空前＆絶後の気候変動ムービー！？『DIGGER/ディガー』感想 - 沼の見える街",
+    "url": "https://numagasablog.com/entry/2026/10/11/183057",
+    "users": 61
    },
    {
     "title": "海外メディアの警鐘「反移民フェイクニュース」が日本経済に大打撃を与える | インフルエンサーと極右政党が誤情報を拡散",
@@ -395,29 +400,29 @@
     "users": 52
    },
    {
-    "title": "空前＆絶後の気候変動ムービー！？『DIGGER/ディガー』感想 - 沼の見える街",
-    "url": "https://numagasablog.com/entry/2026/10/11/183057",
-    "users": 60
-   },
-   {
-    "title": "なろう系作品が全く売れてないらしい",
-    "url": "https://anond.hatelabo.jp/20261011084632",
-    "users": 57
+    "title": "給食おばになって驚いたのは、給食に生野菜はNGなので副菜の和え物の具材は全てボイルかスチーム、水冷か冷却機で冷やされぺしゃんこに見えてしまうと現場の苦労を語る",
+    "url": "https://togetter.com/li/2757105",
+    "users": 49
    },
    {
     "title": "「原潜導入論」政治主導　反撃か哨戒か、目的定まらず―３文書改定へ議論曲折も：時事ドットコム",
     "url": "https://www.jiji.com/sp/article?k=2026101100225&g=pol",
-    "users": 40
+    "users": 43
    },
    {
-    "title": "給食おばになって驚いたのは、給食に生野菜はNGなので副菜の和え物の具材は全てボイルかスチーム、水冷か冷却機で冷やされぺしゃんこに見えてしまうと現場の苦労を語る",
-    "url": "https://togetter.com/li/2757105",
-    "users": 46
+    "title": "なろう系作品が全く売れてないらしい",
+    "url": "https://anond.hatelabo.jp/20261011084632",
+    "users": 58
+   },
+   {
+    "title": "MicrosoftのナデラCEO、「SIモデルは“内部リスク”として扱うべき」とXに投稿　統制はモデルの外に置くよう提言",
+    "url": "https://www.itmedia.co.jp/news/article/2610/12/2000002195/",
+    "users": 21
    },
    {
     "title": "韓国のゴマ油をカルディで買ってきた！日本のと全く違うなんて知らなかった…豚キムチの仕上げに回しかけたら香りが！コクが！レベルアップ！もう戻れない",
     "url": "https://togetter.com/li/2757025",
-    "users": 71
+    "users": 73
    },
    {
     "title": "花火で隣の人に話せばよかった",
@@ -425,19 +430,24 @@
     "users": 168
    },
    {
-    "title": "MicrosoftのナデラCEO、「SIモデルは“内部リスク”として扱うべき」とXに投稿　統制はモデルの外に置くよう提言",
-    "url": "https://www.itmedia.co.jp/news/article/2610/12/2000002195/",
-    "users": 17
-   },
-   {
     "title": "“ロシアのグーグル”に無人機攻撃　一部サービス利用できず | NHKニュース",
     "url": "https://news.web.nhk/newsweb/na/nd-20261012de58066",
-    "users": 11
+    "users": 12
    },
    {
     "title": "建国以来最長の通算１９年、イスラエル・ネタニヤフ首相の政治生命かけた正念場…２７日に総選挙",
     "url": "https://www.yomiuri.co.jp/world/20261011-GYT1T00190/",
-    "users": 32
+    "users": 33
+   },
+   {
+    "title": "インターホンが壊れてピンポン言わなくなったので修理頼んだら機械丸ままポンと変えてハイ２万円！でめげた。プロの仕事にケチ付けるとかSNSで耳目集める基礎みたいなことは言わないけど、ボタン壊れてただけなのでまず自分で修理してみて失敗して壊滅してから呼べばよかった。→「安いどうこう以前に自分でやった方が面白いですからねぇw」",
+    "url": "https://posfie.com/@petaritape/p/HCjaefq",
+    "users": 21
+   },
+   {
+    "title": "「リング」の鈴木光司さんしのぶ壮行会　参列者が貞子と記念撮影（朝日新聞） - Yahoo!ニュース",
+    "url": "https://news.yahoo.co.jp/articles/be80b01a44f4413cbe78ef6b37900a96e3dfa92e",
+    "users": 54
    },
    {
     "title": "シュレーダー元独首相、プーチン大統領の誕生日会に出席…「恥さらしだ」と独国内で批判広がる",
@@ -445,59 +455,49 @@
     "users": 38
    },
    {
-    "title": "「リング」の鈴木光司さんしのぶ壮行会　参列者が貞子と記念撮影（朝日新聞） - Yahoo!ニュース",
-    "url": "https://news.yahoo.co.jp/articles/be80b01a44f4413cbe78ef6b37900a96e3dfa92e",
-    "users": 51
+    "title": "米中間選挙「これ以上やれば共和党は負ける」…テキサス州の建設業界が警告｜トランプ2.0 現地リポート",
+    "url": "https://www.nikkan-gendai.com/articles/view/news/394055",
+    "users": 13
    },
    {
     "title": "恫喝音声の渦中に「クソみたいな質問をしてくる記者」発言…簗和生農相が今度は被災地・熊本で“記者愚弄”放言をしていた《新たな重大疑惑も発覚》（文春オンライン） - Yahoo!ニュース",
     "url": "https://news.yahoo.co.jp/articles/995a8ceda5a06a08f045d55ec33257214db43923",
-    "users": 23
-   },
-   {
-    "title": "インターホンが壊れてピンポン言わなくなったので修理頼んだら機械丸ままポンと変えてハイ２万円！でめげた。プロの仕事にケチ付けるとかSNSで耳目集める基礎みたいなことは言わないけど、ボタン壊れてただけなのでまず自分で修理してみて失敗して壊滅してから呼べばよかった。→「安いどうこう以前に自分でやった方が面白いですからねぇw」",
-    "url": "https://posfie.com/@petaritape/p/HCjaefq",
-    "users": 18
+    "users": 24
    },
    {
     "title": "「見えない隣人」　都心2割が法人所有、短期売買で価格高騰 ―マンション不都合な真実― - 日本経済新聞",
     "url": "https://www.nikkei.com/telling/DGXZTS00022280R00C26A9000000/",
-    "users": 45
+    "users": 47
    },
    {
     "title": "『無知のグルメ』くずきり回、たしかに“くずきり”と“春雨”と“ところてん”と“ナタデココ”はなんかもうよくわからなくなる",
     "url": "https://togetter.com/li/2757128",
-    "users": 18
+    "users": 19
    },
    {
     "title": "京都新聞「社主家支配と持ち株会社の闇」に立ち向かった男たちの記憶",
     "url": "https://gendai.media/articles/-/171491",
-    "users": 7
-   },
-   {
-    "title": "米中間選挙「これ以上やれば共和党は負ける」…テキサス州の建設業界が警告｜トランプ2.0 現地リポート",
-    "url": "https://www.nikkan-gendai.com/articles/view/news/394055",
-    "users": 11
-   },
-   {
-    "title": "アフリカ・ナイジェリアで養蜂を普及させようとしたが村の農家に「ミツバチに自分の作物の蜜を吸われると、果物の甘みがなくなるから嫌だ」と断られた話",
-    "url": "https://togetter.com/li/2756932",
-    "users": 65
-   },
-   {
-    "title": "ポーランド首相暗殺計画か　治安当局の緊急会議招集 | NEWSjp",
-    "url": "https://news.jp/i/1481991986102240145",
-    "users": 14
+    "users": 8
    },
    {
     "title": "世界で発生するがん症例全体の約12％は感染症が原因である可能性が高いことがWHOの研究で示される",
     "url": "https://gigazine.net/news/20261010-cancers-infection/",
-    "users": 21
+    "users": 22
    },
    {
-    "title": "「AIに指示するだけでひとりでそこそこのゲームが作れてしまいます」ゲームクリエイター・堀井雄二氏がAIを使い30分ほどでゲームを作成し、様々な反応が寄せられる",
-    "url": "https://togetter.com/li/2756939",
-    "users": 229
+    "title": "アフリカ・ナイジェリアで養蜂を普及させようとしたが村の農家に「ミツバチに自分の作物の蜜を吸われると、果物の甘みがなくなるから嫌だ」と断られた話",
+    "url": "https://togetter.com/li/2756932",
+    "users": 66
+   },
+   {
+    "title": "ポーランド首相暗殺計画か　治安当局の緊急会議招集 | NEWSjp",
+    "url": "https://news.jp/i/1481991986102240145",
+    "users": 15
+   },
+   {
+    "title": "北朝鮮 相次ぎ“弾道ミサイル”発射 いずれもEEZ外に落下か | NHKニュース",
+    "url": "https://news.web.nhk/newsweb/na/nd-20261012de58077",
+    "users": 6
    },
    {
     "title": "トランプ氏「露とウクライナでエネルギー停戦」、互いに施設攻撃せず…ゼレンスキー氏「初耳」・露対応不明",
@@ -505,19 +505,19 @@
     "users": 18
    },
    {
-    "title": "北朝鮮が韓国との境界付近を「要塞化」？いったい何が | NHKニュース",
-    "url": "https://news.web.nhk/newsweb/na/nd-20261011de57841",
+    "title": "「AIに指示するだけでひとりでそこそこのゲームが作れてしまいます」ゲームクリエイター・堀井雄二氏がAIを使い30分ほどでゲームを作成し、様々な反応が寄せられる",
+    "url": "https://togetter.com/li/2756939",
+    "users": 231
+   },
+   {
+    "title": "個人情報の流出にユーザーはどう備える？　乗っ取りやクレカ不正利用を防ぐ「3段階」の対策ガイド",
+    "url": "https://www.itmedia.co.jp/mobile/articles/2610/12/news011.html",
     "users": 8
    },
    {
-    "title": "東京の水害対策｢ためる｣から｢流す｣へ　環七地下の調節池結び巨大河川 - 日本経済新聞",
-    "url": "https://www.nikkei.com/article/DGXZQOCC054AU0V01C26A0000000/",
-    "users": 41
-   },
-   {
-    "title": "ロシアIT大手のデータセンターに3回目の無人機攻撃 稼働停止",
-    "url": "https://www.afpbb.com/articles/-/3657054",
-    "users": 76
+    "title": "母親のショートステイ施設に持っていった良い感じのバスタオルが紛失、代わりに雑巾みたいな見たこともないタオルにマジックで苗字が書かれていた…自衛も必要と痛感した",
+    "url": "https://togetter.com/li/2757083",
+    "users": 51
    }
   ]
  },
@@ -659,17 +659,6 @@
     },
     {
      "term": "萩原利久",
-     "days": 2,
-     "sources": [
-      "google"
-     ],
-     "dates": [
-      "2026-10-10",
-      "2026-10-12"
-     ]
-    },
-    {
-     "term": "cdtvライブライブ",
      "days": 2,
      "sources": [
       "google"
@@ -956,6 +945,17 @@
     },
     {
      "term": "フラーフェンベルフ",
+     "days": 2,
+     "sources": [
+      "x"
+     ],
+     "dates": [
+      "2026-10-10",
+      "2026-10-12"
+     ]
+    },
+    {
+     "term": "アラウホ",
      "days": 2,
      "sources": [
       "x"
@@ -1128,17 +1128,6 @@
      ]
     },
     {
-     "term": "cdtvライブライブ",
-     "days": 2,
-     "sources": [
-      "google"
-     ],
-     "dates": [
-      "2026-10-10",
-      "2026-10-12"
-     ]
-    },
-    {
      "term": "ドジャース結果",
      "days": 2,
      "sources": [
@@ -1415,6 +1404,17 @@
     },
     {
      "term": "フラーフェンベルフ",
+     "days": 2,
+     "sources": [
+      "x"
+     ],
+     "dates": [
+      "2026-10-10",
+      "2026-10-12"
+     ]
+    },
+    {
+     "term": "アラウホ",
      "days": 2,
      "sources": [
       "x"
@@ -1587,17 +1587,6 @@
      ]
     },
     {
-     "term": "cdtvライブライブ",
-     "days": 2,
-     "sources": [
-      "google"
-     ],
-     "dates": [
-      "2026-10-10",
-      "2026-10-12"
-     ]
-    },
-    {
      "term": "ドジャース結果",
      "days": 2,
      "sources": [
@@ -1874,6 +1863,17 @@
     },
     {
      "term": "フラーフェンベルフ",
+     "days": 2,
+     "sources": [
+      "x"
+     ],
+     "dates": [
+      "2026-10-10",
+      "2026-10-12"
+     ]
+    },
+    {
+     "term": "アラウホ",
      "days": 2,
      "sources": [
       "x"
