@@ -81,8 +81,6 @@ def kakei() -> dict:
         if not vals:
             raise ValueError(f"家計調査の長期表に「{name}」がありません")
         items.append({"name": label, "points": [[y, _num(v)] for y, v in zip(years, vals) if y and _num(v) is not None]})
-    if len(items[0]["points"]) < 20:
-        raise ValueError("家計調査の長期表の年数が少なすぎます")
 
     detail: dict[str, dict[int, float]] = {code: {} for _, code in DETAIL_ITEMS}
     for sid in KAKEI_DETAIL:
@@ -94,9 +92,13 @@ def kakei() -> dict:
                     if y and _num(v) is not None:
                         detail[r[6]][y] = _num(v)
     for label, code in DETAIL_ITEMS:
-        pts = sorted(detail[code].items())
-        if pts:
-            items.append({"name": label, "points": [[y, v] for y, v in pts]})
+        items.append({"name": label, "points": [[y, v] for y, v in sorted(detail[code].items())]})
+    # 取得元の形が変わって一部の品目が欠けたまま保存しないよう、全品目の年数を確かめる
+    # 長期表は2000年から、品目分類の年次表は2015年からなので、基準の年数を分ける
+    for i, it in enumerate(items):
+        need = 20 if i < len(LONG_ITEMS) else 10
+        if len(it["points"]) < need:
+            raise ValueError(f"家計調査「{it['name']}」の年数が {len(it['points'])} 年しかありません（{need} 年以上のはず）")
     return {
         "unit": "円（1世帯あたりの年間支出、二人以上の世帯）",
         "items": items,

@@ -52,7 +52,11 @@ a { color: inherit; text-decoration: none; }
 a:hover { color: var(--accent); }
 .wrap { max-width: 1120px; margin: 0 auto; padding: 40px 24px 80px; }
 
-header { display: flex; flex-wrap: wrap; align-items: baseline; gap: 4px 16px; margin-bottom: 40px; }
+header { display: flex; flex-wrap: wrap; align-items: baseline; gap: 4px 16px; margin-bottom: 20px; }
+.tabs { display: flex; gap: 24px; border-bottom: 1px solid var(--line); margin-bottom: 36px; }
+.tabs a { padding: 8px 0 10px; color: var(--muted); font-size: 14px; font-weight: 600; border-bottom: 2px solid transparent; margin-bottom: -1px; }
+.tabs a:hover { color: var(--text); }
+.tabs a[aria-current="page"] { color: var(--text); border-bottom-color: var(--text); }
 h1 { font-size: 28px; line-height: 1.2; margin: 0; letter-spacing: .01em; }
 .meta { color: var(--muted); font-size: 13px; }
 
@@ -130,6 +134,13 @@ footer a { text-decoration: underline; }
     <span class="meta" id="updated">読み込み中…</span>
   </header>
 
+  <nav class="tabs" aria-label="表示の切り替え">
+    <a href="#daily" data-tab="daily">毎日のトレンド</a>
+    <a href="#longterm" data-tab="longterm">数十年単位の流れ</a>
+  </nav>
+
+  <div id="tab-daily">
+
   <section>
     <h2>いま話題になっていること</h2>
     <div class="grid">
@@ -190,9 +201,11 @@ footer a { text-decoration: underline; }
     </div>
   </section>
 
-  <section id="longterm" hidden>
-    <h2>数十年単位の流れ</h2>
-    <p class="lead">暮らしの意識と、家計の使いみちの移り変わりです。どちらも年に1回の調査です。</p>
+  </div>
+
+  <div id="tab-longterm" hidden>
+  <section>
+    <p class="lead" style="margin-top:0">暮らしの意識と、家計の使いみちの移り変わりです。どちらも年に1回の調査です。</p>
     <div class="grid" id="opinion"></div>
     <p class="cite" id="opinionCite"></p>
     <h3 style="font-size:15px;margin:32px 0 4px">家計の使いみち</h3>
@@ -200,6 +213,7 @@ footer a { text-decoration: underline; }
     <div class="small" id="kakei"></div>
     <p class="cite" id="kakeiCite"></p>
   </section>
+  </div>
 
   <footer>
     毎朝6時ごろ（日本時間）に自動で更新しています。出典:
@@ -398,8 +412,20 @@ async function renderLongterm() {
       <div class="figure"><span>${it.p1[0]}年</span><b>${yen(it.p1[1])}円</b></div></div>`;
   }).join("");
   $("kakeiCite").innerHTML = `2018年に家計簿の様式が変わったため、その前後で値に段差が出ている品目があります。携帯電話通信料、新聞、喫茶代は2015年からの値です。出典: <a href="${esc(kk.source_url)}" target="_blank" rel="noopener">${esc(kk.source)}</a>（当サイトで加工）`;
-  $("longterm").hidden = false;
 }
+
+// タブは URL の # で覚えておく（再読み込みや共有しても同じタブが開く）
+function showTab() {
+  const tab = location.hash === "#longterm" ? "longterm" : "daily";
+  $("tab-daily").hidden = tab !== "daily";
+  $("tab-longterm").hidden = tab !== "longterm";
+  document.querySelectorAll(".tabs a").forEach((a) => {
+    if (a.dataset.tab === tab) a.setAttribute("aria-current", "page");
+    else a.removeAttribute("aria-current");
+  });
+}
+window.addEventListener("hashchange", () => { showTab(); window.scrollTo(0, 0); });
+showTab();
 
 main();
 renderLongterm();
