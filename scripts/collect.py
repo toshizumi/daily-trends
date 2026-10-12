@@ -328,7 +328,8 @@ def main() -> None:
             day = now.date() - dt.timedelta(days=back)
             ok = save_wiki(day)
             print(f"wiki {day}: {'ok' if ok else 'not yet'}")
-    if not args.no_collect:
+    # 過去分を取り直すときは、朝に取った当日分を上書きしない
+    if not args.no_collect and not args.backfill_wiki:
         collect_today(now)
     build_latest(now)
 
