@@ -1,0 +1,521 @@
+{
+ "date": "2026-10-13",
+ "collected_at": "2026-10-13T11:28+09:00",
+ "errors": {},
+ "google": [
+  {
+   "term": "大谷",
+   "traffic": "50000+",
+   "news_title": "ドジャースは０勝２敗。そこからワールドシリーズ進出は15％。０勝４敗のスウィープ敗退のほうが多く…（宇根夏樹） - エキスパート",
+   "news_url": "https://news.yahoo.co.jp/expert/articles/9056b03d7b1e7076ac9cef990240f0783781464e",
+   "news_source": "Yahoo!ニュース"
+  },
+  {
+   "term": "望月 祐治 vivant",
+   "traffic": "2000+",
+   "news_title": "昨年急逝の41歳俳優が「VIVANT」に出演していた…「あなたの事忘れない」共演者が悼む（日刊スポーツ）",
+   "news_url": "https://news.yahoo.co.jp/articles/7e8bb477bd08d204e88659b8370f57757b68265e",
+   "news_source": "Yahoo!ニュース"
+  },
+  {
+   "term": "金価格",
+   "traffic": "1000+",
+   "news_title": "NY金：反落で4,192.82ドル、原油高に連れたドル高と金利先高観が重しに(フィスコ)",
+   "news_url": "https://finance.yahoo.co.jp/news/detail/4db1407a206ea502c5736bf5860ad57026934d01",
+   "news_source": "Yahoo!ファイナンス"
+  },
+  {
+   "term": "井上 貴博",
+   "traffic": "500+",
+   "news_title": "「言う必要ない」自民・田村氏が簗農水相発言を追及 無料シャトルバスは「会場費」と簗氏（産経新聞）",
+   "news_url": "https://news.yahoo.co.jp/articles/59248d26a453654762423300f27d318f39bfe19e",
+   "news_source": "Yahoo!ニュース"
+  },
+  {
+   "term": "プルデンシャル ファイナンシャル",
+   "traffic": "500+",
+   "news_title": "プルデンシャル、｢坂口さんの死ですべて変わった｣ 失った創業の精神",
+   "news_url": "https://www.nikkei.com/article/DGXZQOUB284P50Y6A920C2000000/",
+   "news_source": "日本経済新聞"
+  },
+  {
+   "term": "アンソロピック",
+   "traffic": "200+",
+   "news_title": "NTTがアンソロピック向けデータセンター 日本初、大阪で開設へ",
+   "news_url": "https://www.nikkei.com/article/DGXZQOUC059W20V01C26A0000000/",
+   "news_source": "日本経済新聞"
+  },
+  {
+   "term": "トークサバイバー",
+   "traffic": "200+",
+   "news_title": "千鳥『トークサバイバー』参戦芸人たちが一挙解禁 ドラマパートも豪華布陣",
+   "news_url": "https://www.oricon.co.jp/news/2485996/full/",
+   "news_source": "オリコンニュース"
+  },
+  {
+   "term": "gdo",
+   "traffic": "200+",
+   "news_title": "300yd超ビッグドライブも 岩井明愛の2年ぶり国内Vを支えた「信頼して心強い」14本",
+   "news_url": "https://news.golfdigest.co.jp/news/winnersbag/jlpga/article/195975/1/",
+   "news_source": "GDOゴルフニュース"
+  },
+  {
+   "term": "アイザック・ハジャー",
+   "traffic": "200+",
+   "news_title": "ハジャー、トラブル続きの土曜日を経て、ピットレーンスタートから10位入賞「今日は好調。最後尾からの追い上げを楽しんだ」",
+   "news_url": "https://news.yahoo.co.jp/articles/e77db6d156d3c9a69e51c467ff37144f0da68464",
+   "news_source": "Yahoo!ニュース"
+  },
+  {
+   "term": "菅野智之",
+   "traffic": "200+",
+   "news_title": "",
+   "news_url": "",
+   "news_source": ""
+  }
+ ],
+ "x": [
+  {
+   "term": "ジミンちゃん",
+   "hours": 17,
+   "best_rank": 7,
+   "url": "https://x.com/search?q=%E3%82%B8%E3%83%9F%E3%83%B3%E3%81%A1%E3%82%83%E3%82%93"
+  },
+  {
+   "term": "めめおかえり",
+   "hours": 15,
+   "best_rank": 12,
+   "url": "https://x.com/search?q=%E3%82%81%E3%82%81%E3%81%8A%E3%81%8B%E3%81%88%E3%82%8A"
+  },
+  {
+   "term": "進藤先生",
+   "hours": 14,
+   "best_rank": 1,
+   "url": "https://x.com/search?q=%E9%80%B2%E8%97%A4%E5%85%88%E7%94%9F"
+  },
+  {
+   "term": "zeta",
+   "hours": 14,
+   "best_rank": 3,
+   "url": "https://x.com/search?q=zeta"
+  },
+  {
+   "term": "ロックスター様",
+   "hours": 14,
+   "best_rank": 16,
+   "url": "https://x.com/search?q=%E3%83%AD%E3%83%83%E3%82%AF%E3%82%B9%E3%82%BF%E3%83%BC%E6%A7%98"
+  },
+  {
+   "term": "#HappyJiminDay",
+   "hours": 13,
+   "best_rank": 2,
+   "url": "https://x.com/search?q=%23HappyJiminDay"
+  },
+  {
+   "term": "バッタマン",
+   "hours": 12,
+   "best_rank": 3,
+   "url": "https://x.com/search?q=%E3%83%90%E3%83%83%E3%82%BF%E3%83%9E%E3%83%B3"
+  },
+  {
+   "term": "目黒くん",
+   "hours": 12,
+   "best_rank": 11,
+   "url": "https://x.com/search?q=%E7%9B%AE%E9%BB%92%E3%81%8F%E3%82%93"
+  },
+  {
+   "term": "救命病棟",
+   "hours": 12,
+   "best_rank": 11,
+   "url": "https://x.com/search?q=%E6%95%91%E5%91%BD%E7%97%85%E6%A3%9F"
+  },
+  {
+   "term": "King",
+   "hours": 12,
+   "best_rank": 12,
+   "url": "https://x.com/search?q=King"
+  },
+  {
+   "term": "アルジュン",
+   "hours": 12,
+   "best_rank": 20,
+   "url": "https://x.com/search?q=%E3%82%A2%E3%83%AB%E3%82%B8%E3%83%A5%E3%83%B3"
+  },
+  {
+   "term": "サツマイモの日",
+   "hours": 11,
+   "best_rank": 1,
+   "url": "https://x.com/search?q=%E3%82%B5%E3%83%84%E3%83%9E%E3%82%A4%E3%83%A2%E3%81%AE%E6%97%A5"
+  },
+  {
+   "term": "わたしの診断",
+   "hours": 11,
+   "best_rank": 7,
+   "url": "https://x.com/search?q=%E3%82%8F%E3%81%9F%E3%81%97%E3%81%AE%E8%A8%BA%E6%96%AD"
+  },
+  {
+   "term": "りょうくん",
+   "hours": 11,
+   "best_rank": 7,
+   "url": "https://x.com/search?q=%E3%82%8A%E3%82%87%E3%81%86%E3%81%8F%E3%82%93"
+  },
+  {
+   "term": "プレゼン",
+   "hours": 11,
+   "best_rank": 8,
+   "url": "https://x.com/search?q=%E3%83%97%E3%83%AC%E3%82%BC%E3%83%B3"
+  },
+  {
+   "term": "葛葉さん",
+   "hours": 11,
+   "best_rank": 30,
+   "url": "https://x.com/search?q=%E8%91%9B%E8%91%89%E3%81%95%E3%82%93"
+  },
+  {
+   "term": "さつまいもの日",
+   "hours": 10,
+   "best_rank": 2,
+   "url": "https://x.com/search?q=%E3%81%95%E3%81%A4%E3%81%BE%E3%81%84%E3%82%82%E3%81%AE%E6%97%A5"
+  },
+  {
+   "term": "デュエプレ",
+   "hours": 10,
+   "best_rank": 11,
+   "url": "https://x.com/search?q=%E3%83%87%E3%83%A5%E3%82%A8%E3%83%97%E3%83%AC"
+  },
+  {
+   "term": "鵺の陰陽師",
+   "hours": 10,
+   "best_rank": 12,
+   "url": "https://x.com/search?q=%E9%B5%BA%E3%81%AE%E9%99%B0%E9%99%BD%E5%B8%AB"
+  },
+  {
+   "term": "先行セール",
+   "hours": 10,
+   "best_rank": 13,
+   "url": "https://x.com/search?q=%E5%85%88%E8%A1%8C%E3%82%BB%E3%83%BC%E3%83%AB"
+  },
+  {
+   "term": "モッシュ",
+   "hours": 10,
+   "best_rank": 17,
+   "url": "https://x.com/search?q=%E3%83%A2%E3%83%83%E3%82%B7%E3%83%A5"
+  },
+  {
+   "term": "層の家庭",
+   "hours": 10,
+   "best_rank": 20,
+   "url": "https://x.com/search?q=%E5%B1%A4%E3%81%AE%E5%AE%B6%E5%BA%AD"
+  },
+  {
+   "term": "イスマン",
+   "hours": 10,
+   "best_rank": 20,
+   "url": "https://x.com/search?q=%E3%82%A4%E3%82%B9%E3%83%9E%E3%83%B3"
+  },
+  {
+   "term": "連休明け",
+   "hours": 9,
+   "best_rank": 1,
+   "url": "https://x.com/search?q=%E9%80%A3%E4%BC%91%E6%98%8E%E3%81%91"
+  },
+  {
+   "term": "#バーガータワー",
+   "hours": 9,
+   "best_rank": 3,
+   "url": "https://x.com/search?q=%23%E3%83%90%E3%83%BC%E3%82%AC%E3%83%BC%E3%82%BF%E3%83%AF%E3%83%BC"
+  },
+  {
+   "term": "九州新幹線",
+   "hours": 9,
+   "best_rank": 7,
+   "url": "https://x.com/search?q=%E4%B9%9D%E5%B7%9E%E6%96%B0%E5%B9%B9%E7%B7%9A"
+  },
+  {
+   "term": "汀精神病院",
+   "hours": 9,
+   "best_rank": 7,
+   "url": "https://x.com/search?q=%E6%B1%80%E7%B2%BE%E7%A5%9E%E7%97%85%E9%99%A2"
+  },
+  {
+   "term": "あなたらしさ",
+   "hours": 9,
+   "best_rank": 9,
+   "url": "https://x.com/search?q=%E3%81%82%E3%81%AA%E3%81%9F%E3%82%89%E3%81%97%E3%81%95"
+  },
+  {
+   "term": "第1726回",
+   "hours": 9,
+   "best_rank": 16,
+   "url": "https://x.com/search?q=%E7%AC%AC1726%E5%9B%9E"
+  },
+  {
+   "term": "シャイニングスター",
+   "hours": 9,
+   "best_rank": 23,
+   "url": "https://x.com/search?q=%E3%82%B7%E3%83%A3%E3%82%A4%E3%83%8B%E3%83%B3%E3%82%B0%E3%82%B9%E3%82%BF%E3%83%BC"
+  },
+  {
+   "term": "自動販売機の男",
+   "hours": 9,
+   "best_rank": 25,
+   "url": "https://x.com/search?q=%E8%87%AA%E5%8B%95%E8%B2%A9%E5%A3%B2%E6%A9%9F%E3%81%AE%E7%94%B7"
+  },
+  {
+   "term": "まつりちゃん",
+   "hours": 9,
+   "best_rank": 27,
+   "url": "https://x.com/search?q=%E3%81%BE%E3%81%A4%E3%82%8A%E3%81%A1%E3%82%83%E3%82%93"
+  },
+  {
+   "term": "こころの余韻診断",
+   "hours": 8,
+   "best_rank": 6,
+   "url": "https://x.com/search?q=%E3%81%93%E3%81%93%E3%82%8D%E3%81%AE%E4%BD%99%E9%9F%BB%E8%A8%BA%E6%96%AD"
+  },
+  {
+   "term": "アザラシ幼稚園",
+   "hours": 8,
+   "best_rank": 12,
+   "url": "https://x.com/search?q=%E3%82%A2%E3%82%B6%E3%83%A9%E3%82%B7%E5%B9%BC%E7%A8%9A%E5%9C%92"
+  },
+  {
+   "term": "あんかけスパ",
+   "hours": 8,
+   "best_rank": 12,
+   "url": "https://x.com/search?q=%E3%81%82%E3%82%93%E3%81%8B%E3%81%91%E3%82%B9%E3%83%91"
+  },
+  {
+   "term": "小島先生",
+   "hours": 8,
+   "best_rank": 17,
+   "url": "https://x.com/search?q=%E5%B0%8F%E5%B3%B6%E5%85%88%E7%94%9F"
+  },
+  {
+   "term": "貴族衣装",
+   "hours": 8,
+   "best_rank": 24,
+   "url": "https://x.com/search?q=%E8%B2%B4%E6%97%8F%E8%A1%A3%E8%A3%85"
+  },
+  {
+   "term": "ジミンさん",
+   "hours": 8,
+   "best_rank": 26,
+   "url": "https://x.com/search?q=%E3%82%B8%E3%83%9F%E3%83%B3%E3%81%95%E3%82%93"
+  },
+  {
+   "term": "深瀬くん",
+   "hours": 8,
+   "best_rank": 26,
+   "url": "https://x.com/search?q=%E6%B7%B1%E7%80%AC%E3%81%8F%E3%82%93"
+  },
+  {
+   "term": "#陽キャ集団",
+   "hours": 7,
+   "best_rank": 1,
+   "url": "https://x.com/search?q=%23%E9%99%BD%E3%82%AD%E3%83%A3%E9%9B%86%E5%9B%A3"
+  }
+ ],
+ "hatena": [
+  {
+   "title": "「学校に行かなくていい」は、誰が言い始めたのか？元不登校・東大院生が描く150年の思想地図｜みずま",
+   "url": "https://note.com/mizumachanx/n/ncbf0fd5545aa",
+   "users": 326
+  },
+  {
+   "title": "AI時代のサイバー攻撃、度重なる情報漏洩からの守りを固めるための政府への7つの提言私案｜安野貴博",
+   "url": "https://note.com/takahiroanno/n/n27e77cc9bb80",
+   "users": 132
+  },
+  {
+   "title": "昼食時に「仕事が終わらないなら助けてあげる」と言ったら、「ご飯の時まで仕事の話されたくないので早退させてください」と上司に泣きながら言って、こちらが怒られた話",
+   "url": "https://togetter.com/li/2757508",
+   "users": 105
+  },
+  {
+   "title": "4万人に伴走して見えてきた、読書家になる共通パターン。7段階のロードマップを公開！",
+   "url": "https://media.yondemy.com/articles/bslc8ml_5xe/",
+   "users": 118
+  },
+  {
+   "title": "広島駅前に移転の中央図書館、半年で140万人利用　移転前の8倍に | 中国新聞デジタル",
+   "url": "https://www.chugoku-np.co.jp/articles/-/906694",
+   "users": 101
+  },
+  {
+   "title": "黒電話にラジカセ、公衆電話……昭和・平成のアイテムを令和の小学生に試してもらったら、なんだか鳥肌が立ってきた",
+   "url": "https://rocketnews24.com/2026/10/12/2797470/",
+   "users": 88
+  },
+  {
+   "title": "簗農相の予算カット発言なぜダメ？憲法｢国民を差別してはならない｣：朝日新聞",
+   "url": "https://www.asahi.com/articles/ASVBB7RSLVBBULFA007M.html",
+   "users": 95
+  },
+  {
+   "title": "「女子枠」はいつから悪口になったのか？ 2022年の導入～2026年の東大総長選まで、「女子枠」の批判的トーンを時系列でまとめてみた",
+   "url": "https://posfie.com/@cashewNutsUmai/p/aFxFyjR",
+   "users": 50
+  },
+  {
+   "title": "糸と鎧 - 第３話　疎まれし惨禍 | ヤンマガWeb",
+   "url": "https://yanmaga.jp/viewer/comics/%E7%B3%B8%E3%81%A8%E9%8E%A7/aaa94e7c4cf64415bd93917dca910c31?cid=06A0000000001067116X",
+   "users": 52
+  },
+  {
+   "title": "ロシアのデータセンター、ウクライナによる無人機攻撃受け稼働停止…金融機関などに通信障害・宅配にも影響",
+   "url": "https://www.yomiuri.co.jp/world/20261012-GYT1T00060/",
+   "users": 31
+  },
+  {
+   "title": "「秋山」違いが呼んだ仰天の〝代打〟から23年…　数奇な縁で結ばれた数学者と大打者の初トークショーが実現：「おっ！」でつながる地元密着のスポーツ応援メディア 西スポWEB OTTO!",
+   "url": "https://nishispo.nishinippon.co.jp/article/1048491",
+   "users": 168
+  },
+  {
+   "title": "ドーピング容認大会、異形「世界記録」　ボーナス1.6億円の舞台裏：朝日新聞",
+   "url": "https://www.asahi.com/articles/ASV9D4720V9DUTQP01DM.html",
+   "users": 32
+  },
+  {
+   "title": "小学生の息子が「修学旅行までに腕時計いる！」って言い出した…最近の子どもたちには何がいいの？「G-SHOCKなら何年も使える」「絶対なくすから100均」",
+   "url": "https://togetter.com/li/2756785",
+   "users": 58
+  },
+  {
+   "title": "Announcing AWS Lambda Web Functions | Amazon Web Services",
+   "url": "https://aws.amazon.com/blogs/aws/announcing-aws-lambda-web-functions-for-fast-consistent-web-app-performance-anywhere/",
+   "users": 31
+  },
+  {
+   "title": "Mrs. GREEN APPLE『POPS』への酷評を経て、ポップスとは何かを確かめる - ピエールの音楽論",
+   "url": "https://toliveistomusical.com/2026/10/11/pops_mrs_green_apple/",
+   "users": 166
+  },
+  {
+   "title": "高市首相はなぜ簗農水相を辞めさせないのか…｢予算カット発言｣→大臣更迭で“最も得をする人たち”の正体（プレジデントオンライン） - Yahoo!ニュース",
+   "url": "https://news.yahoo.co.jp/articles/eed2df2913f1848861c3cccbe8b56abe9bccb624",
+   "users": 58
+  },
+  {
+   "title": "ローカルデザインシステム（スタイルガイド）｜デジタル庁デザインシステムβ版",
+   "url": "https://design.digital.go.jp/dads/guidance/local-design-system/",
+   "users": 26
+  },
+  {
+   "title": "広島‘ゾンビ’カープはどうすればよかったのか？",
+   "url": "https://blog.tinect.jp/?p=91538",
+   "users": 15
+  },
+  {
+   "title": "「別班」の存在を暴いた記者が抱く『VIVANT』シーズン2への違和感…別班の正体と越えてはならない一線とは 『自衛隊の闇組織　秘密情報部隊「別班」の正体』の著者、石井暁・共同通信記者に聞く | JBpress (ジェイビープレス)",
+   "url": "https://jbpress.ismedia.jp/articles/-/97360",
+   "users": 19
+  },
+  {
+   "title": "会社支給の業務用スマホを電源が切れている状態で紛失…始末書、上司からの叱責と半泣きになっていたらシステムから連絡が来て自宅にあることが判明→アドバイスが集まる",
+   "url": "https://togetter.com/li/2757388",
+   "users": 73
+  },
+  {
+   "title": "任天堂幹部、ゲームのパッケージ版を廃止する予定はないと明言。「ファンが好んでいることは理解している」（多根清史） - エキスパート - Yahoo!ニュース",
+   "url": "https://news.yahoo.co.jp/expert/articles/32061950695b5c45b147a399f788e23cdff1f9db",
+   "users": 19
+  },
+  {
+   "title": "産業革命の時代にどうやって精度の高い「ねじ」を作り出したのか？",
+   "url": "https://gigazine.net/news/20261013-how-machines-learned-precision/",
+   "users": 37
+  },
+  {
+   "title": "ポテサラ魔改造 - 料理 - はてなパークス",
+   "url": "https://p.hatena.ne.jp/p/1508438875721175040/t/1559181076037898240",
+   "users": 12
+  },
+  {
+   "title": "Deno開発元がCloudflareに合流。Denoの開発は終了へ、今後はCloudflare WorkersとDurable Objectsのオープンソース実装に注力",
+   "url": "https://www.publickey1.jp/blog/26/denocloudflaredenocloudflare_workersdurable_objects.html",
+   "users": 85
+  },
+  {
+   "title": "メタリカ、公演中に政治的なスピーチを行わない理由を観客に伝える「くだらないことで君たちに影響を与えるためにここにいるんじゃない」 - amass",
+   "url": "https://amass.jp/192375/",
+   "users": 13
+  },
+  {
+   "title": "抽象的なことを考える時、無意識に具体化しないためのメモ - Qiita",
+   "url": "https://qiita.com/J-T_ky2g/items/36aaf36d9eef97672c3d",
+   "users": 70
+  },
+  {
+   "title": "東京・港区タワマンに「違法民泊」の疑い　料金は3泊38万円 ―マンション不都合な真実― - 日本経済新聞",
+   "url": "https://www.nikkei.com/telling/DGXZTS00022200U6A820C2000000/",
+   "users": 33
+  },
+  {
+   "title": "ついに実機を入手！Surface Laptop UltraとProArt P16開封の儀",
+   "url": "https://pc.watch.impress.co.jp/docs/news/2147419.html",
+   "users": 30
+  },
+  {
+   "title": "米空母で自殺未遂8件、イラン戦の260日無寄港は最長　兵士に負担 - 日本経済新聞",
+   "url": "https://www.nikkei.com/article/DGXZQOCB144RP0U6A910C2000000/",
+   "users": 15
+  },
+  {
+   "title": "[第105話]限界OL霧切ギリ子 - ミートスパ土本 | 少年ジャンプ＋",
+   "url": "https://shonenjumpplus.com/episode/9253191257227136998",
+   "users": 105
+  },
+  {
+   "title": "#28 #全員オタク？ / #ギャルとギャルの百合 - イノウエ | サンデーうぇぶり",
+   "url": "https://www.sunday-webry.com/episode/12207421984355309024",
+   "users": 21
+  },
+  {
+   "title": "共産、次期衆院選の目標「450万票」に下方修正　達成は見通せず：朝日新聞",
+   "url": "https://www.asahi.com/articles/ASVBD3D1QVBDUTFK007M.html",
+   "users": 14
+  },
+  {
+   "title": "脱NVIDIAを急ぐMicrosoft、わずか9カ月で次世代AIチップ「Maia 300」",
+   "url": "https://pc.watch.impress.co.jp/docs/news/2147412.html",
+   "users": 92
+  },
+  {
+   "title": "発売から23年後に判明！ゲームキューブ『F-ZERO GX』アーケード連動コンテンツを解放できる隠しコマンドが見つかる | Game*Spark - 国内・海外ゲーム情報サイト",
+   "url": "https://www.gamespark.jp/article/2026/10/12/173517.html",
+   "users": 15
+  },
+  {
+   "title": "男の目からすると、多くの少女漫画、女性向けに出てくる男性キャラ、「こ..",
+   "url": "https://anond.hatelabo.jp/20261012154644",
+   "users": 144
+  },
+  {
+   "title": "“予算カット”発言の簗農水大臣に地元からも苦言「政策よりも性格だな」 野党は問責決議案提出を検討 消費税減税法案の日程に影響の可能性も | TBS NEWS DIG",
+   "url": "https://newsdig.tbs.co.jp/articles/-/3006331",
+   "users": 4
+  },
+  {
+   "title": "11億円流出のはてなが今年の株主総会を完全オンラインに。不祥事企業が質問を取捨選択できる「バーチャルオンリー株主総会」を開催する問題 - スズキオンライン",
+   "url": "https://michsuzuki.hatenablog.com/entry/2026/10/12/152355",
+   "users": 304
+  },
+  {
+   "title": "実は納得していないこと - お題でつながる - はてなパークス",
+   "url": "https://p.hatena.ne.jp/p/1521410374191026176/t/1558724240134377472",
+   "users": 6
+  },
+  {
+   "title": "4-6月期家計GDP・サナエ給付の子育て配慮 - 経済を良くするって、どうすれば",
+   "url": "https://keizai-dousureba.hatenablog.jp/entry/2026/10/11/070000",
+   "users": 5
+  },
+  {
+   "title": "海外任天堂幹部、「物理メディアの廃止予定はない」と明言。その分コストはかかるけど、“愛好家たち”は確かに居るから - AUTOMATON",
+   "url": "https://automaton-media.com/articles/newsjp/20261012-473063/",
+   "users": 69
+  }
+ ]
+}
