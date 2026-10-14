@@ -301,6 +301,8 @@ def build_latest(now: dt.datetime) -> None:
         "today": snap,
         "history_days": len(daily),
         "history_since": min(daily).isoformat() if daily else None,
+        # 画面で過去の日を選べるように、記録のある日を新しい順に渡す
+        "dates": [d.isoformat() for d in sorted(daily, reverse=True)],
         "wiki_yesterday": wiki[wiki_end]["articles"][:20] if wiki else [],
         "wiki_date": wiki_end.isoformat() if wiki else None,
         "wiki_rising": wiki_rising(wiki, wiki_end),
