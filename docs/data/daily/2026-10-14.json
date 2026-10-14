@@ -1,0 +1,521 @@
+{
+ "date": "2026-10-14",
+ "collected_at": "2026-10-14T09:12+09:00",
+ "errors": {},
+ "google": [
+  {
+   "term": "クライミング",
+   "traffic": "500+",
+   "news_title": "ロッククライミング中に滑落 死亡",
+   "news_url": "https://news.yahoo.co.jp/pickup/6598675",
+   "news_source": "Yahoo!ニュース"
+  },
+  {
+   "term": "スーパーリアル麻雀 venus returns",
+   "traffic": "500+",
+   "news_title": "脱衣麻雀『スーパーリアル麻雀 Venus Returns』オープニングが「思い出」再生可能になるアプデ配信 1枚目の写真・画像",
+   "news_url": "https://www.gamespark.jp/article/img/2026/10/13/173555/1206102.html",
+   "news_source": "Game*Spark"
+  },
+  {
+   "term": "原英莉花",
+   "traffic": "500+",
+   "news_title": "",
+   "news_url": "",
+   "news_source": ""
+  },
+  {
+   "term": "gemini argon",
+   "traffic": "500+",
+   "news_title": "Gemini 4 Argon: Built to solve your hardest problems",
+   "news_url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/",
+   "news_source": "blog.google"
+  },
+  {
+   "term": "桐谷広人",
+   "traffic": "200+",
+   "news_title": "",
+   "news_url": "",
+   "news_source": ""
+  },
+  {
+   "term": "織田翔希",
+   "traffic": "200+",
+   "news_title": "横浜・織田翔希 極秘渡米していた",
+   "news_url": "https://news.yahoo.co.jp/pickup/6598676",
+   "news_source": "Yahoo!ニュース"
+  },
+  {
+   "term": "田村真子",
+   "traffic": "200+",
+   "news_title": "自民議員とTBS人気アナの父娘が同じ時間帯に裏番組で「親子生登場」（日刊スポーツ）",
+   "news_url": "https://news.yahoo.co.jp/articles/587db08aa8bea4db81c4e6f2a8abcde6b95a7eb9",
+   "news_source": "Yahoo!ニュース"
+  },
+  {
+   "term": "kb5127648",
+   "traffic": "100+",
+   "news_title": "Windows 11 KB5127648 and KB5127646 Patch Tuesday updates are now available",
+   "news_url": "https://www.neowin.net/news/windows-11-kb5127648-and-kb5127646-patch-tuesday-updates-are-now-available/",
+   "news_source": "Neowin"
+  },
+  {
+   "term": "警視庁",
+   "traffic": "100+",
+   "news_title": "停止義務ないのに違反に ミス63件",
+   "news_url": "https://news.yahoo.co.jp/pickup/6598679",
+   "news_source": "Yahoo!ニュース"
+  },
+  {
+   "term": "大豆戸町 火事",
+   "traffic": "100+",
+   "news_title": "横浜で住宅火災、高齢夫婦と連絡取れず（共同通信）",
+   "news_url": "https://news.yahoo.co.jp/articles/e8d5af49b41f162477dfb4498a1cc297ba998bc9",
+   "news_source": "Yahoo!ニュース"
+  }
+ ],
+ "x": [
+  {
+   "term": "層の家庭",
+   "hours": 26,
+   "best_rank": 1,
+   "url": "https://x.com/search?q=%E5%B1%A4%E3%81%AE%E5%AE%B6%E5%BA%AD"
+  },
+  {
+   "term": "虚血性心疾患",
+   "hours": 26,
+   "best_rank": 4,
+   "url": "https://x.com/search?q=%E8%99%9A%E8%A1%80%E6%80%A7%E5%BF%83%E7%96%BE%E6%82%A3"
+  },
+  {
+   "term": "子どもの頃の夢",
+   "hours": 25,
+   "best_rank": 6,
+   "url": "https://x.com/search?q=%E5%AD%90%E3%81%A9%E3%82%82%E3%81%AE%E9%A0%83%E3%81%AE%E5%A4%A2"
+  },
+  {
+   "term": "あなたの一度",
+   "hours": 23,
+   "best_rank": 5,
+   "url": "https://x.com/search?q=%E3%81%82%E3%81%AA%E3%81%9F%E3%81%AE%E4%B8%80%E5%BA%A6"
+  },
+  {
+   "term": "最後の仕事",
+   "hours": 22,
+   "best_rank": 9,
+   "url": "https://x.com/search?q=%E6%9C%80%E5%BE%8C%E3%81%AE%E4%BB%95%E4%BA%8B"
+  },
+  {
+   "term": "アルジュン",
+   "hours": 19,
+   "best_rank": 3,
+   "url": "https://x.com/search?q=%E3%82%A2%E3%83%AB%E3%82%B8%E3%83%A5%E3%83%B3"
+  },
+  {
+   "term": "普通の家庭",
+   "hours": 19,
+   "best_rank": 8,
+   "url": "https://x.com/search?q=%E6%99%AE%E9%80%9A%E3%81%AE%E5%AE%B6%E5%BA%AD"
+  },
+  {
+   "term": "朝倉くん",
+   "hours": 14,
+   "best_rank": 2,
+   "url": "https://x.com/search?q=%E6%9C%9D%E5%80%89%E3%81%8F%E3%82%93"
+  },
+  {
+   "term": "下気道感染症",
+   "hours": 13,
+   "best_rank": 16,
+   "url": "https://x.com/search?q=%E4%B8%8B%E6%B0%97%E9%81%93%E6%84%9F%E6%9F%93%E7%97%87"
+  },
+  {
+   "term": "インドの農村",
+   "hours": 13,
+   "best_rank": 19,
+   "url": "https://x.com/search?q=%E3%82%A4%E3%83%B3%E3%83%89%E3%81%AE%E8%BE%B2%E6%9D%91"
+  },
+  {
+   "term": "スパイ容疑",
+   "hours": 12,
+   "best_rank": 3,
+   "url": "https://x.com/search?q=%E3%82%B9%E3%83%91%E3%82%A4%E5%AE%B9%E7%96%91"
+  },
+  {
+   "term": "日本のGDP",
+   "hours": 12,
+   "best_rank": 6,
+   "url": "https://x.com/search?q=%E6%97%A5%E6%9C%AC%E3%81%AEGDP"
+  },
+  {
+   "term": "#恋とき",
+   "hours": 11,
+   "best_rank": 1,
+   "url": "https://x.com/search?q=%23%E6%81%8B%E3%81%A8%E3%81%8D"
+  },
+  {
+   "term": "ガッキー",
+   "hours": 11,
+   "best_rank": 1,
+   "url": "https://x.com/search?q=%E3%82%AC%E3%83%83%E3%82%AD%E3%83%BC"
+  },
+  {
+   "term": "世界6位",
+   "hours": 11,
+   "best_rank": 15,
+   "url": "https://x.com/search?q=%E4%B8%96%E7%95%8C6%E4%BD%8D"
+  },
+  {
+   "term": "インドと英国",
+   "hours": 11,
+   "best_rank": 26,
+   "url": "https://x.com/search?q=%E3%82%A4%E3%83%B3%E3%83%89%E3%81%A8%E8%8B%B1%E5%9B%BD"
+  },
+  {
+   "term": "#いろはの恋は時代をかける",
+   "hours": 10,
+   "best_rank": 2,
+   "url": "https://x.com/search?q=%23%E3%81%84%E3%82%8D%E3%81%AF%E3%81%AE%E6%81%8B%E3%81%AF%E6%99%82%E4%BB%A3%E3%82%92%E3%81%8B%E3%81%91%E3%82%8B"
+  },
+  {
+   "term": "サハリン",
+   "hours": 10,
+   "best_rank": 5,
+   "url": "https://x.com/search?q=%E3%82%B5%E3%83%8F%E3%83%AA%E3%83%B3"
+  },
+  {
+   "term": "鈴村さん",
+   "hours": 10,
+   "best_rank": 6,
+   "url": "https://x.com/search?q=%E9%88%B4%E6%9D%91%E3%81%95%E3%82%93"
+  },
+  {
+   "term": "ロシア当局",
+   "hours": 10,
+   "best_rank": 11,
+   "url": "https://x.com/search?q=%E3%83%AD%E3%82%B7%E3%82%A2%E5%BD%93%E5%B1%80"
+  },
+  {
+   "term": "連休明け",
+   "hours": 10,
+   "best_rank": 14,
+   "url": "https://x.com/search?q=%E9%80%A3%E4%BC%91%E6%98%8E%E3%81%91"
+  },
+  {
+   "term": "鉄道の日",
+   "hours": 9,
+   "best_rank": 1,
+   "url": "https://x.com/search?q=%E9%89%84%E9%81%93%E3%81%AE%E6%97%A5"
+  },
+  {
+   "term": "スタダ便",
+   "hours": 9,
+   "best_rank": 2,
+   "url": "https://x.com/search?q=%E3%82%B9%E3%82%BF%E3%83%80%E4%BE%BF"
+  },
+  {
+   "term": "キンキラ",
+   "hours": 9,
+   "best_rank": 3,
+   "url": "https://x.com/search?q=%E3%82%AD%E3%83%B3%E3%82%AD%E3%83%A9"
+  },
+  {
+   "term": "Gemini 4 Argon",
+   "hours": 9,
+   "best_rank": 8,
+   "url": "https://x.com/search?q=Gemini%204%20Argon"
+  },
+  {
+   "term": "地方議員",
+   "hours": 9,
+   "best_rank": 18,
+   "url": "https://x.com/search?q=%E5%9C%B0%E6%96%B9%E8%AD%B0%E5%93%A1"
+  },
+  {
+   "term": "あいの里",
+   "hours": 9,
+   "best_rank": 26,
+   "url": "https://x.com/search?q=%E3%81%82%E3%81%84%E3%81%AE%E9%87%8C"
+  },
+  {
+   "term": "#SteamDeckで遊びたいゲーム",
+   "hours": 8,
+   "best_rank": 1,
+   "url": "https://x.com/search?q=%23SteamDeck%E3%81%A7%E9%81%8A%E3%81%B3%E3%81%9F%E3%81%84%E3%82%B2%E3%83%BC%E3%83%A0"
+  },
+  {
+   "term": "禁忌の免許",
+   "hours": 8,
+   "best_rank": 4,
+   "url": "https://x.com/search?q=%E7%A6%81%E5%BF%8C%E3%81%AE%E5%85%8D%E8%A8%B1"
+  },
+  {
+   "term": "朝倉藤四郎",
+   "hours": 8,
+   "best_rank": 17,
+   "url": "https://x.com/search?q=%E6%9C%9D%E5%80%89%E8%97%A4%E5%9B%9B%E9%83%8E"
+  },
+  {
+   "term": "HomeView",
+   "hours": 8,
+   "best_rank": 27,
+   "url": "https://x.com/search?q=HomeView"
+  },
+  {
+   "term": "ひ孫ひとり",
+   "hours": 8,
+   "best_rank": 28,
+   "url": "https://x.com/search?q=%E3%81%B2%E5%AD%AB%E3%81%B2%E3%81%A8%E3%82%8A"
+  },
+  {
+   "term": "#松田好花ANN0",
+   "hours": 7,
+   "best_rank": 1,
+   "url": "https://x.com/search?q=%23%E6%9D%BE%E7%94%B0%E5%A5%BD%E8%8A%B1ANN0"
+  },
+  {
+   "term": "#サカナ山口ANN",
+   "hours": 7,
+   "best_rank": 2,
+   "url": "https://x.com/search?q=%23%E3%82%B5%E3%82%AB%E3%83%8A%E5%B1%B1%E5%8F%A3ANN"
+  },
+  {
+   "term": "生琉先生",
+   "hours": 7,
+   "best_rank": 5,
+   "url": "https://x.com/search?q=%E7%94%9F%E7%90%89%E5%85%88%E7%94%9F"
+  },
+  {
+   "term": "概念ちゃん",
+   "hours": 7,
+   "best_rank": 8,
+   "url": "https://x.com/search?q=%E6%A6%82%E5%BF%B5%E3%81%A1%E3%82%83%E3%82%93"
+  },
+  {
+   "term": "SHOCK",
+   "hours": 7,
+   "best_rank": 8,
+   "url": "https://x.com/search?q=SHOCK"
+  },
+  {
+   "term": "インテンション",
+   "hours": 7,
+   "best_rank": 10,
+   "url": "https://x.com/search?q=%E3%82%A4%E3%83%B3%E3%83%86%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%B3"
+  },
+  {
+   "term": "石見さん",
+   "hours": 7,
+   "best_rank": 11,
+   "url": "https://x.com/search?q=%E7%9F%B3%E8%A6%8B%E3%81%95%E3%82%93"
+  },
+  {
+   "term": "概念ぬい",
+   "hours": 7,
+   "best_rank": 14,
+   "url": "https://x.com/search?q=%E6%A6%82%E5%BF%B5%E3%81%AC%E3%81%84"
+  }
+ ],
+ "hatena": [
+  {
+   "title": "80億分の1 · あなたは誰として生まれる？",
+   "url": "https://1in8b.life/ja/",
+   "users": 1151
+  },
+  {
+   "title": "「手首と肝臓にしか自由が残っていない青少年」という問題 - シロクマの屑籠",
+   "url": "https://p-shirokuma.hatenadiary.com/entry/20261013/1791896400",
+   "users": 54
+  },
+  {
+   "title": "私物Macと仕事Macのdotfilesとアプリ管理をmise bootstrapで管理しやすくした - $shibayu36->blog;",
+   "url": "https://blog.shibayu36.org/entry/2026/10/13/173000",
+   "users": 83
+  },
+  {
+   "title": "日本のＧＤＰ、来年はインドと英国に抜かれ「世界６位」の見込み…ＩＭＦ「世界経済見通し」で明らかに",
+   "url": "https://www.yomiuri.co.jp/economy/20261013-GYT1T00337/",
+   "users": 335
+  },
+  {
+   "title": "運転免許試験の問題を事前に入手か　ベトナム人女性のスマホから画像試験は当面中止　千葉",
+   "url": "https://www.sankei.com/article/20261013-U2LYXVDV6VN4NMM2FPLLSVH5SE/",
+   "users": 83
+  },
+  {
+   "title": "男が好きな少女漫画の女キャラってどんなんだろうか？",
+   "url": "https://anond.hatelabo.jp/20261013220931",
+   "users": 63
+  },
+  {
+   "title": "高市総理「何もやっていないのに自分を大きく見せようとした」 簗大臣の発言を批判 | TBS NEWS DIG",
+   "url": "https://newsdig.tbs.co.jp/articles/-/3008655",
+   "users": 260
+  },
+  {
+   "title": "好きなオープニングアニメ教えて",
+   "url": "https://anond.hatelabo.jp/20261013171602",
+   "users": 244
+  },
+  {
+   "title": "ノア・スミス「やっとかよ！ニューケインジアンマクロ経済学にノーベル賞」（2026年10月13日）",
+   "url": "https://econ101.jp/noah-smith_2026nobel-prize/",
+   "users": 16
+  },
+  {
+   "title": "あなたの『Amazon Kindle』は最新モデルへ買い替えるべき？ 歴代モデル徹底比較【山口真弘のおすすめ読書タブレット比較】",
+   "url": "https://forest.watch.impress.co.jp/docs/bookwatch/tabletrecom/2147295.html",
+   "users": 58
+  },
+  {
+   "title": "好きなエンディングアニメ",
+   "url": "https://anond.hatelabo.jp/20261013182200",
+   "users": 138
+  },
+  {
+   "title": "ロシアが北海道新聞記者をスパイ容疑で拘束 治安機関が発表 | NHKニュース",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261013de58917",
+   "users": 101
+  },
+  {
+   "title": "https://cynex.nict.go.jp/pdf/library/lettice/261013-01.pdf",
+   "url": "https://cynex.nict.go.jp/pdf/library/lettice/261013-01.pdf",
+   "users": 29
+  },
+  {
+   "title": "蓮實重彦 『映画の神話学』 ： 蓮實重彦論｜年間読書人",
+   "url": "https://note.com/nenkandokusyojin/n/n722956b5d630",
+   "users": 22
+  },
+  {
+   "title": "Redesigning source control at Anthropic",
+   "url": "https://www.anthropic.com/engineering/redesigning-source-control",
+   "users": 44
+  },
+  {
+   "title": "米Getty Imagesが破産申請へ　AI画像の台頭で経営悪化、「報道写真」軸に年内の再建目指す",
+   "url": "https://www.itmedia.co.jp/news/article/2610/13/2000002234/",
+   "users": 192
+  },
+  {
+   "title": "ラーメン二郎より二郎インスパイアの資本系・豚山の方が流行り出した理由は、家系インスパイアの町田商店の反省が活かされている部分も感じられる",
+   "url": "https://togetter.com/li/2757835",
+   "users": 76
+  },
+  {
+   "title": "エンターテインメントを楽しみ、家を管理する新しい方法、Apple HomeViewが登場",
+   "url": "https://www.apple.com/jp/newsroom/2026/10/meet-apple-homeview-a-new-way-to-enjoy-entertainment-and-manage-the-home/",
+   "users": 34
+  },
+  {
+   "title": "ロシア、本紙記者拘束　当局発表　「安保脅かす情報収集」：北海道新聞デジタル",
+   "url": "https://www.hokkaido-np.co.jp/article/1388778/",
+   "users": 20
+  },
+  {
+   "title": "リバースエンジニアリングの産業革命-REA",
+   "url": "https://rea.tools/ja/blog/touhou-reconstruction/",
+   "users": 45
+  },
+  {
+   "title": "俺の婚活スタンスってそんなに悪なのか？",
+   "url": "https://anond.hatelabo.jp/20261013102209",
+   "users": 177
+  },
+  {
+   "title": "「Gemini 4 Argon」が一般提供開始 ～満を持して登場した最強の「Gemini」モデル／「Gemini」アプリでは「Google AI Pro/Ultra」の契約者が利用可能",
+   "url": "https://forest.watch.impress.co.jp/docs/news/2147842.html",
+   "users": 24
+  },
+  {
+   "title": "元々違う作品の曲だったのに転生した曲まとめ",
+   "url": "https://anond.hatelabo.jp/20261013202309",
+   "users": 114
+  },
+  {
+   "title": "Gemini 4 Argon: Built to solve your hardest problems",
+   "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/",
+   "users": 17
+  },
+  {
+   "title": "バ先で書かされそうになった誓約書、「過失で会社に損害を与えた場合、損害額を負担」などいろいろ法律に抵触してそう→サインしてないのに働けてる模様",
+   "url": "https://togetter.com/li/2757748",
+   "users": 39
+  },
+  {
+   "title": "中国黒竜江省代表団が異例の北方領土・択捉島訪問　ロシアと足並み揃え鮮明　省職員も参加",
+   "url": "https://www.sankei.com/article/20261013-53SNWTZ6RBNHRAFJ3J6ST6W56I/",
+   "users": 18
+  },
+  {
+   "title": "“AAA級のマインスイーパー”『Triple-A Minesweeper』が皮肉を振り撒き反響呼ぶ。「大型ゲームあるある」な起動直後にブランドロゴ連発、プレイは黄色いガイドに従うだけ - AUTOMATON",
+   "url": "https://automaton-media.com/articles/newsjp/triple-a-minesweeper-20261013-473202/",
+   "users": 14
+  },
+  {
+   "title": "プルデンシャル、覇気なくす「ゴリラ」部隊　転職難しく座学1年 - 日本経済新聞",
+   "url": "https://www.nikkei.com/article/DGXZQOUB024MO0S6A001C2000000/",
+   "users": 22
+  },
+  {
+   "title": "簗農相 与党から続投困難の声も 高市首相 説明踏まえ判断へ | NHKニュース",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261014de58923",
+   "users": 7
+  },
+  {
+   "title": "日本で話題になった「アザラシ幼稚園」が破産危機に陥り保護活動の継続が困難に→日本の赤スパなどで潤ったが、それ以上に設備の充実や物価高上昇がどうにもならない模様",
+   "url": "https://togetter.com/li/2757827",
+   "users": 49
+  },
+  {
+   "title": "デンマーク880万件情報漏洩、原因はパスワード「123456」か - 日本経済新聞",
+   "url": "https://www.nikkei.com/article/DGXZQOGR139YB0T11C26A0000000/",
+   "users": 64
+  },
+  {
+   "title": "世界のどこかで生まれて生きるゲーム「80億分の1」がXで流行、どう生きていくのが幸せなのか、今の生活と合わせて考えさせられる",
+   "url": "https://togetter.com/li/2757694",
+   "users": 154
+  },
+  {
+   "title": "会社の枠をこえて次の世代を育成する必要はあるのだろうか。 - Everything you've ever Dreamed",
+   "url": "https://delete-all.hatenablog.com/entry/2026/10/14/000000",
+   "users": 14
+  },
+  {
+   "title": "【注意喚起】 相次ぐ情報漏えい、その原因の一つは「アプリ解析からのサーバ攻撃」｜2026年｜NICT-情報通信研究機構",
+   "url": "https://www.nict.go.jp/press/2026/10/13-1.html",
+   "users": 570
+  },
+  {
+   "title": "「使わない口座は、バイバイしようね！」三菱UFJ銀行と『プロセカ』コラボの冊子、キャラの発言がギョッとさせられる",
+   "url": "https://togetter.com/li/2757853",
+   "users": 36
+  },
+  {
+   "title": "【速報】自民林氏が美容産業を支援する議連設立へ",
+   "url": "https://www.47news.jp/15074914.html",
+   "users": 70
+  },
+  {
+   "title": "Yandexデータセンター攻撃の前後でXの日本語親ロ投稿を数えてみた｜一田和樹のメモ帳",
+   "url": "https://note.com/ichi_twnovel/n/nc23602343127",
+   "users": 10
+  },
+  {
+   "title": "【解説】 トランプ氏が主張するロシアとウクライナの「エネルギー停戦」、ロシアはなぜ沈黙したままなのか - BBCニュース",
+   "url": "https://www.bbc.com/japanese/articles/cwz0v1dvgm5ro",
+   "users": 4
+  },
+  {
+   "title": "OpenAI従業員、役員会議室に録音装置を仕掛けた疑いでFBIが逮捕",
+   "url": "https://www.itmedia.co.jp/news/article/2610/14/2000002236/",
+   "users": 19
+  },
+  {
+   "title": "クローニー資本主義とステークホルダー民主主義（再掲）: hamachanブログ(EU労働法政策雑記帳)",
+   "url": "http://eulabourlaw.cocolog-nifty.com/blog/2026/10/post-071790.html",
+   "users": 6
+  }
+ ]
+}
