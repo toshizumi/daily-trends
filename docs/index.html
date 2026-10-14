@@ -91,6 +91,13 @@ li:first-child { border-top: 0; }
 .seg button { border: 0; background: none; color: var(--muted); font: inherit; font-size: 13px; padding: 5px 14px; border-radius: 7px; cursor: pointer; }
 .seg button[aria-pressed="true"] { background: var(--surface); color: var(--text); box-shadow: 0 1px 2px rgba(0,0,0,.12); }
 
+.daynav { display: inline-flex; align-items: center; gap: 2px; background: var(--line); border-radius: 9px; padding: 2px; }
+.daynav button { border: 0; background: none; color: var(--text); font: inherit; font-size: 15px; line-height: 1; width: 30px; height: 28px; border-radius: 7px; cursor: pointer; }
+.daynav button:hover:not(:disabled) { background: var(--surface); }
+.daynav button:disabled { color: var(--faint); cursor: default; }
+.daynav select { appearance: none; -webkit-appearance: none; border: 0; background: var(--surface); color: var(--text); font: inherit; font-size: 13px; height: 28px; padding: 0 12px; border-radius: 7px; box-shadow: 0 1px 2px rgba(0,0,0,.12); cursor: pointer; text-align: center; }
+.daynav select:disabled { cursor: default; }
+
 .dots { display: flex; gap: 2px; margin-top: 6px; flex-wrap: wrap; }
 .dots i { width: 6px; height: 6px; border-radius: 2px; background: var(--dot); }
 .dots i.on { background: var(--dot-on); }
@@ -142,7 +149,14 @@ footer a { text-decoration: underline; }
   <div id="tab-daily">
 
   <section>
-    <h2>いま話題になっていること</h2>
+    <div class="sectionhead">
+      <h2 id="dayTitle">いま話題になっていること</h2>
+      <div class="daynav" role="group" aria-label="表示する日">
+        <button type="button" id="dayPrev" aria-label="前の日" disabled>‹</button>
+        <select id="daySel" aria-label="日付" disabled></select>
+        <button type="button" id="dayNext" aria-label="次の日" disabled>›</button>
+      </div>
+    </div>
     <div class="grid">
       <div class="card">
         <h3>Google 急上昇ワード</h3>
@@ -292,22 +306,16 @@ function renderWindow(w) {
   try { localStorage.setItem("window", w); } catch (e) {}
 }
 
-async function main() {
-  try {
-    DATA = await (await fetch("data/latest.json", { cache: "no-cache" })).json();
-  } catch (e) {
-    $("updated").textContent = "データを読み込めませんでした。時間をおいて再読み込みしてください。";
-    return;
-  }
-  const t = DATA.today;
+// Google・X・はてブの3枚のカード。最新の日も過去の日も同じ形のデータなので、この関数で描く
+function renderDay(t, isLatest) {
   const at = new Date(t.collected_at);
-  $("updated").textContent = `${at.getMonth() + 1}月${at.getDate()}日 ${at.getHours()}:${String(at.getMinutes()).padStart(2, "0")} に更新`;
+  $("updated").textContent = `${at.getMonth() + 1}月${at.getDate()}日 ${at.getHours()}:${String(at.getMinutes()).padStart(2, "0")} に${isLatest ? "更新" : "取得"}`;
 
   const errNote = (name) => {
     if (!t.errors?.[name]) return "";
     const kept = t.kept_from?.[name];
     const when = kept ? (() => { const d = new Date(kept); return `${d.getHours()}:${String(d.getMinutes()).padStart(2, "0")}`; })() : "";
-    return `<p class="err">今回は取得に失敗しました${kept ? `。${when}に取得した結果を表示しています` : ""}（${esc(t.errors[name])}）</p>`;
+    return `<p class="err">${isLatest ? "今回は" : "この日は"}取得に失敗しました${kept ? `。${when}に取得した結果を表示しています` : ""}（${esc(t.errors[name])}）</p>`;
   };
 
   list($("google"), (t.google || []).map((g) => ({
@@ -328,6 +336,61 @@ async function main() {
     num: `${h.users} users`,
   })));
   $("hatena").insertAdjacentHTML("afterbegin", errNote("hatena"));
+}
+
+// 表示する日は URL の # に入れる（#2026-10-11 のように。再読み込みや共有をしても同じ日が開く）
+const dayFromHash = () => (location.hash.match(/^#(\d{4}-\d{2}-\d{2})$/) || [])[1] || null;
+const DAY_CARDS = ["google", "x", "hatena"];
+let dayRequest = 0;
+
+async function openDay(iso) {
+  const latest = DATA.dates[0] || DATA.today.date;
+  if (!iso) iso = latest;
+  const isLatest = iso === latest;
+  const idx = DATA.dates.indexOf(iso);
+  $("daySel").value = idx >= 0 ? iso : "";
+  $("dayPrev").disabled = idx < 0 || idx >= DATA.dates.length - 1;
+  $("dayNext").disabled = idx <= 0;
+  $("dayTitle").textContent = isLatest ? "いま話題になっていること" : `${jaDate(iso)}に話題になっていたこと`;
+
+  const req = ++dayRequest;
+  let snap = isLatest ? DATA.today : null;
+  if (!snap && idx >= 0) {
+    try { snap = await (await fetch(`data/daily/${iso}.json`)).json(); } catch (e) {}
+  }
+  if (req !== dayRequest) return;  // 読み込み中に別の日へ切り替えたときは、古い結果で上書きしない
+  if (!snap) {
+    const msg = idx < 0 ? "この日の記録はありません" : "この日のデータを読み込めませんでした。時間をおいて再読み込みしてください。";
+    DAY_CARDS.forEach((id) => { $(id).innerHTML = `<p class="empty">${msg}</p>`; });
+    $("updated").textContent = "";
+    return;
+  }
+  renderDay(snap, isLatest);
+}
+
+function setupDayNav() {
+  const sel = $("daySel");
+  const wd = "日月火水木金土";
+  sel.innerHTML = DATA.dates.map((iso) => `<option value="${iso}">${jaDate(iso)}（${wd[new Date(iso + "T00:00:00+09:00").getDay()]}）</option>`).join("")
+    + `<option value="" hidden>記録のない日</option>`;
+  sel.disabled = DATA.dates.length < 2;
+  // 最新の日に戻るときは # を「毎日のトレンド」タブのものにする
+  const go = (iso) => { location.hash = iso === DATA.dates[0] ? "#daily" : "#" + iso; };
+  sel.addEventListener("change", () => go(sel.value));
+  $("dayPrev").addEventListener("click", () => go(DATA.dates[DATA.dates.indexOf(sel.value) + 1]));
+  $("dayNext").addEventListener("click", () => go(DATA.dates[DATA.dates.indexOf(sel.value) - 1]));
+}
+
+async function main() {
+  try {
+    DATA = await (await fetch("data/latest.json", { cache: "no-cache" })).json();
+  } catch (e) {
+    $("updated").textContent = "データを読み込めませんでした。時間をおいて再読み込みしてください。";
+    return;
+  }
+  if (!DATA.dates?.length) DATA.dates = [DATA.today.date];  // dates を出す前の latest.json でも動くように
+  setupDayNav();
+  openDay(dayFromHash());
 
   $("wikiDate").textContent = DATA.wiki_date ? `${jaDate(DATA.wiki_date)}の閲覧数（Wikipedia の集計は2〜3日遅れて公開されます）` : "";
   const dmax = DATA.wiki_yesterday[0]?.views || 1;
@@ -415,16 +478,24 @@ async function renderLongterm() {
 }
 
 // タブは URL の # で覚えておく（再読み込みや共有しても同じタブが開く）
+let currentTab = null;
 function showTab() {
   const tab = location.hash === "#longterm" ? "longterm" : "daily";
+  const changed = tab !== currentTab;
+  currentTab = tab;
   $("tab-daily").hidden = tab !== "daily";
   $("tab-longterm").hidden = tab !== "longterm";
   document.querySelectorAll(".tabs a").forEach((a) => {
     if (a.dataset.tab === tab) a.setAttribute("aria-current", "page");
     else a.removeAttribute("aria-current");
   });
+  return changed;
 }
-window.addEventListener("hashchange", () => { showTab(); window.scrollTo(0, 0); });
+window.addEventListener("hashchange", () => {
+  // 日付だけを切り替えたときは、読んでいた位置を動かさない
+  if (showTab()) window.scrollTo(0, 0);
+  if (currentTab === "daily" && DATA) openDay(dayFromHash());
+});
 showTab();
 
 main();
