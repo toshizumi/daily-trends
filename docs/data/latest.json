@@ -1,529 +1,530 @@
 {
- "generated_at": "2026-10-16T08:35+09:00",
+ "generated_at": "2026-10-17T08:21+09:00",
  "today": {
-  "date": "2026-10-16",
-  "collected_at": "2026-10-16T08:35+09:00",
+  "date": "2026-10-17",
+  "collected_at": "2026-10-17T08:21+09:00",
   "errors": {},
   "google": [
    {
-    "term": "大谷亮平",
+    "term": "ディズニークルーズ",
     "traffic": "1000+",
-    "news_title": "",
-    "news_url": "",
-    "news_source": ""
+    "news_title": "クルーズ船「ディズニー・イマジネーション」2028年度就航 料金は1人10万円台から",
+    "news_url": "https://news.tv-asahi.co.jp/news_economy/articles/000540116.html",
+    "news_source": "テレ朝NEWS"
    },
    {
-    "term": "キングオブコント 2026",
+    "term": "古江彩佳",
     "traffic": "1000+",
-    "news_title": "キングオブコント新審査員2人『お笑いの日』内で発表へ 日比麻音子アナ“7年連続”進行担当「身が引き締まる想い」",
-    "news_url": "https://www.minpo.jp/articles/-/251880",
-    "news_source": "福島民報デジタル"
-   },
-   {
-    "term": "間宮祥太朗",
-    "traffic": "200+",
-    "news_title": "天下一品こってりスープを完全再現!?春雨スピード料理対決!",
-    "news_url": "https://tver.jp/episodes/epaxrbst03",
-    "news_source": "TVer"
-   },
-   {
-    "term": "高橋文哉",
-    "traffic": "200+",
-    "news_title": "",
-    "news_url": "",
-    "news_source": ""
-   },
-   {
-    "term": "阪神 タイガース 対 横浜 dena ベイスターズ",
-    "traffic": "200+",
-    "news_title": "全イニング詳細 2026年10月15日(木) vs. 阪神 クライマックスシリーズ・セ ファイナルステージ 甲子園",
-    "news_url": "https://sp.baystars.co.jp/game/live/2021039481",
-    "news_source": "横浜DeNAベイスターズ"
-   },
-   {
-    "term": "パトリオットミサイル",
-    "traffic": "100+",
-    "news_title": "「ほとんど迎撃できず」 パトリオット枯渇と米報道（共同通信）",
-    "news_url": "https://news.yahoo.co.jp/articles/6ad0394eb01db3f522ec306464903908d3f60db2",
+    "news_title": "女子ゴルフで「仲良いよねぇこの2人」 目撃された“イーグル報告会”が話題「えっそうなの!?」（THE ANSWER）",
+    "news_url": "https://news.yahoo.co.jp/articles/9a473fae66ec3b5e468e2941e7563c528a3f6613",
     "news_source": "Yahoo!ニュース"
    },
    {
-    "term": "インド",
-    "traffic": "100+",
-    "news_title": "Bollywood actor Imran Khan asked to leave India after participating in protest, media says",
-    "news_url": "https://www.reuters.com/business/media-telecom/bollywood-actor-imran-khan-asked-leave-india-after-participating-protest-media-2026-10-15/",
-    "news_source": "Reuters"
-   },
-   {
-    "term": "来週の天気",
-    "traffic": "100+",
-    "news_title": "週間天気予報 週明けは荒天のおそれ 台風30号の動向にも注意",
-    "news_url": "https://weathernews.jp/news/202610/160061/",
-    "news_source": "ウェザーニュース"
-   },
-   {
-    "term": "マクドナルド ハッピーセット",
-    "traffic": "100+",
-    "news_title": "【10/16～のハッピーセット】は「USJオールスターズ」！ ミニオンやキティなどユニバーサル・スタジオ・ジャパンの仲間たちが大集合！（HugKum）",
-    "news_url": "https://news.yahoo.co.jp/articles/1986158afbabdd1358cbca7163cf308a82a07365",
+    "term": "メーガン",
+    "traffic": "500+",
+    "news_title": "【独自】メーガン妃を直撃取材「戻ってこられてとてもうれしい」 全身イギリスブランドで“公務もどき”復帰に王室との確執再燃の恐れも（FNNプライムオンライン（フジテレビ系））",
+    "news_url": "https://news.yahoo.co.jp/articles/35e44b95698b674cc329debc6c1ec0390185ae3a",
     "news_source": "Yahoo!ニュース"
    },
    {
-    "term": "あにいもうと",
+    "term": "勝俣州和",
+    "traffic": "500+",
+    "news_title": "《かっちゃんに異変》勝俣州和が3連休中に救急外来を受診していた…左足をかばう姿にマネージャーが明かした“真相”「仕事に影響はありません」",
+    "news_url": "https://www.news-postseven.com/archives/20261016_2136889.html?DETAIL",
+    "news_source": "NEWSポストセブン"
+   },
+   {
+    "term": "サタプラ",
+    "traffic": "500+",
+    "news_title": "サタプラ｜Aぇ! group正門×ちはる「れんこんのぶったたきキーマカレー」の作り方～全国レシピ交換旅（2026/10/17）",
+    "news_url": "https://www.e-recipe.site/tv/satplus261017_renkon03/",
+    "news_source": "知っ得レシピ"
+   },
+   {
+    "term": "マスター ソアラ",
+    "traffic": "500+",
+    "news_title": "【武豊日記】阿吽の呼吸（競馬のおはなし）",
+    "news_url": "https://news.yahoo.co.jp/articles/dd9f0a1dc4767bfd55574cfc9773eee2eea8dbf4",
+    "news_source": "Yahoo!ニュース"
+   },
+   {
+    "term": "反町隆史",
+    "traffic": "200+",
+    "news_title": "「ネタ切れ感すごい」の声も 『ウォーターボーイズ』復活…フジ“平成ヒット作再生”4作のシビアな現実（ピンズバNEWS）",
+    "news_url": "https://news.yahoo.co.jp/articles/4ac2797e61bd5c54f42c1f0fbad49a8cb6a254c3",
+    "news_source": "Yahoo!ニュース"
+   },
+   {
+    "term": "今村聖奈",
+    "traffic": "200+",
+    "news_title": "【秋華賞】（17）ロザーンジュ　内枠希望だったが…寺島師「追い切りからも行きっぷりが良くなっている」",
+    "news_url": "https://topics.smt.docomo.ne.jp/article/sponichi/sports/sponichi-spngoo-20261017-0043",
+    "news_source": "ｄメニューニュース"
+   },
+   {
+    "term": "10月17日 イベント",
     "traffic": "100+",
-    "news_title": "大原優乃が明かす俳優としての現在地――デビュー17年、全ての経験を糧に挑む「あにいもうと」（WEBザテレビジョン）",
-    "news_url": "https://news.yahoo.co.jp/articles/37b537b2ea84f161671a22636527347c1f0f95ae",
+    "news_title": "［10月17日/18日イベントまとめ］新潟大学で学園祭！「バッテリィズ」が新潟へ 華やかな「おしゃぎり」屋台…岩船大祭も",
+    "news_url": "https://www.niigata-nippo.co.jp/articles/-/921026",
+    "news_source": "新潟日報"
+   },
+   {
+    "term": "給食",
+    "traffic": "100+",
+    "news_title": "「あの量では足りない」札幌市の小学校給食が“少なすぎる”と波紋…1食382円は高い？安い？無償化と質の問題、センター化の功罪とは（ABEMA TIMES）",
+    "news_url": "https://news.yahoo.co.jp/articles/f3c06cc588381dedd55a83ed9bae7c168fb59a04",
     "news_source": "Yahoo!ニュース"
    }
   ],
   "x": [
    {
-    "term": "#現在この名前は使われておりません",
-    "hours": 23,
-    "best_rank": 1,
-    "url": "https://x.com/search?q=%23%E7%8F%BE%E5%9C%A8%E3%81%93%E3%81%AE%E5%90%8D%E5%89%8D%E3%81%AF%E4%BD%BF%E3%82%8F%E3%82%8C%E3%81%A6%E3%81%8A%E3%82%8A%E3%81%BE%E3%81%9B%E3%82%93"
-   },
-   {
-    "term": "ソースネクスト",
-    "hours": 20,
-    "best_rank": 6,
-    "url": "https://x.com/search?q=%E3%82%BD%E3%83%BC%E3%82%B9%E3%83%8D%E3%82%AF%E3%82%B9%E3%83%88"
-   },
-   {
-    "term": "シーモア",
-    "hours": 20,
-    "best_rank": 11,
-    "url": "https://x.com/search?q=%E3%82%B7%E3%83%BC%E3%83%A2%E3%82%A2"
-   },
-   {
-    "term": "三重振り子ゴルフ",
+    "term": "docomo",
     "hours": 18,
-    "best_rank": 2,
-    "url": "https://x.com/search?q=%E4%B8%89%E9%87%8D%E6%8C%AF%E3%82%8A%E5%AD%90%E3%82%B4%E3%83%AB%E3%83%95"
+    "best_rank": 3,
+    "url": "https://x.com/search?q=docomo"
    },
    {
-    "term": "名付け親",
-    "hours": 16,
+    "term": "緊急地震速報",
+    "hours": 17,
     "best_rank": 1,
-    "url": "https://x.com/search?q=%E5%90%8D%E4%BB%98%E3%81%91%E8%A6%AA"
+    "url": "https://x.com/search?q=%E7%B7%8A%E6%80%A5%E5%9C%B0%E9%9C%87%E9%80%9F%E5%A0%B1"
    },
    {
-    "term": "季節の言葉",
+    "term": "合計1,000名様",
+    "hours": 14,
+    "best_rank": 2,
+    "url": "https://x.com/search?q=%E5%90%88%E8%A8%881%2C000%E5%90%8D%E6%A7%98"
+   },
+   {
+    "term": "斉藤元代表",
+    "hours": 14,
+    "best_rank": 13,
+    "url": "https://x.com/search?q=%E6%96%89%E8%97%A4%E5%85%83%E4%BB%A3%E8%A1%A8"
+   },
+   {
+    "term": "コラボ限定グッズ",
+    "hours": 13,
+    "best_rank": 4,
+    "url": "https://x.com/search?q=%E3%82%B3%E3%83%A9%E3%83%9C%E9%99%90%E5%AE%9A%E3%82%B0%E3%83%83%E3%82%BA"
+   },
+   {
+    "term": "応募完了",
+    "hours": 13,
+    "best_rank": 6,
+    "url": "https://x.com/search?q=%E5%BF%9C%E5%8B%9F%E5%AE%8C%E4%BA%86"
+   },
+   {
+    "term": "シーサーちゃん",
     "hours": 12,
-    "best_rank": 3,
-    "url": "https://x.com/search?q=%E5%AD%A3%E7%AF%80%E3%81%AE%E8%A8%80%E8%91%89"
+    "best_rank": 4,
+    "url": "https://x.com/search?q=%E3%82%B7%E3%83%BC%E3%82%B5%E3%83%BC%E3%81%A1%E3%82%83%E3%82%93"
    },
    {
-    "term": "時刻の言葉",
+    "term": "コラボ記念CP",
     "hours": 12,
-    "best_rank": 3,
-    "url": "https://x.com/search?q=%E6%99%82%E5%88%BB%E3%81%AE%E8%A8%80%E8%91%89"
+    "best_rank": 5,
+    "url": "https://x.com/search?q=%E3%82%B3%E3%83%A9%E3%83%9C%E8%A8%98%E5%BF%B5CP"
    },
    {
-    "term": "ライブ音源",
-    "hours": 12,
-    "best_rank": 9,
-    "url": "https://x.com/search?q=%E3%83%A9%E3%82%A4%E3%83%96%E9%9F%B3%E6%BA%90"
-   },
-   {
-    "term": "陰キャ陽キャ診断",
+    "term": "最大2台",
     "hours": 11,
-    "best_rank": 10,
-    "url": "https://x.com/search?q=%E9%99%B0%E3%82%AD%E3%83%A3%E9%99%BD%E3%82%AD%E3%83%A3%E8%A8%BA%E6%96%AD"
+    "best_rank": 7,
+    "url": "https://x.com/search?q=%E6%9C%80%E5%A4%A72%E5%8F%B0"
    },
    {
-    "term": "陰キャ度",
+    "term": "iPhone Duo",
     "hours": 11,
-    "best_rank": 12,
-    "url": "https://x.com/search?q=%E9%99%B0%E3%82%AD%E3%83%A3%E5%BA%A6"
+    "best_rank": 11,
+    "url": "https://x.com/search?q=iPhone%20Duo"
    },
    {
-    "term": "陽キャ度",
+    "term": "CP実施中",
     "hours": 11,
     "best_rank": 13,
-    "url": "https://x.com/search?q=%E9%99%BD%E3%82%AD%E3%83%A3%E5%BA%A6"
+    "url": "https://x.com/search?q=CP%E5%AE%9F%E6%96%BD%E4%B8%AD"
    },
    {
-    "term": "日本列島",
-    "hours": 11,
-    "best_rank": 19,
-    "url": "https://x.com/search?q=%E6%97%A5%E6%9C%AC%E5%88%97%E5%B3%B6"
+    "term": "#ガチハンターメンタルでGET",
+    "hours": 10,
+    "best_rank": 1,
+    "url": "https://x.com/search?q=%23%E3%82%AC%E3%83%81%E3%83%8F%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%A1%E3%83%B3%E3%82%BF%E3%83%AB%E3%81%A7GET"
    },
    {
-    "term": "守護天節",
-    "hours": 11,
-    "best_rank": 21,
-    "url": "https://x.com/search?q=%E5%AE%88%E8%AD%B7%E5%A4%A9%E7%AF%80"
-   },
-   {
-    "term": "満塁ホームラン",
+    "term": "M9.9",
     "hours": 10,
     "best_rank": 2,
-    "url": "https://x.com/search?q=%E6%BA%80%E5%A1%81%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%A9%E3%83%B3"
+    "url": "https://x.com/search?q=M9.9"
    },
    {
-    "term": "セキュリティソフト",
+    "term": "サイバー攻撃",
     "hours": 10,
-    "best_rank": 18,
-    "url": "https://x.com/search?q=%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E3%82%BD%E3%83%95%E3%83%88"
-   },
-   {
-    "term": "ゴーストフィクサーズ",
-    "hours": 10,
-    "best_rank": 24,
-    "url": "https://x.com/search?q=%E3%82%B4%E3%83%BC%E3%82%B9%E3%83%88%E3%83%95%E3%82%A3%E3%82%AF%E3%82%B5%E3%83%BC%E3%82%BA"
-   },
-   {
-    "term": "ヒューゴ",
-    "hours": 9,
     "best_rank": 3,
-    "url": "https://x.com/search?q=%E3%83%92%E3%83%A5%E3%83%BC%E3%82%B4"
+    "url": "https://x.com/search?q=%E3%82%B5%E3%82%A4%E3%83%90%E3%83%BC%E6%94%BB%E6%92%83"
    },
    {
-    "term": "ブライト",
-    "hours": 9,
+    "term": "千島列島",
+    "hours": 10,
+    "best_rank": 3,
+    "url": "https://x.com/search?q=%E5%8D%83%E5%B3%B6%E5%88%97%E5%B3%B6"
+   },
+   {
+    "term": "サンクス",
+    "hours": 10,
+    "best_rank": 7,
+    "url": "https://x.com/search?q=%E3%82%B5%E3%83%B3%E3%82%AF%E3%82%B9"
+   },
+   {
+    "term": "階段降り",
+    "hours": 10,
+    "best_rank": 7,
+    "url": "https://x.com/search?q=%E9%9A%8E%E6%AE%B5%E9%99%8D%E3%82%8A"
+   },
+   {
+    "term": "インサイドヘッド2",
+    "hours": 10,
     "best_rank": 10,
-    "url": "https://x.com/search?q=%E3%83%96%E3%83%A9%E3%82%A4%E3%83%88"
+    "url": "https://x.com/search?q=%E3%82%A4%E3%83%B3%E3%82%B5%E3%82%A4%E3%83%89%E3%83%98%E3%83%83%E3%83%892"
    },
    {
-    "term": "うるう秒",
-    "hours": 9,
+    "term": "トクチャ",
+    "hours": 10,
+    "best_rank": 12,
+    "url": "https://x.com/search?q=%E3%83%88%E3%82%AF%E3%83%81%E3%83%A3"
+   },
+   {
+    "term": "私の合言葉",
+    "hours": 10,
+    "best_rank": 14,
+    "url": "https://x.com/search?q=%E7%A7%81%E3%81%AE%E5%90%88%E8%A8%80%E8%91%89"
+   },
+   {
+    "term": "絵描き歌",
+    "hours": 10,
     "best_rank": 15,
-    "url": "https://x.com/search?q=%E3%81%86%E3%82%8B%E3%81%86%E7%A7%92"
+    "url": "https://x.com/search?q=%E7%B5%B5%E6%8F%8F%E3%81%8D%E6%AD%8C"
    },
    {
-    "term": "うるう時",
-    "hours": 9,
-    "best_rank": 17,
-    "url": "https://x.com/search?q=%E3%81%86%E3%82%8B%E3%81%86%E6%99%82"
-   },
-   {
-    "term": "カスミソウ",
-    "hours": 9,
-    "best_rank": 17,
-    "url": "https://x.com/search?q=%E3%82%AB%E3%82%B9%E3%83%9F%E3%82%BD%E3%82%A6"
-   },
-   {
-    "term": "ひだまりの居場所",
-    "hours": 9,
+    "term": "お好み焼き",
+    "hours": 10,
     "best_rank": 18,
-    "url": "https://x.com/search?q=%E3%81%B2%E3%81%A0%E3%81%BE%E3%82%8A%E3%81%AE%E5%B1%85%E5%A0%B4%E6%89%80"
+    "url": "https://x.com/search?q=%E3%81%8A%E5%A5%BD%E3%81%BF%E7%84%BC%E3%81%8D"
    },
    {
-    "term": "第1729回",
-    "hours": 9,
+    "term": "パワーオブザデュエリスト",
+    "hours": 10,
     "best_rank": 19,
-    "url": "https://x.com/search?q=%E7%AC%AC1729%E5%9B%9E"
+    "url": "https://x.com/search?q=%E3%83%91%E3%83%AF%E3%83%BC%E3%82%AA%E3%83%96%E3%82%B6%E3%83%87%E3%83%A5%E3%82%A8%E3%83%AA%E3%82%B9%E3%83%88"
    },
    {
-    "term": "午後の光",
+    "term": "ガブちゃん",
+    "hours": 10,
+    "best_rank": 29,
+    "url": "https://x.com/search?q=%E3%82%AC%E3%83%96%E3%81%A1%E3%82%83%E3%82%93"
+   },
+   {
+    "term": "#橋本将生誕生祭2026",
     "hours": 9,
-    "best_rank": 19,
-    "url": "https://x.com/search?q=%E5%8D%88%E5%BE%8C%E3%81%AE%E5%85%89"
+    "best_rank": 1,
+    "url": "https://x.com/search?q=%23%E6%A9%8B%E6%9C%AC%E5%B0%86%E7%94%9F%E8%AA%95%E7%94%9F%E7%A5%AD2026"
    },
    {
-    "term": "#STARスター",
+    "term": "#LOST10",
+    "hours": 9,
+    "best_rank": 1,
+    "url": "https://x.com/search?q=%23LOST10"
+   },
+   {
+    "term": "マグニチュード9.9",
+    "hours": 9,
+    "best_rank": 4,
+    "url": "https://x.com/search?q=%E3%83%9E%E3%82%B0%E3%83%8B%E3%83%81%E3%83%A5%E3%83%BC%E3%83%899.9"
+   },
+   {
+    "term": "ジムシャニ",
+    "hours": 9,
+    "best_rank": 8,
+    "url": "https://x.com/search?q=%E3%82%B8%E3%83%A0%E3%82%B7%E3%83%A3%E3%83%8B"
+   },
+   {
+    "term": "ホットプレート",
+    "hours": 9,
+    "best_rank": 17,
+    "url": "https://x.com/search?q=%E3%83%9B%E3%83%83%E3%83%88%E3%83%97%E3%83%AC%E3%83%BC%E3%83%88"
+   },
+   {
+    "term": "ポケマル",
+    "hours": 9,
+    "best_rank": 21,
+    "url": "https://x.com/search?q=%E3%83%9D%E3%82%B1%E3%83%9E%E3%83%AB"
+   },
+   {
+    "term": "S.I.X",
+    "hours": 9,
+    "best_rank": 23,
+    "url": "https://x.com/search?q=S.I.X"
+   },
+   {
+    "term": "Clara",
     "hours": 8,
     "best_rank": 1,
-    "url": "https://x.com/search?q=%23STAR%E3%82%B9%E3%82%BF%E3%83%BC"
+    "url": "https://x.com/search?q=Clara"
    },
    {
-    "term": "#レコメン",
+    "term": "日本シリーズ",
     "hours": 8,
-    "best_rank": 3,
-    "url": "https://x.com/search?q=%23%E3%83%AC%E3%82%B3%E3%83%A1%E3%83%B3"
+    "best_rank": 6,
+    "url": "https://x.com/search?q=%E6%97%A5%E6%9C%AC%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA"
    },
    {
-    "term": "#ふたりの余韻診断",
-    "hours": 8,
-    "best_rank": 5,
-    "url": "https://x.com/search?q=%23%E3%81%B5%E3%81%9F%E3%82%8A%E3%81%AE%E4%BD%99%E9%9F%BB%E8%A8%BA%E6%96%AD"
-   },
-   {
-    "term": "ミルフィ",
-    "hours": 8,
-    "best_rank": 5,
-    "url": "https://x.com/search?q=%E3%83%9F%E3%83%AB%E3%83%95%E3%82%A3"
-   },
-   {
-    "term": "サトテル",
+    "term": "モンスト内",
     "hours": 8,
     "best_rank": 7,
-    "url": "https://x.com/search?q=%E3%82%B5%E3%83%88%E3%83%86%E3%83%AB"
+    "url": "https://x.com/search?q=%E3%83%A2%E3%83%B3%E3%82%B9%E3%83%88%E5%86%85"
    },
    {
-    "term": "インライ",
+    "term": "ハッキング",
+    "hours": 8,
+    "best_rank": 7,
+    "url": "https://x.com/search?q=%E3%83%8F%E3%83%83%E3%82%AD%E3%83%B3%E3%82%B0"
+   },
+   {
+    "term": "#夜と昼を別つ双子の片割れユル",
+    "hours": 8,
+    "best_rank": 8,
+    "url": "https://x.com/search?q=%23%E5%A4%9C%E3%81%A8%E6%98%BC%E3%82%92%E5%88%A5%E3%81%A4%E5%8F%8C%E5%AD%90%E3%81%AE%E7%89%87%E5%89%B2%E3%82%8C%E3%83%A6%E3%83%AB"
+   },
+   {
+    "term": "緊急速報",
     "hours": 8,
     "best_rank": 9,
-    "url": "https://x.com/search?q=%E3%82%A4%E3%83%B3%E3%83%A9%E3%82%A4"
+    "url": "https://x.com/search?q=%E7%B7%8A%E6%80%A5%E9%80%9F%E5%A0%B1"
    },
    {
-    "term": "メンヘラ診断",
+    "term": "私のスマホ",
     "hours": 8,
-    "best_rank": 22,
-    "url": "https://x.com/search?q=%E3%83%A1%E3%83%B3%E3%83%98%E3%83%A9%E8%A8%BA%E6%96%AD"
+    "best_rank": 16,
+    "url": "https://x.com/search?q=%E7%A7%81%E3%81%AE%E3%82%B9%E3%83%9E%E3%83%9B"
    },
    {
-    "term": "伴天連怪談",
+    "term": "第1730回",
+    "hours": 8,
+    "best_rank": 21,
+    "url": "https://x.com/search?q=%E7%AC%AC1730%E5%9B%9E"
+   },
+   {
+    "term": "不正アクセス",
     "hours": 8,
     "best_rank": 25,
-    "url": "https://x.com/search?q=%E4%BC%B4%E5%A4%A9%E9%80%A3%E6%80%AA%E8%AB%87"
-   },
-   {
-    "term": "遊佐さん",
-    "hours": 7,
-    "best_rank": 1,
-    "url": "https://x.com/search?q=%E9%81%8A%E4%BD%90%E3%81%95%E3%82%93"
-   },
-   {
-    "term": "#名付け",
-    "hours": 7,
-    "best_rank": 2,
-    "url": "https://x.com/search?q=%23%E5%90%8D%E4%BB%98%E3%81%91"
-   },
-   {
-    "term": "ボスの日",
-    "hours": 7,
-    "best_rank": 3,
-    "url": "https://x.com/search?q=%E3%83%9C%E3%82%B9%E3%81%AE%E6%97%A5"
-   },
-   {
-    "term": "黄泉のツガイ",
-    "hours": 7,
-    "best_rank": 3,
-    "url": "https://x.com/search?q=%E9%BB%84%E6%B3%89%E3%81%AE%E3%83%84%E3%82%AC%E3%82%A4"
-   },
-   {
-    "term": "バーガーキング",
-    "hours": 7,
-    "best_rank": 5,
-    "url": "https://x.com/search?q=%E3%83%90%E3%83%BC%E3%82%AC%E3%83%BC%E3%82%AD%E3%83%B3%E3%82%B0"
-   },
-   {
-    "term": "ラブリーズン",
-    "hours": 7,
-    "best_rank": 8,
-    "url": "https://x.com/search?q=%E3%83%A9%E3%83%96%E3%83%AA%E3%83%BC%E3%82%BA%E3%83%B3"
-   },
-   {
-    "term": "ツアマス",
-    "hours": 7,
-    "best_rank": 10,
-    "url": "https://x.com/search?q=%E3%83%84%E3%82%A2%E3%83%9E%E3%82%B9"
-   },
-   {
-    "term": "ラキドロ",
-    "hours": 7,
-    "best_rank": 11,
-    "url": "https://x.com/search?q=%E3%83%A9%E3%82%AD%E3%83%89%E3%83%AD"
+    "url": "https://x.com/search?q=%E4%B8%8D%E6%AD%A3%E3%82%A2%E3%82%AF%E3%82%BB%E3%82%B9"
    }
   ],
   "hatena": [
    {
-    "title": "「税金で買った本」の185話が1つの短編として完璧な内容だった・・・　「自殺する前に図書館へ」の真実と、それでも司書たちが“本の力”を信じる理由について - 頭の上にミカンをのせる",
-    "url": "https://www.tyoshiki.com/entry/2026/10/14/164520",
-    "users": 270
+    "title": "#20 初音ミクの声が、恥ずかしかった。｜ryo",
+    "url": "https://note.com/ryodayospcl/n/n8c1f82092fc0",
+    "users": 127
    },
    {
-    "title": "人間に生まれる確率",
-    "url": "https://yoshitakeapp.com/games/next-life-gacha/",
-    "users": 43
+    "title": "関西人「関東ってお好み焼きこんな切り方するん？」→関東人「関西、何人で食うんだ…？」→関西人「こいつ何言うてるんや？」→関東人「え？」関西人「え？」",
+    "url": "https://togetter.com/li/2759078",
+    "users": 69
    },
    {
-    "title": "本好きだとシェイクスピア読んでないと普通じゃないの？",
-    "url": "https://anond.hatelabo.jp/20261015230034",
-    "users": 116
+    "title": "ドコモからのお知らせ : 【お詫び】緊急地震速報（緊急速報「エリアメール」）が配信されなかった事象について | お知らせ | NTTドコモ",
+    "url": "https://www.docomo.ne.jp/info/notice/page/261016_00_m.html",
+    "users": 341
    },
    {
-    "title": "百合の間に挟まる梅田ダンジョン - 矢嶋こずみ / 読み切り作品 | 一迅プラス",
-    "url": "https://ichicomi.com/episode/12207421984354015835",
-    "users": 170
+    "title": "「マジでやばい、この見てみろ…」若き海外ニキが『釣りキチ三平』に気づく→日本のファンたちが素晴らしさを語りまくり、矢口高雄先生の娘さんも反応",
+    "url": "https://togetter.com/li/2758935",
+    "users": 234
    },
    {
-    "title": "アニアニした声優の喋り方ってポルノ要素満載なのよ。",
-    "url": "https://anond.hatelabo.jp/20261015123945",
-    "users": 172
+    "title": "12.ビリヤニは肉料理である ｜ カレー物語 ｜ 稲田俊輔 ｜ 連載 ｜ 考える人 ｜ 新潮社",
+    "url": "https://kangaeruhito.jp/article/764373",
+    "users": 211
    },
    {
-    "title": "大流行中の“リアル人生シミュレーター”、今度は動物版『人間に生まれる確率』登場。人間は1011億分の1、だいたいすぐ食われて死ぬ自然界ガチャ - AUTOMATON",
-    "url": "https://automaton-media.com/articles/newsjp/20261015-473620/",
-    "users": 35
+    "title": "Windows 11の大型アプデ「26H2」で、“メモリ使用量が激減した”と喜びの声相次ぐ。マイクロソフトも正式に改善報告、いっぱい使える - AUTOMATON",
+    "url": "https://automaton-media.com/articles/newsjp/20261016-473910/",
+    "users": 204
    },
    {
-    "title": "当社サイトへの不正アクセスによるお客様情報流出のお詫びとお知らせ｜ソースネクスト",
-    "url": "https://www.sourcenext.com/support/i/2026/1015_info/",
-    "users": 372
+    "title": "少女の裸体を、私たちはどう見ているのか―キャラクターアートとエロ｜うねこみ",
+    "url": "https://note.com/unekomi/n/na078ceb1c96f",
+    "users": 111
    },
    {
-    "title": "「もうヒートテックには戻れない」肌が弱い人にもおすすめのあったかインナーはこれだ",
-    "url": "https://togetter.com/li/2758124",
-    "users": 254
+    "title": "【重要】Linuxカーネルの脆弱性（CVE-2026-99999）に関する当社サービスへの影響について | さくらインターネット",
+    "url": "https://www.sakura.ad.jp/corporate/information/announcements/2026/10/16/1968226051/",
+    "users": 156
    },
    {
-    "title": "「UNIXという考え方」再考 | ドクセル",
-    "url": "https://www.docswell.com/s/Songmu/5WR64J-unix-philosophy",
-    "users": 35
+    "title": "1.カレーしか好きじゃなかった ｜ カレー物語 ｜ 稲田俊輔 ｜ 連載 ｜ 考える人 ｜ 新潮社",
+    "url": "https://kangaeruhito.jp/article/763731",
+    "users": 14
    },
    {
-    "title": "「一人称視点よりも三人称視点のほうが素早くゲームをクリアできる可能性」示す研究結果。“見渡せる強み”は速さのカギか - AUTOMATON",
-    "url": "https://automaton-media.com/articles/newsjp/20261015-473714/",
-    "users": 32
+    "title": "徳丸浩氏に聞く、タイムズカー事案から考えるユーザーデータ管理 保管場所と漏えいリスクの移転・回避、消去の判断体制",
+    "url": "https://unitis.jp/articles/24665/",
+    "users": 86
    },
    {
-    "title": "Claude Code 入門",
-    "url": "https://speakerdeck.com/nogu66/claude-code-nyuumon",
-    "users": 31
+    "title": "今ってアイドルでも普通に下積み10年あるのエグいよな MILKも新しい学校のリ..",
+    "url": "https://anond.hatelabo.jp/20261016190836",
+    "users": 8
    },
    {
-    "title": "トランプ大統領“死刑執行のライブ配信は中止” | NHKニュース",
-    "url": "https://news.web.nhk/newsweb/na/nd-20261016de60166",
-    "users": 33
+    "title": "ゴルゴ13が問い続ける“正義” | NHKニュース",
+    "url": "https://news.web.nhk/newsweb/na/nd-20261015de59562",
+    "users": 14
    },
    {
-    "title": "アイアムマイファザー(青年漫画賞・編集長賞)・アイアムマイファザー | ビッコミ（ビッグコミックス）",
-    "url": "https://bigcomics.jp/episodes/fdaebe87dbc1a",
-    "users": 54
+    "title": "【速報】りそな、ネット口座で免許写真の確認廃止へ",
+    "url": "https://www.47news.jp/15092320.html",
+    "users": 40
    },
    {
-    "title": "リーナス・トーバルズがClaude CodeなどのAIをバリバリ活用してLinuxカーネルの改善に取り組み中",
-    "url": "https://gigazine.net/news/20261016-linus-torvalds-claude-code/",
-    "users": 31
+    "title": "MADE IN YAMATO - 第２１話　激突！関東女子フィジーク後編 | ヤンマガWeb",
+    "url": "https://yanmaga.jp/viewer/comics/MADE_IN_YAMATO/a78eaef6b2eff16b9c382b9b7741f42d?cid=06A0000000001025113K",
+    "users": 36
    },
    {
-    "title": "国内で相次ぐWebシステムからの情報漏えい～ラックの観測から見える変化と、企業が今とるべき対策 | LAC WATCH",
-    "url": "https://www.lac.co.jp/lacwatch/alert/20261015_004996.html",
-    "users": 74
+    "title": "宝石のような青いハチ、美濃市にも　小１が発見、飼育中 | 岐阜新聞デジタル",
+    "url": "https://www.gifu-np.co.jp/articles/-/784103",
+    "users": 61
    },
    {
-    "title": "連続不正アクセス事案の攻撃手法に関する調査 - JPCERT/CC Eyes",
-    "url": "https://blogs.jpcert.or.jp/ja/2026/10/web_api_attacks.html",
-    "users": 172
+    "title": "首相、G7テレビ会議欠席を説明　回線業者の手配が間に合わず | NEWSjp",
+    "url": "https://news.jp/i/1483693070256783798",
+    "users": 308
    },
    {
-    "title": "ドイツ、13歳未満SNS禁止へ　メルツ政権が閣議決定 - 日本経済新聞",
-    "url": "https://www.nikkei.com/article/DGXZQOCB1508L0V11C26A0000000/",
-    "users": 22
+    "title": "王将社長射殺、暴力団幹部に無罪　求刑は無期懲役、京都地裁",
+    "url": "https://www.47news.jp/15090500.html",
+    "users": 27
    },
    {
-    "title": "千葉県内の小屋で性的暴行か　不同意性交致傷の疑い、トルコ国籍の男2人逮捕（千葉日報オンライン） - Yahoo!ニュース",
-    "url": "https://news.yahoo.co.jp/articles/00f8c6a6d8ba6609ed8bb21c99333b0a517f9019",
-    "users": 51
+    "title": "ソースネクスト パスワード暗号化がない状態で流出 再設定を | NHKニュース",
+    "url": "https://news.web.nhk/newsweb/na/nd-20261016de60556",
+    "users": 219
    },
    {
-    "title": "私にケツをくっつけてくつろいでた子犬が、帰宅した家族を出迎えるために離れて、出迎えが終わったらまたケツをくっつけにきた「これはすごい自慢話」",
-    "url": "https://togetter.com/li/2758485",
-    "users": 18
+    "title": "漏えいが起きたときに最初に読んでほしい章を、発売前に公開します - 思い出したいことがある",
+    "url": "https://www.seko-law.com/entry/reort",
+    "users": 56
    },
    {
-    "title": "サニーデイ・サービス - 2026/10/7 東京 Zepp Shinjuku ＜SUNNY DAY SERVICE TOUR 2025-2027＞ノーカット 4時間 完全版",
-    "url": "https://www.youtube.com/watch?v=8uwEWA8R9c8",
-    "users": 46
+    "title": "変な日本地図にツッコミが殺到してしまう「伊能忠敬の方がよっぽど正確」「沖縄の形が特に酷い」",
+    "url": "https://togetter.com/li/2759076",
+    "users": 29
    },
    {
-    "title": "自界隈が他界隈に石を投げて炎上した話",
-    "url": "https://anond.hatelabo.jp/20261005211631",
+    "title": "『カリアのアトリエ』、“ふっくらからスリムまで”体型変化システム実装決定。最大ふっくらはかなり本気、体型固定も完備 - AUTOMATON",
+    "url": "https://automaton-media.com/articles/newsjp/20261016-473996/",
     "users": 67
    },
    {
-    "title": "1億2380万分の1 ― 日本で生まれ、一度きりの人生を生きる",
-    "url": "https://rs-developing26.github.io/1oku2380man/",
-    "users": 315
+    "title": "大注目の美少女悪魔・酒飲みロシアンルーレット『PUKEY GODDESS SHOT TRICK』、体験版の一般公開を断念。“参加者を絞って”試遊会実施へ - AUTOMATON",
+    "url": "https://automaton-media.com/articles/newsjp/20261016-474004/",
+    "users": 30
    },
    {
-    "title": "元中日・ブライト健太が引退…うつ病を告白「大歓声の響く打席に戻りたかった」「正直今も戦ってます」「いつか元気な姿をお見せできたら」：中日スポーツ・東京中日スポーツ",
-    "url": "https://www.chunichi.co.jp/article/1325777",
-    "users": 7
+    "title": "Eストアー「ショップサーブ」不正アクセスによるサイバー攻撃の影響企業まとめ―最終報で約2,335万人の情報漏えい、7,858店舗が対象|セキュリティ対策Lab",
+    "url": "https://rocket-boys.co.jp/security-measures-lab/shopserve-data-breach-company-list-2026/",
+    "users": 22
    },
    {
-    "title": "帝国ホテルタワー館1階のテナントギャラリー展示について | お知らせ | 帝国ホテル 東京",
-    "url": "https://www.imperialhotel.co.jp/tokyo/news/caution-202610",
-    "users": 102
+    "title": "Windows PC向けNVIDIA製SoC「RTX Spark」の正体が明らかに。Microsoftと共同でゲームへの対応も進める",
+    "url": "https://www.4gamer.net/games/050/G105051/20261015021/",
+    "users": 14
    },
    {
-    "title": "データ転送ライブラリ「curl」に特定の条件でリモートからコードを実行される脆弱性／深刻度Highを含む24件の脆弱性を修正したv8.23.0が公開",
-    "url": "https://forest.watch.impress.co.jp/docs/news/2148495.html",
-    "users": 54
+    "title": "タイムズカー、退会後も7年間保管していた免許証画像を全削除へ　約660万アカウント分の漏えい受け",
+    "url": "https://www.itmedia.co.jp/news/article/2610/16/2000002346/",
+    "users": 135
    },
    {
-    "title": "反ワクチン「神真都Q会」代表理事ら男3人を逮捕　無認可の寄生虫感染症薬を郵送か",
-    "url": "https://www.sankei.com/article/20261015-NZQHCIWFYBNSZCEGFUYCHBWMYY/",
-    "users": 77
+    "title": "辺野古転覆　遺族の前に弁護士4人、交通事故基準で賠償交渉　学校側「お気持ち傷つけた」",
+    "url": "https://www.sankei.com/article/20261016-E6OLUC2PQ5KONFGJVRUP354GXU/",
+    "users": 124
    },
    {
-    "title": "386万台も売れた「フランスの国民車」が復活へ！ より小さく“激安”に 2028年デビューか シトロエン2CVコンセプト | 乗りものニュース",
-    "url": "https://trafficnews.jp/post/717583",
-    "users": 12
+    "title": "[15話]SATANICA - くろは | 少年ジャンプ＋",
+    "url": "https://shonenjumpplus.com/episode/9253191257227141174",
+    "users": 27
    },
    {
-    "title": "検事が容疑者に「ガキ」　違法取り調べ110万円賠償確定　最高裁 | 毎日新聞",
-    "url": "https://mainichi.jp/articles/20261015/k00/00m/040/244000c",
-    "users": 35
+    "title": "米産生鮮ジャガイモ「納得の合意なく輸入せず」　武部農相 - 日本経済新聞",
+    "url": "https://www.nikkei.com/article/DGXZQOUA163O50W6A011C2000000/",
+    "users": 123
    },
    {
-    "title": "子ども食堂をやっているというラーメン屋が「ごちそうさまくらい言え」と投稿→「教育してもらえる家庭の子はそもそも使う必要がない」などさまざまな意見が集まる",
-    "url": "https://togetter.com/li/2758581",
-    "users": 74
+    "title": "テスラが“空を飛ぶ”新型スポーツカー発表　逆さま走行に宙返り、まるでSF映画",
+    "url": "https://kai-you.net/article/96852",
+    "users": 347
    },
    {
-    "title": "ご報告（ジジ） - アルツハイマーとともに〜おママの貼り絵日記〜",
-    "url": "https://harienikki.hatenablog.com/entry/2026/10/16/013938",
-    "users": 12
+    "title": "消火器の設置場所がわかりづらいデザインでドヤ顔してる建築デザイナーを世界から絶滅させるための法整備が必要「点検の時に色々言われるからやめてほしい」",
+    "url": "https://togetter.com/li/2759007",
+    "users": 88
    },
    {
-    "title": "XBOX史上最小の「Nano コントローラー」11月発売！ポケットに収まる軽量・コンパクト設計 価格は8,000円",
-    "url": "https://game.watch.impress.co.jp/docs/news/2148257.html",
-    "users": 31
+    "title": "ゲームのグラフィックってなんでつまんなくなっちゃったの？",
+    "url": "https://anond.hatelabo.jp/20261016133847",
+    "users": 162
    },
    {
-    "title": "偽造マイナカード使って口座開設容疑　パソコンに他人の顔写真1千枚：朝日新聞",
-    "url": "https://www.asahi.com/articles/ASVBH2CTXVBHULOB013M.html",
-    "users": 87
+    "title": "「終末の氷河」の融解、従来の予想を上回る勢いで進行　「接地帯」の概念でモデルを調整",
+    "url": "https://www.cnn.co.jp/fringe/35253640.html",
+    "users": 52
    },
    {
-    "title": "AnthropicのBun、TypeScript 7よりも3倍以上高速なTypeScript型チェッカーを搭載。Bunの新バージョン1.4.3で",
-    "url": "https://www.publickey1.jp/blog/26/anthropicbuntypescript_73typescriptbun143.html",
-    "users": 5
+    "title": "Analyzing technical documents with Deep Review",
+    "url": "https://research.google/blog/analyzing-technical-documents-with-deep-review/",
+    "users": 13
    },
    {
-    "title": "ワールドガチャ｜架空の町をガチャで作ってマンガの背景に",
-    "url": "https://tools.oyasumi-gamedev.com/worldgacha/",
-    "users": 277
+    "title": "【速報】都構想初期費用、2.6倍の624億円",
+    "url": "https://www.47news.jp/15092191.html",
+    "users": 78
    },
    {
-    "title": "「Agoda使わないで」温泉旅館が注意喚起　観光庁の改善要請から1年半も...「CM流すより先にトラブル解決して」",
-    "url": "https://www.j-cast.com/2026/10/15518464.html?p=all",
-    "users": 98
+    "title": "高市総理のG7欠席に辻元氏「なぜあなただけ出なかった？」「世界の真ん中で咲き誇ると言っているが隅っこに追いやられる」…茂木大臣に「もういいって！」と“気迫で制止”する場面も（ABEMA TIMES） - Yahoo!ニュース",
+    "url": "https://news.yahoo.co.jp/articles/0b6b770c2c6a8bc1cf1c3fa25e3ba816ef0a2810",
+    "users": 14
    },
    {
-    "title": "ソースネクスト、最大2251万件の情報流出　パスワード再設定を",
-    "url": "https://www.watch.impress.co.jp/docs/news/2148547.html",
-    "users": 132
+    "title": "運動音痴がバッティングセンターでホームランを打つまでの9457球、132日、8万1400円 | オモコロ",
+    "url": "https://omocoro.jp/kiji/589782/",
+    "users": 481
    },
    {
-    "title": "なぜ今、“クラウド録画”なのか。パナソニックの新「全自動ディーガ」の詳細",
-    "url": "https://av.watch.impress.co.jp/docs/topic/2148483.html",
-    "users": 82
+    "title": "楽天モバイル、「iPhone Duo」の価格を発表　約43万円～",
+    "url": "https://k-tai.watch.impress.co.jp/docs/news/2148880.html",
+    "users": 21
    },
    {
-    "title": "Deploy with Void",
-    "url": "https://blog.cloudflare.com/deploy-with-void/",
-    "users": 5
+    "title": "川上拓斗審判員は意識回復　会話や食事も　家族からメッセージ「担当医師から『意識回復と見てよいでしょう』とご判断を」「『球場に戻って審判がしたい』と」【全文】 - スポーツ報知",
+    "url": "https://hochi.news/articles/20261016-OHT1T51110.html",
+    "users": 136
    },
    {
-    "title": "速くて安いAI「Jev」でQAを自動化してみた - every Tech Blog",
-    "url": "https://tech.every.tv/entry/2026/10/15/125805",
-    "users": 4
+    "title": "以前フランス人に「なぜ落語は、観客全員話のオチが分かっているのに成立するのか？」と聞かれたが、上手く答えられなかった話「落語はプロセスを話芸として堪能する」",
+    "url": "https://togetter.com/li/2758920",
+    "users": 123
    },
    {
-    "title": "Mitski独占インタビュー　日本で見つけた「つながり」──孤独と死、それでも生きること | Rolling Stone Japan(ローリングストーン ジャパン）",
-    "url": "https://rollingstonejapan.com/articles/detail/45607",
-    "users": 16
+    "title": "第210話 勝てないかも / レッドブルー - 波切敦 | サンデーうぇぶり",
+    "url": "https://www.sunday-webry.com/episode/12207421984387260490",
+    "users": 10
    }
   ]
  },
- "history_days": 5,
+ "history_days": 6,
  "history_since": "2026-10-12",
  "dates": [
+  "2026-10-17",
   "2026-10-16",
   "2026-10-15",
   "2026-10-14",
