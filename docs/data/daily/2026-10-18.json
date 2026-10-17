@@ -1,0 +1,521 @@
+{
+ "date": "2026-10-18",
+ "collected_at": "2026-10-18T07:57+09:00",
+ "errors": {},
+ "google": [
+  {
+   "term": "川上審判員",
+   "traffic": "1000+",
+   "news_title": "ソフトバンク・山本祐大 古巣との日本Sへ「やれる準備を」 当時、介抱した川上審判員の意識回復には笑顔（スポニチアネックス）",
+   "news_url": "https://news.yahoo.co.jp/articles/92e0d0341a9e32bfafa9f5df33017f1c2e1a73cb",
+   "news_source": "Yahoo!ニュース"
+  },
+  {
+   "term": "福生市",
+   "traffic": "200+",
+   "news_title": "",
+   "news_url": "",
+   "news_source": ""
+  },
+  {
+   "term": "逮捕",
+   "traffic": "200+",
+   "news_title": "上履きの中敷き盗んだか 男逮捕 中高で被害相次ぐ（FNNプライムオンライン（フジテレビ系））",
+   "news_url": "https://news.yahoo.co.jp/articles/3414aa94b298b8235bfdc097a695f67d1c03414d",
+   "news_source": "Yahoo!ニュース"
+  },
+  {
+   "term": "子役",
+   "traffic": "100+",
+   "news_title": "【LOST10】癒やし系小児科医役、まさかの“正体”にネット騒然「演技自然すぎ」「完全に俳優」",
+   "news_url": "https://topics.smt.docomo.ne.jp/article/encount/entertainment/encount-1083158?page=2",
+   "news_source": "ｄメニューニュース"
+  },
+  {
+   "term": "タイ王妃",
+   "traffic": "100+",
+   "news_title": "タイ王妃 自らの操縦で札幌に着陸 空軍などで訓練し免許取得 戦闘機の操縦も（テレビ朝日系（ANN））",
+   "news_url": "https://news.yahoo.co.jp/articles/3a49dd9d089d098d5c21ac3f1b0d9415e7cbb970",
+   "news_source": "Yahoo!ニュース"
+  },
+  {
+   "term": "クリミナル・マインド fbi行動分析課",
+   "traffic": "100+",
+   "news_title": "『クリミナル・マインド18 FBI行動分析課：エボリューション』12月12日（土）放送スタート！",
+   "news_url": "https://dramanavi.net/articles/340176",
+   "news_source": "海外ドラマNAVI"
+  },
+  {
+   "term": "ユーロ円",
+   "traffic": "100+",
+   "news_title": "ユーロ週間見通し：伸び悩みか、ユーロ売りで約1年ぶり安値圏も(フィスコ)",
+   "news_url": "https://finance.yahoo.co.jp/news/detail/06c21a7c59b91e505fe7850281881a3ec0140d8e",
+   "news_source": "Yahoo!ファイナンス"
+  },
+  {
+   "term": "東京マラソン",
+   "traffic": "100+",
+   "news_title": "",
+   "news_url": "",
+   "news_source": ""
+  },
+  {
+   "term": "訃報",
+   "traffic": "100+",
+   "news_title": "元Apink ソン・ナウン、母親が本日（10/17）死去…事務所がコメント（Kstyle）",
+   "news_url": "https://news.yahoo.co.jp/articles/943c0b1d05900c3f2a03ccaa48b584911e3c12fc",
+   "news_source": "Yahoo!ニュース"
+  },
+  {
+   "term": "ムーキー ベッツ",
+   "traffic": "100+",
+   "news_title": "「主導権を握らせてしまった」ドジャース、衝撃の3連敗でロバーツ監督に批判殺到か…米メディアが示唆「過度な積極性とその欠如が」（ベースボールチャンネル）",
+   "news_url": "https://news.yahoo.co.jp/articles/eaa7db6b68552327c96c680ff5b69e50555ffb7e",
+   "news_source": "Yahoo!ニュース"
+  }
+ ],
+ "x": [
+  {
+   "term": "ジェラードン",
+   "hours": 17,
+   "best_rank": 1,
+   "url": "https://x.com/search?q=%E3%82%B8%E3%82%A7%E3%83%A9%E3%83%BC%E3%83%89%E3%83%B3"
+  },
+  {
+   "term": "キングオブコント",
+   "hours": 17,
+   "best_rank": 1,
+   "url": "https://x.com/search?q=%E3%82%AD%E3%83%B3%E3%82%B0%E3%82%AA%E3%83%96%E3%82%B3%E3%83%B3%E3%83%88"
+  },
+  {
+   "term": "ヤッホイ",
+   "hours": 15,
+   "best_rank": 2,
+   "url": "https://x.com/search?q=%E3%83%A4%E3%83%83%E3%83%9B%E3%82%A4"
+  },
+  {
+   "term": "ビールかけ",
+   "hours": 12,
+   "best_rank": 25,
+   "url": "https://x.com/search?q=%E3%83%93%E3%83%BC%E3%83%AB%E3%81%8B%E3%81%91"
+  },
+  {
+   "term": "日本シリーズ",
+   "hours": 11,
+   "best_rank": 1,
+   "url": "https://x.com/search?q=%E6%97%A5%E6%9C%AC%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA"
+  },
+  {
+   "term": "#ホロ甲2026DAY1",
+   "hours": 11,
+   "best_rank": 3,
+   "url": "https://x.com/search?q=%23%E3%83%9B%E3%83%AD%E7%94%B22026DAY1"
+  },
+  {
+   "term": "#SixTONESANN",
+   "hours": 10,
+   "best_rank": 1,
+   "url": "https://x.com/search?q=%23SixTONESANN"
+  },
+  {
+   "term": "スパイシーガーリック",
+   "hours": 10,
+   "best_rank": 6,
+   "url": "https://x.com/search?q=%E3%82%B9%E3%83%91%E3%82%A4%E3%82%B7%E3%83%BC%E3%82%AC%E3%83%BC%E3%83%AA%E3%83%83%E3%82%AF"
+  },
+  {
+   "term": "#Venue101",
+   "hours": 9,
+   "best_rank": 2,
+   "url": "https://x.com/search?q=%23Venue101"
+  },
+  {
+   "term": "ムニョス",
+   "hours": 9,
+   "best_rank": 4,
+   "url": "https://x.com/search?q=%E3%83%A0%E3%83%8B%E3%83%A7%E3%82%B9"
+  },
+  {
+   "term": "バルコラ",
+   "hours": 9,
+   "best_rank": 4,
+   "url": "https://x.com/search?q=%E3%83%90%E3%83%AB%E3%82%B3%E3%83%A9"
+  },
+  {
+   "term": "堂前さん",
+   "hours": 9,
+   "best_rank": 10,
+   "url": "https://x.com/search?q=%E5%A0%82%E5%89%8D%E3%81%95%E3%82%93"
+  },
+  {
+   "term": "オンブズマン",
+   "hours": 9,
+   "best_rank": 12,
+   "url": "https://x.com/search?q=%E3%82%AA%E3%83%B3%E3%83%96%E3%82%BA%E3%83%9E%E3%83%B3"
+  },
+  {
+   "term": "複数年提示",
+   "hours": 9,
+   "best_rank": 21,
+   "url": "https://x.com/search?q=%E8%A4%87%E6%95%B0%E5%B9%B4%E6%8F%90%E7%A4%BA"
+  },
+  {
+   "term": "ななまがり",
+   "hours": 8,
+   "best_rank": 5,
+   "url": "https://x.com/search?q=%E3%81%AA%E3%81%AA%E3%81%BE%E3%81%8C%E3%82%8A"
+  },
+  {
+   "term": "ハモネプ",
+   "hours": 8,
+   "best_rank": 7,
+   "url": "https://x.com/search?q=%E3%83%8F%E3%83%A2%E3%83%8D%E3%83%97"
+  },
+  {
+   "term": "ハーランド",
+   "hours": 8,
+   "best_rank": 8,
+   "url": "https://x.com/search?q=%E3%83%8F%E3%83%BC%E3%83%A9%E3%83%B3%E3%83%89"
+  },
+  {
+   "term": "ヴィルツ",
+   "hours": 8,
+   "best_rank": 10,
+   "url": "https://x.com/search?q=%E3%83%B4%E3%82%A3%E3%83%AB%E3%83%84"
+  },
+  {
+   "term": "トロヴァトーレ",
+   "hours": 8,
+   "best_rank": 10,
+   "url": "https://x.com/search?q=%E3%83%88%E3%83%AD%E3%83%B4%E3%82%A1%E3%83%88%E3%83%BC%E3%83%AC"
+  },
+  {
+   "term": "阪神ファン",
+   "hours": 8,
+   "best_rank": 15,
+   "url": "https://x.com/search?q=%E9%98%AA%E7%A5%9E%E3%83%95%E3%82%A1%E3%83%B3"
+  },
+  {
+   "term": "木浪複数年",
+   "hours": 8,
+   "best_rank": 22,
+   "url": "https://x.com/search?q=%E6%9C%A8%E6%B5%AA%E8%A4%87%E6%95%B0%E5%B9%B4"
+  },
+  {
+   "term": "複数年契約",
+   "hours": 8,
+   "best_rank": 26,
+   "url": "https://x.com/search?q=%E8%A4%87%E6%95%B0%E5%B9%B4%E5%A5%91%E7%B4%84"
+  },
+  {
+   "term": "シュガークン",
+   "hours": 7,
+   "best_rank": 1,
+   "url": "https://x.com/search?q=%E3%82%B7%E3%83%A5%E3%82%AC%E3%83%BC%E3%82%AF%E3%83%B3"
+  },
+  {
+   "term": "トレモロ",
+   "hours": 7,
+   "best_rank": 7,
+   "url": "https://x.com/search?q=%E3%83%88%E3%83%AC%E3%83%A2%E3%83%AD"
+  },
+  {
+   "term": "チャーシュー12倍",
+   "hours": 7,
+   "best_rank": 8,
+   "url": "https://x.com/search?q=%E3%83%81%E3%83%A3%E3%83%BC%E3%82%B7%E3%83%A5%E3%83%BC12%E5%80%8D"
+  },
+  {
+   "term": "平田留任",
+   "hours": 7,
+   "best_rank": 12,
+   "url": "https://x.com/search?q=%E5%B9%B3%E7%94%B0%E7%95%99%E4%BB%BB"
+  },
+  {
+   "term": "ブレントフォード",
+   "hours": 7,
+   "best_rank": 14,
+   "url": "https://x.com/search?q=%E3%83%96%E3%83%AC%E3%83%B3%E3%83%88%E3%83%95%E3%82%A9%E3%83%BC%E3%83%89"
+  },
+  {
+   "term": "まふまふさん",
+   "hours": 7,
+   "best_rank": 18,
+   "url": "https://x.com/search?q=%E3%81%BE%E3%81%B5%E3%81%BE%E3%81%B5%E3%81%95%E3%82%93"
+  },
+  {
+   "term": "リーグ優勝",
+   "hours": 7,
+   "best_rank": 18,
+   "url": "https://x.com/search?q=%E3%83%AA%E3%83%BC%E3%82%B0%E5%84%AA%E5%8B%9D"
+  },
+  {
+   "term": "菓子の車",
+   "hours": 7,
+   "best_rank": 19,
+   "url": "https://x.com/search?q=%E8%8F%93%E5%AD%90%E3%81%AE%E8%BB%8A"
+  },
+  {
+   "term": "らぶフェス",
+   "hours": 7,
+   "best_rank": 33,
+   "url": "https://x.com/search?q=%E3%82%89%E3%81%B6%E3%83%95%E3%82%A7%E3%82%B9"
+  },
+  {
+   "term": "横浜優勝",
+   "hours": 6,
+   "best_rank": 1,
+   "url": "https://x.com/search?q=%E6%A8%AA%E6%B5%9C%E5%84%AA%E5%8B%9D"
+  },
+  {
+   "term": "カーインライジング",
+   "hours": 6,
+   "best_rank": 1,
+   "url": "https://x.com/search?q=%E3%82%AB%E3%83%BC%E3%82%A4%E3%83%B3%E3%83%A9%E3%82%A4%E3%82%B8%E3%83%B3%E3%82%B0"
+  },
+  {
+   "term": "#夜と昼を別つ双子の片割れアサ",
+   "hours": 6,
+   "best_rank": 1,
+   "url": "https://x.com/search?q=%23%E5%A4%9C%E3%81%A8%E6%98%BC%E3%82%92%E5%88%A5%E3%81%A4%E5%8F%8C%E5%AD%90%E3%81%AE%E7%89%87%E5%89%B2%E3%82%8C%E3%82%A2%E3%82%B5"
+  },
+  {
+   "term": "#ドラマ修学旅行",
+   "hours": 6,
+   "best_rank": 2,
+   "url": "https://x.com/search?q=%23%E3%83%89%E3%83%A9%E3%83%9E%E4%BF%AE%E5%AD%A6%E6%97%85%E8%A1%8C"
+  },
+  {
+   "term": "レイノルズ",
+   "hours": 6,
+   "best_rank": 2,
+   "url": "https://x.com/search?q=%E3%83%AC%E3%82%A4%E3%83%8E%E3%83%AB%E3%82%BA"
+  },
+  {
+   "term": "ベイスターズ",
+   "hours": 6,
+   "best_rank": 3,
+   "url": "https://x.com/search?q=%E3%83%99%E3%82%A4%E3%82%B9%E3%82%BF%E3%83%BC%E3%82%BA"
+  },
+  {
+   "term": "海野さん",
+   "hours": 6,
+   "best_rank": 4,
+   "url": "https://x.com/search?q=%E6%B5%B7%E9%87%8E%E3%81%95%E3%82%93"
+  },
+  {
+   "term": "ベティス",
+   "hours": 6,
+   "best_rank": 5,
+   "url": "https://x.com/search?q=%E3%83%99%E3%83%86%E3%82%A3%E3%82%B9"
+  },
+  {
+   "term": "ダウ90000",
+   "hours": 6,
+   "best_rank": 7,
+   "url": "https://x.com/search?q=%E3%83%80%E3%82%A690000"
+  }
+ ],
+ "hatena": [
+  {
+   "title": "ヘヤツクリ",
+   "url": "https://heyatsukuri.pages.dev/",
+   "users": 192
+  },
+  {
+   "title": "「東京駅周辺・地下通路完全網羅マップ」が完成しました！（4）完結編【全4回】｜さんたつ by 散歩の達人",
+   "url": "https://san-tatsu.jp/articles/555485/",
+   "users": 39
+  },
+  {
+   "title": "「金賞なのに『ダメ金』と呼ばれるなんて…」吹奏楽コンクールの不可解な慣習に疑問の声…なぜ金賞でも上位大会に進めない？ 吹奏楽関係者にきいた | 集英社オンライン",
+   "url": "https://shueisha.online/articles/-/258851",
+   "users": 196
+  },
+  {
+   "title": "「良い男が少なすぎて良い女が結婚できない」的な意見、普通に間違ってない？",
+   "url": "https://anond.hatelabo.jp/20261017100947",
+   "users": 261
+  },
+  {
+   "title": "オルクセンがダークファンタジーなわけねーだろ - WINDBIRD::ライトノベルブログ",
+   "url": "https://kazenotori.hatenablog.com/entry/2026/10/18/003610",
+   "users": 55
+  },
+  {
+   "title": "地元の歴史、どこまで知っていますか？ | ローカルヒストリア",
+   "url": "https://local-historia.jp/",
+   "users": 421
+  },
+  {
+   "title": "サブカルに限らずジャンルを背負ったタイトルの必読リストみたいなものはたいていツラい：ロマン優光連載413",
+   "url": "https://bunkaonline.jp/archives/9210",
+   "users": 16
+  },
+  {
+   "title": "「これ、署名記事だよね？何のことですかこれ？」片山財務相、日経記者を「激詰め」　G20報道で対立、日経側も回答",
+   "url": "https://www.j-cast.com/2026/10/16518530.html?p=all",
+   "users": 33
+  },
+  {
+   "title": "悪目立ちするほどダサいならともかく、今の子って母親におしゃれまで求め..",
+   "url": "https://anond.hatelabo.jp/20261017092115",
+   "users": 18
+  },
+  {
+   "title": "清水ミチコのHAPPY PARADISE スペシャルオープニング映像 対決 小池百合子東京都知事 VS 高市早苗内閣総理大臣",
+   "url": "https://www.youtube.com/watch?v=hgwtY4OWtpM",
+   "users": 33
+  },
+  {
+   "title": "40代プチプラコーデを投稿したアフィリエターが「芋い」「体型は大事」「40代になるのが怖くなった」「20代からファッションに関心持って学んでいればこうはならない」と大バッシング",
+   "url": "https://posfie.com/@kekkonshimasita/p/nfRg4Fs",
+   "users": 157
+  },
+  {
+   "title": "「キングオブコント2026」ジェラードンが優勝、19代目王者に - お笑いナタリー",
+   "url": "https://natalie.mu/owarai/news/694149",
+   "users": 50
+  },
+  {
+   "title": "どの州で司法試験に合格したか問われ、米大統領報道官「中国に移住したとき」…就任５日で退任へ",
+   "url": "https://www.yomiuri.co.jp/world/20261017-GYT1T00282/",
+   "users": 31
+  },
+  {
+   "title": "Linuxカーネルの深刻な脆弱性「PwnEscape」（CVE-2026-99999）、ゲストの仮想マシンからホスト側Linux OSに不正なコードを実行できる可能性",
+   "url": "https://www.publickey1.jp/blog/26/linuxpwnescapecve-2026-99999linux_os.html",
+   "users": 16
+  },
+  {
+   "title": "[第１２６話]ふつうの軽音部 - クワハリ/出内テツオ | 少年ジャンプ＋",
+   "url": "https://shonenjumpplus.com/episode/9253191257227141488",
+   "users": 50
+  },
+  {
+   "title": "岸和田だんじり祭り世話人が明かす地元民の感覚「命を落とすことは格闘技と同じで自己責任」「私が屋根に乗る役で死んだら親はお詫び行脚すると思う」 | デイリー新潮",
+   "url": "https://www.dailyshincho.jp/article/2026/10170501/",
+   "users": 202
+  },
+  {
+   "title": "ソースネクスト　暗号化されていないパスワードが流出した理由とは（山口健太） - エキスパート - Yahoo!ニュース",
+   "url": "https://news.yahoo.co.jp/expert/articles/b3e710c60d79d276a00321906fa87ac9243f5530",
+   "users": 200
+  },
+  {
+   "title": "マタギドライヴへの道 - ニューロサイエンスとマーケティングの間 - Between Neuroscience and Marketing",
+   "url": "https://kaz-ataka.hatenablog.com/entry/2026/10/17/173432",
+   "users": 7
+  },
+  {
+   "title": "共産主義に「独裁的な抑圧社会」印象を懸念　山添拓氏、綱領改定で「レッテルはがしたい」",
+   "url": "https://www.sankei.com/article/20261017-HZWSZZMGNNECLAZCPURUAQ7FKI/",
+   "users": 102
+  },
+  {
+   "title": "同志社国際高・助成金削減　「権力の教育介入」と抗議　府民らデモ行進　／京都 | 毎日新聞",
+   "url": "https://mainichi.jp/articles/20261017/ddl/k26/040/193000c",
+   "users": 51
+  },
+  {
+   "title": "「砂の惑星」とはなんだったのか【MV・歌詞　考察】｜𝑎𝑖𝑛𝑖𝑔𝑚𝑎",
+   "url": "https://note.com/sight/n/nff7c26550916",
+   "users": 10
+  },
+  {
+   "title": "AI駆動PMの組織でのはじめかた｜すぅ | AI駆動PM",
+   "url": "https://note.com/suh_sunaneko/n/n23ed6981ff6a",
+   "users": 88
+  },
+  {
+   "title": "AnthropicのAI時代のコードレビュー術 - Claude Codeによる自動レビューと人間の役割｜npaka",
+   "url": "https://note.com/npaka/n/ndb4b0f424ced",
+   "users": 12
+  },
+  {
+   "title": "GitHub - google-research/harness2",
+   "url": "https://github.com/google-research/harness2",
+   "users": 112
+  },
+  {
+   "title": "亡くなった声優の声、AIでの再現は原則禁止　日俳連が新指針",
+   "url": "https://japan.cnet.com/article/35253656/",
+   "users": 164
+  },
+  {
+   "title": "パスタを折って入れるって日本食に例えるとどれくらいの大罪なのか気になる→思いつく限りの罪が集まってくる「寿司を一口で食べないのは罪レベル高そう」",
+   "url": "https://togetter.com/li/2759328",
+   "users": 99
+  },
+  {
+   "title": "コード系でOpus 5超え「DeepSeek-V4.1-Flash-1017」無償公開",
+   "url": "https://pc.watch.impress.co.jp/docs/news/2149045.html",
+   "users": 30
+  },
+  {
+   "title": "いつでも税別5,800円で泊まれるホテルAZが急拡大している理由は「気軽に旅行できる日本」を目指す経営方針にある「まじで便利」「関東の方にもぜひ」",
+   "url": "https://togetter.com/li/2759311",
+   "users": 109
+  },
+  {
+   "title": "【タイ王妃】自ら航空機を操縦し来日 戦闘機の操縦訓練も",
+   "url": "https://www.youtube.com/watch?v=cPVhBmvg4Rk",
+   "users": 128
+  },
+  {
+   "title": "Windows11アップデート: 右クリックメニューを高速化する方法 #Windows - いおりのパソコン技術メモ",
+   "url": "https://iori016.hatenablog.com/entry/2025/11/02/110654",
+   "users": 4
+  },
+  {
+   "title": "[第6画目]イッピツアヤル - 横山左 | 少年ジャンプ＋",
+   "url": "https://shonenjumpplus.com/episode/9253191257227141977",
+   "users": 23
+  },
+  {
+   "title": "ドコモの緊急地震速報不配、原因は「形式が異なるデータ」を認識できなかったため。 - すまほん!!",
+   "url": "https://smhn.info/202610-docomo-eew-area-mail-cause-data-format",
+   "users": 17
+  },
+  {
+   "title": "フランスとドイツ、日本で生産のＥＶは優遇措置の対象外とする方針で合意…ＥＵが検討の法案の行方に影響か",
+   "url": "https://www.yomiuri.co.jp/economy/20261017-GYT1T00103/",
+   "users": 23
+  },
+  {
+   "title": "日本全国の区市町村の歴史を時系列で網羅した「ローカルヒストリア」が夜ふかししても見てしまうくらいに面白い「ウチってこんな歴史なんだ」「まだ準備中！？」",
+   "url": "https://togetter.com/li/2759373",
+   "users": 48
+  },
+  {
+   "title": "普天間のオスプレイ容認で方針転換　沖縄県の古謝知事が安全保障政策で現実路線に",
+   "url": "https://www.sankei.com/article/20261016-5ECA4USUA5LDHEFWQ2RQNDWIDY/",
+   "users": 16
+  },
+  {
+   "title": "人による工数見積もりをやめて、AIに任せることにした - TANP Blog",
+   "url": "https://www.tanp-blog.com/entry/2026/10/15/110018",
+   "users": 57
+  },
+  {
+   "title": "ドコモからのお知らせ : 【お詫び/対応完了】緊急地震速報（緊急速報「エリアメール」）が配信されなかった事象について（10月17日午後7時04分時点） | お知らせ | NTTドコモ",
+   "url": "https://www.docomo.ne.jp/info/notice/page/261017_01_m.html",
+   "users": 38
+  },
+  {
+   "title": "[第25話]無敵のスバル - 成田成哲 | 少年ジャンプ＋",
+   "url": "https://shonenjumpplus.com/episode/9253191257227141756",
+   "users": 20
+  },
+  {
+   "title": "男性向けを女性は読むけど女性向けを男性はほぼ読まない問題、女性向けとされているものが恋愛(日常、オフィスなど…)に集約されすぎてるのが一因だとと思う それ以外のバトル、冒険、青春とかを読みたい女性読者が大量に少年誌に流れ込んでる現状、本質は「女性すら女性向けを読まない」じゃない？→「恐らく一昔前なら女性向けだったろうなって作品が少年誌で出てるんですよね。フリーレンとかまさに」",
+   "url": "https://posfie.com/@petaritape/p/uZFC6u9",
+   "users": 198
+  },
+  {
+   "title": "「コレは事実と異なりませんか？」創価学会青年部公式Xがお布施にあたる「財務」について「強制や額の指定はない」と投稿したら、反論が集まり賛否両論に",
+   "url": "https://togetter.com/li/2759370",
+   "users": 71
+  }
+ ]
+}
