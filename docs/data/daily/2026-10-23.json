@@ -1,0 +1,521 @@
+{
+ "date": "2026-10-23",
+ "collected_at": "2026-10-23T08:55+09:00",
+ "errors": {},
+ "google": [
+  {
+   "term": "瀬戸康史",
+   "traffic": "20000+",
+   "news_title": "あさイチ＞10月23日は瀬戸康史が生出演 “パパ仲間”俳優が明かす家族思いの一面 きゃりーぱみゅぱみゅの生パフォーマンスも（毎日キレイ）",
+   "news_url": "https://news.yahoo.co.jp/articles/11481cf9ccfc0db8d6586fa65b618fcb90c340a5",
+   "news_source": "Yahoo!ニュース"
+  },
+  {
+   "term": "小栗旬",
+   "traffic": "5000+",
+   "news_title": "",
+   "news_url": "",
+   "news_source": ""
+  },
+  {
+   "term": "ブラッサム あらすじ",
+   "traffic": "5000+",
+   "news_title": "「ブラッサム」東京編開幕にネット沸く！珠＆保が再会「爆速告白w」土橋風子・尾野真千子と“出会い”も（スポニチアネックス）",
+   "news_url": "https://news.yahoo.co.jp/articles/7ca1899c180ab664acababa53bd2392fe7c910b5",
+   "news_source": "Yahoo!ニュース"
+  },
+  {
+   "term": "新生銀行",
+   "traffic": "2000+",
+   "news_title": "運転免許証でのオンライン本人確認、大手金融機関が前倒しで廃止…情報漏えい相次ぎマイナカードに切り替え急ぐ",
+   "news_url": "https://www.yomiuri.co.jp/economy/20261022-GYT1T00285/",
+   "news_source": "読売新聞"
+  },
+  {
+   "term": "iphoneデュオ",
+   "traffic": "500+",
+   "news_title": "折りたたみスマホ、長所と短所は？ 日常使いの記者4人が本音で検証",
+   "news_url": "https://www.nikkei.com/article/DGXZQOUC148NQ0U6A011C2000000/",
+   "news_source": "日本経済新聞"
+  },
+  {
+   "term": "ソフビ",
+   "traffic": "500+",
+   "news_title": "「サンリオキャラクターズ よいこのソフビマスコット」2027年2月発売予定",
+   "news_url": "https://prtimes.jp/main/html/rd/p/000000155.000166988.html",
+   "news_source": "PR TIMES"
+  },
+  {
+   "term": "76ers vs cavaliers",
+   "traffic": "200+",
+   "news_title": "Whats to watch 76ers vs Cavaliers Live Streams",
+   "news_url": "https://www.hrr.mlit.go.jp/chokoku/hatizyuuri/progress/pannellum/pannellum.htm?config=/%5C%2Fvempires.github.io%2FESPN.TV%2Fnhl%2Fpannellum.json?ers-vs-cavaliers-live-streams-espn-10bml",
+   "news_source": "北陸地方整備局"
+  },
+  {
+   "term": "ウォーレン・バフェット",
+   "traffic": "200+",
+   "news_title": "ウォーレン・バフェットの古典的なアドバイスは今なお有効…「S&P500を買い、仕事に戻る」（海外）",
+   "news_url": "https://news.yahoo.co.jp/articles/2b30ada886762d00a3c4f43c9ed81e66d3cbe08d",
+   "news_source": "Yahoo!ニュース"
+  },
+  {
+   "term": "nhk bs8k",
+   "traffic": "100+",
+   "news_title": "NHKがBS放送の再編検討、8K放送の存廃が焦点 中期経営計画案",
+   "news_url": "https://news.yahoo.co.jp/pickup/6599756",
+   "news_source": "Yahoo!ニュース"
+  },
+  {
+   "term": "tom skerritt",
+   "traffic": "100+",
+   "news_title": "Tom Skerritt, Who Had Key Roles in ‘Picket Fences’ and ‘Top Gun,’ Dies at 93",
+   "news_url": "https://www.nytimes.com/2026/10/22/arts/television/tom-skerritt-dead.html",
+   "news_source": "The New York Times"
+  }
+ ],
+ "x": [
+  {
+   "term": "追加きせかえの封印",
+   "hours": 20,
+   "best_rank": 7,
+   "url": "https://x.com/search?q=%E8%BF%BD%E5%8A%A0%E3%81%8D%E3%81%9B%E3%81%8B%E3%81%88%E3%81%AE%E5%B0%81%E5%8D%B0"
+  },
+  {
+   "term": "ryoさん",
+   "hours": 18,
+   "best_rank": 11,
+   "url": "https://x.com/search?q=ryo%E3%81%95%E3%82%93"
+  },
+  {
+   "term": "NTEミントきせかえ",
+   "hours": 18,
+   "best_rank": 17,
+   "url": "https://x.com/search?q=NTE%E3%83%9F%E3%83%B3%E3%83%88%E3%81%8D%E3%81%9B%E3%81%8B%E3%81%88"
+  },
+  {
+   "term": "NTEレクイエムきせかえ",
+   "hours": 18,
+   "best_rank": 18,
+   "url": "https://x.com/search?q=NTE%E3%83%AC%E3%82%AF%E3%82%A4%E3%82%A8%E3%83%A0%E3%81%8D%E3%81%9B%E3%81%8B%E3%81%88"
+  },
+  {
+   "term": "中学生指名",
+   "hours": 17,
+   "best_rank": 2,
+   "url": "https://x.com/search?q=%E4%B8%AD%E5%AD%A6%E7%94%9F%E6%8C%87%E5%90%8D"
+  },
+  {
+   "term": "Legends",
+   "hours": 17,
+   "best_rank": 21,
+   "url": "https://x.com/search?q=Legends"
+  },
+  {
+   "term": "Lila",
+   "hours": 16,
+   "best_rank": 1,
+   "url": "https://x.com/search?q=Lila"
+  },
+  {
+   "term": "Clara",
+   "hours": 16,
+   "best_rank": 1,
+   "url": "https://x.com/search?q=Clara"
+  },
+  {
+   "term": "織田くん",
+   "hours": 16,
+   "best_rank": 2,
+   "url": "https://x.com/search?q=%E7%B9%94%E7%94%B0%E3%81%8F%E3%82%93"
+  },
+  {
+   "term": "ドラフト",
+   "hours": 15,
+   "best_rank": 1,
+   "url": "https://x.com/search?q=%E3%83%89%E3%83%A9%E3%83%95%E3%83%88"
+  },
+  {
+   "term": "育成指名",
+   "hours": 15,
+   "best_rank": 5,
+   "url": "https://x.com/search?q=%E8%82%B2%E6%88%90%E6%8C%87%E5%90%8D"
+  },
+  {
+   "term": "モンゴル",
+   "hours": 15,
+   "best_rank": 12,
+   "url": "https://x.com/search?q=%E3%83%A2%E3%83%B3%E3%82%B4%E3%83%AB"
+  },
+  {
+   "term": "リョウガさん",
+   "hours": 14,
+   "best_rank": 2,
+   "url": "https://x.com/search?q=%E3%83%AA%E3%83%A7%E3%82%A6%E3%82%AC%E3%81%95%E3%82%93"
+  },
+  {
+   "term": "あなたの角度感覚",
+   "hours": 14,
+   "best_rank": 8,
+   "url": "https://x.com/search?q=%E3%81%82%E3%81%AA%E3%81%9F%E3%81%AE%E8%A7%92%E5%BA%A6%E6%84%9F%E8%A6%9A"
+  },
+  {
+   "term": "中国政府系",
+   "hours": 14,
+   "best_rank": 11,
+   "url": "https://x.com/search?q=%E4%B8%AD%E5%9B%BD%E6%94%BF%E5%BA%9C%E7%B3%BB"
+  },
+  {
+   "term": "ポケミク",
+   "hours": 14,
+   "best_rank": 12,
+   "url": "https://x.com/search?q=%E3%83%9D%E3%82%B1%E3%83%9F%E3%82%AF"
+  },
+  {
+   "term": "#レコメン",
+   "hours": 13,
+   "best_rank": 1,
+   "url": "https://x.com/search?q=%23%E3%83%AC%E3%82%B3%E3%83%A1%E3%83%B3"
+  },
+  {
+   "term": "#HAPPY_RYOGA_DAY",
+   "hours": 13,
+   "best_rank": 3,
+   "url": "https://x.com/search?q=%23HAPPY_RYOGA_DAY"
+  },
+  {
+   "term": "チェックメイト",
+   "hours": 13,
+   "best_rank": 9,
+   "url": "https://x.com/search?q=%E3%83%81%E3%82%A7%E3%83%83%E3%82%AF%E3%83%A1%E3%82%A4%E3%83%88"
+  },
+  {
+   "term": "鮮ど市場",
+   "hours": 13,
+   "best_rank": 11,
+   "url": "https://x.com/search?q=%E9%AE%AE%E3%81%A9%E5%B8%82%E5%A0%B4"
+  },
+  {
+   "term": "私のアニメキャラクター",
+   "hours": 12,
+   "best_rank": 12,
+   "url": "https://x.com/search?q=%E7%A7%81%E3%81%AE%E3%82%A2%E3%83%8B%E3%83%A1%E3%82%AD%E3%83%A3%E3%83%A9%E3%82%AF%E3%82%BF%E3%83%BC"
+  },
+  {
+   "term": "米津さん",
+   "hours": 12,
+   "best_rank": 14,
+   "url": "https://x.com/search?q=%E7%B1%B3%E6%B4%A5%E3%81%95%E3%82%93"
+  },
+  {
+   "term": "角度の達人",
+   "hours": 12,
+   "best_rank": 15,
+   "url": "https://x.com/search?q=%E8%A7%92%E5%BA%A6%E3%81%AE%E9%81%94%E4%BA%BA"
+  },
+  {
+   "term": "第1736回",
+   "hours": 12,
+   "best_rank": 18,
+   "url": "https://x.com/search?q=%E7%AC%AC1736%E5%9B%9E"
+  },
+  {
+   "term": "シュスエビ",
+   "hours": 12,
+   "best_rank": 26,
+   "url": "https://x.com/search?q=%E3%82%B7%E3%83%A5%E3%82%B9%E3%82%A8%E3%83%93"
+  },
+  {
+   "term": "ソフトバンク",
+   "hours": 11,
+   "best_rank": 3,
+   "url": "https://x.com/search?q=%E3%82%BD%E3%83%95%E3%83%88%E3%83%90%E3%83%B3%E3%82%AF"
+  },
+  {
+   "term": "ぱしゃっつ",
+   "hours": 11,
+   "best_rank": 22,
+   "url": "https://x.com/search?q=%E3%81%B1%E3%81%97%E3%82%83%E3%81%A3%E3%81%A4"
+  },
+  {
+   "term": "強行指名",
+   "hours": 10,
+   "best_rank": 4,
+   "url": "https://x.com/search?q=%E5%BC%B7%E8%A1%8C%E6%8C%87%E5%90%8D"
+  },
+  {
+   "term": "単独チャンネル開設",
+   "hours": 10,
+   "best_rank": 9,
+   "url": "https://x.com/search?q=%E5%8D%98%E7%8B%AC%E3%83%81%E3%83%A3%E3%83%B3%E3%83%8D%E3%83%AB%E9%96%8B%E8%A8%AD"
+  },
+  {
+   "term": "ブヨトピア",
+   "hours": 10,
+   "best_rank": 19,
+   "url": "https://x.com/search?q=%E3%83%96%E3%83%A8%E3%83%88%E3%83%94%E3%82%A2"
+  },
+  {
+   "term": "メジャー",
+   "hours": 9,
+   "best_rank": 7,
+   "url": "https://x.com/search?q=%E3%83%A1%E3%82%B8%E3%83%A3%E3%83%BC"
+  },
+  {
+   "term": "ジャイアンツ",
+   "hours": 9,
+   "best_rank": 7,
+   "url": "https://x.com/search?q=%E3%82%B8%E3%83%A3%E3%82%A4%E3%82%A2%E3%83%B3%E3%83%84"
+  },
+  {
+   "term": "韓国活動",
+   "hours": 9,
+   "best_rank": 9,
+   "url": "https://x.com/search?q=%E9%9F%93%E5%9B%BD%E6%B4%BB%E5%8B%95"
+  },
+  {
+   "term": "リアルカード",
+   "hours": 9,
+   "best_rank": 30,
+   "url": "https://x.com/search?q=%E3%83%AA%E3%82%A2%E3%83%AB%E3%82%AB%E3%83%BC%E3%83%89"
+  },
+  {
+   "term": "メジャーデビュー6周年",
+   "hours": 9,
+   "best_rank": 35,
+   "url": "https://x.com/search?q=%E3%83%A1%E3%82%B8%E3%83%A3%E3%83%BC%E3%83%87%E3%83%93%E3%83%A5%E3%83%BC6%E5%91%A8%E5%B9%B4"
+  },
+  {
+   "term": "#正源司陽子ANNX",
+   "hours": 8,
+   "best_rank": 3,
+   "url": "https://x.com/search?q=%23%E6%AD%A3%E6%BA%90%E5%8F%B8%E9%99%BD%E5%AD%90ANNX"
+  },
+  {
+   "term": "#ホロ鯖かくれんぼ",
+   "hours": 8,
+   "best_rank": 3,
+   "url": "https://x.com/search?q=%23%E3%83%9B%E3%83%AD%E9%AF%96%E3%81%8B%E3%81%8F%E3%82%8C%E3%82%93%E3%81%BC"
+  },
+  {
+   "term": "キャッチャー",
+   "hours": 8,
+   "best_rank": 3,
+   "url": "https://x.com/search?q=%E3%82%AD%E3%83%A3%E3%83%83%E3%83%81%E3%83%A3%E3%83%BC"
+  },
+  {
+   "term": "仁人くん",
+   "hours": 8,
+   "best_rank": 10,
+   "url": "https://x.com/search?q=%E4%BB%81%E4%BA%BA%E3%81%8F%E3%82%93"
+  },
+  {
+   "term": "Ethan",
+   "hours": 8,
+   "best_rank": 11,
+   "url": "https://x.com/search?q=Ethan"
+  }
+ ],
+ "hatena": [
+  {
+   "title": "デジタル庁HPの問い合わせ内容漏洩か　最大1万3000件以上",
+   "url": "https://news.tv-asahi.co.jp/news_economy/articles/000542237.html",
+   "users": 161
+  },
+  {
+   "title": "上場企業の経営論点（1673〜2026年）",
+   "url": "https://the-shashi.com/issue/",
+   "users": 69
+  },
+  {
+   "title": "PHP 8.5.12の緊急リリースにpixivはどう対応したか - pixiv inside",
+   "url": "https://inside.pixiv.blog/2026/10/22/193321",
+   "users": 612
+  },
+  {
+   "title": "これがPHPの脆弱性を呟いてしまった人か。マジで全世界をデスマに叩き落とした人として後世に語り継がれると思う",
+   "url": "https://posfie.com/@golden_haniwa/p/LQ90sis",
+   "users": 189
+  },
+  {
+   "title": "【速報】中国政府系がAIで攻撃、MSが発表",
+   "url": "https://www.47news.jp/15123221.html",
+   "users": 182
+  },
+  {
+   "title": "ゲームフリーク社員と東大教授が「水表現を美しいまま軽くする新技術」発表。計算負荷だけごっそり削減、水シミュレーション高速化 - AUTOMATON",
+   "url": "https://automaton-media.com/articles/newsjp/20261022-475027/",
+   "users": 186
+  },
+  {
+   "title": "YOASOBI幾田りらの路上ライブが暴いた「再生数と集客」の残酷なギャップ。再生100億回でも札幌ドームが埋まらず… | 日刊SPA!",
+   "url": "https://nikkan-spa.jp/2191630",
+   "users": 192
+  },
+  {
+   "title": "異例の訪問　自民党の会合にチームみらいの安野党首が出席",
+   "url": "https://news.tv-asahi.co.jp/news_politics/articles/000542124.html",
+   "users": 144
+  },
+  {
+   "title": "Claude Opus 5.5でいい感じのアクションゲームを作るための一工夫七つ - ABAの日誌",
+   "url": "https://aba.hatenablog.com/entry/2026/10/22/194027",
+   "users": 199
+  },
+  {
+   "title": "Studio 株式会社における不正アクセスによる個人情報の漏えいの可能性について｜デジタル庁",
+   "url": "https://www.digital.go.jp/press/a0a8f66c-b32d-4695-9372-bcd5d4280f22",
+   "users": 37
+  },
+  {
+   "title": "eMudhraの中間CAの秘密鍵が公開された証明書から復元可能と判明、pip・uvなどの開発ツールに修正版 | gihyo.jp",
+   "url": "https://gihyo.jp/article/2026/10/emudhra-ca-key-compromise-dev-tools-fixes",
+   "users": 46
+  },
+  {
+   "title": "『Vガンダム』とバンダイ　―スポンサー側から見たアニメビジネスの舞台裏｜菰田将司",
+   "url": "https://note.com/masashi3122/n/n6f41b990b137",
+   "users": 148
+  },
+  {
+   "title": "ログ検索体験から逆算するログ基盤設計",
+   "url": "https://speakerdeck.com/hirosi1900day/rogu-kensaku-taiken-kara-gyakusan-suru-rogu-kiban-sekkei",
+   "users": 31
+  },
+  {
+   "title": "人気少女ローグライト『Cinderia』『魔女の庭』『クライムライト』開発者が対談、なぜみんな『Hades』系を作るのか。理由が違いすぎて白熱、ローグライト談義 - AUTOMATON",
+   "url": "https://automaton-media.com/articles/interviewsjp/cinderia-20261022-474739/",
+   "users": 21
+  },
+  {
+   "title": "中国政府系集団がAI攻撃　米マイクロソフト確認",
+   "url": "https://www.47news.jp/15123277.html",
+   "users": 39
+  },
+  {
+   "title": "サンマ不漁が外食を直撃、大戸屋は提供制限　スーパーは仕入れ7割減 - 日本経済新聞",
+   "url": "https://www.nikkei.com/article/DGXZQOUC06ANJ0W6A001C2000000/",
+   "users": 21
+  },
+  {
+   "title": "「『囲碁のルールが難しすぎる』と聞くが初心者向けに特化したYouTuberはいるのか」という問いに解説動画が集まるも「囲むの概念が難しい」の声…解説マンガも登場へ",
+   "url": "https://togetter.com/li/2761650",
+   "users": 22
+  },
+  {
+   "title": "「日本トレーディングカード協会」設立は“急いだ”―警察が動くのを「誰か」が察した可能性も？カードゲーム文化振興協会代表に訊く問題点、そしてオンラインオリパのヤバさ | GameBusiness.jp",
+   "url": "https://www.gamebusiness.jp/article/2026/10/21/28407.html",
+   "users": 103
+  },
+  {
+   "title": "eMudhra to Exit global SSL/TLS Certificate Business",
+   "url": "https://emudhra.com/en/press-release/emudhra-to-exit-global-ssl-tls-certificate-business",
+   "users": 20
+  },
+  {
+   "title": "生活道路の30キロ制限　島根、鳥取から毎週苦情　国会で見直し要求　国家公安委員長、都道府県警へ指導の考え | 山陰中央新報デジタル",
+   "url": "https://www.sanin-chuo.co.jp/articles/-/1101520",
+   "users": 32
+  },
+  {
+   "title": "厳選・セキュリティが心配ならClaude Codeにこの問いかけをコピペするべし20",
+   "url": "https://zenn.dev/yuiseki/articles/54b01670841898",
+   "users": 154
+  },
+  {
+   "title": "「2億円以上」横領、配信者への投げ銭に使ったか　大阪府警、62歳男逮捕　勤務先は倒産",
+   "url": "https://www.sankei.com/article/20261022-CQHEOBYH3BN7NP6BRFUX7WCZUY/",
+   "users": 41
+  },
+  {
+   "title": "eMudhraの中間CA証明書の秘密鍵の危殆化についてまとめてみた - piyolog",
+   "url": "https://piyolog.hatenadiary.jp/entry/2026/10/23/021328",
+   "users": 20
+  },
+  {
+   "title": "PHPの脆弱性への対応に伴うメンテナンス完了と経緯のご報告 - ロリポップ！レンタルサーバー",
+   "url": "https://lolipop.jp/info/news/8239/",
+   "users": 16
+  },
+  {
+   "title": "【緊急】Node.jsの重大脆弱性に対応するセキュリティアップデートを安全に適用する方法 - Qiita",
+   "url": "https://qiita.com/superdora-cloud/items/8cad27487cd0e67d088c",
+   "users": 75
+  },
+  {
+   "title": "モンゴル草原火災、KDDI「重く受け止め」　東京都2個分が焼失 | 毎日新聞",
+   "url": "https://mainichi.jp/articles/20261022/k00/00m/030/208000c",
+   "users": 119
+  },
+  {
+   "title": "PHP脆弱性でいち早くサービス停止したコドモン　背景に「被害が出てからでは取り消せない」",
+   "url": "https://www.itmedia.co.jp/news/article/2610/22/2000002528/",
+   "users": 26
+  },
+  {
+   "title": "世界最軽量634gの14型「FMV Note U」、全機種Copilot+ PCに",
+   "url": "https://pc.watch.impress.co.jp/docs/news/2149953.html",
+   "users": 31
+  },
+  {
+   "title": "PHP脆弱性“PoCフライング公開”の経緯、支援財団が公表　混乱広げた企業を名指しで批判",
+   "url": "https://www.itmedia.co.jp/news/article/2610/22/2000002525/",
+   "users": 306
+  },
+  {
+   "title": "初音ミク　が　オリジナル曲を歌ってくれたよ「LEGENDS」",
+   "url": "https://www.youtube.com/watch?v=qY8dRDuM0AU",
+   "users": 37
+  },
+  {
+   "title": "中国政府系集団がAIで大規模攻撃　世界数百の組織標的に　米マイクロソフト確認",
+   "url": "https://www.sankei.com/article/20261022-4666XKHORFPQFPMIMILRS2WD7I/",
+   "users": 26
+  },
+  {
+   "title": "ケンブリッジ大留学の夢は貧困で潰えた…絶望の天才数学青年が｢インドの東大｣合格率100%の無償塾を創るまで",
+   "url": "https://president.jp/articles/-/120181",
+   "users": 4
+  },
+  {
+   "title": "10月16日の緊急地震の取り消し後に、NHK風の震度画像で人工地震を主張したりする陰謀論が流れていたようで - 電脳塵芥",
+   "url": "https://nou-yunyun.hatenablog.com/entry/2026/10/22/020000",
+   "users": 18
+  },
+  {
+   "title": "日本人はプログラムも裁縫も料理も音楽も運動も外国語も独学である程度の習得が可能だが、海外だと厳しい面もあるため「無いなら作れ」のハードルの高さにズレが生じるかも",
+   "url": "https://togetter.com/li/2761519",
+   "users": 27
+  },
+  {
+   "title": "ダークストアのスタートアップがVCから2億円調達して全て溶かした話",
+   "url": "https://mesh-ai.net/blog/introduction",
+   "users": 29
+  },
+  {
+   "title": "中国政府系集団がAI攻撃　米マイクロソフト確認（共同通信） - Yahoo!ニュース",
+   "url": "https://news.yahoo.co.jp/articles/4281d049b33e5a3349a912eddf42476b228f1879",
+   "users": 28
+  },
+  {
+   "title": "PHP欠陥でサイト止めた日本、止めなかった米国　脆弱性は8月に発見 - 日本経済新聞",
+   "url": "https://www.nikkei.com/article/DGXZQOGN22C6A0S6A021C2000000/",
+   "users": 20
+  },
+  {
+   "title": "武部新農水相、就任わずか1週間で“企業献金”公選法違反の疑い発覚に「光の速さ」「もはやコント」国民ア然 | 週刊女性PRIME",
+   "url": "https://www.jprime.jp/articles/-/44237?display=b",
+   "users": 43
+  },
+  {
+   "title": "「疑惑を晴らせないなら辞職すべき」芥川賞作家　高市首相の“言い訳”を痛烈批判「嘘の経歴」「あまりにも幼稚」苦言の数々 | 女性自身",
+   "url": "https://jisin.jp/domestic/2605566/",
+   "users": 44
+  },
+  {
+   "title": "日立、家電の新会社名は「カデノヴァ」ノジマ傘下で再発進 - 家電 Watch",
+   "url": "https://kaden.watch.impress.co.jp/docs/news/2150355.html",
+   "users": 154
+  }
+ ]
+}
