@@ -1,0 +1,521 @@
+{
+ "date": "2026-10-25",
+ "collected_at": "2026-10-25T08:00+09:00",
+ "errors": {},
+ "google": [
+  {
+   "term": "小林美駒",
+   "traffic": "2000+",
+   "news_title": "【アルテミスS・各陣営コメント】松永康調教師は阪神JFの「鞍上は小林美駒です」と宣言 昆調教師は「次につながる」と納得",
+   "news_url": "https://news.netkeiba.com/?pid=news_view&no=346589",
+   "news_source": "netkeiba"
+  },
+  {
+   "term": "chelsea f.c. vs tottenham standings",
+   "traffic": "1000+",
+   "news_title": "Chelsea 0-2 Tottenham: Cole Palmer is sent off as Spurs stun Stamford Bridge",
+   "news_url": "https://www.bbc.com/sport/football/live/cwj0l7zr4pd9t",
+   "news_source": "BBC"
+  },
+  {
+   "term": "少林寺レーシング",
+   "traffic": "500+",
+   "news_title": "子どもの間で流行する謎の迷惑行為「ショウリンジ」〉逮捕者も…「警察が来てくれるから面白い」上級生に小3の息子が誘われた母親が明かす学校での実態（集英社オンライン",
+   "news_url": "https://news.yahoo.co.jp/articles/65410f12091dd9fb9b1351405fd166a1fcf9df33",
+   "news_source": "Yahoo!ニュース"
+  },
+  {
+   "term": "谷原章介",
+   "traffic": "200+",
+   "news_title": "",
+   "news_url": "",
+   "news_source": ""
+  },
+  {
+   "term": "豊田市 天気",
+   "traffic": "200+",
+   "news_title": "【厚木市】10/23 最高21℃、最低13℃、昼間は晴れからくもりの予想【朝版】",
+   "news_url": "https://news.yahoo.co.jp/articles/3b83f866c869dbd172cd5f1acc0d4eab90d75f1a",
+   "news_source": "Yahoo!ニュース"
+  },
+  {
+   "term": "wetter",
+   "traffic": "100+",
+   "news_title": "In der nördlichen Region herrscht weiterhin heißes und feuchtes Wetter.",
+   "news_url": "https://www.vietnam.vn/de/mien-bac-tiep-tuc-nang-oi",
+   "news_source": "Vietnam.vn"
+  },
+  {
+   "term": "今日の天気 東京",
+   "traffic": "100+",
+   "news_title": "台風30号“猛烈な勢力”九州接近の恐れ 東京都心は“史上最遅”真夏日（テレビ朝日系（ANN））",
+   "news_url": "https://news.yahoo.co.jp/articles/6136678e692be2be786ee839aad3b460b2c07189",
+   "news_source": "Yahoo!ニュース"
+  },
+  {
+   "term": "fcバルセロナ",
+   "traffic": "100+",
+   "news_title": "「これはつらい」「もうおしまいだ」クラシコ4日前、日本に飛び込んできた“悲報”にSNS騒然「痛すぎる」「いないのきつい」",
+   "news_url": "https://news.yahoo.co.jp/articles/eddb753838989ea9c143a42e1a52730430d18f59",
+   "news_source": "Yahoo!ニュース"
+  },
+  {
+   "term": "桜井麻衣",
+   "traffic": "100+",
+   "news_title": "【マリーゴールド】ロッシー小川代表、退団桜井麻衣について「会社の評価と自己評価に差が」",
+   "news_url": "https://www.nikkansports.com/battle/prowrestling/news/202610240001566.html",
+   "news_source": "日刊スポーツ"
+  },
+  {
+   "term": "橋本大輝",
+   "traffic": "100+",
+   "news_title": "杉原が５位 個人総合 体操・世界選手権 ２３日",
+   "news_url": "https://www.asahi.com/articles/DA3S16574021.html",
+   "news_source": "朝日新聞"
+  }
+ ],
+ "x": [
+  {
+   "term": "日本シリーズ",
+   "hours": 14,
+   "best_rank": 2,
+   "url": "https://x.com/search?q=%E6%97%A5%E6%9C%AC%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA"
+  },
+  {
+   "term": "マンガとアニメ両方",
+   "hours": 13,
+   "best_rank": 3,
+   "url": "https://x.com/search?q=%E3%83%9E%E3%83%B3%E3%82%AC%E3%81%A8%E3%82%A2%E3%83%8B%E3%83%A1%E4%B8%A1%E6%96%B9"
+  },
+  {
+   "term": "全額還元中",
+   "hours": 13,
+   "best_rank": 6,
+   "url": "https://x.com/search?q=%E5%85%A8%E9%A1%8D%E9%82%84%E5%85%83%E4%B8%AD"
+  },
+  {
+   "term": "LINEマンガ",
+   "hours": 12,
+   "best_rank": 2,
+   "url": "https://x.com/search?q=LINE%E3%83%9E%E3%83%B3%E3%82%AC"
+  },
+  {
+   "term": "人気アニメ",
+   "hours": 12,
+   "best_rank": 4,
+   "url": "https://x.com/search?q=%E4%BA%BA%E6%B0%97%E3%82%A2%E3%83%8B%E3%83%A1"
+  },
+  {
+   "term": "見放題パス購入分のコイン",
+   "hours": 12,
+   "best_rank": 5,
+   "url": "https://x.com/search?q=%E8%A6%8B%E6%94%BE%E9%A1%8C%E3%83%91%E3%82%B9%E8%B3%BC%E5%85%A5%E5%88%86%E3%81%AE%E3%82%B3%E3%82%A4%E3%83%B3"
+  },
+  {
+   "term": "ウインマリリン",
+   "hours": 11,
+   "best_rank": 1,
+   "url": "https://x.com/search?q=%E3%82%A6%E3%82%A4%E3%83%B3%E3%83%9E%E3%83%AA%E3%83%AA%E3%83%B3"
+  },
+  {
+   "term": "調査報告書",
+   "hours": 11,
+   "best_rank": 13,
+   "url": "https://x.com/search?q=%E8%AA%BF%E6%9F%BB%E5%A0%B1%E5%91%8A%E6%9B%B8"
+  },
+  {
+   "term": "#集えNIKKE4周年",
+   "hours": 10,
+   "best_rank": 1,
+   "url": "https://x.com/search?q=%23%E9%9B%86%E3%81%88NIKKE4%E5%91%A8%E5%B9%B4"
+  },
+  {
+   "term": "ラポスタ",
+   "hours": 10,
+   "best_rank": 1,
+   "url": "https://x.com/search?q=%E3%83%A9%E3%83%9D%E3%82%B9%E3%82%BF"
+  },
+  {
+   "term": "ジングル",
+   "hours": 10,
+   "best_rank": 2,
+   "url": "https://x.com/search?q=%E3%82%B8%E3%83%B3%E3%82%B0%E3%83%AB"
+  },
+  {
+   "term": "マリアン",
+   "hours": 10,
+   "best_rank": 2,
+   "url": "https://x.com/search?q=%E3%83%9E%E3%83%AA%E3%82%A2%E3%83%B3"
+  },
+  {
+   "term": "アルテミスS",
+   "hours": 10,
+   "best_rank": 4,
+   "url": "https://x.com/search?q=%E3%82%A2%E3%83%AB%E3%83%86%E3%83%9F%E3%82%B9S"
+  },
+  {
+   "term": "勢ぞろい",
+   "hours": 10,
+   "best_rank": 7,
+   "url": "https://x.com/search?q=%E5%8B%A2%E3%81%9E%E3%82%8D%E3%81%84"
+  },
+  {
+   "term": "調査の感想",
+   "hours": 10,
+   "best_rank": 22,
+   "url": "https://x.com/search?q=%E8%AA%BF%E6%9F%BB%E3%81%AE%E6%84%9F%E6%83%B3"
+  },
+  {
+   "term": "#SixTONESANN",
+   "hours": 9,
+   "best_rank": 1,
+   "url": "https://x.com/search?q=%23SixTONESANN"
+  },
+  {
+   "term": "乗車準備会",
+   "hours": 9,
+   "best_rank": 1,
+   "url": "https://x.com/search?q=%E4%B9%97%E8%BB%8A%E6%BA%96%E5%82%99%E4%BC%9A"
+  },
+  {
+   "term": "能動的サイバー防御",
+   "hours": 9,
+   "best_rank": 3,
+   "url": "https://x.com/search?q=%E8%83%BD%E5%8B%95%E7%9A%84%E3%82%B5%E3%82%A4%E3%83%90%E3%83%BC%E9%98%B2%E5%BE%A1"
+  },
+  {
+   "term": "山本祐大",
+   "hours": 9,
+   "best_rank": 7,
+   "url": "https://x.com/search?q=%E5%B1%B1%E6%9C%AC%E7%A5%90%E5%A4%A7"
+  },
+  {
+   "term": "ザイオン",
+   "hours": 9,
+   "best_rank": 8,
+   "url": "https://x.com/search?q=%E3%82%B6%E3%82%A4%E3%82%AA%E3%83%B3"
+  },
+  {
+   "term": "たかほー",
+   "hours": 8,
+   "best_rank": 1,
+   "url": "https://x.com/search?q=%E3%81%9F%E3%81%8B%E3%81%BB%E3%83%BC"
+  },
+  {
+   "term": "花火の音",
+   "hours": 8,
+   "best_rank": 2,
+   "url": "https://x.com/search?q=%E8%8A%B1%E7%81%AB%E3%81%AE%E9%9F%B3"
+  },
+  {
+   "term": "東京ドーム公演記念",
+   "hours": 8,
+   "best_rank": 2,
+   "url": "https://x.com/search?q=%E6%9D%B1%E4%BA%AC%E3%83%89%E3%83%BC%E3%83%A0%E5%85%AC%E6%BC%94%E8%A8%98%E5%BF%B5"
+  },
+  {
+   "term": "入場者特典",
+   "hours": 8,
+   "best_rank": 3,
+   "url": "https://x.com/search?q=%E5%85%A5%E5%A0%B4%E8%80%85%E7%89%B9%E5%85%B8"
+  },
+  {
+   "term": "ペンダース",
+   "hours": 8,
+   "best_rank": 4,
+   "url": "https://x.com/search?q=%E3%83%9A%E3%83%B3%E3%83%80%E3%83%BC%E3%82%B9"
+  },
+  {
+   "term": "しんじゅり",
+   "hours": 8,
+   "best_rank": 5,
+   "url": "https://x.com/search?q=%E3%81%97%E3%82%93%E3%81%98%E3%82%85%E3%82%8A"
+  },
+  {
+   "term": "そらまふうらさ",
+   "hours": 8,
+   "best_rank": 14,
+   "url": "https://x.com/search?q=%E3%81%9D%E3%82%89%E3%81%BE%E3%81%B5%E3%81%86%E3%82%89%E3%81%95"
+  },
+  {
+   "term": "コネライ",
+   "hours": 8,
+   "best_rank": 15,
+   "url": "https://x.com/search?q=%E3%82%B3%E3%83%8D%E3%83%A9%E3%82%A4"
+  },
+  {
+   "term": "スパーズ",
+   "hours": 7,
+   "best_rank": 2,
+   "url": "https://x.com/search?q=%E3%82%B9%E3%83%91%E3%83%BC%E3%82%BA"
+  },
+  {
+   "term": "#あったらいいなナッティ",
+   "hours": 7,
+   "best_rank": 2,
+   "url": "https://x.com/search?q=%23%E3%81%82%E3%81%A3%E3%81%9F%E3%82%89%E3%81%84%E3%81%84%E3%81%AA%E3%83%8A%E3%83%83%E3%83%86%E3%82%A3"
+  },
+  {
+   "term": "クエンダ",
+   "hours": 7,
+   "best_rank": 7,
+   "url": "https://x.com/search?q=%E3%82%AF%E3%82%A8%E3%83%B3%E3%83%80"
+  },
+  {
+   "term": "シューヤ",
+   "hours": 7,
+   "best_rank": 8,
+   "url": "https://x.com/search?q=%E3%82%B7%E3%83%A5%E3%83%BC%E3%83%A4"
+  },
+  {
+   "term": "マサヒロ",
+   "hours": 7,
+   "best_rank": 9,
+   "url": "https://x.com/search?q=%E3%83%9E%E3%82%B5%E3%83%92%E3%83%AD"
+  },
+  {
+   "term": "プレゼントとメッセージ",
+   "hours": 7,
+   "best_rank": 9,
+   "url": "https://x.com/search?q=%E3%83%97%E3%83%AC%E3%82%BC%E3%83%B3%E3%83%88%E3%81%A8%E3%83%A1%E3%83%83%E3%82%BB%E3%83%BC%E3%82%B8"
+  },
+  {
+   "term": "リョウガ",
+   "hours": 7,
+   "best_rank": 11,
+   "url": "https://x.com/search?q=%E3%83%AA%E3%83%A7%E3%82%A6%E3%82%AC"
+  },
+  {
+   "term": "メッセージの入力",
+   "hours": 7,
+   "best_rank": 11,
+   "url": "https://x.com/search?q=%E3%83%A1%E3%83%83%E3%82%BB%E3%83%BC%E3%82%B8%E3%81%AE%E5%85%A5%E5%8A%9B"
+  },
+  {
+   "term": "リノさん",
+   "hours": 7,
+   "best_rank": 18,
+   "url": "https://x.com/search?q=%E3%83%AA%E3%83%8E%E3%81%95%E3%82%93"
+  },
+  {
+   "term": "野沢雅子さん",
+   "hours": 7,
+   "best_rank": 19,
+   "url": "https://x.com/search?q=%E9%87%8E%E6%B2%A2%E9%9B%85%E5%AD%90%E3%81%95%E3%82%93"
+  },
+  {
+   "term": "おじリーグ",
+   "hours": 7,
+   "best_rank": 19,
+   "url": "https://x.com/search?q=%E3%81%8A%E3%81%98%E3%83%AA%E3%83%BC%E3%82%B0"
+  },
+  {
+   "term": "プレミアムパス特典",
+   "hours": 7,
+   "best_rank": 25,
+   "url": "https://x.com/search?q=%E3%83%97%E3%83%AC%E3%83%9F%E3%82%A2%E3%83%A0%E3%83%91%E3%82%B9%E7%89%B9%E5%85%B8"
+  }
+ ],
+ "hatena": [
+  {
+   "title": "ドカ食いダイスキ！ もちづきさん・第25話 | ヤングアニマルWeb",
+   "url": "https://younganimal.com/episodes/03288db8b29eb",
+   "users": 121
+  },
+  {
+   "title": "コンビニおにぎり高騰に｢庶民はもう買えない｣の声…35歳貧乏ライターが1個40～80円で｢20個手作り｣した\"悲しい結論\"",
+   "url": "https://toyokeizai.net/articles/-/962199?page=3",
+   "users": 33
+  },
+  {
+   "title": "カインズの『撒くだけで防草できる人工砂』を信じて200袋を投入……半年後、雑草はどうなった？ | となりのカインズさん",
+   "url": "https://magazine.cainz.com/article/260815",
+   "users": 108
+  },
+  {
+   "title": "漫画家：田亀源五郎さんインタビュー　pixivFANBOX公開停止の経緯と、性表現／暴力表現をめぐる今の世界について｜マンガ論争Plus",
+   "url": "https://note.com/manron_plus/n/n9d089dcdc288",
+   "users": 321
+  },
+  {
+   "title": "フランス、イタリアの大規模デモは「ロシアとイランのせい」なのか？ | EUが「外国の介入」を調査開始",
+   "url": "https://courrier.jp/news/archives/463613/",
+   "users": 39
+  },
+  {
+   "title": "自殺について｜塩",
+   "url": "https://note.com/slt_orch/n/n8cd98e15f8c2",
+   "users": 94
+  },
+  {
+   "title": "JSがこんなに減る！ HTML・CSS最新技術2026",
+   "url": "https://ics-ikeda.github.io/261024_vuefes_2026/",
+   "users": 113
+  },
+  {
+   "title": "書評　「こころは遺伝する」 - shorebird　進化心理学中心の書評など",
+   "url": "https://shorebird.hatenablog.com/entry/2026/10/24/155827",
+   "users": 66
+  },
+  {
+   "title": "追悼　　村上龍さんを偲んで｜斎藤環（精神科医）",
+   "url": "https://note.com/tamakisaito/n/ne6c0e7e237ca",
+   "users": 161
+  },
+  {
+   "title": "現在の大阪城は史実と無関係の\"トンデモ建築\"なのに…｢国の重要文化財に指定｣に開いた口が塞がらない",
+   "url": "https://president.jp/articles/-/120800",
+   "users": 73
+  },
+  {
+   "title": "マクドナルドで番号表示されたのに「ポテト揚げるのでお時間いただきます」って言われて二度手間→ペナルティがあるらしく、現場の人たちも「プレッシャーえぐいです」",
+   "url": "https://togetter.com/li/2762375",
+   "users": 88
+  },
+  {
+   "title": "クマ駆除の自治体に「殺すな」抗議続く、中には「威圧的言動で１時間電話」「職員を無断撮影し投稿」も",
+   "url": "https://www.yomiuri.co.jp/national/20261024-GYT1T00188/",
+   "users": 39
+  },
+  {
+   "title": "男の下ネタは「おもろいかどうか」が重要であり生々しい話はマウント目的でしかなくて聞く価値がない話…聞くに足る下ネタの例が集まる",
+   "url": "https://togetter.com/li/2762436",
+   "users": 48
+  },
+  {
+   "title": "最近韓国人が日本人を雑に呼ぶ時「タヌキ」って呼んでるの好き、悪意がないって分かるから「ところで日本のタヌキ達！韓国はもうすぐ1年分のキムチを漬ける時期だぞ！」",
+   "url": "https://togetter.com/li/2762353",
+   "users": 99
+  },
+  {
+   "title": "「HTTP2Shell」CVE-2026-111497、Node.js・Python・Bun・Envoyに影響 Brotliの重大脆弱性と修正版を確認|セキュリティニュースのセキュリティ対策Lab",
+   "url": "https://rocket-boys.co.jp/security-measures-lab/brotli_cve-2026-111497_http2shell_20261024/",
+   "users": 19
+  },
+  {
+   "title": "ノア・スミス「フランスとリベラリズムの限界」（2026年10月22日）",
+   "url": "https://econ101.jp/france-and-the-limits-of-liberalism/",
+   "users": 103
+  },
+  {
+   "title": "[第１２７話]ふつうの軽音部 - クワハリ/出内テツオ | 少年ジャンプ＋",
+   "url": "https://shonenjumpplus.com/episode/9253191257382361683",
+   "users": 45
+  },
+  {
+   "title": "人間が時間を使うべきところはどこか",
+   "url": "https://tellme.tokyo/post/2026/10/24/where-humans-spend-time/",
+   "users": 38
+  },
+  {
+   "title": "村上龍が亡くなった。今でも村上龍の言葉をスマホに入れて、悔しいことや迷ったときに読み返してる",
+   "url": "https://anond.hatelabo.jp/20261024132506",
+   "users": 58
+  },
+  {
+   "title": "女教師にスマホを没収されるもスマホ画面に映っている内容でなにかが起きるイラスト…だがそのスマホ画面がなんだかよくわからない人が続出、なお解説も集まる",
+   "url": "https://togetter.com/li/2762462",
+   "users": 9
+  },
+  {
+   "title": "日本語がわからない男さんに日本語講座「女だけの街の定義」を開いて差し上げるマンガ【ヘイト創作】",
+   "url": "https://posfie.com/@golden_haniwa/p/CEAp7MZ",
+   "users": 10
+  },
+  {
+   "title": "「ドパ資料」の作り方 - Qiita",
+   "url": "https://qiita.com/kikuziro/items/b6a0743b070d7320c36d?utm_source=dlvr.it&utm_medium=facebook",
+   "users": 5
+  },
+  {
+   "title": "ヒトラーの山荘で火災、不審者を拘束 ドイツ警察",
+   "url": "https://www.afpbb.com/articles/-/3659192",
+   "users": 5
+  },
+  {
+   "title": "モンゴル当局が賠償請求検討　ＫＤＤＩ「法令違反ない」―草原火災：時事ドットコム",
+   "url": "https://www.jiji.com/jc/article?k=2026102400322&g=int",
+   "users": 8
+  },
+  {
+   "title": "うるう干支、担当生物種を変更へ　うるう秒廃止で",
+   "url": "https://kyoko-np.net/2026102501.html",
+   "users": 23
+  },
+  {
+   "title": "​ちいかわやガチャガチャや平成レトロが流行る日本社会と麻酔の切れ目について",
+   "url": "https://anond.hatelabo.jp/20261024153649",
+   "users": 77
+  },
+  {
+   "title": "怪人ベルト - 波元き | 少年ジャンプ＋",
+   "url": "https://shonenjumpplus.com/episode/9253191257382361673",
+   "users": 26
+  },
+  {
+   "title": "Building agents: When to fold subagents into your main agent loop",
+   "url": "https://claude.com/resources/articles/building-agents-when-to-fold-subagents-into-your-main-agent-loop",
+   "users": 60
+  },
+  {
+   "title": "みんなはどのダークパターン広告が好き？ - orangestar2",
+   "url": "https://orangestar2.hatenadiary.com/entry/2026/10/23/163042",
+   "users": 59
+  },
+  {
+   "title": "ＧＭＯの「能動的サイバー防御」緊急要請、政府関係者「求めに応じ発動決める制度ではない」",
+   "url": "https://www.yomiuri.co.jp/politics/20261024-GYT1T00257/",
+   "users": 30
+  },
+  {
+   "title": "出産の女性依存、さらには個人依存を止めよう",
+   "url": "https://anond.hatelabo.jp/20261024135844",
+   "users": 7
+  },
+  {
+   "title": "カルディで1番好きな甘口ワイン、桃なんて入ってないはずなのに桃入ってるとしか思えないほど桃の存在を感じる、安くて飲みやすいのでワイン入門にもおすすめ",
+   "url": "https://togetter.com/li/2762308",
+   "users": 116
+  },
+  {
+   "title": "GitHub - Zagitta/gpu-unlock: Unlock FP/BF16 instruction issue rate on Nvidia 3000's cards to their professional equivalents",
+   "url": "https://github.com/Zagitta/gpu-unlock",
+   "users": 5
+  },
+  {
+   "title": "退職代行モームリ累計利用者51,935名分のデータを開示",
+   "url": "https://prtimes.jp/main/html/rd/p/000000030.000103965.html",
+   "users": 146
+  },
+  {
+   "title": "CDのリッピング",
+   "url": "https://anond.hatelabo.jp/20261024110019",
+   "users": 200
+  },
+  {
+   "title": "なぜ高市内閣は女性の支持が低いのか　カギは「好感度」ではなく…：朝日新聞",
+   "url": "https://www.asahi.com/articles/ASVBR04HDVBRUZPS004M.html",
+   "users": 4
+  },
+  {
+   "title": "[34話]おかえり水平線 - 渡部大羊 | 少年ジャンプ＋",
+   "url": "https://shonenjumpplus.com/episode/9253191257382361727",
+   "users": 22
+  },
+  {
+   "title": "新人と昔のノートPCの話になって「昔はノートPCも白黒液晶だった」と言ったら「写真見るの困りませんか？」と言われた、当時は画像を出すだけでも一苦労したんだ…",
+   "url": "https://togetter.com/li/2762365",
+   "users": 10
+  },
+  {
+   "title": "14歳の米国人少女を首つり自殺に追い込んだ疑い、ドイツ人男を逮捕",
+   "url": "https://www.afpbb.com/articles/-/3659195",
+   "users": 13
+  },
+  {
+   "title": "海外生活に強い人というのは『英語がペラペラで国際感覚がある人』ではなく、以下に挙げるこれらが出来る人です→同意見がたくさん集まる",
+   "url": "https://togetter.com/li/2762276",
+   "users": 148
+  }
+ ]
+}
