@@ -1,0 +1,521 @@
+{
+ "date": "2026-10-29",
+ "collected_at": "2026-10-29T09:40+09:00",
+ "errors": {},
+ "google": [
+  {
+   "term": "高橋 由伸 ヘッド コーチ",
+   "traffic": "2000+",
+   "news_title": "「松井巨人」ヘッドコーチに高橋由伸氏決定 入閣１号 ２４年ぶりに超強力タッグ結成",
+   "news_url": "https://news.yahoo.co.jp/pickup/6600491",
+   "news_source": "Yahoo!ニュース"
+  },
+  {
+   "term": "playstation plus",
+   "traffic": "500+",
+   "news_title": "PlayStation Plus Monthly Games for November: Dead Island 2, Tomb Raider IV – VI Remastered, Monster Train 2",
+   "news_url": "https://blog.playstation.com/2026/10/28/playstation-plus-monthly-games-for-november-dead-island-2-tomb-raider-iv-vi-remastered-monster-train-2/",
+   "news_source": "PlayStation.Blog"
+  },
+  {
+   "term": "徳山競艇",
+   "traffic": "200+",
+   "news_title": "原田篤志のアグレッシブな走りに期待/ボートレース徳山（マクール）",
+   "news_url": "https://news.yahoo.co.jp/articles/e1c9be8e49bb74e97ff1e8f5dfb3289fc6eed7ea",
+   "news_source": "Yahoo!ニュース"
+  },
+  {
+   "term": "ジャンボたかお",
+   "traffic": "200+",
+   "news_title": "#383:令和のビートたけし爆誕!?あの人が結婚間近&離婚危機!?",
+   "news_url": "https://abema.tv/video/episode/90-979_s1_p383",
+   "news_source": "ABEMA"
+  },
+  {
+   "term": "キオクシア 決算",
+   "traffic": "100+",
+   "news_title": "日経平均続伸、SKハイニックス好決算受けAI半導体株上昇 キオクシア大幅続伸",
+   "news_url": "https://online.nikkei-cnbc.co.jp/vod/68742",
+   "news_source": "日経CNBC online"
+  },
+  {
+   "term": "モーニングショー",
+   "traffic": "100+",
+   "news_title": "「体調不良から復活」テレ朝・松岡朱里アナが「モーニングショー」生出演、前日はお休み",
+   "news_url": "https://www.nikkansports.com/entertainment/news/202610270000094.html",
+   "news_source": "日刊スポーツ"
+  },
+  {
+   "term": "gemini 4 carbon",
+   "traffic": "100+",
+   "news_title": "Gemini 4 Carbon: our next frontier model",
+   "news_url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/",
+   "news_source": "blog.google"
+  },
+  {
+   "term": "大企業",
+   "traffic": "100+",
+   "news_title": "大企業年収、1位はキーエンス2178万円 2位は三菱商事2112万円",
+   "news_url": "https://www.nikkei.com/article/DGXZQOUC064Q90W6A001C2000000/",
+   "news_source": "日本経済新聞"
+  },
+  {
+   "term": "キヤノン",
+   "traffic": "100+",
+   "news_title": "キヤノンのカメラがガシャポン「めじるしアクセサリー」に（デジカメ Watch）",
+   "news_url": "https://news.yahoo.co.jp/articles/8b5680b395436133b539b344982d8aa6f60bbbc9",
+   "news_source": "Yahoo!ニュース"
+  },
+  {
+   "term": "ラプターズ 対 マジック",
+   "traffic": "100+",
+   "news_title": "Orlando Magic-Toronto Raptors Preview: Injuries, Odds, How to Watch & Starters",
+   "news_url": "https://www.si.com/nba/magic/onsi/orlando-magic-toronto-raptors-preview-injuries-odds-how-to-watch-starters-01m62amqc21h",
+   "news_source": "Sports Illustrated"
+  }
+ ],
+ "x": [
+  {
+   "term": "タイピング",
+   "hours": 22,
+   "best_rank": 10,
+   "url": "https://x.com/search?q=%E3%82%BF%E3%82%A4%E3%83%94%E3%83%B3%E3%82%B0"
+  },
+  {
+   "term": "答えの組み合わせ",
+   "hours": 18,
+   "best_rank": 2,
+   "url": "https://x.com/search?q=%E7%AD%94%E3%81%88%E3%81%AE%E7%B5%84%E3%81%BF%E5%90%88%E3%82%8F%E3%81%9B"
+  },
+  {
+   "term": "純度100",
+   "hours": 18,
+   "best_rank": 3,
+   "url": "https://x.com/search?q=%E7%B4%94%E5%BA%A6100"
+  },
+  {
+   "term": "#映画10選選手権",
+   "hours": 18,
+   "best_rank": 5,
+   "url": "https://x.com/search?q=%23%E6%98%A0%E7%94%BB10%E9%81%B8%E9%81%B8%E6%89%8B%E6%A8%A9"
+  },
+  {
+   "term": "ツイキャス",
+   "hours": 15,
+   "best_rank": 15,
+   "url": "https://x.com/search?q=%E3%83%84%E3%82%A4%E3%82%AD%E3%83%A3%E3%82%B9"
+  },
+  {
+   "term": "#出身地当てます",
+   "hours": 14,
+   "best_rank": 1,
+   "url": "https://x.com/search?q=%23%E5%87%BA%E8%BA%AB%E5%9C%B0%E5%BD%93%E3%81%A6%E3%81%BE%E3%81%99"
+  },
+  {
+   "term": "#NIKKE4周年",
+   "hours": 13,
+   "best_rank": 1,
+   "url": "https://x.com/search?q=%23NIKKE4%E5%91%A8%E5%B9%B4"
+  },
+  {
+   "term": "X特別地上奪還作戦",
+   "hours": 13,
+   "best_rank": 2,
+   "url": "https://x.com/search?q=X%E7%89%B9%E5%88%A5%E5%9C%B0%E4%B8%8A%E5%A5%AA%E9%82%84%E4%BD%9C%E6%88%A6"
+  },
+  {
+   "term": "あなたの参戦",
+   "hours": 13,
+   "best_rank": 2,
+   "url": "https://x.com/search?q=%E3%81%82%E3%81%AA%E3%81%9F%E3%81%AE%E5%8F%82%E6%88%A6"
+  },
+  {
+   "term": "参戦報告",
+   "hours": 13,
+   "best_rank": 2,
+   "url": "https://x.com/search?q=%E5%8F%82%E6%88%A6%E5%A0%B1%E5%91%8A"
+  },
+  {
+   "term": "究極の大決戦",
+   "hours": 13,
+   "best_rank": 3,
+   "url": "https://x.com/search?q=%E7%A9%B6%E6%A5%B5%E3%81%AE%E5%A4%A7%E6%B1%BA%E6%88%A6"
+  },
+  {
+   "term": "バトオペ3",
+   "hours": 13,
+   "best_rank": 8,
+   "url": "https://x.com/search?q=%E3%83%90%E3%83%88%E3%82%AA%E3%83%9A3"
+  },
+  {
+   "term": "人類の未来",
+   "hours": 12,
+   "best_rank": 2,
+   "url": "https://x.com/search?q=%E4%BA%BA%E9%A1%9E%E3%81%AE%E6%9C%AA%E6%9D%A5"
+  },
+  {
+   "term": "シーサーだらけくじ",
+   "hours": 12,
+   "best_rank": 4,
+   "url": "https://x.com/search?q=%E3%82%B7%E3%83%BC%E3%82%B5%E3%83%BC%E3%81%A0%E3%82%89%E3%81%91%E3%81%8F%E3%81%98"
+  },
+  {
+   "term": "決戦の時",
+   "hours": 12,
+   "best_rank": 8,
+   "url": "https://x.com/search?q=%E6%B1%BA%E6%88%A6%E3%81%AE%E6%99%82"
+  },
+  {
+   "term": "神奈川県民",
+   "hours": 12,
+   "best_rank": 12,
+   "url": "https://x.com/search?q=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E6%B0%91"
+  },
+  {
+   "term": "東京都民",
+   "hours": 12,
+   "best_rank": 13,
+   "url": "https://x.com/search?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%B0%91"
+  },
+  {
+   "term": "大阪府民",
+   "hours": 12,
+   "best_rank": 15,
+   "url": "https://x.com/search?q=%E5%A4%A7%E9%98%AA%E5%BA%9C%E6%B0%91"
+  },
+  {
+   "term": "テリファー",
+   "hours": 11,
+   "best_rank": 18,
+   "url": "https://x.com/search?q=%E3%83%86%E3%83%AA%E3%83%95%E3%82%A1%E3%83%BC"
+  },
+  {
+   "term": "モンキャンペーン実施中",
+   "hours": 11,
+   "best_rank": 19,
+   "url": "https://x.com/search?q=%E3%83%A2%E3%83%B3%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%9A%E3%83%BC%E3%83%B3%E5%AE%9F%E6%96%BD%E4%B8%AD"
+  },
+  {
+   "term": "キーバウンドブロウラー",
+   "hours": 11,
+   "best_rank": 22,
+   "url": "https://x.com/search?q=%E3%82%AD%E3%83%BC%E3%83%90%E3%82%A6%E3%83%B3%E3%83%89%E3%83%96%E3%83%AD%E3%82%A6%E3%83%A9%E3%83%BC"
+  },
+  {
+   "term": "震度5弱",
+   "hours": 10,
+   "best_rank": 1,
+   "url": "https://x.com/search?q=%E9%9C%87%E5%BA%A65%E5%BC%B1"
+  },
+  {
+   "term": "リーグ優勝",
+   "hours": 10,
+   "best_rank": 5,
+   "url": "https://x.com/search?q=%E3%83%AA%E3%83%BC%E3%82%B0%E5%84%AA%E5%8B%9D"
+  },
+  {
+   "term": "#NIKKE決戦を前に",
+   "hours": 10,
+   "best_rank": 7,
+   "url": "https://x.com/search?q=%23NIKKE%E6%B1%BA%E6%88%A6%E3%82%92%E5%89%8D%E3%81%AB"
+  },
+  {
+   "term": "#ホークス日本一達成",
+   "hours": 9,
+   "best_rank": 1,
+   "url": "https://x.com/search?q=%23%E3%83%9B%E3%83%BC%E3%82%AF%E3%82%B9%E6%97%A5%E6%9C%AC%E4%B8%80%E9%81%94%E6%88%90"
+  },
+  {
+   "term": "思い出のポケカ",
+   "hours": 9,
+   "best_rank": 6,
+   "url": "https://x.com/search?q=%E6%80%9D%E3%81%84%E5%87%BA%E3%81%AE%E3%83%9D%E3%82%B1%E3%82%AB"
+  },
+  {
+   "term": "地震大丈夫",
+   "hours": 9,
+   "best_rank": 8,
+   "url": "https://x.com/search?q=%E5%9C%B0%E9%9C%87%E5%A4%A7%E4%B8%88%E5%A4%AB"
+  },
+  {
+   "term": "千葉県北東部",
+   "hours": 9,
+   "best_rank": 12,
+   "url": "https://x.com/search?q=%E5%8D%83%E8%91%89%E7%9C%8C%E5%8C%97%E6%9D%B1%E9%83%A8"
+  },
+  {
+   "term": "増井さん",
+   "hours": 9,
+   "best_rank": 17,
+   "url": "https://x.com/search?q=%E5%A2%97%E4%BA%95%E3%81%95%E3%82%93"
+  },
+  {
+   "term": "ラトリッジ",
+   "hours": 9,
+   "best_rank": 17,
+   "url": "https://x.com/search?q=%E3%83%A9%E3%83%88%E3%83%AA%E3%83%83%E3%82%B8"
+  },
+  {
+   "term": "MacBook Pro",
+   "hours": 9,
+   "best_rank": 25,
+   "url": "https://x.com/search?q=MacBook%20Pro"
+  },
+  {
+   "term": "高橋光成",
+   "hours": 9,
+   "best_rank": 34,
+   "url": "https://x.com/search?q=%E9%AB%98%E6%A9%8B%E5%85%89%E6%88%90"
+  },
+  {
+   "term": "山本祐大",
+   "hours": 8,
+   "best_rank": 5,
+   "url": "https://x.com/search?q=%E5%B1%B1%E6%9C%AC%E7%A5%90%E5%A4%A7"
+  },
+  {
+   "term": "インディーワールド",
+   "hours": 8,
+   "best_rank": 6,
+   "url": "https://x.com/search?q=%E3%82%A4%E3%83%B3%E3%83%87%E3%82%A3%E3%83%BC%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89"
+  },
+  {
+   "term": "ワンターンキル",
+   "hours": 8,
+   "best_rank": 12,
+   "url": "https://x.com/search?q=%E3%83%AF%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%B3%E3%82%AD%E3%83%AB"
+  },
+  {
+   "term": "テーブルゲームワールド",
+   "hours": 8,
+   "best_rank": 20,
+   "url": "https://x.com/search?q=%E3%83%86%E3%83%BC%E3%83%96%E3%83%AB%E3%82%B2%E3%83%BC%E3%83%A0%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89"
+  },
+  {
+   "term": "小島和哉",
+   "hours": 8,
+   "best_rank": 26,
+   "url": "https://x.com/search?q=%E5%B0%8F%E5%B3%B6%E5%92%8C%E5%93%89"
+  },
+  {
+   "term": "#雨夜燕貴様検定",
+   "hours": 7,
+   "best_rank": 2,
+   "url": "https://x.com/search?q=%23%E9%9B%A8%E5%A4%9C%E7%87%95%E8%B2%B4%E6%A7%98%E6%A4%9C%E5%AE%9A"
+  },
+  {
+   "term": "日本シリーズ",
+   "hours": 7,
+   "best_rank": 6,
+   "url": "https://x.com/search?q=%E6%97%A5%E6%9C%AC%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA"
+  },
+  {
+   "term": "木枯らし1号",
+   "hours": 7,
+   "best_rank": 6,
+   "url": "https://x.com/search?q=%E6%9C%A8%E6%9E%AF%E3%82%89%E3%81%971%E5%8F%B7"
+  }
+ ],
+ "hatena": [
+  {
+   "title": "彼氏から犬をけしかけられるのがしんどくなってきました",
+   "url": "https://anond.hatelabo.jp/20261028214228",
+   "users": 110
+  },
+  {
+   "title": "沼地からバターの塊、2000年前のものと推定　16年アイルランド",
+   "url": "https://www.cnn.co.jp/fringe/35254101.html",
+   "users": 94
+  },
+  {
+   "title": "成人向けヒット作『ループトレイン』制作サークル、Steamのデバンキングや口座開設拒否の問題を議員・金融庁関係者に解説―過去には約1年半にわたり海外売上を受け取れず | Game*Spark - 国内・海外ゲーム情報サイト",
+   "url": "https://www.gamespark.jp/article/2026/10/28/174176.html",
+   "users": 149
+  },
+  {
+   "title": "pfpdf — Markdown から、印刷品質の PDF へ",
+   "url": "https://pfpdf.preferred.tech/ja/",
+   "users": 224
+  },
+  {
+   "title": "東大教授のSNS投稿「配慮不足」　日本教育学会が見解、限定で公開：朝日新聞",
+   "url": "https://www.asahi.com/articles/ASVBX3VNSVBXUTIL025M.html",
+   "users": 99
+  },
+  {
+   "title": "エアコン屋の裏方",
+   "url": "https://aircon-urakata.com/",
+   "users": 52
+  },
+  {
+   "title": "AI時代のシニアエンジニアとは",
+   "url": "https://speakerdeck.com/yosuke_furukawa/ai-jidai-no-shinia-enjinia-toha",
+   "users": 61
+  },
+  {
+   "title": "ヨドバシ.com - 食品・飲料 賞味期限間近のため 訳あり大特価",
+   "url": "https://www.yodobashi.com/store/500121/",
+   "users": 399
+  },
+  {
+   "title": "【動画】仰向けで休むクジラ、不可解な光景に研究者も困惑",
+   "url": "https://natgeo.nikkeibp.co.jp/atcl/news/26/102800592/",
+   "users": 29
+  },
+  {
+   "title": "本や雑誌、大阪も発売日が「首都圏から1日遅れ」に　出版取次が提案：朝日新聞",
+   "url": "https://www.asahi.com/articles/ASVBP5450VBPULFA026M.html",
+   "users": 44
+  },
+  {
+   "title": "自作トレーディングカードをパック包装する。｜しみずあすか屋さん",
+   "url": "https://note.com/shimizuasuka2/n/n73c960f9a9df",
+   "users": 33
+  },
+  {
+   "title": "スペインで列車事故、少なくとも64人死亡　負傷者80人以上　人為的ミスの可能性も",
+   "url": "https://www.sankei.com/article/20261028-G4ZMWESUFRKDZBHZXMNEQRSJTI/",
+   "users": 57
+  },
+  {
+   "title": "MarkdownからきれいなPDFを作るCLIツールpfpdfを公開しました｜株式会社Preferred Networks",
+   "url": "https://www.preferred.jp/ja/blog/tech/1798",
+   "users": 364
+  },
+  {
+   "title": "やめろ好きになってしまう第71話 死は平等にやってくる　その②｜ヤンジャン＋集英社公式・ジャンプ系青年マンガ誌アプリ",
+   "url": "https://ynjn.jp/viewer/21346/324343",
+   "users": 95
+  },
+  {
+   "title": "『エターナルアニマ』植松伸夫氏×崎元仁氏によるゲーム音楽対談。「こりゃヤベぇ奴が入ってきた」植松氏がかつて脅威に感じた崎元氏の“JRPGらしいメロディー”とは | ゲーム・エンタメ最新情報のファミ通.com",
+   "url": "https://www.famitsu.com/article/202610/91360",
+   "users": 24
+  },
+  {
+   "title": "「やめ時がわからない」ほど作り込んでしまう人をラクにする思考法",
+   "url": "https://diamond.jp/articles/-/401978",
+   "users": 22
+  },
+  {
+   "title": "ヨドバシ.comで買いたいおやつ - おやつ - はてなパークス",
+   "url": "https://p.hatena.ne.jp/p/1557229530244976640/t/1564809683624005632",
+   "users": 510
+  },
+  {
+   "title": "Gemini 4 Carbon: our next frontier model",
+   "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/",
+   "users": 43
+  },
+  {
+   "title": "Panasonicのドアホンをデジカメに改造し写真撮影、その写真が世界的な賞を受賞してしまう、なお投稿者は去年アンパンマンのキッズカメラで賞を受賞",
+   "url": "https://togetter.com/li/2763954",
+   "users": 144
+  },
+  {
+   "title": "折りたたみ傘の水滴でカバンを濡らさない吸水ケース - 家電 Watch",
+   "url": "https://kaden.watch.impress.co.jp/docs/news/2151392.html",
+   "users": 17
+  },
+  {
+   "title": "いいから休め - Black October が終わる今、セキュリティエンジニアがやるべきこと",
+   "url": "https://zenn.dev/nayuta/articles/aec9ab2e11a7b7",
+   "users": 25
+  },
+  {
+   "title": "Apple、初のタッチ対応「MacBook Pro」発表　新型OLED搭載、国内価格は49万9800円から",
+   "url": "https://www.itmedia.co.jp/news/article/2610/29/2000002689/",
+   "users": 41
+  },
+  {
+   "title": "街復興ダンジョン探索RPG『Emberville』発売当日にまさかの土壇場延期。デモ版は“ランキング入り”するほどの人気、しかし課題も見えたので - AUTOMATON",
+   "url": "https://automaton-media.com/articles/newsjp/20261027-475813/",
+   "users": 18
+  },
+  {
+   "title": "Cloudflare、AIモデル「Clairic」をプレビュー公開 ――文章や画像から金額・日付などを抽出、JSON形式で出力 | gihyo.jp",
+   "url": "https://gihyo.jp/article/2026/10/clairic",
+   "users": 23
+  },
+  {
+   "title": "日本でも米国でもない地域の人から「パールハーバーや原爆があったのに日米は仲良くしてるんだ」と言われることがある…原爆に思うところはあるが被災救援の恩がある話",
+   "url": "https://togetter.com/li/2764039",
+   "users": 28
+  },
+  {
+   "title": "教員が生徒にわいせつ画像送らせる　校長は当初「筋肉」と否定 | 毎日新聞",
+   "url": "https://mainichi.jp/articles/20261028/k00/00m/310/345000c",
+   "users": 21
+  },
+  {
+   "title": "Windows XPは25周年。あの丘、もう跡形もなかった | ギズモード・ジャパン",
+   "url": "https://www.gizmodo.jp/article/windows-xp-bliss-hill-today/",
+   "users": 18
+  },
+  {
+   "title": "もしあなたの免許証画像が漏洩したら？ 対処法をIPAが公開　相次ぐ不正アクセス受け",
+   "url": "https://japan.cnet.com/article/35254062/",
+   "users": 25
+  },
+  {
+   "title": "富山市の水増し国勢調査、「空き家」記述を消しゴムで消した跡多数…「職員にメリットない」との声も",
+   "url": "https://www.yomiuri.co.jp/national/20261027-GYT1T00389/",
+   "users": 20
+  },
+  {
+   "title": "日本航空など、不正アクセスで９万２０００人分の個人情報流出…２０００人分は電話番号やパスポート番号も",
+   "url": "https://www.yomiuri.co.jp/national/20261028-GYT1T00334/",
+   "users": 39
+  },
+  {
+   "title": "GMO熊谷正寿事件の概要と雑感｜山本一郎（やまもといちろう）",
+   "url": "https://note.com/kirik/n/n72f93c8a2819",
+   "users": 168
+  },
+  {
+   "title": "Amadeus の旅客サービスシステムへの不正アクセスについてまとめてみた - piyolog",
+   "url": "https://piyolog.hatenadiary.jp/entry/2026/10/28/214917",
+   "users": 24
+  },
+  {
+   "title": "副会長辞任に関するお知らせ",
+   "url": "https://www.jfa.jp/news/00036959/",
+   "users": 218
+  },
+  {
+   "title": "核戦争でも大停電でもない…超知能となったAIが人類を滅ぼすまでの｢最後の4日間｣戦慄シナリオ",
+   "url": "https://president.jp/articles/-/120676",
+   "users": 23
+  },
+  {
+   "title": "CNNなど報道3社がトランプ政権への訴訟を拡大　「見解に基づく差別」が続いていると主張",
+   "url": "https://www.cnn.co.jp/business/35254130.html",
+   "users": 7
+  },
+  {
+   "title": "約4年間グラフィックデザイナーとして働いてきて、今年で完全に従来のデザイナーという職業はなくなりそう…一方でマーケティングへのシフトやまだまだニーズがある面も",
+   "url": "https://togetter.com/li/2763896",
+   "users": 121
+  },
+  {
+   "title": "不正アクセスをうけて情報管理体制を見直すことになりました。 - Everything you've ever Dreamed",
+   "url": "https://delete-all.hatenablog.com/entry/2026/10/29/063000",
+   "users": 9
+  },
+  {
+   "title": "私学助成金、同志社など１２学校法人への交付保留…管理運営の状況「引き続き確認の必要」",
+   "url": "https://www.yomiuri.co.jp/kyoiku/kyoiku/news/20261028-GYT1T00424/",
+   "users": 15
+  },
+  {
+   "title": "二階堂地獄ゴルフ - 福本伸行 / 第１５２話「一択」 | コミックDAYS",
+   "url": "https://comic-days.com/episode/12207421984303447537",
+   "users": 19
+  },
+  {
+   "title": "仏環境政党トップ、エムバペ選手を擁護「毛沢東を独裁者と呼んだのは完全に正しい」",
+   "url": "https://www.afpbb.com/articles/-/3659827",
+   "users": 6
+  }
+ ]
+}
