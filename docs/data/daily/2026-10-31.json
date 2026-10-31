@@ -1,0 +1,521 @@
+{
+ "date": "2026-10-31",
+ "collected_at": "2026-10-31T09:34+09:00",
+ "errors": {},
+ "google": [
+  {
+   "term": "ムゲンダイナ",
+   "traffic": "2000+",
+   "news_title": "すべての道は、「ムゲンダイナ」が再び登場する「大きな足跡」イベントに続く",
+   "news_url": "https://pokemongolive.com/ja/news/dynamax-trails-eternamax-eternatus-2026",
+   "news_source": "Pokémon GO"
+  },
+  {
+   "term": "牧野翔矢",
+   "traffic": "500+",
+   "news_title": "二次戦力外通告期限最終日まで12球団165名に通告…さらに衝撃の金銭トレードも！【30日までの戦力外・引退リスト】",
+   "news_url": "https://news.yahoo.co.jp/articles/799b09bb9fd4e750ec8eb820c0a83f95f7ea9a62",
+   "news_source": "Yahoo!ニュース"
+  },
+  {
+   "term": "大仁田美咲",
+   "traffic": "500+",
+   "news_title": "「そんなん出来るんや」〝仰天の海沿い大開脚〟旅サラダ・大仁田美咲アナに反響続々「片足でこの高さまで」",
+   "news_url": "https://news.yahoo.co.jp/articles/ed5099c48e640ee3159b7a5835ea7351f1076ed9",
+   "news_source": "Yahoo!ニュース"
+  },
+  {
+   "term": "近畿大会 高校野球",
+   "traffic": "200+",
+   "news_title": "【高校野球】大阪桐蔭－明石商、智弁和歌山－京都国際ほか 近畿大会準々決勝／速報中",
+   "news_url": "https://www.nikkansports.com/baseball/highschool/news/202610310000063.html",
+   "news_source": "日刊スポーツ"
+  },
+  {
+   "term": "マーベリックス 対 ロケッツ",
+   "traffic": "100+",
+   "news_title": "Houston Rockets vs. Dallas Mavericks game preview ft. the NBA Cup!",
+   "news_url": "https://www.thedreamshake.com/rockets-game-previews/42192/houston-rockets-vs-dallas-mavericks-game-preview",
+   "news_source": "The Dream Shake"
+  },
+  {
+   "term": "ネッツ 対 ピストンズ",
+   "traffic": "100+",
+   "news_title": "NBA Cup Discussion: Detroit Pistons at Brooklyn Nets, 7:30 PM ET",
+   "news_url": "https://www.netsdaily.com/nets-discussion/115447/slug-detroit-pistons-brooklyn-nets-live-discussion",
+   "news_source": "NetsDaily"
+  },
+  {
+   "term": "幕張メッセ イベント",
+   "traffic": "100+",
+   "news_title": "【詳細のお知らせ】25thシングル『しあわせの保護色』発売記念 個別握手会および卒業メンバー欠席分個別握手会の振替イベント「リアルミート＆グリート」 会場:11/8(日)幕張メッセ",
+   "news_url": "https://www.nogizaka46.com/s/n46/news/detail/102372?ima=0029&pri1=202610",
+   "news_source": "乃木坂46公式サイト"
+  },
+  {
+   "term": "隕石",
+   "traffic": "100+",
+   "news_title": "西アフリカ・マリの砂漠で見つかった火星の隕石（ロイター＝共同） - 火星隕石は41億年前、最古か マリで発見、水の存在を示唆 - 写真・画像(1/1)",
+   "news_url": "https://www.nishinippon.co.jp/image/1097756/",
+   "news_source": "西日本新聞me"
+  },
+  {
+   "term": "中央道 通行止め",
+   "traffic": "100+",
+   "news_title": "",
+   "news_url": "",
+   "news_source": ""
+  },
+  {
+   "term": "日本シニアオープンゴルフ選手権競技",
+   "traffic": "100+",
+   "news_title": "第47回 日本シニアゴルフ選手権競技",
+   "news_url": "https://www.jga.or.jp/championship/2026/12/",
+   "news_source": "JGA 日本ゴルフ協会"
+  }
+ ],
+ "x": [
+  {
+   "term": "イタズラ",
+   "hours": 22,
+   "best_rank": 3,
+   "url": "https://x.com/search?q=%E3%82%A4%E3%82%BF%E3%82%BA%E3%83%A9"
+  },
+  {
+   "term": "トリックオアトリート",
+   "hours": 18,
+   "best_rank": 4,
+   "url": "https://x.com/search?q=%E3%83%88%E3%83%AA%E3%83%83%E3%82%AF%E3%82%AA%E3%82%A2%E3%83%88%E3%83%AA%E3%83%BC%E3%83%88"
+  },
+  {
+   "term": "Happy Halloween",
+   "hours": 17,
+   "best_rank": 2,
+   "url": "https://x.com/search?q=Happy%20Halloween"
+  },
+  {
+   "term": "ファンフェス",
+   "hours": 16,
+   "best_rank": 6,
+   "url": "https://x.com/search?q=%E3%83%95%E3%82%A1%E3%83%B3%E3%83%95%E3%82%A7%E3%82%B9"
+  },
+  {
+   "term": "はろうぃん",
+   "hours": 16,
+   "best_rank": 10,
+   "url": "https://x.com/search?q=%E3%81%AF%E3%82%8D%E3%81%86%E3%81%83%E3%82%93"
+  },
+  {
+   "term": "ハロウィン",
+   "hours": 14,
+   "best_rank": 1,
+   "url": "https://x.com/search?q=%E3%83%8F%E3%83%AD%E3%82%A6%E3%82%A3%E3%83%B3"
+  },
+  {
+   "term": "デュエプレコラボパック",
+   "hours": 13,
+   "best_rank": 20,
+   "url": "https://x.com/search?q=%E3%83%87%E3%83%A5%E3%82%A8%E3%83%97%E3%83%AC%E3%82%B3%E3%83%A9%E3%83%9C%E3%83%91%E3%83%83%E3%82%AF"
+  },
+  {
+   "term": "ハピハロ",
+   "hours": 12,
+   "best_rank": 6,
+   "url": "https://x.com/search?q=%E3%83%8F%E3%83%94%E3%83%8F%E3%83%AD"
+  },
+  {
+   "term": "くら寿司",
+   "hours": 12,
+   "best_rank": 9,
+   "url": "https://x.com/search?q=%E3%81%8F%E3%82%89%E5%AF%BF%E5%8F%B8"
+  },
+  {
+   "term": "瑞稀くん",
+   "hours": 12,
+   "best_rank": 10,
+   "url": "https://x.com/search?q=%E7%91%9E%E7%A8%80%E3%81%8F%E3%82%93"
+  },
+  {
+   "term": "とりっくおあとり",
+   "hours": 12,
+   "best_rank": 17,
+   "url": "https://x.com/search?q=%E3%81%A8%E3%82%8A%E3%81%A3%E3%81%8F%E3%81%8A%E3%81%82%E3%81%A8%E3%82%8A"
+  },
+  {
+   "term": "クロミちゃん",
+   "hours": 12,
+   "best_rank": 18,
+   "url": "https://x.com/search?q=%E3%82%AF%E3%83%AD%E3%83%9F%E3%81%A1%E3%82%83%E3%82%93"
+  },
+  {
+   "term": "Trick or Treat",
+   "hours": 12,
+   "best_rank": 23,
+   "url": "https://x.com/search?q=Trick%20or%20Treat"
+  },
+  {
+   "term": "#ゴジラマイナスワン",
+   "hours": 11,
+   "best_rank": 1,
+   "url": "https://x.com/search?q=%23%E3%82%B4%E3%82%B8%E3%83%A9%E3%83%9E%E3%82%A4%E3%83%8A%E3%82%B9%E3%83%AF%E3%83%B3"
+  },
+  {
+   "term": "マネウォ",
+   "hours": 11,
+   "best_rank": 7,
+   "url": "https://x.com/search?q=%E3%83%9E%E3%83%8D%E3%82%A6%E3%82%A9"
+  },
+  {
+   "term": "ビッくらポン",
+   "hours": 11,
+   "best_rank": 22,
+   "url": "https://x.com/search?q=%E3%83%93%E3%83%83%E3%81%8F%E3%82%89%E3%83%9D%E3%83%B3"
+  },
+  {
+   "term": "ハッピーハロウィン",
+   "hours": 10,
+   "best_rank": 1,
+   "url": "https://x.com/search?q=%E3%83%8F%E3%83%83%E3%83%94%E3%83%BC%E3%83%8F%E3%83%AD%E3%82%A6%E3%82%A3%E3%83%B3"
+  },
+  {
+   "term": "感情輸入",
+   "hours": 10,
+   "best_rank": 6,
+   "url": "https://x.com/search?q=%E6%84%9F%E6%83%85%E8%BC%B8%E5%85%A5"
+  },
+  {
+   "term": "感情輸出",
+   "hours": 10,
+   "best_rank": 16,
+   "url": "https://x.com/search?q=%E6%84%9F%E6%83%85%E8%BC%B8%E5%87%BA"
+  },
+  {
+   "term": "第1744回",
+   "hours": 10,
+   "best_rank": 19,
+   "url": "https://x.com/search?q=%E7%AC%AC1744%E5%9B%9E"
+  },
+  {
+   "term": "#ドラマ溺愛",
+   "hours": 9,
+   "best_rank": 4,
+   "url": "https://x.com/search?q=%23%E3%83%89%E3%83%A9%E3%83%9E%E6%BA%BA%E6%84%9B"
+  },
+  {
+   "term": "引き取り希望",
+   "hours": 9,
+   "best_rank": 6,
+   "url": "https://x.com/search?q=%E5%BC%95%E3%81%8D%E5%8F%96%E3%82%8A%E5%B8%8C%E6%9C%9B"
+  },
+  {
+   "term": "自由くん",
+   "hours": 9,
+   "best_rank": 16,
+   "url": "https://x.com/search?q=%E8%87%AA%E7%94%B1%E3%81%8F%E3%82%93"
+  },
+  {
+   "term": "最新情報",
+   "hours": 8,
+   "best_rank": 4,
+   "url": "https://x.com/search?q=%E6%9C%80%E6%96%B0%E6%83%85%E5%A0%B1"
+  },
+  {
+   "term": "海神作戦",
+   "hours": 8,
+   "best_rank": 7,
+   "url": "https://x.com/search?q=%E6%B5%B7%E7%A5%9E%E4%BD%9C%E6%88%A6"
+  },
+  {
+   "term": "フォートレス・エクスプロレーション",
+   "hours": 8,
+   "best_rank": 8,
+   "url": "https://x.com/search?q=%E3%83%95%E3%82%A9%E3%83%BC%E3%83%88%E3%83%AC%E3%82%B9%E3%83%BB%E3%82%A8%E3%82%AF%E3%82%B9%E3%83%97%E3%83%AD%E3%83%AC%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3"
+  },
+  {
+   "term": "深田くん",
+   "hours": 8,
+   "best_rank": 12,
+   "url": "https://x.com/search?q=%E6%B7%B1%E7%94%B0%E3%81%8F%E3%82%93"
+  },
+  {
+   "term": "雨彦さん",
+   "hours": 8,
+   "best_rank": 15,
+   "url": "https://x.com/search?q=%E9%9B%A8%E5%BD%A6%E3%81%95%E3%82%93"
+  },
+  {
+   "term": "イタチ/はたけカカシ",
+   "hours": 8,
+   "best_rank": 21,
+   "url": "https://x.com/search?q=%E3%82%A4%E3%82%BF%E3%83%81/%E3%81%AF%E3%81%9F%E3%81%91%E3%82%AB%E3%82%AB%E3%82%B7"
+  },
+  {
+   "term": "フレンドの支援",
+   "hours": 8,
+   "best_rank": 23,
+   "url": "https://x.com/search?q=%E3%83%95%E3%83%AC%E3%83%B3%E3%83%89%E3%81%AE%E6%94%AF%E6%8F%B4"
+  },
+  {
+   "term": "集結コード",
+   "hours": 8,
+   "best_rank": 27,
+   "url": "https://x.com/search?q=%E9%9B%86%E7%B5%90%E3%82%B3%E3%83%BC%E3%83%89"
+  },
+  {
+   "term": "永久金枠衣装",
+   "hours": 8,
+   "best_rank": 28,
+   "url": "https://x.com/search?q=%E6%B0%B8%E4%B9%85%E9%87%91%E6%9E%A0%E8%A1%A3%E8%A3%85"
+  },
+  {
+   "term": "ミザリィ",
+   "hours": 7,
+   "best_rank": 7,
+   "url": "https://x.com/search?q=%E3%83%9F%E3%82%B6%E3%83%AA%E3%82%A3"
+  },
+  {
+   "term": "オルガマリー",
+   "hours": 7,
+   "best_rank": 8,
+   "url": "https://x.com/search?q=%E3%82%AA%E3%83%AB%E3%82%AC%E3%83%9E%E3%83%AA%E3%83%BC"
+  },
+  {
+   "term": "キオクシア",
+   "hours": 7,
+   "best_rank": 8,
+   "url": "https://x.com/search?q=%E3%82%AD%E3%82%AA%E3%82%AF%E3%82%B7%E3%82%A2"
+  },
+  {
+   "term": "黄泉さん",
+   "hours": 7,
+   "best_rank": 10,
+   "url": "https://x.com/search?q=%E9%BB%84%E6%B3%89%E3%81%95%E3%82%93"
+  },
+  {
+   "term": "ネイチャー系",
+   "hours": 7,
+   "best_rank": 13,
+   "url": "https://x.com/search?q=%E3%83%8D%E3%82%A4%E3%83%81%E3%83%A3%E3%83%BC%E7%B3%BB"
+  },
+  {
+   "term": "基調講演",
+   "hours": 7,
+   "best_rank": 14,
+   "url": "https://x.com/search?q=%E5%9F%BA%E8%AA%BF%E8%AC%9B%E6%BC%94"
+  },
+  {
+   "term": "日本茶の日",
+   "hours": 7,
+   "best_rank": 14,
+   "url": "https://x.com/search?q=%E6%97%A5%E6%9C%AC%E8%8C%B6%E3%81%AE%E6%97%A5"
+  },
+  {
+   "term": "コングリストーレ",
+   "hours": 7,
+   "best_rank": 20,
+   "url": "https://x.com/search?q=%E3%82%B3%E3%83%B3%E3%82%B0%E3%83%AA%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AC"
+  }
+ ],
+ "hatena": [
+  {
+   "title": "「高市さんは自閉症」御厨貴 東大名誉教授がラジオで問題発言",
+   "url": "https://posfie.com/@Elif87995911/p/YnWIVCs",
+   "users": 95
+  },
+  {
+   "title": "日本がウクライナを支援する理由なんて、ロシアの横暴がまかり通ってしまうような世界になると日本のような立場の国は非常に生きづらくなるから、以上の理由も要らんのよな。→「アレが通っちゃうと、じゃあ全員核武装するしかないねとなってしまうのよね」",
+   "url": "https://posfie.com/@mumimushunyu/p/eyUkAJl",
+   "users": 68
+  },
+  {
+   "title": "高市首相　独首相にEV優遇除外を直談判…識者もあきれるG7会合欠席が招いた失敗「首相は外交を分かっているのか」 | 女性自身",
+   "url": "https://jisin.jp/domestic/2606994/",
+   "users": 38
+  },
+  {
+   "title": "ちばてつやはいつも外れた人たちの寂しさを優しく見つめていた。：ロマン優光連載415",
+   "url": "https://bunkaonline.jp/archives/9253",
+   "users": 28
+  },
+  {
+   "title": "総長選考の選考経緯に関する資料の公表について | 東京大学",
+   "url": "https://www.u-tokyo.ac.jp/focus/ja/press/z1303_00008.html",
+   "users": 195
+  },
+  {
+   "title": "高校生の頃、両親がやっていた古本屋で年配男性客が帰った後、父が「あの人昔は仏教の難しい本を買ってたのに、エロ本しか買わなくなった」と話していて、恐れおののいた",
+   "url": "https://togetter.com/li/2764792",
+   "users": 83
+  },
+  {
+   "title": "トヨタ、Waymoと協業しバッテリEV「bZ4X」の無人運転タクシーを2027年運行開始 国内生産の量産車による日本初の完全自動運転タクシーサービス",
+   "url": "https://car.watch.impress.co.jp/docs/news/2152645.html",
+   "users": 65
+  },
+  {
+   "title": "『老後破産の女王』 中村うさぎ | 新潮社",
+   "url": "https://www.shinchosha.co.jp/book/456707/",
+   "users": 70
+  },
+  {
+   "title": "小学生の絵に「AIくさい」　中傷相次ぎしょうゆコンクール公開中止：朝日新聞",
+   "url": "https://www.asahi.com/articles/ASVBZ2WFHVBZUTIL023M.html",
+   "users": 41
+  },
+  {
+   "title": "片渕須直監督：アニメーションの「動き」や「色」は表現そのものである　新作「つるばみ色のなぎ子たち」に込めたこだわり - MANTANWEB（まんたんウェブ）",
+   "url": "https://mantan-web.jp/article/20261027dog00m200014000a.html",
+   "users": 17
+  },
+  {
+   "title": "文章のAIっぽさを抑えるプロンプト",
+   "url": "https://imoz.jp/scraps/202610_humanizer.html",
+   "users": 132
+  },
+  {
+   "title": "【やや閲覧注意】ハエが電子レンジに飛び込んだが、殺虫剤を撒くわけにいかないので、ドアを閉めて600Wで1分。俺は完全に勝ったと思っていた…→予想外の展開に",
+   "url": "https://togetter.com/li/2764783",
+   "users": 52
+  },
+  {
+   "title": "備蓄リスト 一人暮らし編｜legit_lupine1168",
+   "url": "https://note.com/legit_lupine1168/n/nd35eea4d1613",
+   "users": 44
+  },
+  {
+   "title": "今後のセキュリティの考え方",
+   "url": "https://zenn.dev/cscloud_blog/articles/a987163efae5d8",
+   "users": 127
+  },
+  {
+   "title": "GMO不正アクセスの件で見つけた不審なXアカウントと「被害者フォーラム」について | ActiveTK's Note",
+   "url": "https://note.activetk.jp/hacks/onamae-desktop-cloud-v3",
+   "users": 18
+  },
+  {
+   "title": "市ノ瀬加那：「GROTESQQQUE-グロテスク-」インタビュー　「ダリフラ」から8年　誇りを胸に挑む - MANTANWEB（まんたんウェブ）",
+   "url": "https://mantan-web.jp/article/20261009dog00m200101000a.html",
+   "users": 7
+  },
+  {
+   "title": "『Forza Horizon 6』痛車BAN騒動、公式が「BAN基準」明かすも火に油。「とろんとした目はダメ」「処分はごく一部」など説明される一方、投稿がすぐ消える事態に - AUTOMATON",
+   "url": "https://automaton-media.com/articles/newsjp/20261030-476830/",
+   "users": 35
+  },
+  {
+   "title": "衆院比例31減に合意の国民民主、「事実上ゲリマンダー」批判から一転賛成の玉木代表に「全く信用できない」非難轟々 - Smart FLASH/スマフラ[光文社週刊誌]",
+   "url": "https://smart-flash.jp/sociopolitics/436393/",
+   "users": 65
+  },
+  {
+   "title": "CVE-2026-98432は「待ち受けに届くか」で決まる——OSとクラウドごとの対応状況と、修正版を待つ間にやること(更新)｜zephel01",
+   "url": "https://note.com/zephel01/n/n4637423e080b",
+   "users": 24
+  },
+  {
+   "title": "エンジニアが「勝手に育つ時代」は終わった　～エンジニアを育ててきた装置はAIで壊れた～",
+   "url": "https://codezine.jp/article/detail/30081",
+   "users": 24
+  },
+  {
+   "title": "「サンデー毎日」来春に休刊へ 雑誌市場縮小や原材料費高騰で | NHKニュース",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261030de68356",
+   "users": 17
+  },
+  {
+   "title": "MADE IN YAMATO - 第２２話　大和VS.健康診断 | ヤンマガWeb",
+   "url": "https://yanmaga.jp/viewer/comics/MADE_IN_YAMATO/13be539a19ad22b0d96648690e69fcdd?cid=06A0000000001025114L",
+   "users": 61
+  },
+  {
+   "title": "AppleはiPhoneをエサにメモリメーカーへ大幅な値引きを強要してきたがAIの登場で価格が高騰して立場が逆転しているとの指摘",
+   "url": "https://gigazine.net/news/20261030-apple-chip-sellers-impact/",
+   "users": 51
+  },
+  {
+   "title": "認知症を引き起こす｢ペットボトル飲料｣のリスク…亡くなった人の脳から｢クレヨン1本分｣の微小プラスチックが検出された",
+   "url": "https://toyokeizai.net/articles/-/962031",
+   "users": 16
+  },
+  {
+   "title": "暗号資産取引所バイナンスにハッキング、過去最大の9400億円超被害　北朝鮮の犯行か",
+   "url": "https://www.cnn.co.jp/tech/35254226.html",
+   "users": 139
+  },
+  {
+   "title": "RDPとターミナルサーバーの思い出 - Nothing ventured, nothing gained.",
+   "url": "https://takoratta.hatenablog.com/entry/rememberrdp",
+   "users": 13
+  },
+  {
+   "title": "中国産オクラから相次ぎ基準値超える農薬、厚労省が初の検査命令…残留検査を義務づけ（読売新聞オンライン） - Yahoo!ニュース",
+   "url": "https://news.yahoo.co.jp/articles/e219a4b77c099a19d0d39c4d35ec96e43271d047",
+   "users": 64
+  },
+  {
+   "title": "推定1兆円相当のBinanceの不正出金事案についてまとめてみた - piyolog",
+   "url": "https://piyolog.hatenadiary.jp/entry/2026/10/30/230303",
+   "users": 21
+  },
+  {
+   "title": "鉄道・バス・水牛車…広がるクレカ決済　交通系ICカードはどうなる：朝日新聞",
+   "url": "https://www.asahi.com/articles/ASVBX2V2WVBXULFA02FM.html",
+   "users": 19
+  },
+  {
+   "title": "「Gemini Notebook」、数百冊の教科書を無料で利用可能に",
+   "url": "https://www.watch.impress.co.jp/docs/news/2152548.html",
+   "users": 171
+  },
+  {
+   "title": "学校法人同志社の理事長が謝罪「命守れなかった」　辺野古事故で会見：朝日新聞",
+   "url": "https://www.asahi.com/articles/ASVBZ05R9VBZOXIE005M.html",
+   "users": 119
+  },
+  {
+   "title": "日本政府の排外主義的な政策に対する抗議声明",
+   "url": "https://dept.sophia.ac.jp/is/igc/detail.php?n=2026022",
+   "users": 447
+  },
+  {
+   "title": "たんぱく質を健康・環境・値段で総合評価すると1位は「豆腐」だった - ナゾロジー",
+   "url": "https://nazology.kusuguru.co.jp/archives/203911",
+   "users": 117
+  },
+  {
+   "title": "中国産オクラから相次ぎ基準値超える農薬、厚労省が初の検査命令…残留検査を義務づけ",
+   "url": "https://www.yomiuri.co.jp/national/20261030-GYT1T00299/",
+   "users": 23
+  },
+  {
+   "title": "【追悼】村上龍：『69』の明るさと『愛と幻想のファシズム』の暗さーー1987年に送り出された名作の表と裏",
+   "url": "https://realsound.jp/book/2026/10/post-2566648.html",
+   "users": 23
+  },
+  {
+   "title": "個人情報を自社のDBに持たない設計は、どこまでできるのか - every Tech Blog",
+   "url": "https://tech.every.tv/entry/2026/10/30/124255",
+   "users": 193
+  },
+  {
+   "title": "Gemini Notebook、無料で数百冊の教科書にアクセス可能に　米国・インドの出版社提供　日本でも利用可",
+   "url": "https://www.itmedia.co.jp/aiplus/article/2610/30/2000002760/",
+   "users": 27
+  },
+  {
+   "title": "「こういう人がついにやらかしたんだな」遺跡ガイドの説明が自論と違い激怒した男性（85）、ガイドを車で引きずり逮捕されてしまう",
+   "url": "https://togetter.com/li/2764760",
+   "users": 65
+  },
+  {
+   "title": "柏戦（10/24）での鹿島サポーター違反行為に関する処分のお知らせ",
+   "url": "https://www.antlers.co.jp/blogs/news/261030v405dv",
+   "users": 53
+  },
+  {
+   "title": "旭川駐屯地の自衛隊員の男ら３人逮捕「トクリュウ」の可能性も視野に捜査 「特殊詐欺」で70代女性から約100万円だまし取ったか | TBS NEWS DIG",
+   "url": "https://newsdig.tbs.co.jp/articles/-/3049450",
+   "users": 42
+  }
+ ]
+}
