@@ -1,0 +1,521 @@
+{
+ "date": "2026-11-03",
+ "collected_at": "2026-11-03T11:49+09:00",
+ "errors": {},
+ "google": [
+  {
+   "term": "すき家 メニュー",
+   "traffic": "2000+",
+   "news_title": "「お子様商品100円引きクーポン」を配信！ 税込170円でお得に楽しめるクーポンが登場 ｜ 新着情報",
+   "news_url": "https://www.sukiya.jp/news/2026/10/20261029coupon.html",
+   "news_source": "すき家"
+  },
+  {
+   "term": "出水 麻衣",
+   "traffic": "500+",
+   "news_title": "まさに“早大黄金期” 1・2年生最多5人出走で全日本圧勝 「圧倒的な個」は箱根駅伝も主役候補筆頭か...青学の連覇阻止へ",
+   "news_url": "https://news.ntv.co.jp/category/sports/f99b106f46d743879cdf31a546bea78f",
+   "news_source": "日テレNEWS NNN"
+  },
+  {
+   "term": "佳子さま",
+   "traffic": "200+",
+   "news_title": "「アイドルみたいなお手振り…」佳子さまの「両手フリフリスタイル」がSNSで賛否、ほかの皇族とは違う所作に込められた意味とは",
+   "news_url": "https://news.yahoo.co.jp/articles/7a84233e0f9cdd67b44696633c3ae9a6c3aac543",
+   "news_source": "Yahoo!ニュース"
+  },
+  {
+   "term": "クリッパーズ 対 ラプターズ",
+   "traffic": "200+",
+   "news_title": "Final Injury Report for Raptors-Clippers: Will Scottie Barnes, Rui Hachimura Play?",
+   "news_url": "https://sports.yahoo.com/articles/final-injury-report-raptors-clippers-230000048.html",
+   "news_source": "Yahoo Sports"
+  },
+  {
+   "term": "ウォリアーズ 対 サンズ",
+   "traffic": "200+",
+   "news_title": "Game Preview: Warriors vs. Suns - 11/2/26",
+   "news_url": "https://www.nba.com/warriors/news/gameday-preview-20261102",
+   "news_source": "NBA.com"
+  },
+  {
+   "term": "マクド",
+   "traffic": "200+",
+   "news_title": "「今Lって400円もするのか…」マック『ポテト値引きキャンペーン』に賛否の声。物価高の中、消費者の複雑な思い",
+   "news_url": "https://news.yahoo.co.jp/articles/1aa0ac77135cabad2ca043974ee02af8d319fa0d",
+   "news_source": "Yahoo!ニュース"
+  },
+  {
+   "term": "ナゲッツ 対 ブレイザーズ",
+   "traffic": "200+",
+   "news_title": "Discuss Trail Blazers-Nuggets Game Here!",
+   "news_url": "https://www.blazersedge.com/trail-blazers-discussion-game-threads/117859/discuss-trail-blazers-nuggets-game-here",
+   "news_source": "Blazer's Edge"
+  },
+  {
+   "term": "adv125",
+   "traffic": "100+",
+   "news_title": "2027 Honda ADV125 brings adventure scooter attitude to the 125cc class",
+   "news_url": "https://www.visordown.com/news/2027-honda-adv125-brings-adventure-scooter-attitude-125cc-class",
+   "news_source": "Visordown"
+  },
+  {
+   "term": "人手不足倒産",
+   "traffic": "100+",
+   "news_title": "「人手不足倒産」が過去最多を更新、人が採れないだけじゃない…中小企業を潰す「もう一つの原因」【帝国データバンクが解説】",
+   "news_url": "https://diamond.jp/articles/-/402451?page=2",
+   "news_source": "ダイヤモンド・オンライン"
+  },
+  {
+   "term": "rw700",
+   "traffic": "100+",
+   "news_title": "ヤマハに2サイクル新型登場！？ 欧州ティザーのエンジン透視図は「1往復ごとに点火」、11月2日ミラノで発表へ",
+   "news_url": "https://news.webike.net/motorcycle/609386/",
+   "news_source": "Webikeプラス"
+  }
+ ],
+ "x": [
+  {
+   "term": "文化の日",
+   "hours": 26,
+   "best_rank": 1,
+   "url": "https://x.com/search?q=%E6%96%87%E5%8C%96%E3%81%AE%E6%97%A5"
+  },
+  {
+   "term": "命の砂時計",
+   "hours": 26,
+   "best_rank": 2,
+   "url": "https://x.com/search?q=%E5%91%BD%E3%81%AE%E7%A0%82%E6%99%82%E8%A8%88"
+  },
+  {
+   "term": "フレネミー診断",
+   "hours": 19,
+   "best_rank": 6,
+   "url": "https://x.com/search?q=%E3%83%95%E3%83%AC%E3%83%8D%E3%83%9F%E3%83%BC%E8%A8%BA%E6%96%AD"
+  },
+  {
+   "term": "裏表ゼロの安全地帯",
+   "hours": 18,
+   "best_rank": 10,
+   "url": "https://x.com/search?q=%E8%A3%8F%E8%A1%A8%E3%82%BC%E3%83%AD%E3%81%AE%E5%AE%89%E5%85%A8%E5%9C%B0%E5%B8%AF"
+  },
+  {
+   "term": "#CDTVライブライブ",
+   "hours": 15,
+   "best_rank": 1,
+   "url": "https://x.com/search?q=%23CDTV%E3%83%A9%E3%82%A4%E3%83%96%E3%83%A9%E3%82%A4%E3%83%96"
+  },
+  {
+   "term": "#BEFIRST_5thAnniv",
+   "hours": 12,
+   "best_rank": 1,
+   "url": "https://x.com/search?q=%23BEFIRST_5thAnniv"
+  },
+  {
+   "term": "森川さん",
+   "hours": 12,
+   "best_rank": 11,
+   "url": "https://x.com/search?q=%E6%A3%AE%E5%B7%9D%E3%81%95%E3%82%93"
+  },
+  {
+   "term": "カタクリコ",
+   "hours": 12,
+   "best_rank": 11,
+   "url": "https://x.com/search?q=%E3%82%AB%E3%82%BF%E3%82%AF%E3%83%AA%E3%82%B3"
+  },
+  {
+   "term": "#ゴジラマイナスゼロ",
+   "hours": 11,
+   "best_rank": 2,
+   "url": "https://x.com/search?q=%23%E3%82%B4%E3%82%B8%E3%83%A9%E3%83%9E%E3%82%A4%E3%83%8A%E3%82%B9%E3%82%BC%E3%83%AD"
+  },
+  {
+   "term": "GMOの会見",
+   "hours": 10,
+   "best_rank": 1,
+   "url": "https://x.com/search?q=GMO%E3%81%AE%E4%BC%9A%E8%A6%8B"
+  },
+  {
+   "term": "#Happy_5thAnniv_INI",
+   "hours": 10,
+   "best_rank": 2,
+   "url": "https://x.com/search?q=%23Happy_5thAnniv_INI"
+  },
+  {
+   "term": "ア・ポステリオリ",
+   "hours": 10,
+   "best_rank": 6,
+   "url": "https://x.com/search?q=%E3%82%A2%E3%83%BB%E3%83%9D%E3%82%B9%E3%83%86%E3%83%AA%E3%82%AA%E3%83%AA"
+  },
+  {
+   "term": "野々村議員",
+   "hours": 10,
+   "best_rank": 6,
+   "url": "https://x.com/search?q=%E9%87%8E%E3%80%85%E6%9D%91%E8%AD%B0%E5%93%A1"
+  },
+  {
+   "term": "泉ピン子",
+   "hours": 9,
+   "best_rank": 6,
+   "url": "https://x.com/search?q=%E6%B3%89%E3%83%94%E3%83%B3%E5%AD%90"
+  },
+  {
+   "term": "チームイニミニ",
+   "hours": 9,
+   "best_rank": 7,
+   "url": "https://x.com/search?q=%E3%83%81%E3%83%BC%E3%83%A0%E3%82%A4%E3%83%8B%E3%83%9F%E3%83%8B"
+  },
+  {
+   "term": "みかんの日",
+   "hours": 9,
+   "best_rank": 8,
+   "url": "https://x.com/search?q=%E3%81%BF%E3%81%8B%E3%82%93%E3%81%AE%E6%97%A5"
+  },
+  {
+   "term": "第1747回",
+   "hours": 9,
+   "best_rank": 13,
+   "url": "https://x.com/search?q=%E7%AC%AC1747%E5%9B%9E"
+  },
+  {
+   "term": "ワンワンニャン",
+   "hours": 9,
+   "best_rank": 14,
+   "url": "https://x.com/search?q=%E3%83%AF%E3%83%B3%E3%83%AF%E3%83%B3%E3%83%8B%E3%83%A3%E3%83%B3"
+  },
+  {
+   "term": "ギガ土下座",
+   "hours": 9,
+   "best_rank": 19,
+   "url": "https://x.com/search?q=%E3%82%AE%E3%82%AC%E5%9C%9F%E4%B8%8B%E5%BA%A7"
+  },
+  {
+   "term": "#日向坂ババ抜き中",
+   "hours": 8,
+   "best_rank": 2,
+   "url": "https://x.com/search?q=%23%E6%97%A5%E5%90%91%E5%9D%82%E3%83%90%E3%83%90%E6%8A%9C%E3%81%8D%E4%B8%AD"
+  },
+  {
+   "term": "#祝デビュー5周年_11の願い叶えよう",
+   "hours": 8,
+   "best_rank": 3,
+   "url": "https://x.com/search?q=%23%E7%A5%9D%E3%83%87%E3%83%93%E3%83%A5%E3%83%BC5%E5%91%A8%E5%B9%B4_11%E3%81%AE%E9%A1%98%E3%81%84%E5%8F%B6%E3%81%88%E3%82%88%E3%81%86"
+  },
+  {
+   "term": "みかわさん",
+   "hours": 8,
+   "best_rank": 8,
+   "url": "https://x.com/search?q=%E3%81%BF%E3%81%8B%E3%82%8F%E3%81%95%E3%82%93"
+  },
+  {
+   "term": "自由と平和",
+   "hours": 8,
+   "best_rank": 10,
+   "url": "https://x.com/search?q=%E8%87%AA%E7%94%B1%E3%81%A8%E5%B9%B3%E5%92%8C"
+  },
+  {
+   "term": "まんがの日",
+   "hours": 8,
+   "best_rank": 11,
+   "url": "https://x.com/search?q=%E3%81%BE%E3%82%93%E3%81%8C%E3%81%AE%E6%97%A5"
+  },
+  {
+   "term": "INI5",
+   "hours": 8,
+   "best_rank": 12,
+   "url": "https://x.com/search?q=INI5"
+  },
+  {
+   "term": "エレメンタルジェレイド",
+   "hours": 8,
+   "best_rank": 20,
+   "url": "https://x.com/search?q=%E3%82%A8%E3%83%AC%E3%83%A1%E3%83%B3%E3%82%BF%E3%83%AB%E3%82%B8%E3%82%A7%E3%83%AC%E3%82%A4%E3%83%89"
+  },
+  {
+   "term": "ひび0枚",
+   "hours": 8,
+   "best_rank": 21,
+   "url": "https://x.com/search?q=%E3%81%B2%E3%81%B30%E6%9E%9A"
+  },
+  {
+   "term": "#FNS歌謡祭",
+   "hours": 7,
+   "best_rank": 1,
+   "url": "https://x.com/search?q=%23FNS%E6%AD%8C%E8%AC%A1%E7%A5%AD"
+  },
+  {
+   "term": "ろあちゃん",
+   "hours": 7,
+   "best_rank": 7,
+   "url": "https://x.com/search?q=%E3%82%8D%E3%81%82%E3%81%A1%E3%82%83%E3%82%93"
+  },
+  {
+   "term": "カーニバル",
+   "hours": 7,
+   "best_rank": 7,
+   "url": "https://x.com/search?q=%E3%82%AB%E3%83%BC%E3%83%8B%E3%83%90%E3%83%AB"
+  },
+  {
+   "term": "フルサイズ",
+   "hours": 7,
+   "best_rank": 7,
+   "url": "https://x.com/search?q=%E3%83%95%E3%83%AB%E3%82%B5%E3%82%A4%E3%82%BA"
+  },
+  {
+   "term": "入間航空祭",
+   "hours": 7,
+   "best_rank": 10,
+   "url": "https://x.com/search?q=%E5%85%A5%E9%96%93%E8%88%AA%E7%A9%BA%E7%A5%AD"
+  },
+  {
+   "term": "祝日出勤",
+   "hours": 7,
+   "best_rank": 11,
+   "url": "https://x.com/search?q=%E7%A5%9D%E6%97%A5%E5%87%BA%E5%8B%A4"
+  },
+  {
+   "term": "ロージー",
+   "hours": 7,
+   "best_rank": 12,
+   "url": "https://x.com/search?q=%E3%83%AD%E3%83%BC%E3%82%B8%E3%83%BC"
+  },
+  {
+   "term": "謝罪会見",
+   "hours": 7,
+   "best_rank": 12,
+   "url": "https://x.com/search?q=%E8%AC%9D%E7%BD%AA%E4%BC%9A%E8%A6%8B"
+  },
+  {
+   "term": "ライフネット生命",
+   "hours": 7,
+   "best_rank": 13,
+   "url": "https://x.com/search?q=%E3%83%A9%E3%82%A4%E3%83%95%E3%83%8D%E3%83%83%E3%83%88%E7%94%9F%E5%91%BD"
+  },
+  {
+   "term": "涙の理由",
+   "hours": 7,
+   "best_rank": 16,
+   "url": "https://x.com/search?q=%E6%B6%99%E3%81%AE%E7%90%86%E7%94%B1"
+  },
+  {
+   "term": "晴れの特異日",
+   "hours": 7,
+   "best_rank": 23,
+   "url": "https://x.com/search?q=%E6%99%B4%E3%82%8C%E3%81%AE%E7%89%B9%E7%95%B0%E6%97%A5"
+  },
+  {
+   "term": "ビッグランダム",
+   "hours": 7,
+   "best_rank": 28,
+   "url": "https://x.com/search?q=%E3%83%93%E3%83%83%E3%82%B0%E3%83%A9%E3%83%B3%E3%83%80%E3%83%A0"
+  },
+  {
+   "term": "#嵐デビュー記念日",
+   "hours": 7,
+   "best_rank": 44,
+   "url": "https://x.com/search?q=%23%E5%B5%90%E3%83%87%E3%83%93%E3%83%A5%E3%83%BC%E8%A8%98%E5%BF%B5%E6%97%A5"
+  }
+ ],
+ "hatena": [
+  {
+   "title": "ADHDにおける「起こりえる行動特性（実例80個）」と家族の対処法",
+   "url": "https://ezo-cl.jp/symptom/3014/",
+   "users": 252
+  },
+  {
+   "title": "GMO熊谷代表「あなたお詫びしているのにボタン開けてどうするんだ」 会見中に服装注意 記者には「申し訳ありません」 | 国内 | ABEMA TIMES | アベマタイムズ",
+   "url": "https://times.abema.tv/articles/-/10285860",
+   "users": 135
+  },
+  {
+   "title": "ARCHITECTURE.md",
+   "url": "https://architecture.md/",
+   "users": 155
+  },
+  {
+   "title": "泉ピン子さん、映画の舞台挨拶での言動が問題になり製作会社から提訴される「元々そう言うキャラ」「今の時代では通用しない」",
+   "url": "https://togetter.com/li/2766016",
+   "users": 126
+  },
+  {
+   "title": "タワーレコードが独立したライブスペースをオープンすること - WASTE OF POPS 80s-90s",
+   "url": "https://www.wasteofpops.com/entry/2026/11/02/000000",
+   "users": 47
+  },
+  {
+   "title": "小学校で給食費などの督促怠り5400万円不足　校長ら私費で補てん：朝日新聞",
+   "url": "https://www.asahi.com/articles/ASVC244FYVC2OXIE046M.html",
+   "users": 223
+  },
+  {
+   "title": "「子宮頸がんは風邪の一部」参政党幹部　都議選応援演説での発言が物議…本人は「確認と発言の慎重さを欠いた」と訂正＆謝罪 | 女性自身",
+   "url": "https://jisin.jp/domestic/2607263/",
+   "users": 27
+  },
+  {
+   "title": "日本の全法令を git の履歴にしてみた",
+   "url": "https://zenn.dev/koheiwada/articles/houritsu-japanese-laws-as-git",
+   "users": 225
+  },
+  {
+   "title": "僕の心のヤバイやつ ラブコメディが始まらない・Score.29　2人のクリスマス② | チャンピオンクロス",
+   "url": "https://championcross.jp/episodes/29def858f3973",
+   "users": 29
+  },
+  {
+   "title": "神山健治監督：「社会と個人」を描いた「攻殻機動隊S.A.C.」　AI時代にアニメで未来を描く意味 - MANTANWEB（まんたんウェブ）",
+   "url": "https://mantan-web.jp/article/20261019dog00m200084000a.html",
+   "users": 22
+  },
+  {
+   "title": "トランプ氏「口約束」連発　中間選挙前に焦り：時事ドットコム",
+   "url": "https://www.jiji.com/jc/article?k=2026110200882&g=int",
+   "users": 22
+  },
+  {
+   "title": "30代オタク男性がマッチングアプリをやってみた。あと街コンとか。｜奈倉",
+   "url": "https://note.com/nakura__/n/n0ad68bc081ee",
+   "users": 21
+  },
+  {
+   "title": "振動で「お酌できない」リニア工事で料理店が廃業　住宅の敷地は陥没、家屋にヒビ…住民の訴えにJR東海は：東京新聞デジタル",
+   "url": "https://www.tokyo-np.co.jp/article/525483",
+   "users": 67
+  },
+  {
+   "title": "ISUCON2026 で優勝しました（当日編）",
+   "url": "https://zenn.dev/luvtechno/articles/isucon2026-competition-day",
+   "users": 248
+  },
+  {
+   "title": "snidelのダウンジャケット、ふとんの西川が作ってるらしい「西川を着て出歩けるというパワーワードに震えている」「さすがに信頼度高すぎる」",
+   "url": "https://togetter.com/li/2765888",
+   "users": 91
+  },
+  {
+   "title": "「11月3日は明治の日」祝日改定の動き　歴史家が語る不気味さ | 毎日新聞",
+   "url": "https://mainichi.jp/articles/20261102/k00/00m/010/081000c",
+   "users": 24
+  },
+  {
+   "title": "Nintendo Switch 2『ゼルダの伝説』40周年記念モデル、高額転売に“空振り”続出か。予約困難から一転、普通に買える - AUTOMATON",
+   "url": "https://automaton-media.com/articles/newsjp/20261102-477148/",
+   "users": 47
+  },
+  {
+   "title": "Claude CodeやCodexが書いたコードを全部は読まずに自分で説明できるようにする4つの手順 - AIDB",
+   "url": "https://ai-data-base.com/archives/139789",
+   "users": 38
+  },
+  {
+   "title": "VTuber天神子兎音、2025年末に卒業していた事実が判明──新キャストを迎えて再始動を予定",
+   "url": "https://kai-you.net/article/97028",
+   "users": 12
+  },
+  {
+   "title": "ペペロンチーノに限らず究極の、とか本物の、とかをなんでこんなに議論になるんでしょうか。私のペペロンチーノの場合、今日は味の素を入れてうま味強めでいこうとか、今日はソリッドな感じでパセリだけたっぷり入れようとか、その日の気分や、シーンに合わせて作れば良いと思ってしまいます。構造を理解せず、レシピありきで作るからそうなるのでしょうか。 | mond",
+   "url": "https://mond.how/topics/2ktrqf73pvkwnbd/e1xn4e9she5bz56",
+   "users": 11
+  },
+  {
+   "title": "ウクライナの学校にロシア軍が空爆、少なくとも２６人が死亡…ゼレンスキー氏「真の正義も望んでいないことを裏付けるもの」",
+   "url": "https://www.yomiuri.co.jp/world/20261103-GYT1T00079/",
+   "users": 25
+  },
+  {
+   "title": "「お隣さんはデータセンター」が次々現実になってしまう…無秩序な建設を許す現行法を改めなくていいのか：東京新聞デジタル",
+   "url": "https://www.tokyo-np.co.jp/article/525330",
+   "users": 60
+  },
+  {
+   "title": "開発者に訊きました : ゼルダの伝説 時のオカリナ｜任天堂",
+   "url": "https://www.nintendo.com/jp/interview/aa9ja/index.html",
+   "users": 167
+  },
+  {
+   "title": "冷凍庫にサイバー攻撃、食品溶け大量廃棄　欧州各地のスーパー - 日本経済新聞",
+   "url": "https://www.nikkei.com/article/DGXZQOGN02B1R0S6A101C2000000/",
+   "users": 36
+  },
+  {
+   "title": "スパコン級チップがノートPCに。RTX Sparkが日本で6社から登場",
+   "url": "https://pc.watch.impress.co.jp/docs/news/2153206.html",
+   "users": 47
+  },
+  {
+   "title": "ハンガリー動乱７０年で考えるロシアのウクライナ侵攻 | NHKニュース",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261102de69454",
+   "users": 14
+  },
+  {
+   "title": "韓国人「日本のスーパーのパンや生クリームは、次元が違う…こんな食生活をしていてどうして日本人の平均寿命が長いのか、本当に不思議でならない」",
+   "url": "https://togetter.com/li/2765970",
+   "users": 24
+  },
+  {
+   "title": "「日本の防衛はAIで優位に」　米パランティアCEOインタビュー - 日本経済新聞",
+   "url": "https://www.nikkei.com/article/DGXZQOGN300HD0Q6A031C2000000/",
+   "users": 39
+  },
+  {
+   "title": "『レジスタ！』は誰の何に対するレジスタンスなのか？｜渡部宏樹（Kohki Watabe）",
+   "url": "https://note.com/watabe_kohki/n/n3c29daa1bf83",
+   "users": 28
+  },
+  {
+   "title": "七川琴の再来か！？「レジスタはギルティだが、薬屋は無罪」と主張するBL創作者の腐女子が登場して炎上",
+   "url": "https://posfie.com/@Acg3C2/p/iw0gDsr",
+   "users": 72
+  },
+  {
+   "title": "昔、知り合いの結婚式で「プロ仕様のカメラを持ち込んだ客がいたら、外部のプロカメラマンを呼んだ扱いで持ち込み料をとる」という式場があった→あるある体験談が集まる",
+   "url": "https://togetter.com/li/2766025",
+   "users": 25
+  },
+  {
+   "title": "中国メディア反発、LGBT演出への違和感、そして監督のパワハラ…大ヒット『VIVANT2』に漂う「昭和の権力おじさん」の正体 | 文春オンライン",
+   "url": "https://bunshun.jp/articles/-/93398",
+   "users": 11
+  },
+  {
+   "title": "TOMOOがアニメ「ひらやすみ」のEDテーマ担当、“あかるい夜の道やいい風”に心動かされ制作（コメントあり） - 音楽ナタリー",
+   "url": "https://natalie.mu/music/news/696282",
+   "users": 4
+  },
+  {
+   "title": "キーエンス、PLC専用AIエージェント「KV Intelligence」を発売",
+   "url": "https://www.keyence.co.jp/news-events/20261102-kv-intelligence.jsp",
+   "users": 12
+  },
+  {
+   "title": "コードレビューをなくして見えたもの",
+   "url": "https://zenn.dev/henteko/articles/b76b15922cdf72",
+   "users": 18
+  },
+  {
+   "title": "高市首相「ワタクシ悲願」の消費税減税法案で国会答弁“逃げ恥作戦”画策も失敗確実｜日刊ゲンダイDIGITAL",
+   "url": "https://www.nikkan-gendai.com/articles/view/news/395081",
+   "users": 14
+  },
+  {
+   "title": "AIが書く「読みづらいADR」に発狂しかけたので、ADRのガイドラインを作った",
+   "url": "https://zenn.dev/tokium_dev/articles/adr-authoring-guideline",
+   "users": 118
+  },
+  {
+   "title": "漫画！？九州場所の新弟子検査でエストニア出身２０歳が握力計を怪力破壊　看護師「握力計の写真を撮るのはご遠慮ください…」 - スポーツ報知",
+   "url": "https://hochi.news/articles/20261102-OHT1T51103.html",
+   "users": 78
+  },
+  {
+   "title": "日本株「ツルハシ神話」に陰り　AI投資に黄信号、揺らぐ増益期待 - 日本経済新聞",
+   "url": "https://www.nikkei.com/article/DGXZQOUB0222R0S6A101C2000000/",
+   "users": 41
+  },
+  {
+   "title": "GitHub - Kohei-Wada/houritsu: Japanese laws as git history, one commit per amendment (generated from the e-Gov law API)",
+   "url": "https://github.com/Kohei-Wada/houritsu",
+   "users": 21
+  }
+ ]
+}
