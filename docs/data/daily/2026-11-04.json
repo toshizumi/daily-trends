@@ -1,0 +1,521 @@
+{
+ "date": "2026-11-04",
+ "collected_at": "2026-11-04T10:07+09:00",
+ "errors": {},
+ "google": [
+  {
+   "term": "キオクシア 株価",
+   "traffic": "5000+",
+   "news_title": "キオクシア「明らかにスーパーサイクル」、純利益は半期で2兆円超：27年の生産能力は既に「SOLD OUT」（1/3 ページ）",
+   "news_url": "https://eetimes.itmedia.co.jp/ee/articles/2611/02/news034.html",
+   "news_source": "EE Times Japan"
+  },
+  {
+   "term": "日経平均",
+   "traffic": "5000+",
+   "news_title": "伊藤智洋が読む「日経平均株価・短期シナリオ」 (11月4日記）",
+   "news_url": "https://kabutan.jp/news/marketnews/?b=n202611040239",
+   "news_source": "株探"
+  },
+  {
+   "term": "オリエンタルランド 株価",
+   "traffic": "500+",
+   "news_title": "オリエンタルランドの株価が1年ぶり高値 25周年で猛暑克服、客単価「2万円」射程に",
+   "news_url": "https://www.nikkei.com/article/DGXZQOFL300VDTQ6A031C2000000/",
+   "news_source": "日本経済新聞"
+  },
+  {
+   "term": "東京エレクトロン 株価",
+   "traffic": "500+",
+   "news_title": "東京エレクトロン株が大幅高 半導体「スーパーサイクル」見方強まる",
+   "news_url": "https://www.nikkei.com/article/DGXZQOFL020WO0S6A101C2000000/",
+   "news_source": "日本経済新聞"
+  },
+  {
+   "term": "パナソニック株価",
+   "traffic": "200+",
+   "news_title": "パナソニックHDが過去最高益、AI需要がけん引し2028年度目標を2年前倒し（MONOist）",
+   "news_url": "https://news.yahoo.co.jp/articles/c268b87edb0093f3a33980a1ef1e24c8e749b816",
+   "news_source": "Yahoo!ニュース"
+  },
+  {
+   "term": "住友化学 株価",
+   "traffic": "200+",
+   "news_title": "２日の動意株＞住友化(ウエルスアドバイザー)",
+   "news_url": "https://finance.yahoo.co.jp/news/detail/9f90687cebfc6846b5e29243726164dd1e9b96a3",
+   "news_source": "Yahoo!ファイナンス"
+  },
+  {
+   "term": "ihi 株価",
+   "traffic": "200+",
+   "news_title": "本日の決算発表予定 … ＩＨＩ、三菱商、ＮＴＴなど 77社 (11月4日)",
+   "news_url": "https://kabutan.jp/news/marketnews/?b=n202611040052",
+   "news_source": "株探"
+  },
+  {
+   "term": "三菱電機株価",
+   "traffic": "200+",
+   "news_title": "半導体／FA好調の三菱電機、26年度2Qは純利益92％増：ローム／東芝の統合は変化なし",
+   "news_url": "https://eetimes.itmedia.co.jp/ee/articles/2611/02/news047.html",
+   "news_source": "EE Times Japan"
+  },
+  {
+   "term": "商船三井 株価",
+   "traffic": "200+",
+   "news_title": "商船三井、海運市況の改善を背景に通期業績予想を大幅上方修正--決算チェック(フィスコ)",
+   "news_url": "https://finance.yahoo.co.jp/news/detail/4548dfc32f5a6920a79d0b06a473daf79f0079ff",
+   "news_source": "Yahoo!ファイナンス"
+  },
+  {
+   "term": "第一三共 株価",
+   "traffic": "200+",
+   "news_title": "動いた株・出来た株（前場）part2：第一三共、栗田工業など15社(フィスコ)",
+   "news_url": "https://finance.yahoo.co.jp/news/detail/196b55f571720b468322a3e60796f53b514ee945",
+   "news_source": "Yahoo!ファイナンス"
+  }
+ ],
+ "x": [
+  {
+   "term": "烈火の炎",
+   "hours": 19,
+   "best_rank": 12,
+   "url": "https://x.com/search?q=%E7%83%88%E7%81%AB%E3%81%AE%E7%82%8E"
+  },
+  {
+   "term": "カプセルトイ",
+   "hours": 19,
+   "best_rank": 15,
+   "url": "https://x.com/search?q=%E3%82%AB%E3%83%97%E3%82%BB%E3%83%AB%E3%83%88%E3%82%A4"
+  },
+  {
+   "term": "シンヘン",
+   "hours": 19,
+   "best_rank": 20,
+   "url": "https://x.com/search?q=%E3%82%B7%E3%83%B3%E3%83%98%E3%83%B3"
+  },
+  {
+   "term": "#いい推しの日",
+   "hours": 16,
+   "best_rank": 1,
+   "url": "https://x.com/search?q=%23%E3%81%84%E3%81%84%E6%8E%A8%E3%81%97%E3%81%AE%E6%97%A5"
+  },
+  {
+   "term": "ネームプレート",
+   "hours": 16,
+   "best_rank": 36,
+   "url": "https://x.com/search?q=%E3%83%8D%E3%83%BC%E3%83%A0%E3%83%97%E3%83%AC%E3%83%BC%E3%83%88"
+  },
+  {
+   "term": "原神のキャラ",
+   "hours": 14,
+   "best_rank": 13,
+   "url": "https://x.com/search?q=%E5%8E%9F%E7%A5%9E%E3%81%AE%E3%82%AD%E3%83%A3%E3%83%A9"
+  },
+  {
+   "term": "フィロソフィア",
+   "hours": 14,
+   "best_rank": 15,
+   "url": "https://x.com/search?q=%E3%83%95%E3%82%A3%E3%83%AD%E3%82%BD%E3%83%95%E3%82%A3%E3%82%A2"
+  },
+  {
+   "term": "ガチ嵐会",
+   "hours": 12,
+   "best_rank": 3,
+   "url": "https://x.com/search?q=%E3%82%AC%E3%83%81%E5%B5%90%E4%BC%9A"
+  },
+  {
+   "term": "家族風呂",
+   "hours": 12,
+   "best_rank": 7,
+   "url": "https://x.com/search?q=%E5%AE%B6%E6%97%8F%E9%A2%A8%E5%91%82"
+  },
+  {
+   "term": "#恋とき",
+   "hours": 11,
+   "best_rank": 1,
+   "url": "https://x.com/search?q=%23%E6%81%8B%E3%81%A8%E3%81%8D"
+  },
+  {
+   "term": "ゴジラ-0.0",
+   "hours": 11,
+   "best_rank": 3,
+   "url": "https://x.com/search?q=%E3%82%B4%E3%82%B8%E3%83%A9-0.0"
+  },
+  {
+   "term": "アソビュー",
+   "hours": 11,
+   "best_rank": 19,
+   "url": "https://x.com/search?q=%E3%82%A2%E3%82%BD%E3%83%93%E3%83%A5%E3%83%BC"
+  },
+  {
+   "term": "ハンマーフェル",
+   "hours": 10,
+   "best_rank": 7,
+   "url": "https://x.com/search?q=%E3%83%8F%E3%83%B3%E3%83%9E%E3%83%BC%E3%83%95%E3%82%A7%E3%83%AB"
+  },
+  {
+   "term": "ガルクラ",
+   "hours": 10,
+   "best_rank": 8,
+   "url": "https://x.com/search?q=%E3%82%AC%E3%83%AB%E3%82%AF%E3%83%A9"
+  },
+  {
+   "term": "フレネミー診断",
+   "hours": 10,
+   "best_rank": 13,
+   "url": "https://x.com/search?q=%E3%83%95%E3%83%AC%E3%83%8D%E3%83%9F%E3%83%BC%E8%A8%BA%E6%96%AD"
+  },
+  {
+   "term": "あいの里",
+   "hours": 10,
+   "best_rank": 19,
+   "url": "https://x.com/search?q=%E3%81%82%E3%81%84%E3%81%AE%E9%87%8C"
+  },
+  {
+   "term": "梨木先生",
+   "hours": 9,
+   "best_rank": 3,
+   "url": "https://x.com/search?q=%E6%A2%A8%E6%9C%A8%E5%85%88%E7%94%9F"
+  },
+  {
+   "term": "真島先生",
+   "hours": 9,
+   "best_rank": 5,
+   "url": "https://x.com/search?q=%E7%9C%9F%E5%B3%B6%E5%85%88%E7%94%9F"
+  },
+  {
+   "term": "TES6",
+   "hours": 9,
+   "best_rank": 7,
+   "url": "https://x.com/search?q=TES6"
+  },
+  {
+   "term": "Honey Creep",
+   "hours": 9,
+   "best_rank": 9,
+   "url": "https://x.com/search?q=Honey%20Creep"
+  },
+  {
+   "term": "スカイリム",
+   "hours": 9,
+   "best_rank": 10,
+   "url": "https://x.com/search?q=%E3%82%B9%E3%82%AB%E3%82%A4%E3%83%AA%E3%83%A0"
+  },
+  {
+   "term": "#サカナ山口ANN",
+   "hours": 8,
+   "best_rank": 2,
+   "url": "https://x.com/search?q=%23%E3%82%B5%E3%82%AB%E3%83%8A%E5%B1%B1%E5%8F%A3ANN"
+  },
+  {
+   "term": "スパリク",
+   "hours": 8,
+   "best_rank": 8,
+   "url": "https://x.com/search?q=%E3%82%B9%E3%83%91%E3%83%AA%E3%82%AF"
+  },
+  {
+   "term": "ANTHEM期",
+   "hours": 8,
+   "best_rank": 8,
+   "url": "https://x.com/search?q=ANTHEM%E6%9C%9F"
+  },
+  {
+   "term": "生琉先生",
+   "hours": 8,
+   "best_rank": 8,
+   "url": "https://x.com/search?q=%E7%94%9F%E7%90%89%E5%85%88%E7%94%9F"
+  },
+  {
+   "term": "虚空狂宴",
+   "hours": 8,
+   "best_rank": 11,
+   "url": "https://x.com/search?q=%E8%99%9A%E7%A9%BA%E7%8B%82%E5%AE%B4"
+  },
+  {
+   "term": "蓮司パパ",
+   "hours": 8,
+   "best_rank": 14,
+   "url": "https://x.com/search?q=%E8%93%AE%E5%8F%B8%E3%83%91%E3%83%91"
+  },
+  {
+   "term": "蓮司さん",
+   "hours": 8,
+   "best_rank": 16,
+   "url": "https://x.com/search?q=%E8%93%AE%E5%8F%B8%E3%81%95%E3%82%93"
+  },
+  {
+   "term": "ヒトナー",
+   "hours": 8,
+   "best_rank": 21,
+   "url": "https://x.com/search?q=%E3%83%92%E3%83%88%E3%83%8A%E3%83%BC"
+  },
+  {
+   "term": "第1748回",
+   "hours": 8,
+   "best_rank": 27,
+   "url": "https://x.com/search?q=%E7%AC%AC1748%E5%9B%9E"
+  },
+  {
+   "term": "アウトレンジ",
+   "hours": 7,
+   "best_rank": 1,
+   "url": "https://x.com/search?q=%E3%82%A2%E3%82%A6%E3%83%88%E3%83%AC%E3%83%B3%E3%82%B8"
+  },
+  {
+   "term": "#いろはの恋は時代をかける",
+   "hours": 7,
+   "best_rank": 2,
+   "url": "https://x.com/search?q=%23%E3%81%84%E3%82%8D%E3%81%AF%E3%81%AE%E6%81%8B%E3%81%AF%E6%99%82%E4%BB%A3%E3%82%92%E3%81%8B%E3%81%91%E3%82%8B"
+  },
+  {
+   "term": "文化の日",
+   "hours": 7,
+   "best_rank": 3,
+   "url": "https://x.com/search?q=%E6%96%87%E5%8C%96%E3%81%AE%E6%97%A5"
+  },
+  {
+   "term": "ボカロpデビュー",
+   "hours": 7,
+   "best_rank": 6,
+   "url": "https://x.com/search?q=%E3%83%9C%E3%82%AB%E3%83%ADp%E3%83%87%E3%83%93%E3%83%A5%E3%83%BC"
+  },
+  {
+   "term": "アジアカップ延期",
+   "hours": 7,
+   "best_rank": 12,
+   "url": "https://x.com/search?q=%E3%82%A2%E3%82%B8%E3%82%A2%E3%82%AB%E3%83%83%E3%83%97%E5%BB%B6%E6%9C%9F"
+  },
+  {
+   "term": "センチネル",
+   "hours": 7,
+   "best_rank": 14,
+   "url": "https://x.com/search?q=%E3%82%BB%E3%83%B3%E3%83%81%E3%83%8D%E3%83%AB"
+  },
+  {
+   "term": "Lemon10億",
+   "hours": 7,
+   "best_rank": 14,
+   "url": "https://x.com/search?q=Lemon10%E5%84%84"
+  },
+  {
+   "term": "GRセリカ",
+   "hours": 7,
+   "best_rank": 15,
+   "url": "https://x.com/search?q=GR%E3%82%BB%E3%83%AA%E3%82%AB"
+  },
+  {
+   "term": "ガルリフ",
+   "hours": 7,
+   "best_rank": 19,
+   "url": "https://x.com/search?q=%E3%82%AC%E3%83%AB%E3%83%AA%E3%83%95"
+  },
+  {
+   "term": "ガールズバンドクライ",
+   "hours": 7,
+   "best_rank": 21,
+   "url": "https://x.com/search?q=%E3%82%AC%E3%83%BC%E3%83%AB%E3%82%BA%E3%83%90%E3%83%B3%E3%83%89%E3%82%AF%E3%83%A9%E3%82%A4"
+  }
+ ],
+ "hatena": [
+  {
+   "title": "Amazonプライムビデオで見て損無しのマジおもろ映画厳選10作 | オモコロブロス！",
+   "url": "https://omocoro.jp/bros/kiji/592898/",
+   "users": 732
+  },
+  {
+   "title": "アダルト動画サイトに組み込まれた情報窃取スクリプト群を追う - Weekend Researcher Tsurezure Diary",
+   "url": "https://disconinja.hatenablog.com/entry/2026/11/03/230647",
+   "users": 242
+  },
+  {
+   "title": "E2Eテスト大全（あなたの知らない、E2Eテスト周辺の理論） - 若くない何かの悩み",
+   "url": "https://blog.kuniwak.com/entry/e2ebok",
+   "users": 172
+  },
+  {
+   "title": "ハウスメーカーの今の建築費をどう考えるか",
+   "url": "https://imoz.jp/scraps/202611_housemaker.html",
+   "users": 140
+  },
+  {
+   "title": "Aterm設定画面、「PHP使ってないのに.php」なぜ？　NECに聞いた",
+   "url": "https://www.itmedia.co.jp/news/article/2611/04/2000002847/",
+   "users": 143
+  },
+  {
+   "title": "トランプ氏、対イスラエル支援打ち切り表明…共和党苦戦の中間選挙影響か「なぜ我々が狂人の攻撃に耐えなければならないか」",
+   "url": "https://www.yomiuri.co.jp/world/20261104-GYT1T00042/",
+   "users": 102
+  },
+  {
+   "title": "自治体システム移行で高額請求、ＩＴ大手の「手切れ金」との声も…公取委が実態調査へ",
+   "url": "https://www.yomiuri.co.jp/economy/20261103-GYT1T00297/",
+   "users": 131
+  },
+  {
+   "title": "「トヨタはすごい」は幻想に…EV補助金縮小であらわになる中国BYDと性能差　頼みの綱は高市政権による“嫌中”作戦だけになる　古賀茂明 | AERA DIGITAL（アエラデジタル）",
+   "url": "https://dot.asahi.com/articles/-/296641?page=1",
+   "users": 73
+  },
+  {
+   "title": "「能動的に働かない」を半年やったら、ストレスフリーも甚だしかった｜kon_yu",
+   "url": "https://note.com/kon_yu/n/n09b2bab2e7a4",
+   "users": 47
+  },
+  {
+   "title": "freeeにおけるSoftware Factory",
+   "url": "https://speakerdeck.com/freee/freee-niokeru-software-factory",
+   "users": 82
+  },
+  {
+   "title": "スペインサッカーのヘスス・デミゲル選手、衝突プレーで死亡　30歳",
+   "url": "https://www.cnn.co.jp/showbiz/35254320.html",
+   "users": 54
+  },
+  {
+   "title": "日経トレンディ「2026年ヒット商品ベスト30」　この1年で売れたものは",
+   "url": "https://xtrend.nikkei.com/atcl/contents/18/01506/00001/",
+   "users": 58
+  },
+  {
+   "title": "第1話 運命の相手 / Honey Creep - 柳本光晴 | サンデーうぇぶり",
+   "url": "https://www.sunday-webry.com/episode/12207421984447636988",
+   "users": 134
+  },
+  {
+   "title": "トランプ政権に「共感」日本国内で23.1% 「日本にもトランプ氏のような強い政治家が必要」は52.6% アメリカ中間選挙直前に日本国内でインターネット調査 【TBS NEWS DIG】 | TBS NEWS DIG",
+   "url": "https://newsdig.tbs.co.jp/articles/-/3057565",
+   "users": 283
+  },
+  {
+   "title": "ランチの値段はもう1500円が当たり前になってしまった。 ほんの数年前はランチ800円だった店も1500円とかでほぼ倍になってるのに、給料は倍になんてなってない… 駅前はつぶれる飲食店が増えてる やっぱどの店もこの急激な値上げ値上げで客が減ってるのかな→「私は『ワンコインランチ』が主流だった頃を覚えてますが、その当時から時給が3倍になってはないですね」",
+   "url": "https://posfie.com/@kalofollow/p/Lr87LNs",
+   "users": 123
+  },
+  {
+   "title": "薄く・軽く。画質も「プロ級」になった新iPad mini【西田宗千佳のRandomTracking】",
+   "url": "https://av.watch.impress.co.jp/docs/series/rt/2153275.html",
+   "users": 56
+  },
+  {
+   "title": "『スカイリム』に続く新作『TES6』の正式タイトルが『The Elder Scrolls VI: Sentinel』と発表！！",
+   "url": "https://news.denfaminicogamer.jp/news/261104e",
+   "users": 30
+  },
+  {
+   "title": "今からほんや｜出かけた先で、本屋を探す地図",
+   "url": "https://imahon.jp/",
+   "users": 25
+  },
+  {
+   "title": "ロシア軍がウクライナの学校に滑空誘導爆弾を大量爆撃して民間人31名が死亡、巨大な3トン爆弾投下の情報（JSF） - エキスパート - Yahoo!ニュース",
+   "url": "https://news.yahoo.co.jp/expert/articles/4a308d002ef95a8c87f25835e2fadc34d63f7e12",
+   "users": 33
+  },
+  {
+   "title": "「そんげな島、あったっけ？」地元民すら知らないナゾの島…島民わずか4人、九州に浮かぶ「ほぼ無人島」のディープな生活事情 | 文春オンライン",
+   "url": "https://bunshun.jp/articles/-/92272",
+   "users": 50
+  },
+  {
+   "title": "三菱UFJ、三菱UFJエムット銀行でキャッシュカード全廃　サイバー防御へスマホ入出金 - 日本経済新聞",
+   "url": "https://www.nikkei.com/article/DGXZQOUB29C0N0Z21C26A0000000/",
+   "users": 38
+  },
+  {
+   "title": "AI エージェントがデスクトップアプリを操作する CLI agent-desktop",
+   "url": "https://azukiazusa.dev/blog/agent-desktop-computer-use-cli/",
+   "users": 33
+  },
+  {
+   "title": "開発者に訊きました : ゼルダの伝説 時のオカリナ｜任天堂",
+   "url": "https://www.nintendo.com/jp/interview/aa9ja/04.html",
+   "users": 26
+  },
+  {
+   "title": "アメリカ中間選挙2026 開票速報",
+   "url": "https://vdata.nikkei.com/us-election/2026/live/",
+   "users": 13
+  },
+  {
+   "title": "Android「SMS of Death」脆弱性、SMS受信だけで通話切断・再起動ループの恐れ CVE-2026-58882をGoogleがCriticalで修正|セキュリティニュースのセキュリティ対策Lab",
+   "url": "https://rocket-boys.co.jp/security-measures-lab/android-sms-of-death-cve-2026-58882-zero-click-dos/",
+   "users": 34
+  },
+  {
+   "title": "【無料】“全188種類”の「ホラー効果音」が入ったパック「Wrong Room」が無料配布中。クレジット表記なしでゲーム制作にも使用可能",
+   "url": "https://news.denfaminicogamer.jp/news/261103t",
+   "users": 213
+  },
+  {
+   "title": "都心タワマン下落で中国人投資家が悲鳴「泣く泣く1億円値引き…」SNSにあふれる“損切り”の現場。晴海フラッグも「売れない」 | 日刊SPA!",
+   "url": "https://nikkan-spa.jp/2192641",
+   "users": 30
+  },
+  {
+   "title": "旧統一教会の韓鶴子総裁、入院中の「宮殿」通いで保釈取り消し | 毎日新聞",
+   "url": "https://mainichi.jp/articles/20261103/k00/00m/030/139000c",
+   "users": 36
+  },
+  {
+   "title": "【ぼくらの一線】22歳の会社員が美形の小学6年生相手に恋愛する漫画見つかる→『完全な性加害作品ですね。』",
+   "url": "https://posfie.com/@yonepo665/p/sPmxUkv",
+   "users": 17
+  },
+  {
+   "title": "野木亜紀子脚本オリジナルアニメ「LONA」企画立ち上げは6年前、1通の手紙から（イベントレポート） - コミックナタリー",
+   "url": "https://natalie.mu/comic/news/696166",
+   "users": 20
+  },
+  {
+   "title": "エントロピー増大則を量子力学から証明",
+   "url": "https://www.riken.jp/press/2026/20261104_1/index.html",
+   "users": 11
+  },
+  {
+   "title": "【重音テトの休日】朝4時に起きて日本の果てのドライブスポット走ってきた。【VOICEROID車載】",
+   "url": "https://www.nicovideo.jp/watch/so47003768",
+   "users": 19
+  },
+  {
+   "title": "『The Elder Scrolls VI: Sentinel』正式発表。『スカイリム』の5年後の世界 - AUTOMATON",
+   "url": "https://automaton-media.com/articles/newsjp/2026tes-477262/",
+   "users": 14
+  },
+  {
+   "title": "Introducing Zero Wire, a hub for investigating critical Internet vulnerabilities",
+   "url": "https://blog.cloudflare.com/zero-wire/",
+   "users": 15
+  },
+  {
+   "title": "GitHub、より高度なコードレビューを行う「Copilot Code Review Max」発表。GitHub Universe 2026",
+   "url": "https://www.publickey1.jp/blog/26/githubcopilot_code_review_maxgithub_universe_2026.html",
+   "users": 23
+  },
+  {
+   "title": "GitHubが従来比180倍のスループット性能向上を実現へ、来年初頭に。AIエージェント時代に対応。GitHub Universe 2026",
+   "url": "https://www.publickey1.jp/blog/26/github180aigithub_universe_2026.html",
+   "users": 23
+  },
+  {
+   "title": "“謎文字”解読ゲーム『Message From Aliens』が歯ごたえありすぎて大好評。「ゲーム終了」もままならない、激ムズSF言語パズル - AUTOMATON",
+   "url": "https://automaton-media.com/articles/newsjp/20261103-477243/",
+   "users": 101
+  },
+  {
+   "title": "[15話]ヒトナー - 屋宜知宏 | 少年ジャンプ＋",
+   "url": "https://shonenjumpplus.com/episode/9253191257689745622",
+   "users": 74
+  },
+  {
+   "title": "新しいRAG「Decision RAG」は速い！安い！上手い！🍜 - Qiita",
+   "url": "https://qiita.com/kikuziro/items/cc82e6e4e4c215eac99f",
+   "users": 13
+  },
+  {
+   "title": "委託先メール配信サービスへの不正アクセスに関するお詫びとお知らせ  |NEWS|アソビュー株式会社",
+   "url": "https://www.asoview.co.jp/news/articles/AyTdT_tX",
+   "users": 20
+  }
+ ]
+}
