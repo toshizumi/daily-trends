@@ -1,0 +1,521 @@
+{
+ "date": "2026-11-07",
+ "collected_at": "2026-11-07T09:44+09:00",
+ "errors": {},
+ "google": [
+  {
+   "term": "この最低な夫婦の終わり",
+   "traffic": "500+",
+   "news_title": "山里亮太、結婚8年目の妻・蒼井優との「一番大きいけんか」を回想「証拠を押さえられて」（ENCOUNT）",
+   "news_url": "https://news.yahoo.co.jp/articles/204eab0cf81cc3b2e4d78d7f38ddd04785f91f3f",
+   "news_source": "Yahoo!ニュース"
+  },
+  {
+   "term": "his",
+   "traffic": "500+",
+   "news_title": "Stephen Miller replacing Susie Wiles as chief of staff as Trump grows furious with midterm results, sources say",
+   "news_url": "https://www.cnn.com/2026/11/06/politics/stephen-miller-trump-susie-wiles",
+   "news_source": "CNN"
+  },
+  {
+   "term": "国仲涼子",
+   "traffic": "500+",
+   "news_title": "",
+   "news_url": "",
+   "news_source": ""
+  },
+  {
+   "term": "カズレーザー",
+   "traffic": "200+",
+   "news_title": "「機会があればボコッてやろう」カズレーザー、過去の体罰指導を「いまも許していない」告白に共感の嵐（SmartFLASH）",
+   "news_url": "https://news.yahoo.co.jp/articles/f032019f9439319d36e89da966464e66e9a3a168",
+   "news_source": "Yahoo!ニュース"
+  },
+  {
+   "term": "アンタッチャブル 柴田",
+   "traffic": "200+",
+   "news_title": "【番組初の驚愕人生ゲストは「オスマン・サンコン」】新番組『アンタッチャブル柴田の驚愕人生トレーダー』本日18時よりYouTube配信スタート！",
+   "news_url": "https://prtimes.jp/main/html/rd/p/000000014.000144090.html",
+   "news_source": "PR TIMES"
+  },
+  {
+   "term": "講道館杯",
+   "traffic": "200+",
+   "news_title": "2026年度講道館杯全日本柔道体重別選手権大会 女子第1試合場 - 全日本柔道連盟関連 - ライブ配信",
+   "news_url": "https://sports.yahoo.co.jp/livestream/ajjf/judo/261107001",
+   "news_source": "スポーツナビ"
+  },
+  {
+   "term": "三国競艇",
+   "traffic": "200+",
+   "news_title": "",
+   "news_url": "",
+   "news_source": ""
+  },
+  {
+   "term": "侍ジャパン 日程",
+   "traffic": "100+",
+   "news_title": "アジアプロ野球チャンピオンシップ2026丨日程・放送予定・ライブ配信・侍ジャパン・日本代表・選手一覧・見どころ",
+   "news_url": "https://www.olympics.com/ja/news/baseball-asia-championship-broadcast-schedule",
+   "news_source": "Olympic Channel"
+  },
+  {
+   "term": "資生堂",
+   "traffic": "100+",
+   "news_title": "資生堂、利用者情報が2515件流出 肌の測定結果など",
+   "news_url": "https://www.nikkei.com/article/DGXZQOUC069010W6A101C2000000/",
+   "news_source": "日本経済新聞"
+  },
+  {
+   "term": "アミューズメントエキスポ 2026",
+   "traffic": "100+",
+   "news_title": "アニメ『カグラバチ』六平千鉱（チヒロ）の等身大フィギュアが登場。金魚の立体映えが抜群すぎる【アミューズメントエキスポ2026】",
+   "news_url": "https://www.famitsu.com/article/202611/93322",
+   "news_source": "ファミ通"
+  }
+ ],
+ "x": [
+  {
+   "term": "アイシールド21",
+   "hours": 22,
+   "best_rank": 9,
+   "url": "https://x.com/search?q=%E3%82%A2%E3%82%A4%E3%82%B7%E3%83%BC%E3%83%AB%E3%83%8921"
+  },
+  {
+   "term": "雇用統計",
+   "hours": 15,
+   "best_rank": 7,
+   "url": "https://x.com/search?q=%E9%9B%87%E7%94%A8%E7%B5%B1%E8%A8%88"
+  },
+  {
+   "term": "喜怒哀楽",
+   "hours": 14,
+   "best_rank": 1,
+   "url": "https://x.com/search?q=%E5%96%9C%E6%80%92%E5%93%80%E6%A5%BD"
+  },
+  {
+   "term": "貴方のサークル",
+   "hours": 13,
+   "best_rank": 1,
+   "url": "https://x.com/search?q=%E8%B2%B4%E6%96%B9%E3%81%AE%E3%82%B5%E3%83%BC%E3%82%AF%E3%83%AB"
+  },
+  {
+   "term": "ムファサ",
+   "hours": 13,
+   "best_rank": 3,
+   "url": "https://x.com/search?q=%E3%83%A0%E3%83%95%E3%82%A1%E3%82%B5"
+  },
+  {
+   "term": "JESSE",
+   "hours": 12,
+   "best_rank": 1,
+   "url": "https://x.com/search?q=JESSE"
+  },
+  {
+   "term": "#ヒツジはいらなくないよねぇ",
+   "hours": 12,
+   "best_rank": 3,
+   "url": "https://x.com/search?q=%23%E3%83%92%E3%83%84%E3%82%B8%E3%81%AF%E3%81%84%E3%82%89%E3%81%AA%E3%81%8F%E3%81%AA%E3%81%84%E3%82%88%E3%81%AD%E3%81%87"
+  },
+  {
+   "term": "あなたのサークル",
+   "hours": 12,
+   "best_rank": 3,
+   "url": "https://x.com/search?q=%E3%81%82%E3%81%AA%E3%81%9F%E3%81%AE%E3%82%B5%E3%83%BC%E3%82%AF%E3%83%AB"
+  },
+  {
+   "term": "#RYUHEI_HBD_20th",
+   "hours": 11,
+   "best_rank": 1,
+   "url": "https://x.com/search?q=%23RYUHEI_HBD_20th"
+  },
+  {
+   "term": "コミックマーケット109",
+   "hours": 11,
+   "best_rank": 7,
+   "url": "https://x.com/search?q=%E3%82%B3%E3%83%9F%E3%83%83%E3%82%AF%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%83%E3%83%88109"
+  },
+  {
+   "term": "リベンジャー",
+   "hours": 11,
+   "best_rank": 8,
+   "url": "https://x.com/search?q=%E3%83%AA%E3%83%99%E3%83%B3%E3%82%B8%E3%83%A3%E3%83%BC"
+  },
+  {
+   "term": "グロテスク",
+   "hours": 11,
+   "best_rank": 23,
+   "url": "https://x.com/search?q=%E3%82%B0%E3%83%AD%E3%83%86%E3%82%B9%E3%82%AF"
+  },
+  {
+   "term": "冬コミ当選",
+   "hours": 10,
+   "best_rank": 6,
+   "url": "https://x.com/search?q=%E5%86%AC%E3%82%B3%E3%83%9F%E5%BD%93%E9%81%B8"
+  },
+  {
+   "term": "リュウヘイ",
+   "hours": 10,
+   "best_rank": 7,
+   "url": "https://x.com/search?q=%E3%83%AA%E3%83%A5%E3%82%A6%E3%83%98%E3%82%A4"
+  },
+  {
+   "term": "ハチワレンジャー",
+   "hours": 10,
+   "best_rank": 9,
+   "url": "https://x.com/search?q=%E3%83%8F%E3%83%81%E3%83%AF%E3%83%AC%E3%83%B3%E3%82%B8%E3%83%A3%E3%83%BC"
+  },
+  {
+   "term": "コミケ当選",
+   "hours": 10,
+   "best_rank": 9,
+   "url": "https://x.com/search?q=%E3%82%B3%E3%83%9F%E3%82%B1%E5%BD%93%E9%81%B8"
+  },
+  {
+   "term": "RIZE",
+   "hours": 10,
+   "best_rank": 10,
+   "url": "https://x.com/search?q=RIZE"
+  },
+  {
+   "term": "コカイン",
+   "hours": 10,
+   "best_rank": 11,
+   "url": "https://x.com/search?q=%E3%82%B3%E3%82%AB%E3%82%A4%E3%83%B3"
+  },
+  {
+   "term": "小渕優子",
+   "hours": 10,
+   "best_rank": 15,
+   "url": "https://x.com/search?q=%E5%B0%8F%E6%B8%95%E5%84%AA%E5%AD%90"
+  },
+  {
+   "term": "チョック",
+   "hours": 10,
+   "best_rank": 16,
+   "url": "https://x.com/search?q=%E3%83%81%E3%83%A7%E3%83%83%E3%82%AF"
+  },
+  {
+   "term": "第1751回",
+   "hours": 10,
+   "best_rank": 22,
+   "url": "https://x.com/search?q=%E7%AC%AC1751%E5%9B%9E"
+  },
+  {
+   "term": "#C109",
+   "hours": 9,
+   "best_rank": 2,
+   "url": "https://x.com/search?q=%23C109"
+  },
+  {
+   "term": "豪華景品",
+   "hours": 9,
+   "best_rank": 5,
+   "url": "https://x.com/search?q=%E8%B1%AA%E8%8F%AF%E6%99%AF%E5%93%81"
+  },
+  {
+   "term": "リュウちゃん",
+   "hours": 9,
+   "best_rank": 13,
+   "url": "https://x.com/search?q=%E3%83%AA%E3%83%A5%E3%82%A6%E3%81%A1%E3%82%83%E3%82%93"
+  },
+  {
+   "term": "インサイドヘッド",
+   "hours": 9,
+   "best_rank": 13,
+   "url": "https://x.com/search?q=%E3%82%A4%E3%83%B3%E3%82%B5%E3%82%A4%E3%83%89%E3%83%98%E3%83%83%E3%83%89"
+  },
+  {
+   "term": "りゅうちゃん",
+   "hours": 9,
+   "best_rank": 22,
+   "url": "https://x.com/search?q=%E3%82%8A%E3%82%85%E3%81%86%E3%81%A1%E3%82%83%E3%82%93"
+  },
+  {
+   "term": "消費減税法案採決",
+   "hours": 9,
+   "best_rank": 23,
+   "url": "https://x.com/search?q=%E6%B6%88%E8%B2%BB%E6%B8%9B%E7%A8%8E%E6%B3%95%E6%A1%88%E6%8E%A1%E6%B1%BA"
+  },
+  {
+   "term": "私の異常度",
+   "hours": 9,
+   "best_rank": 25,
+   "url": "https://x.com/search?q=%E7%A7%81%E3%81%AE%E7%95%B0%E5%B8%B8%E5%BA%A6"
+  },
+  {
+   "term": "見沢善彦の愚行",
+   "hours": 9,
+   "best_rank": 30,
+   "url": "https://x.com/search?q=%E8%A6%8B%E6%B2%A2%E5%96%84%E5%BD%A6%E3%81%AE%E6%84%9A%E8%A1%8C"
+  },
+  {
+   "term": "ブースターパック",
+   "hours": 8,
+   "best_rank": 7,
+   "url": "https://x.com/search?q=%E3%83%96%E3%83%BC%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%91%E3%83%83%E3%82%AF"
+  },
+  {
+   "term": "佳生くん",
+   "hours": 8,
+   "best_rank": 8,
+   "url": "https://x.com/search?q=%E4%BD%B3%E7%94%9F%E3%81%8F%E3%82%93"
+  },
+  {
+   "term": "那須くん",
+   "hours": 8,
+   "best_rank": 10,
+   "url": "https://x.com/search?q=%E9%82%A3%E9%A0%88%E3%81%8F%E3%82%93"
+  },
+  {
+   "term": "深田くん",
+   "hours": 8,
+   "best_rank": 11,
+   "url": "https://x.com/search?q=%E6%B7%B1%E7%94%B0%E3%81%8F%E3%82%93"
+  },
+  {
+   "term": "手作りスパイスカレー",
+   "hours": 8,
+   "best_rank": 11,
+   "url": "https://x.com/search?q=%E6%89%8B%E4%BD%9C%E3%82%8A%E3%82%B9%E3%83%91%E3%82%A4%E3%82%B9%E3%82%AB%E3%83%AC%E3%83%BC"
+  },
+  {
+   "term": "誕生日席",
+   "hours": 8,
+   "best_rank": 11,
+   "url": "https://x.com/search?q=%E8%AA%95%E7%94%9F%E6%97%A5%E5%B8%AD"
+  },
+  {
+   "term": "冬コミスペース",
+   "hours": 8,
+   "best_rank": 13,
+   "url": "https://x.com/search?q=%E5%86%AC%E3%82%B3%E3%83%9F%E3%82%B9%E3%83%9A%E3%83%BC%E3%82%B9"
+  },
+  {
+   "term": "真白くん",
+   "hours": 8,
+   "best_rank": 14,
+   "url": "https://x.com/search?q=%E7%9C%9F%E7%99%BD%E3%81%8F%E3%82%93"
+  },
+  {
+   "term": "コミケWebカタログ",
+   "hours": 8,
+   "best_rank": 16,
+   "url": "https://x.com/search?q=%E3%82%B3%E3%83%9F%E3%82%B1Web%E3%82%AB%E3%82%BF%E3%83%AD%E3%82%B0"
+  },
+  {
+   "term": "古川禎久",
+   "hours": 8,
+   "best_rank": 19,
+   "url": "https://x.com/search?q=%E5%8F%A4%E5%B7%9D%E7%A6%8E%E4%B9%85"
+  },
+  {
+   "term": "サークル情報ページ公開中",
+   "hours": 8,
+   "best_rank": 22,
+   "url": "https://x.com/search?q=%E3%82%B5%E3%83%BC%E3%82%AF%E3%83%AB%E6%83%85%E5%A0%B1%E3%83%9A%E3%83%BC%E3%82%B8%E5%85%AC%E9%96%8B%E4%B8%AD"
+  }
+ ],
+ "hatena": [
+  {
+   "title": "【オタク論】レジスタから始まった男女表現バトルは、おそらく女オタクのダメージが大きくなる——だからこそ処方箋を提示したい。｜いぷしろ",
+   "url": "https://note.com/ipusiro/n/nc92ad555b463",
+   "users": 154
+  },
+  {
+   "title": "もう検索エンジンに戻れない",
+   "url": "https://anond.hatelabo.jp/20260930202455",
+   "users": 96
+  },
+  {
+   "title": "【衝撃】Claudeを『ADHDモード』化する裏技が話題。コピペして貼るだけで1週間のタスクが4時間で終了へ : 凹凸ちゃんねる　発達障害・生きにくい人のまとめ",
+   "url": "https://hattatu-matome.ldblog.jp/archives/63590888.html",
+   "users": 153
+  },
+  {
+   "title": "自分は旧時代のエンジニアになってしまったのでは",
+   "url": "https://www.mobtown.jp/article/old-engineer/",
+   "users": 48
+  },
+  {
+   "title": "「年収が日本人平均以上」永住審査の基準改定、手数料も1万円⇒20万円へ…国会審議を経ない“新ガイドライン”の問題点【弁護士解説】 | 弁護士JPニュース",
+   "url": "https://www.ben54.jp/news/4003",
+   "users": 65
+  },
+  {
+   "title": "カルビーのポテチ、白黒パッケージで顧客が消えた？",
+   "url": "https://xtrend.nikkei.com/atcl/contents/casestudy/00012/01986/",
+   "users": 298
+  },
+  {
+   "title": "アジア1位なのに海外視聴者はわずか3%…｢VIVANT｣の大ヒットが示した日本ドラマの｢成功の逆説｣（プレジデントオンライン） - Yahoo!ニュース",
+   "url": "https://news.yahoo.co.jp/articles/7393af24fabee17e3115111c2eddaa43d1e22521",
+   "users": 61
+  },
+  {
+   "title": "アジア1位なのに海外視聴者はわずか3%…｢VIVANT｣の大ヒットが示した日本ドラマの｢成功の逆説｣",
+   "url": "https://president.jp/articles/-/121534",
+   "users": 54
+  },
+  {
+   "title": "[破壊的変更] 明治時代の開始日が変更になって単体テストが失敗した件",
+   "url": "https://zenn.dev/xin9le/articles/9a1cf8e10494d6",
+   "users": 91
+  },
+  {
+   "title": "読む政治：「議員辞職ものだ」　消費減税法案「造反」4氏に執行部怒気 | 毎日新聞",
+   "url": "https://mainichi.jp/articles/20261106/k00/00m/010/329000c",
+   "users": 169
+  },
+  {
+   "title": "高市首相「悲願」の消費減税法案、自民退席の異常事態「矜持」どこへ：朝日新聞",
+   "url": "https://www.asahi.com/articles/ASVC63H5GVC6UTFK01CM.html",
+   "users": 47
+  },
+  {
+   "title": "MADE IN YAMATO - 第２３話　山は脂肪を落とす突起である | ヤンマガWeb",
+   "url": "https://yanmaga.jp/viewer/comics/MADE_IN_YAMATO/68962d53b487a5ca8f8c9a1995c9bea9?cid=06A0000000001025115M",
+   "users": 20
+  },
+  {
+   "title": "「台湾有事」発言、引っ込みつかず1年経過　高市首相「対話はオープンだ」と言うだけで対中関係改善進まず：東京新聞デジタル",
+   "url": "https://www.tokyo-np.co.jp/article/526564",
+   "users": 14
+  },
+  {
+   "title": "ドコモ不正アクセス、「料金プラン」などの情報も流出 「重く受け止めている」",
+   "url": "https://www.watch.impress.co.jp/docs/news/2154508.html",
+   "users": 157
+  },
+  {
+   "title": "自己回帰生成モデルの熱力学を構築 ―大規模言語モデルに内在する「世界モデル」の定量的理解に向けて―",
+   "url": "https://www.t.u-tokyo.ac.jp/press/pr2026-11-06-001",
+   "users": 31
+  },
+  {
+   "title": "大きな物語／怪獣はいかに解体され（なかっ）たか？：『ゴジラ-0.0』を誤読する。 - ななめのための。",
+   "url": "https://saitonaname.hatenablog.com/entry/2026/11/05/192556",
+   "users": 18
+  },
+  {
+   "title": "世界のライブカメラ地図｜いま見れるライブ映像 — たま旅ライブ",
+   "url": "https://tamatabi.world/ja/",
+   "users": 389
+  },
+  {
+   "title": "「AIであってほしかった」近所の書店にいったらBLのエロ本が子供向けの本のすぐ近くに平積みされている。子供への性加害は辞めるべきだ。",
+   "url": "https://posfie.com/@Acg3C2/p/NF0FdOe",
+   "users": 15
+  },
+  {
+   "title": "4人死傷の戦車暴発事故、砲弾に主な原因か　影響長期化の恐れも：朝日新聞",
+   "url": "https://www.asahi.com/articles/ASVC61RKDVC6TIPE00CM.html",
+   "users": 30
+  },
+  {
+   "title": "Mrs. GREEN APPLEが無理だった話｜はるゆき",
+   "url": "https://note.com/haru_yuki_i/n/n4ec981874187",
+   "users": 502
+  },
+  {
+   "title": "三日月の国　オスマン千夜一夜 - 桃山あおい / 番外編4 | コミックバンチKai",
+   "url": "https://kuragebunch.com/episode/12207421984183005513",
+   "users": 9
+  },
+  {
+   "title": "PHPは使っておりません - megamouthの葬列",
+   "url": "https://www.megamouth.info/entry/2026/11/06/165305",
+   "users": 93
+  },
+  {
+   "title": "【インフルエンサー誹謗中傷事件】イケハヤ編｜ゆっくりドットコム",
+   "url": "https://note.com/yukkuridotcom/n/n4a9cb5ef1110",
+   "users": 134
+  },
+  {
+   "title": "『装甲騎兵ボトムズ』×押井守はいかにして実現したのか？ 髙橋良輔との“約束”と新キャラ誕生秘話【押井守監督インタビュー・前編】",
+   "url": "https://lp.p.pia.jp/article/news/516951/index.html?detail=true",
+   "users": 57
+  },
+  {
+   "title": "途中退席の自民議員巡り首相「コメント差し控える」　消費税減税関連法案の衆院本会議",
+   "url": "https://www.sankei.com/article/20261106-BEV7DDFWSNPZHDBEN6P7FXFFN4/?outputType=asynd",
+   "users": 13
+  },
+  {
+   "title": "AIネオクラウド「8割消滅」予測　債務膨張、民主旋風が追い打ち - 日本経済新聞",
+   "url": "https://www.nikkei.com/article/DGXZQOGN060JD0W6A101C2000000/",
+   "users": 19
+  },
+  {
+   "title": "Young Panther 19 Buchigillle Knowing - 下元朗 | 少年ジャンプ＋",
+   "url": "https://shonenjumpplus.com/episode/9253191257689746171",
+   "users": 51
+  },
+  {
+   "title": "台湾、在パプアニューギニアの窓口機関を閉鎖　「中国が介入」と非難、LNG購入停止",
+   "url": "https://www.sankei.com/article/20261106-RD7RVXJYH5L5RGMQLACHLGVM6Q/?outputType=asynd",
+   "users": 17
+  },
+  {
+   "title": "「ラブコメと言ったのは嘘です」——柳本光晴に踊らされる私たち - 今は亡しわが村",
+   "url": "https://msknmr.hatenablog.com/entry/2026/11/06/151324",
+   "users": 73
+  },
+  {
+   "title": "Amazonスーパーセールで探すリカバリーウェア｜メンズ・レディース・上下・パジャマ、ワークマンとReDを比べる｜ガジェット|ミニマリスト",
+   "url": "https://note.com/mild_gerbil3622/n/n708a49388f4f",
+   "users": 23
+  },
+  {
+   "title": "大麻使用の最古の証拠、シベリアの3000年近く前の墓から発見　向精神作用を得る目的",
+   "url": "https://www.cnn.co.jp/fringe/35254511.html",
+   "users": 39
+  },
+  {
+   "title": "アマゾンプライムで見れるもの一覧【新作】2026年11月以降の映画・ドラマ・アニメ",
+   "url": "https://dougamuryou.heteml.net/amazon-prime-new-releases-list/",
+   "users": 21
+  },
+  {
+   "title": "直感的に異性に対して「この人いい！」って思える女性は結構すぐ彼氏でき..",
+   "url": "https://anond.hatelabo.jp/20261106102708",
+   "users": 130
+  },
+  {
+   "title": "「お値打ちAI銘柄」太陽誘電が逆行高　悲観一色に差す光明 - 日本経済新聞",
+   "url": "https://www.nikkei.com/article/DGXZQOUB064NX0W6A101C2000000/",
+   "users": 11
+  },
+  {
+   "title": "OpenAIがサイバーセキュリティのためのAI「GPT-6 Cyber」を発表",
+   "url": "https://gigazine.net/news/20261106-openai-gpt-6-cyber/",
+   "users": 10
+  },
+  {
+   "title": "JR内房線被災、問われたレジリエンス　1カ月半前倒しで運行再開 - 日本経済新聞",
+   "url": "https://www.nikkei.com/article/DGXZQOCC281T50Y6A021C2000000/",
+   "users": 16
+  },
+  {
+   "title": "ニトリから猫じゃらし付き空気清浄機　爪とぎも - 家電 Watch",
+   "url": "https://kaden.watch.impress.co.jp/docs/news/2153879.html",
+   "users": 44
+  },
+  {
+   "title": "大学の授業で最前列でノートをとってたら、授業後に教授が「君何してたの？内職？」と聞くので「聞いたことまとめてました」と返したら「そうなんだ、前でそれするのやめてね」",
+   "url": "https://togetter.com/li/2767411",
+   "users": 125
+  },
+  {
+   "title": "Microsoft、教育機関向け無料プランOffice 365 A1を2028年に廃止。基本100TBも撤廃へ",
+   "url": "https://joho-todai.com/microsoft-office-365-a1-discontinuing-2028/",
+   "users": 65
+  },
+  {
+   "title": "人生初のバイトを終えた次男が「大したものは買えんかったけど」と親に買い物をして帰宅→初日の給料を現金で渡した店長の“決まり”に父ちゃん感動",
+   "url": "https://togetter.com/li/2767516",
+   "users": 9
+  }
+ ]
+}
