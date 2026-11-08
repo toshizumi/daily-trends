@@ -1,0 +1,521 @@
+{
+ "date": "2026-11-08",
+ "collected_at": "2026-11-08T09:17+09:00",
+ "errors": {},
+ "google": [
+  {
+   "term": "高橋宏斗",
+   "traffic": "2000+",
+   "news_title": "侍ジャパン宮崎秋季キャンプ2026 練習試合",
+   "news_url": "https://www.japan-baseball.jp/jp/team/topteam/score/20261107_1/",
+   "news_source": "侍ジャパン"
+  },
+  {
+   "term": "石川雅規",
+   "traffic": "1000+",
+   "news_title": "石川雅規氏 現役25年間で一番速く感じた投手の名前を明かす「途中から加速するイメージ」（スポニチアネックス）",
+   "news_url": "https://news.yahoo.co.jp/articles/011143ba73e5263a3c1b5eada270d1cc6fa3e6ea",
+   "news_source": "Yahoo!ニュース"
+  },
+  {
+   "term": "井口資仁",
+   "traffic": "1000+",
+   "news_title": "渡部聖弥と長谷川信哉の本塁打や金丸夢斗の落ち着きある投球などで初の実戦に快勝",
+   "news_url": "https://www.japan-baseball.jp/jp/news/press/20261107_2.html",
+   "news_source": "侍ジャパン"
+  },
+  {
+   "term": "豊田章男",
+   "traffic": "500+",
+   "news_title": "豊田章男が嫌う「名刺にも書いてある」言葉、「仕事ができない管理職」の特徴とは？（ダイヤモンド・オンライン）",
+   "news_url": "https://news.yahoo.co.jp/articles/b7db95658ac233a52febfd3b599c8339291b8d7b",
+   "news_source": "Yahoo!ニュース"
+  },
+  {
+   "term": "前田航基",
+   "traffic": "200+",
+   "news_title": "",
+   "news_url": "",
+   "news_source": ""
+  },
+  {
+   "term": "テレビ信州",
+   "traffic": "200+",
+   "news_title": "長野市の中心街で停電 焼き肉店は外で肉焼く対応 ランタンの明かりで営業続ける店も カラスが配電設備に接触が原因【長野】",
+   "news_url": "https://tver.jp/episodes/epipkcz9jl",
+   "news_source": "TVer"
+  },
+  {
+   "term": "唐津競艇",
+   "traffic": "200+",
+   "news_title": "",
+   "news_url": "",
+   "news_source": ""
+  },
+  {
+   "term": "フランチェスコ・バニャイア",
+   "traffic": "100+",
+   "news_title": "赤旗提示、接触多発のスプリントでM.マルケスが優勝。タイトル争うマルティンはメダル獲得／第20戦カタールGP",
+   "news_url": "https://www.as-web.jp/bike/1372103",
+   "news_source": "autosport web"
+  },
+  {
+   "term": "粟井一夫",
+   "traffic": "100+",
+   "news_title": "阪神 総額30億円の大補強で中日・上林誠知も獲る！ 球団社長「徹底的にいく」FA3選手を同時獲得へ（スポニチアネックス）",
+   "news_url": "https://news.yahoo.co.jp/articles/0fea09544a3c470d07d845d79c437a8ba74cce40",
+   "news_source": "Yahoo!ニュース"
+  },
+  {
+   "term": "epicentro",
+   "traffic": "100+",
+   "news_title": "Temblor hoy 7 de noviembre en Chile: revisa epicentro, magnitud y últimos sismos",
+   "news_url": "https://www.chilevision.cl/noticias/nacional/temblor-hoy-7-de-noviembre-en-chile-revisa-epicentro-magnitud-y-ultimos-sismos/",
+   "news_source": "Chilevisión"
+  }
+ ],
+ "x": [
+  {
+   "term": "#ハチワレ色あて",
+   "hours": 18,
+   "best_rank": 5,
+   "url": "https://x.com/search?q=%23%E3%83%8F%E3%83%81%E3%83%AF%E3%83%AC%E8%89%B2%E3%81%82%E3%81%A6"
+  },
+  {
+   "term": "震度5強",
+   "hours": 13,
+   "best_rank": 1,
+   "url": "https://x.com/search?q=%E9%9C%87%E5%BA%A65%E5%BC%B7"
+  },
+  {
+   "term": "地震大丈夫",
+   "hours": 13,
+   "best_rank": 2,
+   "url": "https://x.com/search?q=%E5%9C%B0%E9%9C%87%E5%A4%A7%E4%B8%88%E5%A4%AB"
+  },
+  {
+   "term": "緊急地震速報",
+   "hours": 13,
+   "best_rank": 2,
+   "url": "https://x.com/search?q=%E7%B7%8A%E6%80%A5%E5%9C%B0%E9%9C%87%E9%80%9F%E5%A0%B1"
+  },
+  {
+   "term": "南海トラフ",
+   "hours": 13,
+   "best_rank": 4,
+   "url": "https://x.com/search?q=%E5%8D%97%E6%B5%B7%E3%83%88%E3%83%A9%E3%83%95"
+  },
+  {
+   "term": "震度5弱",
+   "hours": 12,
+   "best_rank": 5,
+   "url": "https://x.com/search?q=%E9%9C%87%E5%BA%A65%E5%BC%B1"
+  },
+  {
+   "term": "地震のせい",
+   "hours": 12,
+   "best_rank": 9,
+   "url": "https://x.com/search?q=%E5%9C%B0%E9%9C%87%E3%81%AE%E3%81%9B%E3%81%84"
+  },
+  {
+   "term": "最小の色差",
+   "hours": 11,
+   "best_rank": 4,
+   "url": "https://x.com/search?q=%E6%9C%80%E5%B0%8F%E3%81%AE%E8%89%B2%E5%B7%AE"
+  },
+  {
+   "term": "地震びっくり",
+   "hours": 11,
+   "best_rank": 6,
+   "url": "https://x.com/search?q=%E5%9C%B0%E9%9C%87%E3%81%B3%E3%81%A3%E3%81%8F%E3%82%8A"
+  },
+  {
+   "term": "東海地方",
+   "hours": 11,
+   "best_rank": 7,
+   "url": "https://x.com/search?q=%E6%9D%B1%E6%B5%B7%E5%9C%B0%E6%96%B9"
+  },
+  {
+   "term": "静岡県西部",
+   "hours": 11,
+   "best_rank": 7,
+   "url": "https://x.com/search?q=%E9%9D%99%E5%B2%A1%E7%9C%8C%E8%A5%BF%E9%83%A8"
+  },
+  {
+   "term": "愛知の方",
+   "hours": 11,
+   "best_rank": 10,
+   "url": "https://x.com/search?q=%E6%84%9B%E7%9F%A5%E3%81%AE%E6%96%B9"
+  },
+  {
+   "term": "アラート",
+   "hours": 11,
+   "best_rank": 12,
+   "url": "https://x.com/search?q=%E3%82%A2%E3%83%A9%E3%83%BC%E3%83%88"
+  },
+  {
+   "term": "安全第一",
+   "hours": 11,
+   "best_rank": 16,
+   "url": "https://x.com/search?q=%E5%AE%89%E5%85%A8%E7%AC%AC%E4%B8%80"
+  },
+  {
+   "term": "大きめの地震",
+   "hours": 11,
+   "best_rank": 19,
+   "url": "https://x.com/search?q=%E5%A4%A7%E3%81%8D%E3%82%81%E3%81%AE%E5%9C%B0%E9%9C%87"
+  },
+  {
+   "term": "かご安全",
+   "hours": 11,
+   "best_rank": 21,
+   "url": "https://x.com/search?q=%E3%81%8B%E3%81%94%E5%AE%89%E5%85%A8"
+  },
+  {
+   "term": "愛知県知多市",
+   "hours": 11,
+   "best_rank": 26,
+   "url": "https://x.com/search?q=%E6%84%9B%E7%9F%A5%E7%9C%8C%E7%9F%A5%E5%A4%9A%E5%B8%82"
+  },
+  {
+   "term": "愛知県民",
+   "hours": 10,
+   "best_rank": 20,
+   "url": "https://x.com/search?q=%E6%84%9B%E7%9F%A5%E7%9C%8C%E6%B0%91"
+  },
+  {
+   "term": "安否確認",
+   "hours": 10,
+   "best_rank": 24,
+   "url": "https://x.com/search?q=%E5%AE%89%E5%90%A6%E7%A2%BA%E8%AA%8D"
+  },
+  {
+   "term": "愛知の地震",
+   "hours": 10,
+   "best_rank": 26,
+   "url": "https://x.com/search?q=%E6%84%9B%E7%9F%A5%E3%81%AE%E5%9C%B0%E9%9C%87"
+  },
+  {
+   "term": "地震情報",
+   "hours": 10,
+   "best_rank": 28,
+   "url": "https://x.com/search?q=%E5%9C%B0%E9%9C%87%E6%83%85%E5%A0%B1"
+  },
+  {
+   "term": "#SixTONESANN",
+   "hours": 9,
+   "best_rank": 1,
+   "url": "https://x.com/search?q=%23SixTONESANN"
+  },
+  {
+   "term": "#乃木坂配信中5周年",
+   "hours": 9,
+   "best_rank": 1,
+   "url": "https://x.com/search?q=%23%E4%B9%83%E6%9C%A8%E5%9D%82%E9%85%8D%E4%BF%A1%E4%B8%AD5%E5%91%A8%E5%B9%B4"
+  },
+  {
+   "term": "チャンカパーナ",
+   "hours": 9,
+   "best_rank": 2,
+   "url": "https://x.com/search?q=%E3%83%81%E3%83%A3%E3%83%B3%E3%82%AB%E3%83%91%E3%83%BC%E3%83%8A"
+  },
+  {
+   "term": "#栄光のバックホーム",
+   "hours": 9,
+   "best_rank": 4,
+   "url": "https://x.com/search?q=%23%E6%A0%84%E5%85%89%E3%81%AE%E3%83%90%E3%83%83%E3%82%AF%E3%83%9B%E3%83%BC%E3%83%A0"
+  },
+  {
+   "term": "愛知県西部",
+   "hours": 9,
+   "best_rank": 13,
+   "url": "https://x.com/search?q=%E6%84%9B%E7%9F%A5%E7%9C%8C%E8%A5%BF%E9%83%A8"
+  },
+  {
+   "term": "津波の心配",
+   "hours": 9,
+   "best_rank": 14,
+   "url": "https://x.com/search?q=%E6%B4%A5%E6%B3%A2%E3%81%AE%E5%BF%83%E9%85%8D"
+  },
+  {
+   "term": "そらちゃん",
+   "hours": 9,
+   "best_rank": 14,
+   "url": "https://x.com/search?q=%E3%81%9D%E3%82%89%E3%81%A1%E3%82%83%E3%82%93"
+  },
+  {
+   "term": "心臓バクバク",
+   "hours": 9,
+   "best_rank": 17,
+   "url": "https://x.com/search?q=%E5%BF%83%E8%87%93%E3%83%90%E3%82%AF%E3%83%90%E3%82%AF"
+  },
+  {
+   "term": "東海地震",
+   "hours": 9,
+   "best_rank": 26,
+   "url": "https://x.com/search?q=%E6%9D%B1%E6%B5%B7%E5%9C%B0%E9%9C%87"
+  },
+  {
+   "term": "地震の揺れ",
+   "hours": 9,
+   "best_rank": 26,
+   "url": "https://x.com/search?q=%E5%9C%B0%E9%9C%87%E3%81%AE%E6%8F%BA%E3%82%8C"
+  },
+  {
+   "term": "デラップ",
+   "hours": 8,
+   "best_rank": 10,
+   "url": "https://x.com/search?q=%E3%83%87%E3%83%A9%E3%83%83%E3%83%97"
+  },
+  {
+   "term": "#ゲンジブANN0",
+   "hours": 7,
+   "best_rank": 5,
+   "url": "https://x.com/search?q=%23%E3%82%B2%E3%83%B3%E3%82%B8%E3%83%96ANN0"
+  },
+  {
+   "term": "中山律子さん",
+   "hours": 7,
+   "best_rank": 5,
+   "url": "https://x.com/search?q=%E4%B8%AD%E5%B1%B1%E5%BE%8B%E5%AD%90%E3%81%95%E3%82%93"
+  },
+  {
+   "term": "ラグコス",
+   "hours": 7,
+   "best_rank": 6,
+   "url": "https://x.com/search?q=%E3%83%A9%E3%82%B0%E3%82%B3%E3%82%B9"
+  },
+  {
+   "term": "ゆごじゅり",
+   "hours": 7,
+   "best_rank": 6,
+   "url": "https://x.com/search?q=%E3%82%86%E3%81%94%E3%81%98%E3%82%85%E3%82%8A"
+  },
+  {
+   "term": "ハイスタ",
+   "hours": 7,
+   "best_rank": 7,
+   "url": "https://x.com/search?q=%E3%83%8F%E3%82%A4%E3%82%B9%E3%82%BF"
+  },
+  {
+   "term": "慟哭のコンチェルト",
+   "hours": 7,
+   "best_rank": 9,
+   "url": "https://x.com/search?q=%E6%85%9F%E5%93%AD%E3%81%AE%E3%82%B3%E3%83%B3%E3%83%81%E3%82%A7%E3%83%AB%E3%83%88"
+  },
+  {
+   "term": "チャンパカ",
+   "hours": 7,
+   "best_rank": 13,
+   "url": "https://x.com/search?q=%E3%83%81%E3%83%A3%E3%83%B3%E3%83%91%E3%82%AB"
+  },
+  {
+   "term": "手渡し可能",
+   "hours": 7,
+   "best_rank": 14,
+   "url": "https://x.com/search?q=%E6%89%8B%E6%B8%A1%E3%81%97%E5%8F%AF%E8%83%BD"
+  }
+ ],
+ "hatena": [
+  {
+   "title": "ボイジャー1号が人類史上初の「1光日」に到達、地球から259億キロ　通信途絶からも復旧 | Forbes JAPAN 公式サイト（フォーブス ジャパン）",
+   "url": "https://forbesjapan.com/articles/detail/107711",
+   "users": 251
+  },
+  {
+   "title": "わたしひとりの部屋(ヤングスペリオール新人賞・大賞)・わたしひとりの部屋 | ビッコミ（ビッグコミックス）",
+   "url": "https://bigcomics.jp/episodes/5cd905afa081a",
+   "users": 156
+  },
+  {
+   "title": "【開戦】二次創作BL作家、腐ェミニストが無茶苦茶やってきた報いを受け始める。まあBLが絶滅して腐女子が阿鼻叫喚になっても大半の男は困らないからどうでもいいか",
+   "url": "https://posfie.com/@Acg3C2/p/JW8hMYH",
+   "users": 147
+  },
+  {
+   "title": "レジスタ炎上騒動、腐女子界隈で歴史修正のきざし・・・しかし実際には最初に付け火した女は腐女子であることが確認済みである",
+   "url": "https://posfie.com/@Acg3C2/p/QmnCmvy",
+   "users": 64
+  },
+  {
+   "title": "Cloudflare Zero Wire × GitHub Actions × Claude で公開サーバーの脆弱性チェックを自動化",
+   "url": "https://zenn.dev/tomipetit/articles/zero-wire-github-actions",
+   "users": 34
+  },
+  {
+   "title": "色の塗り方1｜Akira Yasuda",
+   "url": "https://note.com/akiman/n/n71cff9589662",
+   "users": 33
+  },
+  {
+   "title": "【注意事項】全日本ジュニアに出場する選手の頭髪について – 一般社団法人 全日本空手審判機構（JKJO）",
+   "url": "https://karate-jkjo.jp/news/jkjo20th_hair_caution1/",
+   "users": 139
+  },
+  {
+   "title": "Claude Academy",
+   "url": "https://academy.claude.com/ja/courses/introduction-to-evals",
+   "users": 511
+  },
+  {
+   "title": "ハーネスエンジニアリングを有名OSSはどう組んでいるのか？AIへの信頼で比べる5事例",
+   "url": "https://gibberishlab.com/blog/oss-ai-agent-harness-philosophy",
+   "users": 106
+  },
+  {
+   "title": "【地震速報】愛知県で震度5強 津波の心配なし | NHKニュース",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261108de72252",
+   "users": 38
+  },
+  {
+   "title": "トランプ「レームダック化」で高市外交に暗雲、日中関係は改善せず…習近平との首脳会談は「中国側が拒否」との報道 【舛添直言】共和党敗北に勢いづくイラン、米の「軍事支援打ち切り」に困惑するイスラエル…激しく動き出す国際情勢 | JBpress (ジェイビープレス)",
+   "url": "https://jbpress.ismedia.jp/articles/-/97899",
+   "users": 17
+  },
+  {
+   "title": "防衛費で鉄道は守れるか　JR北海道の「黄線区」が対象になる可能性も　専門家は「机上の空論も甚だしい」と疑問視 | AERA DIGITAL（アエラデジタル）",
+   "url": "https://dot.asahi.com/articles/-/296936?page=1",
+   "users": 21
+  },
+  {
+   "title": "ハチワレ色あて — みんなで対戦",
+   "url": "https://hachiware-iroate.pages.dev/",
+   "users": 55
+  },
+  {
+   "title": "「フェイク、フェイクです！」維新・佐々木りえ議員　同僚・石井めぐみ議員の「ネイル疑惑」を擁護も「議員辞職」発言が炎上 | 女性自身",
+   "url": "https://jisin.jp/domestic/2608243/",
+   "users": 8
+  },
+  {
+   "title": "私服勤務の初日に部下の若手男性が「どこまで怒られないか試してみます！」とグレーのスウェット上下で出勤、役員から「あのパジャマで来てるやつは誰だ！」と話題になった",
+   "url": "https://togetter.com/li/2767774",
+   "users": 113
+  },
+  {
+   "title": "石破氏らの採決退席、自民・野田聖子氏「しょうがない」立民・蓮舫氏「勇気ある行動」絶賛",
+   "url": "https://www.sankei.com/article/20261107-JLNBVRI2HNE7XNVA6SDQKCRKRY/?outputType=asynd",
+   "users": 22
+  },
+  {
+   "title": "小西康陽、弾き語りで向き合う自身の楽曲──作曲家としての原点と、歌に宿る言葉",
+   "url": "https://ototoy.jp/feature/2026110601",
+   "users": 15
+  },
+  {
+   "title": "遠い眺め・遠い眺め",
+   "url": "https://bigcomics.jp/episodes/954cb7c47820a",
+   "users": 4
+  },
+  {
+   "title": "「首斬り」総領事の追放、中国側「倍返し」予告で見送り…互いに譲らず冷え切った日中関係",
+   "url": "https://www.yomiuri.co.jp/politics/20261107-GYT1T00320/",
+   "users": 13
+  },
+  {
+   "title": "AI時代に求められる優秀なTechLeadの振る舞い - pospomeのプログラミング日記",
+   "url": "https://www.pospome.work/entry/2026/11/07/192125",
+   "users": 164
+  },
+  {
+   "title": "ポーランド南部クラクフの中心部で男が無差別に発砲し６人死亡…極右思想に傾倒か・自宅からも３遺体発見",
+   "url": "https://www.yomiuri.co.jp/world/20261108-GYT1T00039/",
+   "users": 11
+  },
+  {
+   "title": "@SamuraiShibaJP のポスト on X（2026-11-06 08:33） / X",
+   "url": "https://x.com/SamuraiShibaJP/status/2118486770631458856",
+   "users": 14
+  },
+  {
+   "title": "子ども期の逆境体験が多い若者ほど、「子どもを持ちたくない」と考える傾向 | Science Tokyo - 東京科学大学",
+   "url": "https://www.isct.ac.jp/ja/news/j89tshcp2qzx",
+   "users": 94
+  },
+  {
+   "title": "お小遣いはサラリーマン以上？「金持ち大学生」のリアルと消費の二極化 | TBS CROSS DIG with Bloomberg",
+   "url": "https://newsdig.tbs.co.jp/articles/withbloomberg/3060033",
+   "users": 28
+  },
+  {
+   "title": "女性を物のように見てしまう「性的対象化」は電気刺激で矯正可能という研究結果",
+   "url": "https://gigazine.net/news/20261106-sexual-objectification/",
+   "users": 7
+  },
+  {
+   "title": "桜井政博氏、生成AIへの考えかたを示す。「いまのところは使っていない」し、「どこかへの搾取になってはいけない」。一方で現在の“大変すぎるゲーム開発”への懸念も【ファミ通40周年フェス】 | ゲーム・エンタメ最新情報のファミ通.com",
+   "url": "https://www.famitsu.com/article/202611/93352",
+   "users": 72
+  },
+  {
+   "title": "AI時代の要求管理ハンドブック ～経営・現場・開発がともに描く、問いから実現への道筋～ | 社会・産業のデジタル変革 | IPA 独立行政法人 情報処理推進機構",
+   "url": "https://www.ipa.go.jp/digital/kaihatsu/youkyu-kanri.html",
+   "users": 115
+  },
+  {
+   "title": "はてなブログのアクセス元に謎の「www.aocr.org」が突然出現した件 - BOKUのブログ",
+   "url": "https://arakan-pgm-ai.hatenablog.com/entry/2026/11/01/000000",
+   "users": 11
+  },
+  {
+   "title": "最近『レジスタ！』の炎上から飛び火して、「じゃあBLも規制しろ」「BLの方..",
+   "url": "https://anond.hatelabo.jp/20261107120744",
+   "users": 88
+  },
+  {
+   "title": "ヘルベルト・ブロムシュテットさんの逝去を悼んで──力武京子さんの追悼文を掲載します – アルテスパブリッシング",
+   "url": "https://artespublishing.com/news/20261104_blomstedt_obituary/",
+   "users": 17
+  },
+  {
+   "title": "ISUCON2026をClaude Codeが優勝したらしい｜laiso",
+   "url": "https://sizu.me/laiso/posts/k59is4cnd77f",
+   "users": 126
+  },
+  {
+   "title": "FMV Display V2403(CF)（USB-C/HDMI×2入力） | K0AK0025JF",
+   "url": "https://www.fmv.com/store/p/accessories/monitor/vt_f/k0ak0025jf",
+   "users": 5
+  },
+  {
+   "title": "「もう一個予備で買っとこうかなと思うレベル」ニトリのいろんなとこに首が置ける枕が便利",
+   "url": "https://togetter.com/li/2767033",
+   "users": 99
+  },
+  {
+   "title": "「国が博打を打たせているようなもの」アメリカ中間選挙の結果に株式市場は沸いたが、NISAなど株価が上がる政策は問題をすり替えている印象を感じられる",
+   "url": "https://togetter.com/li/2767802",
+   "users": 5
+  },
+  {
+   "title": "静岡西部を震源とする地震、愛知県知多市で震度５強観測…津波の心配なし",
+   "url": "https://www.yomiuri.co.jp/national/20261108-GYT1T00027/",
+   "users": 17
+  },
+  {
+   "title": "聖戦に没頭する表現の自由戦士たち――あるいは終わらない帰りの会からの脱出",
+   "url": "https://anond.hatelabo.jp/20261107161525",
+   "users": 201
+  },
+  {
+   "title": "無料でDiscordのようなチャット・音声・動画・ボットなどを駆使した小さなコミュニティを自分たちで運営できる「Harmony」、既存のDiscordサーバーと接続できるブリッジ機能もオープンソースでセルフホスト可能",
+   "url": "https://gigazine.net/news/20261107-harmony/",
+   "users": 12
+  },
+  {
+   "title": "鼻が詰まってることを友人に話したら、短期的に解消する方法を教えてくれた→やってみたら本当にスッキリする、なにこれ…？",
+   "url": "https://togetter.com/li/2767674",
+   "users": 333
+  },
+  {
+   "title": "シーリングライトの様子がおかしいので蓋開けて中を見てみたらこの有様「みたらし団子かと」「何がどうしてそうなった？」",
+   "url": "https://togetter.com/li/2767778",
+   "users": 72
+  },
+  {
+   "title": "愛知で２９年ぶり震度５強　骨折などけが人複数、一部運転見合わせも：朝日新聞",
+   "url": "https://www.asahi.com/articles/ASVC765J6VC7OIPE008M.html",
+   "users": 8
+  }
+ ]
+}
