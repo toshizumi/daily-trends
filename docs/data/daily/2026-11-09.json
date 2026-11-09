@@ -1,0 +1,521 @@
+{
+ "date": "2026-11-09",
+ "collected_at": "2026-11-09T09:39+09:00",
+ "errors": {},
+ "google": [
+  {
+   "term": "インファンティーノ会長",
+   "traffic": "2000+",
+   "news_title": "田嶋幸三氏は｢勝つ可能性ある｣とUEFA元幹部 FIFA会長選“日本人初”誕生は（テレビ朝日系（ANN））",
+   "news_url": "https://news.yahoo.co.jp/articles/ba3846352e68e173f8350688d285a2c647b2c366",
+   "news_source": "Yahoo!ニュース"
+  },
+  {
+   "term": "株価",
+   "traffic": "1000+",
+   "news_title": "日経平均株価が反発、一時800円高 米ハイテク株高で買い先行",
+   "news_url": "https://www.nikkei.com/article/DGXZQOFL0909I0Z01C26A1000000/",
+   "news_source": "日本経済新聞"
+  },
+  {
+   "term": "サンリオ 株価",
+   "traffic": "500+",
+   "news_title": "サンリオ－売り気配 上期営業益9％増もコンセンサス下回る〔DZH 個別株情報〕(時事通信)",
+   "news_url": "https://finance.yahoo.co.jp/news/detail/3533548e4ffba078eef99765371a35fc012c9b11",
+   "news_source": "Yahoo!ファイナンス"
+  },
+  {
+   "term": "トヨタ・カローラ",
+   "traffic": "500+",
+   "news_title": "トヨタ新型『カローラ』に画期的な新ハイブリッド搭載 1.5L直4ベースのコンパクト設計、燃費35km/Lも実現可能か 他社への販売も視野",
+   "news_url": "https://news.yahoo.co.jp/articles/c8e65168767fce39c6774d7ac3a4d924525b5662",
+   "news_source": "Yahoo!ニュース"
+  },
+  {
+   "term": "11/9 天気",
+   "traffic": "200+",
+   "news_title": "【山口天気 朝刊11/9】一日ぐずつく天気 夜になるほど雨脚が強まるところも 気温の上がり方も鈍く厚手の上着活躍",
+   "news_url": "https://news.yahoo.co.jp/articles/01b7cadad0d86cd989c39c8ca33895c7a0007cca",
+   "news_source": "Yahoo!ニュース"
+  },
+  {
+   "term": "ソフトバンク 株価",
+   "traffic": "200+",
+   "news_title": "",
+   "news_url": "",
+   "news_source": ""
+  },
+  {
+   "term": "ブラックフライデーとは",
+   "traffic": "200+",
+   "news_title": "【なるほどッ！】物価高の中“あえて値下げ”続々 セール｢前倒し｣も…なぜ？",
+   "news_url": "https://tver.jp/episodes/epdd9k9shv",
+   "news_source": "TVer"
+  },
+  {
+   "term": "三菱重工株価",
+   "traffic": "200+",
+   "news_title": "６日の動意株＞菱重工(ウエルスアドバイザー)",
+   "news_url": "https://finance.yahoo.co.jp/news/detail/0f9ba697818eec2e0a4f02b54fcdef416e2e2526",
+   "news_source": "Yahoo!ファイナンス"
+  },
+  {
+   "term": "jcb",
+   "traffic": "200+",
+   "news_title": "顔認証なら同じと思ってない？MyJCBの「生体認証」と「パスキー」の違い",
+   "news_url": "https://dxmagazine.jp/news/2662uk10-2/",
+   "news_source": "DXマガジン"
+  },
+  {
+   "term": "機体",
+   "traffic": "100+",
+   "news_title": "",
+   "news_url": "",
+   "news_source": ""
+  }
+ ],
+ "x": [
+  {
+   "term": "VIVANT",
+   "hours": 21,
+   "best_rank": 1,
+   "url": "https://x.com/search?q=VIVANT"
+  },
+  {
+   "term": "クロスファイア",
+   "hours": 16,
+   "best_rank": 11,
+   "url": "https://x.com/search?q=%E3%82%AF%E3%83%AD%E3%82%B9%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2"
+  },
+  {
+   "term": "ジャミーン",
+   "hours": 15,
+   "best_rank": 2,
+   "url": "https://x.com/search?q=%E3%82%B8%E3%83%A3%E3%83%9F%E3%83%BC%E3%83%B3"
+  },
+  {
+   "term": "乃木さん",
+   "hours": 15,
+   "best_rank": 6,
+   "url": "https://x.com/search?q=%E4%B9%83%E6%9C%A8%E3%81%95%E3%82%93"
+  },
+  {
+   "term": "野崎さん",
+   "hours": 14,
+   "best_rank": 3,
+   "url": "https://x.com/search?q=%E9%87%8E%E5%B4%8E%E3%81%95%E3%82%93"
+  },
+  {
+   "term": "#悪役会議室",
+   "hours": 12,
+   "best_rank": 3,
+   "url": "https://x.com/search?q=%23%E6%82%AA%E5%BD%B9%E4%BC%9A%E8%AD%B0%E5%AE%A4"
+  },
+  {
+   "term": "香名江さん",
+   "hours": 11,
+   "best_rank": 4,
+   "url": "https://x.com/search?q=%E9%A6%99%E5%90%8D%E6%B1%9F%E3%81%95%E3%82%93"
+  },
+  {
+   "term": "ユナイテッド",
+   "hours": 10,
+   "best_rank": 2,
+   "url": "https://x.com/search?q=%E3%83%A6%E3%83%8A%E3%82%A4%E3%83%86%E3%83%83%E3%83%89"
+  },
+  {
+   "term": "#日向坂で会いましょう",
+   "hours": 10,
+   "best_rank": 2,
+   "url": "https://x.com/search?q=%23%E6%97%A5%E5%90%91%E5%9D%82%E3%81%A7%E4%BC%9A%E3%81%84%E3%81%BE%E3%81%97%E3%82%87%E3%81%86"
+  },
+  {
+   "term": "峰不二子",
+   "hours": 9,
+   "best_rank": 5,
+   "url": "https://x.com/search?q=%E5%B3%B0%E4%B8%8D%E4%BA%8C%E5%AD%90"
+  },
+  {
+   "term": "チョッキー",
+   "hours": 9,
+   "best_rank": 8,
+   "url": "https://x.com/search?q=%E3%83%81%E3%83%A7%E3%83%83%E3%82%AD%E3%83%BC"
+  },
+  {
+   "term": "アリソン",
+   "hours": 9,
+   "best_rank": 10,
+   "url": "https://x.com/search?q=%E3%82%A2%E3%83%AA%E3%82%BD%E3%83%B3"
+  },
+  {
+   "term": "プロデュース",
+   "hours": 9,
+   "best_rank": 10,
+   "url": "https://x.com/search?q=%E3%83%97%E3%83%AD%E3%83%87%E3%83%A5%E3%83%BC%E3%82%B9"
+  },
+  {
+   "term": "ロシアの諜報員",
+   "hours": 9,
+   "best_rank": 11,
+   "url": "https://x.com/search?q=%E3%83%AD%E3%82%B7%E3%82%A2%E3%81%AE%E8%AB%9C%E5%A0%B1%E5%93%A1"
+  },
+  {
+   "term": "ハンリンシン",
+   "hours": 9,
+   "best_rank": 12,
+   "url": "https://x.com/search?q=%E3%83%8F%E3%83%B3%E3%83%AA%E3%83%B3%E3%82%B7%E3%83%B3"
+  },
+  {
+   "term": "#乃木坂工事中",
+   "hours": 8,
+   "best_rank": 2,
+   "url": "https://x.com/search?q=%23%E4%B9%83%E6%9C%A8%E5%9D%82%E5%B7%A5%E4%BA%8B%E4%B8%AD"
+  },
+  {
+   "term": "#氷渡香名江実装決定",
+   "hours": 8,
+   "best_rank": 2,
+   "url": "https://x.com/search?q=%23%E6%B0%B7%E6%B8%A1%E9%A6%99%E5%90%8D%E6%B1%9F%E5%AE%9F%E8%A3%85%E6%B1%BA%E5%AE%9A"
+  },
+  {
+   "term": "#ホロ1GP",
+   "hours": 8,
+   "best_rank": 2,
+   "url": "https://x.com/search?q=%23%E3%83%9B%E3%83%AD1GP"
+  },
+  {
+   "term": "ザイオン",
+   "hours": 8,
+   "best_rank": 3,
+   "url": "https://x.com/search?q=%E3%82%B6%E3%82%A4%E3%82%AA%E3%83%B3"
+  },
+  {
+   "term": "うろこ雲",
+   "hours": 8,
+   "best_rank": 3,
+   "url": "https://x.com/search?q=%E3%81%86%E3%82%8D%E3%81%93%E9%9B%B2"
+  },
+  {
+   "term": "東京大賞典",
+   "hours": 8,
+   "best_rank": 5,
+   "url": "https://x.com/search?q=%E6%9D%B1%E4%BA%AC%E5%A4%A7%E8%B3%9E%E5%85%B8"
+  },
+  {
+   "term": "バルコラ",
+   "hours": 8,
+   "best_rank": 10,
+   "url": "https://x.com/search?q=%E3%83%90%E3%83%AB%E3%82%B3%E3%83%A9"
+  },
+  {
+   "term": "ハンさん",
+   "hours": 8,
+   "best_rank": 10,
+   "url": "https://x.com/search?q=%E3%83%8F%E3%83%B3%E3%81%95%E3%82%93"
+  },
+  {
+   "term": "頭NO王",
+   "hours": 8,
+   "best_rank": 13,
+   "url": "https://x.com/search?q=%E9%A0%ADNO%E7%8E%8B"
+  },
+  {
+   "term": "ラメンス",
+   "hours": 8,
+   "best_rank": 14,
+   "url": "https://x.com/search?q=%E3%83%A9%E3%83%A1%E3%83%B3%E3%82%B9"
+  },
+  {
+   "term": "#学マス標ファイナル_DAY2",
+   "hours": 7,
+   "best_rank": 1,
+   "url": "https://x.com/search?q=%23%E5%AD%A6%E3%83%9E%E3%82%B9%E6%A8%99%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB_DAY2"
+  },
+  {
+   "term": "アルゼンチン共和国杯",
+   "hours": 7,
+   "best_rank": 1,
+   "url": "https://x.com/search?q=%E3%82%A2%E3%83%AB%E3%82%BC%E3%83%B3%E3%83%81%E3%83%B3%E5%85%B1%E5%92%8C%E5%9B%BD%E6%9D%AF"
+  },
+  {
+   "term": "ファミリータイム",
+   "hours": 7,
+   "best_rank": 2,
+   "url": "https://x.com/search?q=%E3%83%95%E3%82%A1%E3%83%9F%E3%83%AA%E3%83%BC%E3%82%BF%E3%82%A4%E3%83%A0"
+  },
+  {
+   "term": "タピオカの日",
+   "hours": 7,
+   "best_rank": 3,
+   "url": "https://x.com/search?q=%E3%82%BF%E3%83%94%E3%82%AA%E3%82%AB%E3%81%AE%E6%97%A5"
+  },
+  {
+   "term": "アトレティコ",
+   "hours": 7,
+   "best_rank": 3,
+   "url": "https://x.com/search?q=%E3%82%A2%E3%83%88%E3%83%AC%E3%83%86%E3%82%A3%E3%82%B3"
+  },
+  {
+   "term": "ベルナル",
+   "hours": 7,
+   "best_rank": 4,
+   "url": "https://x.com/search?q=%E3%83%99%E3%83%AB%E3%83%8A%E3%83%AB"
+  },
+  {
+   "term": "フリアン",
+   "hours": 7,
+   "best_rank": 6,
+   "url": "https://x.com/search?q=%E3%83%95%E3%83%AA%E3%82%A2%E3%83%B3"
+  },
+  {
+   "term": "エイプリルフール",
+   "hours": 7,
+   "best_rank": 6,
+   "url": "https://x.com/search?q=%E3%82%A8%E3%82%A4%E3%83%97%E3%83%AA%E3%83%AB%E3%83%95%E3%83%BC%E3%83%AB"
+  },
+  {
+   "term": "ヴィルツ",
+   "hours": 7,
+   "best_rank": 7,
+   "url": "https://x.com/search?q=%E3%83%B4%E3%82%A3%E3%83%AB%E3%83%84"
+  },
+  {
+   "term": "チンギス",
+   "hours": 7,
+   "best_rank": 9,
+   "url": "https://x.com/search?q=%E3%83%81%E3%83%B3%E3%82%AE%E3%82%B9"
+  },
+  {
+   "term": "二階堂ふみ",
+   "hours": 7,
+   "best_rank": 14,
+   "url": "https://x.com/search?q=%E4%BA%8C%E9%9A%8E%E5%A0%82%E3%81%B5%E3%81%BF"
+  },
+  {
+   "term": "サンダーランド",
+   "hours": 7,
+   "best_rank": 17,
+   "url": "https://x.com/search?q=%E3%82%B5%E3%83%B3%E3%83%80%E3%83%BC%E3%83%A9%E3%83%B3%E3%83%89"
+  },
+  {
+   "term": "マッキー残留",
+   "hours": 7,
+   "best_rank": 19,
+   "url": "https://x.com/search?q=%E3%83%9E%E3%83%83%E3%82%AD%E3%83%BC%E6%AE%8B%E7%95%99"
+  },
+  {
+   "term": "二重人格",
+   "hours": 7,
+   "best_rank": 19,
+   "url": "https://x.com/search?q=%E4%BA%8C%E9%87%8D%E4%BA%BA%E6%A0%BC"
+  },
+  {
+   "term": "きみのなか",
+   "hours": 7,
+   "best_rank": 21,
+   "url": "https://x.com/search?q=%E3%81%8D%E3%81%BF%E3%81%AE%E3%81%AA%E3%81%8B"
+  }
+ ],
+ "hatena": [
+  {
+   "title": "日本の町でドリブルしまくるゲーム『Kick』を手がけるスイス人開発者は、アニメとYouTubeで「生の日本」に惚れ込んだ。異国から描く“日本の日常”、ボールと共に駆け抜ける - AUTOMATON",
+   "url": "https://automaton-media.com/articles/interviewsjp/20261108-478098/",
+   "users": 72
+  },
+  {
+   "title": "Shizuku-Duplex：自然な間合いで話す日本語 Full-Duplex モデル",
+   "url": "https://shizuku.ai/blog/1/",
+   "users": 97
+  },
+  {
+   "title": "フェミニスト「枝豆の名前がほんとうに気持ち悪くてね」「農家も性欲に頭やられてる」「やっすい風俗店」←52000いいね",
+   "url": "https://posfie.com/@DamDam347/p/mAznVSR",
+   "users": 284
+  },
+  {
+   "title": "知事も「ショック」　山形県内の高校生採用、6割弱の企業が予定なし「募集しても来ない」",
+   "url": "https://www.sankei.com/article/20261108-EHWCHBGRERNPLIFU3RCE6UEENU/?outputType=asynd",
+   "users": 111
+  },
+  {
+   "title": "「エントロピーを下げれる奴が偉い」、｜ラクビル株式会社",
+   "url": "https://note.com/rakbil/n/n16a0b62cd206",
+   "users": 81
+  },
+  {
+   "title": "お刺身って塩水で洗って脱水シートで40分ぐらい締めたら大抵店の味に近くなると思ってる「塩で魚の臭みと水分が抜けていいって聞きますね」",
+   "url": "https://togetter.com/li/2767938",
+   "users": 88
+  },
+  {
+   "title": "ドラマ『ポリティカルパン』に関連する実在事件 | 誰が何をしたか覚えていよう",
+   "url": "https://rememberwhodidwhat.github.io/column/politicalupin/",
+   "users": 158
+  },
+  {
+   "title": "交番侵入し「ショウリンジ」絶叫・警官挑発し「ポリ鬼」、中高生の迷惑行為横行・動画拡散で拍車…逮捕者も",
+   "url": "https://www.yomiuri.co.jp/national/20261108-GYT1T00017/",
+   "users": 37
+  },
+  {
+   "title": "北朝鮮、国家ぐるみでハッカー育成　中学生200人選抜　攻撃成功で平壌にアパートも",
+   "url": "https://www.sankei.com/article/20261108-RFH5NN3B2RJNNKQM4CQA6C3KRA/",
+   "users": 132
+  },
+  {
+   "title": "ポケモンカードを「換金用の景品」にしていた違法賭博場が摘発される。ゲットしたカードで“ポケモン三店方式” - AUTOMATON",
+   "url": "https://automaton-media.com/articles/newsjp/20261108-478078/",
+   "users": 23
+  },
+  {
+   "title": "初めてのデートで男の人が選んだら次はなくなるようなお店に食べに行ってしまった話…店名が「鳥物語」の時点で地雷臭がスゴい",
+   "url": "https://togetter.com/li/2768225",
+   "users": 42
+  },
+  {
+   "title": "日本の公開データ研究マップ（JapanStatsMAPs）を公開しました | 香田将英（shoei05）",
+   "url": "https://shoei05.com/articles/3001/",
+   "users": 33
+  },
+  {
+   "title": "人生タイムライン",
+   "url": "https://ltimeline.com/ja/",
+   "users": 97
+  },
+  {
+   "title": "MCPはなぜ復権したのか：CLIが支持された理由と、流れを変えた仕様変更 | Hiraoku.dev",
+   "url": "https://hiraoku.dev/blog/mcp-cli-cloud/",
+   "users": 245
+  },
+  {
+   "title": "iPhoneでmacOSが動くエミュレーター「Henge」公開！ - すまほん!!",
+   "url": "https://smhn.info/202611-henge-macos-emulator-iphone-ipad-release",
+   "users": 38
+  },
+  {
+   "title": "映画「ザ・メニュー」は観るとチーズバーガーが食べたくなるグルメホラー…「ミッドサマー」の雰囲気もあるがスプラッタなグロはない",
+   "url": "https://togetter.com/li/2768079",
+   "users": 33
+  },
+  {
+   "title": "ウイスキー好きの皆さんは「高いボトルも飲んだけど結局これに戻る」って1本はありますか？限定でも高級でもない「いつもの1本」を教えてください",
+   "url": "https://togetter.com/li/2767327",
+   "users": 442
+  },
+  {
+   "title": "コード非公開のWebサイト・アプリ・ゲームを解析し、AIが類似版を生成する無料ツール「Craft Anything」（生成AIクローズアップ） | テクノエッジ TechnoEdge",
+   "url": "https://www.techno-edge.net/article/2026/11/09/5686.html",
+   "users": 19
+  },
+  {
+   "title": "本が好きな友達に毎年「今年の一冊」を聞いて買って読むようにしているんですが、皆さんの思う今年の一冊を教えてください、全部買います",
+   "url": "https://togetter.com/li/2767354",
+   "users": 120
+  },
+  {
+   "title": "GitHub - google/elephant-goldfish-model: Open-source skills for designing and reviewing software with AI agents",
+   "url": "https://github.com/google/elephant-goldfish-model",
+   "users": 30
+  },
+  {
+   "title": "『ACE COMBAT8』はウクライナ侵攻以後の戦争エンタメとして何を描き、何を描かなかったか。──2026年を代表する\"ホープパンク\"の傑作 - STORY MODE",
+   "url": "https://nix-51.hatenablog.com/entry/2026/11/08/151147",
+   "users": 63
+  },
+  {
+   "title": "表現の自由を叫ぶ方々が、自分たちの努力は無駄だったのか！？と嘆いているが、断じてそんなことはない。「10年20年交渉を続けても無駄だった」という成果は今後に大きな影響をもたらすだろう。",
+   "url": "https://posfie.com/@Acg3C2/p/f0WK8TB",
+   "users": 59
+  },
+  {
+   "title": "Claude Codeの「今後確認しない」が秘密情報をGitHubに漏らす — 1,122件の公開ファイルに1,379件の秘密情報 - Dev & Gadget Note",
+   "url": "https://dev.ponkotsu.dev/entry/claude-code-settings-local-secrets",
+   "users": 102
+  },
+  {
+   "title": "シネフィルおじさん便",
+   "url": "https://claude.ai/artifact/5rGviSNATjR6aF6A54XALj",
+   "users": 79
+  },
+  {
+   "title": "半導体の生産量は「ラピダスの40倍」　マスク氏の量産工場「テラファブ」、製造装置の調達部隊が極秘来日 - 日本経済新聞",
+   "url": "https://www.nikkei.com/article/DGXZQOUC026RB0S6A101C2000000/",
+   "users": 34
+  },
+  {
+   "title": "ターミナル用ライブラリ［Libghostty 1.0」リリース。Windows版マルチプレクサ「Rex」もまもなく登場予定",
+   "url": "https://www.publickey1.jp/blog/26/libghostty_10windowsrex.html",
+   "users": 11
+  },
+  {
+   "title": "日本ネットワークセキュリティ協会に不正アクセス　最大1.5万件の個人情報漏えいの恐れ",
+   "url": "https://japan.cnet.com/article/35254549/",
+   "users": 53
+  },
+  {
+   "title": "東海道新幹線の緻密ダイヤ支える「スジ屋」、筋金入りのJR社員　1日504本「制約ある中で需要に応える」：中日新聞Web",
+   "url": "https://www.chunichi.co.jp/article/1336344",
+   "users": 17
+  },
+  {
+   "title": "朝の混雑は全国一、でも赤字危機　日暮里・舎人ライナーの「想定外」：朝日新聞",
+   "url": "https://www.asahi.com/articles/ASVC62PCRVC6OXIE015M.html",
+   "users": 17
+  },
+  {
+   "title": "高市内閣の支持率調査、下落する層と変わらぬ層　それぞれの理由 | 毎日新聞",
+   "url": "https://mainichi.jp/articles/20261106/k00/00m/010/210000c",
+   "users": 11
+  },
+  {
+   "title": "MCP仕様を完全にサポートしたMCP公式のRuby SDKが登場。「MCP SDK Tier 1」に到達と",
+   "url": "https://www.publickey1.jp/blog/26/mcpmcpruby_sdkmcp_sdk_tier_1.html",
+   "users": 6
+  },
+  {
+   "title": "Meta、「Muse」で自分専用アプリを作れる新機能「スペース」",
+   "url": "https://www.watch.impress.co.jp/docs/news/2154571.html",
+   "users": 118
+  },
+  {
+   "title": "「お腰につけたきびだんご」←どのように？ | オモコロ",
+   "url": "https://omocoro.jp/kiji/591157/",
+   "users": 7
+  },
+  {
+   "title": "Macのセキュリティの仕組み - 標準機能と安全に使うための対策｜npaka",
+   "url": "https://note.com/npaka/n/nae09bd9ce37d",
+   "users": 151
+  },
+  {
+   "title": "欧州右派、トランプ離れ鮮明「支持者だったこと一度もない」「イラン攻撃誤り」…アメリカ中間選大敗受け",
+   "url": "https://www.yomiuri.co.jp/world/20261108-GYT1T00009/",
+   "users": 64
+  },
+  {
+   "title": "ローカルLLM利用のクリニックを受診してみた　PCマニアの院長が自力で構築、その導入効果は？",
+   "url": "https://www.itmedia.co.jp/aiplus/article/2611/09/2000002916/",
+   "users": 6
+  },
+  {
+   "title": "映画『VIVANT』公式サイト",
+   "url": "https://vivant.toho-movie.jp/",
+   "users": 43
+  },
+  {
+   "title": "【図解あり】マルチエージェント設計「15のパターン」　GitHub、Google、Siemensの知見を一気に整理",
+   "url": "https://atmarkit.itmedia.co.jp/ait/articles/2611/08/news001.html",
+   "users": 199
+  },
+  {
+   "title": "日本で言う「活け締め」をAIロボで自動化したらしいんだが、ビジネスの組み方賢すぎる.",
+   "url": "https://posfie.com/@su_damari/p/xvcxjNy",
+   "users": 193
+  },
+  {
+   "title": "第51話 かんちがい / ふたりバス - 豊林サカネ | サンデーうぇぶり",
+   "url": "https://www.sunday-webry.com/episode/12207421984485815705",
+   "users": 43
+  }
+ ]
+}
