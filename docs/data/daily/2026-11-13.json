@@ -1,0 +1,521 @@
+{
+ "date": "2026-11-13",
+ "collected_at": "2026-11-13T10:43+09:00",
+ "errors": {},
+ "google": [
+  {
+   "term": "山本由伸",
+   "traffic": "2000+",
+   "news_title": "アはアルバレス ナはＰＣＡ 米大リーグのＭＶＰ発表…ともに満票で初受賞 大谷翔平は４連覇逃す 村上宗隆も得票【投票結果一覧】（スポーツ報知）",
+   "news_url": "https://news.yahoo.co.jp/articles/99b152e831d246d1185a405ff1f3d1ad9a06dce8",
+   "news_source": "Yahoo!ニュース"
+  },
+  {
+   "term": "ポリティカルパン",
+   "traffic": "500+",
+   "news_title": "「VIVANTの叩き棒にうちのドラマを使わないで」人気脚本家が苦言…映画評論家の“比較投稿”に不快感あらわ（女性自身）",
+   "news_url": "https://news.yahoo.co.jp/articles/0d96c248943e8894233c6c128eaee5c7ce141fbd",
+   "news_source": "Yahoo!ニュース"
+  },
+  {
+   "term": "cve-2026-119618",
+   "traffic": "500+",
+   "news_title": "Critical RCE Vulnerability in Apache HTTP Server: Everything You Need To Know",
+   "news_url": "https://www.wiz.io/blog/cve-2026-119618-rce-apache-http-server-vulnerability",
+   "news_source": "wiz.io"
+  },
+  {
+   "term": "nz vs ind",
+   "traffic": "200+",
+   "news_title": "NZ vs IND 2026/27, NZ vs IND 4th ODI Match Preview - NZ look to avoid series defeat with batters set to get a boost",
+   "news_url": "https://www.cricinfo.com/series/india-in-new-zealand-2026-27-1539421/new-zealand-vs-india-4th-odi-1539440/match-preview",
+   "news_source": "Cricinfo"
+  },
+  {
+   "term": "軍事費",
+   "traffic": "200+",
+   "news_title": "首相 防衛費巡る「大幅増税」慎重",
+   "news_url": "https://news.yahoo.co.jp/pickup/6602369",
+   "news_source": "Yahoo!ニュース"
+  },
+  {
+   "term": "埼玉新聞",
+   "traffic": "100+",
+   "news_title": "【チカン】自転車の女性にわいせつ行為 かけ足で近づく男、卑猥な言葉をかけて犯行 30～40歳、身長170センチ【防犯情報】",
+   "news_url": "https://news.yahoo.co.jp/articles/f6dc1648b7b0b4af7e1f087d6887c75d6f03bfc6",
+   "news_source": "Yahoo!ニュース"
+  },
+  {
+   "term": "思いやり予算",
+   "traffic": "100+",
+   "news_title": "思いやり予算 5年3兆円超を米要求",
+   "news_url": "https://news.yahoo.co.jp/pickup/6602377",
+   "news_source": "Yahoo!ニュース"
+  },
+  {
+   "term": "南シナ海",
+   "traffic": "100+",
+   "news_title": "岩礁を「島」と主張→支配強化、船舶航行を常態化 中国、南シナ海でフィリピンと対立激化",
+   "news_url": "https://www.sankei.com/article/20261113-YCJTWBR2SNJOHLJVB5LXJMQIRU/",
+   "news_source": "産経ニュース"
+  },
+  {
+   "term": "meet",
+   "traffic": "100+",
+   "news_title": "After meeting Putin, U.S. envoys say Europe to join talks on ending Ukraine war",
+   "news_url": "https://www.washingtonpost.com/world/2026/11/12/after-meeting-putin-us-envoys-say-europe-join-talks-ending-ukraine-war/",
+   "news_source": "The Washington Post"
+  },
+  {
+   "term": "たばこ",
+   "traffic": "100+",
+   "news_title": "加熱式たばこ「ルールの明確化を」 中立的な研究データ足りず、進まぬ議論 ハームリダクションを考える",
+   "news_url": "https://www.sankei.com/article/20261112-QSZZAHNBWNOMBA7KUSZDAAOGYE/?outputType=asynd",
+   "news_source": "産経ニュース"
+  }
+ ],
+ "x": [
+  {
+   "term": "革ジャン",
+   "hours": 18,
+   "best_rank": 2,
+   "url": "https://x.com/search?q=%E9%9D%A9%E3%82%B8%E3%83%A3%E3%83%B3"
+  },
+  {
+   "term": "Nvidia",
+   "hours": 17,
+   "best_rank": 8,
+   "url": "https://x.com/search?q=Nvidia"
+  },
+  {
+   "term": "ちいかわクリニック",
+   "hours": 14,
+   "best_rank": 1,
+   "url": "https://x.com/search?q=%E3%81%A1%E3%81%84%E3%81%8B%E3%82%8F%E3%82%AF%E3%83%AA%E3%83%8B%E3%83%83%E3%82%AF"
+  },
+  {
+   "term": "メジャーデビュー",
+   "hours": 12,
+   "best_rank": 3,
+   "url": "https://x.com/search?q=%E3%83%A1%E3%82%B8%E3%83%A3%E3%83%BC%E3%83%87%E3%83%93%E3%83%A5%E3%83%BC"
+  },
+  {
+   "term": "クレカ番号",
+   "hours": 12,
+   "best_rank": 16,
+   "url": "https://x.com/search?q=%E3%82%AF%E3%83%AC%E3%82%AB%E7%95%AA%E5%8F%B7"
+  },
+  {
+   "term": "乗車準備会",
+   "hours": 10,
+   "best_rank": 1,
+   "url": "https://x.com/search?q=%E4%B9%97%E8%BB%8A%E6%BA%96%E5%82%99%E4%BC%9A"
+  },
+  {
+   "term": "すいちゃん",
+   "hours": 10,
+   "best_rank": 6,
+   "url": "https://x.com/search?q=%E3%81%99%E3%81%84%E3%81%A1%E3%82%83%E3%82%93"
+  },
+  {
+   "term": "エグゼイド新作",
+   "hours": 10,
+   "best_rank": 6,
+   "url": "https://x.com/search?q=%E3%82%A8%E3%82%B0%E3%82%BC%E3%82%A4%E3%83%89%E6%96%B0%E4%BD%9C"
+  },
+  {
+   "term": "あと3分",
+   "hours": 10,
+   "best_rank": 16,
+   "url": "https://x.com/search?q=%E3%81%82%E3%81%A83%E5%88%86"
+  },
+  {
+   "term": "#レコメン",
+   "hours": 9,
+   "best_rank": 1,
+   "url": "https://x.com/search?q=%23%E3%83%AC%E3%82%B3%E3%83%A1%E3%83%B3"
+  },
+  {
+   "term": "#超HENSHINってやばい",
+   "hours": 9,
+   "best_rank": 2,
+   "url": "https://x.com/search?q=%23%E8%B6%85HENSHIN%E3%81%A3%E3%81%A6%E3%82%84%E3%81%B0%E3%81%84"
+  },
+  {
+   "term": "すかいらーく",
+   "hours": 9,
+   "best_rank": 2,
+   "url": "https://x.com/search?q=%E3%81%99%E3%81%8B%E3%81%84%E3%82%89%E3%83%BC%E3%81%8F"
+  },
+  {
+   "term": "いちごちゃん",
+   "hours": 9,
+   "best_rank": 5,
+   "url": "https://x.com/search?q=%E3%81%84%E3%81%A1%E3%81%94%E3%81%A1%E3%82%83%E3%82%93"
+  },
+  {
+   "term": "めちゃイケ",
+   "hours": 9,
+   "best_rank": 13,
+   "url": "https://x.com/search?q=%E3%82%81%E3%81%A1%E3%82%83%E3%82%A4%E3%82%B1"
+  },
+  {
+   "term": "璃奈ちゃん",
+   "hours": 9,
+   "best_rank": 17,
+   "url": "https://x.com/search?q=%E7%92%83%E5%A5%88%E3%81%A1%E3%82%83%E3%82%93"
+  },
+  {
+   "term": "エヌビディア",
+   "hours": 9,
+   "best_rank": 17,
+   "url": "https://x.com/search?q=%E3%82%A8%E3%83%8C%E3%83%93%E3%83%87%E3%82%A3%E3%82%A2"
+  },
+  {
+   "term": "#きらめくほしまち",
+   "hours": 8,
+   "best_rank": 2,
+   "url": "https://x.com/search?q=%23%E3%81%8D%E3%82%89%E3%82%81%E3%81%8F%E3%81%BB%E3%81%97%E3%81%BE%E3%81%A1"
+  },
+  {
+   "term": "蛙化度100",
+   "hours": 8,
+   "best_rank": 3,
+   "url": "https://x.com/search?q=%E8%9B%99%E5%8C%96%E5%BA%A6100"
+  },
+  {
+   "term": "Shin-Shin",
+   "hours": 8,
+   "best_rank": 3,
+   "url": "https://x.com/search?q=Shin-Shin"
+  },
+  {
+   "term": "世界の子どもたち",
+   "hours": 8,
+   "best_rank": 4,
+   "url": "https://x.com/search?q=%E4%B8%96%E7%95%8C%E3%81%AE%E5%AD%90%E3%81%A9%E3%82%82%E3%81%9F%E3%81%A1"
+  },
+  {
+   "term": "全国立海",
+   "hours": 8,
+   "best_rank": 6,
+   "url": "https://x.com/search?q=%E5%85%A8%E5%9B%BD%E7%AB%8B%E6%B5%B7"
+  },
+  {
+   "term": "汐谷さん",
+   "hours": 8,
+   "best_rank": 7,
+   "url": "https://x.com/search?q=%E6%B1%90%E8%B0%B7%E3%81%95%E3%82%93"
+  },
+  {
+   "term": "テニミュ",
+   "hours": 8,
+   "best_rank": 7,
+   "url": "https://x.com/search?q=%E3%83%86%E3%83%8B%E3%83%9F%E3%83%A5"
+  },
+  {
+   "term": "オリジナルグッズ",
+   "hours": 8,
+   "best_rank": 9,
+   "url": "https://x.com/search?q=%E3%82%AA%E3%83%AA%E3%82%B8%E3%83%8A%E3%83%AB%E3%82%B0%E3%83%83%E3%82%BA"
+  },
+  {
+   "term": "暫定CEO",
+   "hours": 8,
+   "best_rank": 10,
+   "url": "https://x.com/search?q=%E6%9A%AB%E5%AE%9ACEO"
+  },
+  {
+   "term": "Gemini 4 Hydrogen",
+   "hours": 8,
+   "best_rank": 11,
+   "url": "https://x.com/search?q=Gemini%204%20Hydrogen"
+  },
+  {
+   "term": "イベルタル",
+   "hours": 8,
+   "best_rank": 13,
+   "url": "https://x.com/search?q=%E3%82%A4%E3%83%99%E3%83%AB%E3%82%BF%E3%83%AB"
+  },
+  {
+   "term": "ふーみん",
+   "hours": 8,
+   "best_rank": 13,
+   "url": "https://x.com/search?q=%E3%81%B5%E3%83%BC%E3%81%BF%E3%82%93"
+  },
+  {
+   "term": "アジアツアー",
+   "hours": 8,
+   "best_rank": 13,
+   "url": "https://x.com/search?q=%E3%82%A2%E3%82%B8%E3%82%A2%E3%83%84%E3%82%A2%E3%83%BC"
+  },
+  {
+   "term": "Outlook",
+   "hours": 7,
+   "best_rank": 1,
+   "url": "https://x.com/search?q=Outlook"
+  },
+  {
+   "term": "オンパロス",
+   "hours": 7,
+   "best_rank": 1,
+   "url": "https://x.com/search?q=%E3%82%AA%E3%83%B3%E3%83%91%E3%83%AD%E3%82%B9"
+  },
+  {
+   "term": "東京ドーム公演記念",
+   "hours": 7,
+   "best_rank": 3,
+   "url": "https://x.com/search?q=%E6%9D%B1%E4%BA%AC%E3%83%89%E3%83%BC%E3%83%A0%E5%85%AC%E6%BC%94%E8%A8%98%E5%BF%B5"
+  },
+  {
+   "term": "焼き芋の日",
+   "hours": 7,
+   "best_rank": 7,
+   "url": "https://x.com/search?q=%E7%84%BC%E3%81%8D%E8%8A%8B%E3%81%AE%E6%97%A5"
+  },
+  {
+   "term": "ジェイソン",
+   "hours": 7,
+   "best_rank": 8,
+   "url": "https://x.com/search?q=%E3%82%B8%E3%82%A7%E3%82%A4%E3%82%BD%E3%83%B3"
+  },
+  {
+   "term": "キングラウザー",
+   "hours": 7,
+   "best_rank": 10,
+   "url": "https://x.com/search?q=%E3%82%AD%E3%83%B3%E3%82%B0%E3%83%A9%E3%82%A6%E3%82%B6%E3%83%BC"
+  },
+  {
+   "term": "ゼルネアス",
+   "hours": 7,
+   "best_rank": 11,
+   "url": "https://x.com/search?q=%E3%82%BC%E3%83%AB%E3%83%8D%E3%82%A2%E3%82%B9"
+  },
+  {
+   "term": "マチャド",
+   "hours": 7,
+   "best_rank": 19,
+   "url": "https://x.com/search?q=%E3%83%9E%E3%83%81%E3%83%A3%E3%83%89"
+  },
+  {
+   "term": "ふみよしさん",
+   "hours": 7,
+   "best_rank": 20,
+   "url": "https://x.com/search?q=%E3%81%B5%E3%81%BF%E3%82%88%E3%81%97%E3%81%95%E3%82%93"
+  },
+  {
+   "term": "ラポスタ引き落とし",
+   "hours": 7,
+   "best_rank": 21,
+   "url": "https://x.com/search?q=%E3%83%A9%E3%83%9D%E3%82%B9%E3%82%BF%E5%BC%95%E3%81%8D%E8%90%BD%E3%81%A8%E3%81%97"
+  },
+  {
+   "term": "第1757回",
+   "hours": 7,
+   "best_rank": 21,
+   "url": "https://x.com/search?q=%E7%AC%AC1757%E5%9B%9E"
+  }
+ ],
+ "hatena": [
+  {
+   "title": "戦争には反対だがあんたたちには同調したくないという話｜shv_12",
+   "url": "https://note.com/shv12/n/n1cf50c3c56f8",
+   "users": 184
+  },
+  {
+   "title": "マイクロソフトで接続障害が発生 世界各地に影響のおそれ | NHKニュース",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261113de75121",
+   "users": 158
+  },
+  {
+   "title": "低信用社会がどれだけしんどいか、中国に住んでる俺が教えてやる｜華村＠中国",
+   "url": "https://note.com/stwtcpld/n/n1fdcb68bfbc4",
+   "users": 437
+  },
+  {
+   "title": "自民 石破前首相 定数31削減法案“考え方としてどうか” | NHKニュース",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261112de75073",
+   "users": 84
+  },
+  {
+   "title": "高市首相、「大幅増税」に慎重　防衛費5年50兆～60兆円台案浮上 | 毎日新聞",
+   "url": "https://mainichi.jp/articles/20261112/k00/00m/010/277000c",
+   "users": 38
+  },
+  {
+   "title": "「30代でカバンにちいかわ人形付けるか、普通？」←「何歳でも人に迷惑かけてなければ良いよね」←コレ",
+   "url": "https://anond.hatelabo.jp/20261112050914",
+   "users": 217
+  },
+  {
+   "title": "「ドラムを叩かずに総理大臣ばかり叩く」田村淳　元伝説的バンドメンバーの「高市批判」に指摘も…本人は「叩いてなんぼ！」と貫くスタンス | 女性自身",
+   "url": "https://jisin.jp/entertainment/entertainment-news/2608808/",
+   "users": 49
+  },
+  {
+   "title": "マイクロソフト、「365」世界で大規模障害　メール送れずビジネスに影響 - 日本経済新聞",
+   "url": "https://www.nikkei.com/article/DGXZQOGN12CY20S6A111C2000000/",
+   "users": 101
+  },
+  {
+   "title": "「すっごくショック」ミセス “政府広報に起用”でネット物議…背景に「広報費360億円のナゾ」 | 女性自身",
+   "url": "https://jisin.jp/entertainment/entertainment-news/2609154/",
+   "users": 222
+  },
+  {
+   "title": "第22話 巡り逢うなら往きますか？ / レジスタ！ - 藤丸 | サンデーうぇぶり",
+   "url": "https://www.sunday-webry.com/episode/12207421984508893219",
+   "users": 36
+  },
+  {
+   "title": "AWSをローカルマシン上でエミュレートする、AWS公式の「AWSエミュレータ」正式リリース",
+   "url": "https://www.publickey1.jp/blog/26/awsawsaws_1.html",
+   "users": 40
+  },
+  {
+   "title": "GAMES NEVER DIE!",
+   "url": "https://gamesneverdie.com/ja",
+   "users": 201
+  },
+  {
+   "title": "20年前オーストラリアで一緒に演奏したミュージシャンから突然の便り…時代劇で良い笛が聴こえてきたから調べたとのこと「よくわかったなぁ、るろうに剣心の笛が僕だって」",
+   "url": "https://togetter.com/li/2769825",
+   "users": 31
+  },
+  {
+   "title": "レジスタを擁護してる中年男性って自分の娘や息子の彼女がバイト先でおぢアタックされても嫌じゃないの？",
+   "url": "https://anond.hatelabo.jp/20261112182831",
+   "users": 152
+  },
+  {
+   "title": "無謀な５万人来場想定の鳥取のグルメイベントになぜ出店してしまうのか。 - Everything you've ever Dreamed",
+   "url": "https://delete-all.hatenablog.com/entry/2026/11/13/001000",
+   "users": 26
+  },
+  {
+   "title": "気合い入れて食ったろって思って1キロからあげ弁当を注文したらこれ「かわいそう」「本来なら2330円なの怖すぎる」",
+   "url": "https://togetter.com/li/2769766",
+   "users": 82
+  },
+  {
+   "title": "インシデント調査報告書チェックリスト",
+   "url": "https://jpcertcc.github.io/ir_report_checklist/index.html",
+   "users": 24
+  },
+  {
+   "title": "会社でおじさんに「こち亀は連載が終わって10年だしグレンラガンは19年前」って言うと動揺するよ…え？グレンラガンってそんな前なの？",
+   "url": "https://togetter.com/li/2769152",
+   "users": 26
+  },
+  {
+   "title": "勤務先から21億円超横領か　元経理担当の43歳逮捕　さいたま地検 | 毎日新聞",
+   "url": "https://mainichi.jp/articles/20261112/k00/00m/040/258000c",
+   "users": 60
+  },
+  {
+   "title": "フェミニスト「評判いいからペルソナ5やってみたら教師による女子高校生の性的消費そのものの話があって呆然」",
+   "url": "https://posfie.com/@DamDam347/p/TVzu0HJ",
+   "users": 25
+  },
+  {
+   "title": "玉城デニーさんが語る米軍基地問題と沖縄知事の本質、そして今後 | 毎日新聞",
+   "url": "https://mainichi.jp/articles/20261111/k00/00m/010/300000c",
+   "users": 14
+  },
+  {
+   "title": "＜主張＞朝鮮学校への公金　実態調べ打ち切るべきだ　社説",
+   "url": "https://www.sankei.com/article/20261113-32HZGVYCXZOHXI6TZ3SVHYXU7A/",
+   "users": 28
+  },
+  {
+   "title": "Microsoft 365で大規模障害　「Outlook」でメールにアクセスできず、「Teams」など複数サービスに影響",
+   "url": "https://www.itmedia.co.jp/news/article/2611/13/2000003161/",
+   "users": 53
+  },
+  {
+   "title": "AIエージェントが決定を勝手に変えてしまった5つのパターンと工夫",
+   "url": "https://zenn.dev/dress_code/articles/568fd547315abe",
+   "users": 26
+  },
+  {
+   "title": "「安っぽい作りだな」映像Pも苦笑…「夫婦漫才」政府広報に集まる批判「むしろ逆効果」の演出方法とは | 女性自身",
+   "url": "https://jisin.jp/domestic/2607979/",
+   "users": 17
+  },
+  {
+   "title": "エヌビディアのフアンCEOが辞任　中国スパイ疑惑の女性と不倫、衝撃の転落",
+   "url": "https://www.cnn.co.jp/business/35254806.html",
+   "users": 35
+  },
+  {
+   "title": "そのヤバいDockerイメージをいつまで使うのか - keroxpのScrapbox",
+   "url": "https://scrapbox.io/keroxp/%E3%81%9D%E3%81%AE%E3%83%A4%E3%83%90%E3%81%84Docker%E3%82%A4%E3%83%A1%E3%83%BC%E3%82%B8%E3%82%92%E3%81%84%E3%81%A4%E3%81%BE%E3%81%A7%E4%BD%BF%E3%81%86%E3%81%AE%E3%81%8B",
+   "users": 231
+  },
+  {
+   "title": "『恋愛サーキュレーション』千石撫子（花澤香菜）｜『化物語』ノンクレジットOP映像",
+   "url": "https://www.youtube.com/watch?v=Y6Z1vKUguJE",
+   "users": 46
+  },
+  {
+   "title": "トーチweb ニーハオ、おいしい東京日和。 【9.秋雨と湖南料理】",
+   "url": "https://to-ti.in/story/nihao_9",
+   "users": 73
+  },
+  {
+   "title": "父が相談なく入院、病室に来たら差額3万円以上の個室だったことに大横転…「これ誰が払うの？」と尋ねると「自分で払う」と言い張った…真っ当ではない家庭では起こりえる",
+   "url": "https://togetter.com/li/2769685",
+   "users": 35
+  },
+  {
+   "title": "GitHub - tsukumijima/YacchoGPT: ヤッチョGPT: ヤオヨロ〜！雑談も調べ物も悩み相談もお任せあれ！✨",
+   "url": "https://github.com/tsukumijima/YacchoGPT",
+   "users": 21
+  },
+  {
+   "title": "あのこの冷蔵庫 特別読切｜ヤンジャン＋集英社公式・ジャンプ系青年マンガ誌アプリ",
+   "url": "https://ynjn.jp/title/41277",
+   "users": 86
+  },
+  {
+   "title": "トランプ氏、NVIDIAのCEO後任「アップルのクック会長しかいない」 - 日本経済新聞",
+   "url": "https://www.nikkei.com/article/DGXZQOGN12CLN0S6A111C2000000/",
+   "users": 29
+  },
+  {
+   "title": "レジスタ！騒動におけるN氏の主張の分析と考察｜カニスキー",
+   "url": "https://note.com/kanisuky/n/n2b6df74dd825",
+   "users": 6
+  },
+  {
+   "title": "Announcing Rust 1.100.0 | Rust Blog",
+   "url": "https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/",
+   "users": 22
+  },
+  {
+   "title": "ヘグセス国防長官、自身を叱責した衛兵に勲章授与「よくやった。続けてくれ」",
+   "url": "https://www.afpbb.com/articles/-/3662180",
+   "users": 12
+  },
+  {
+   "title": "共産・山添氏「死の商人国家」と主張　小泉防衛相「防衛産業で働く人々の前で言えるのか」",
+   "url": "https://www.sankei.com/article/20261112-A3WKKAV5WZDFPLTLSBSDA3RPPY/?outputType=asynd",
+   "users": 114
+  },
+  {
+   "title": "まがりなりの春 - 伊波日和 / 第２３話　新風、到来！ | コミックDAYS",
+   "url": "https://comic-days.com/episode/2551460909751738338",
+   "users": 6
+  },
+  {
+   "title": "エヌビディア フアンCEOが辞任 業界全体に影響も | NHKニュース",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261112de75078",
+   "users": 26
+  },
+  {
+   "title": "[第7話] アステカの廻天 - 高野レイ/楚歌まこと | となりのヤングジャンプ",
+   "url": "https://tonarinoyj.jp/episode/12207421984500066870",
+   "users": 5
+  }
+ ]
+}
