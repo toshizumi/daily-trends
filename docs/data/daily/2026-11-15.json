@@ -1,0 +1,521 @@
+{
+ "date": "2026-11-15",
+ "collected_at": "2026-11-15T09:53+09:00",
+ "errors": {},
+ "google": [
+  {
+   "term": "若隆景",
+   "traffic": "1000+",
+   "news_title": "",
+   "news_url": "",
+   "news_source": ""
+  },
+  {
+   "term": "城島茂",
+   "traffic": "500+",
+   "news_title": "次回の「ザ！鉄腕！DASH!!」は11月15日 2時間スペシャル！『巨大な和菓子の家は作れるか』『グリル厄介』",
+   "news_url": "https://www.ntv.co.jp/dash/articles/650m282ydm5u1u16ze.html",
+   "news_source": "日本テレビ"
+  },
+  {
+   "term": "米中関係",
+   "traffic": "200+",
+   "news_title": "米中戦争「最も可能性高い結末」 アリソン教授が語る、罠を逃れる道",
+   "news_url": "https://www.asahi.com/articles/ASVCF3PX7VCFUHBI019M.html",
+   "news_source": "朝日新聞"
+  },
+  {
+   "term": "国際エネルギー機関",
+   "traffic": "200+",
+   "news_title": "「アジア版」国際エネルギー機関の創設提唱へ、石油備蓄と緊急時の放出で連携…高市首相がＡＺＥＣ首脳会合で",
+   "news_url": "https://news.yahoo.co.jp/pickup/6602615",
+   "news_source": "Yahoo!ニュース"
+  },
+  {
+   "term": "黒田清子",
+   "traffic": "200+",
+   "news_title": "楽しいことが好きな兄妹 黒田清子さんを兄2人が泣かせた日 (2026年11月15日掲載)",
+   "news_url": "https://news.livedoor.com/topics/detail/32820824/",
+   "news_source": "ライブドアニュース"
+  },
+  {
+   "term": "超英雄祭 2027",
+   "traffic": "200+",
+   "news_title": "",
+   "news_url": "",
+   "news_source": ""
+  },
+  {
+   "term": "税収",
+   "traffic": "200+",
+   "news_title": "地方税収の地域間での偏在是正、12月の税制改正で決着なるか 国と都で、意見に隔たり",
+   "news_url": "https://www.sankei.com/article/20261114-FUY2WBMNJBK6PDYLNNPAU4OJVA/",
+   "news_source": "産経ニュース"
+  },
+  {
+   "term": "木梨憲武",
+   "traffic": "200+",
+   "news_title": "木梨憲武、年明けスポーツ特番の告知 相方・石橋貴明にも言及「野球盤は…」",
+   "news_url": "https://www.asahi.com/and/entertainment/17045317",
+   "news_source": "朝日新聞"
+  },
+  {
+   "term": "広池浩司",
+   "traffic": "200+",
+   "news_title": "慶大・広池浩成がヤンキースと契約へ 11月末に渡米し身体検査 昨年は常松がカブスと契約（スポニチアネックス）",
+   "news_url": "https://news.yahoo.co.jp/articles/922eb24c6e1472b998b4c253ec2840811ef0232b",
+   "news_source": "Yahoo!ニュース"
+  },
+  {
+   "term": "f1 鈴鹿",
+   "traffic": "100+",
+   "news_title": "返礼品にF1日本GPのプレミアムチケット 鈴鹿市のふるさと納税、15日から計8枚用意",
+   "news_url": "https://www.chunichi.co.jp/article/1339325",
+   "news_source": "中日新聞Web"
+  }
+ ],
+ "x": [
+  {
+   "term": "ブラジル",
+   "hours": 17,
+   "best_rank": 1,
+   "url": "https://x.com/search?q=%E3%83%96%E3%83%A9%E3%82%B8%E3%83%AB"
+  },
+  {
+   "term": "#ラブライブフェス_Day1",
+   "hours": 17,
+   "best_rank": 3,
+   "url": "https://x.com/search?q=%23%E3%83%A9%E3%83%96%E3%83%A9%E3%82%A4%E3%83%96%E3%83%95%E3%82%A7%E3%82%B9_Day1"
+  },
+  {
+   "term": "親善試合",
+   "hours": 17,
+   "best_rank": 4,
+   "url": "https://x.com/search?q=%E8%A6%AA%E5%96%84%E8%A9%A6%E5%90%88"
+  },
+  {
+   "term": "ヴィニシウス",
+   "hours": 16,
+   "best_rank": 3,
+   "url": "https://x.com/search?q=%E3%83%B4%E3%82%A3%E3%83%8B%E3%82%B7%E3%82%A6%E3%82%B9"
+  },
+  {
+   "term": "ユメノトビラ",
+   "hours": 16,
+   "best_rank": 11,
+   "url": "https://x.com/search?q=%E3%83%A6%E3%83%A1%E3%83%8E%E3%83%88%E3%83%93%E3%83%A9"
+  },
+  {
+   "term": "アンチェロッティ",
+   "hours": 15,
+   "best_rank": 4,
+   "url": "https://x.com/search?q=%E3%82%A2%E3%83%B3%E3%83%81%E3%82%A7%E3%83%AD%E3%83%83%E3%83%86%E3%82%A3"
+  },
+  {
+   "term": "サニソン",
+   "hours": 14,
+   "best_rank": 8,
+   "url": "https://x.com/search?q=%E3%82%B5%E3%83%8B%E3%82%BD%E3%83%B3"
+  },
+  {
+   "term": "キンメガスラノッブ",
+   "hours": 14,
+   "best_rank": 9,
+   "url": "https://x.com/search?q=%E3%82%AD%E3%83%B3%E3%83%A1%E3%82%AC%E3%82%B9%E3%83%A9%E3%83%8E%E3%83%83%E3%83%96"
+  },
+  {
+   "term": "Aqours",
+   "hours": 14,
+   "best_rank": 14,
+   "url": "https://x.com/search?q=Aqours"
+  },
+  {
+   "term": "#SixTONESANN",
+   "hours": 13,
+   "best_rank": 1,
+   "url": "https://x.com/search?q=%23SixTONESANN"
+  },
+  {
+   "term": "SUNNY DAY SONG",
+   "hours": 13,
+   "best_rank": 17,
+   "url": "https://x.com/search?q=SUNNY%20DAY%20SONG"
+  },
+  {
+   "term": "プレミアムパス特典",
+   "hours": 13,
+   "best_rank": 18,
+   "url": "https://x.com/search?q=%E3%83%97%E3%83%AC%E3%83%9F%E3%82%A2%E3%83%A0%E3%83%91%E3%82%B9%E7%89%B9%E5%85%B8"
+  },
+  {
+   "term": "ガシャ開催期間ごと",
+   "hours": 13,
+   "best_rank": 19,
+   "url": "https://x.com/search?q=%E3%82%AC%E3%82%B7%E3%83%A3%E9%96%8B%E5%82%AC%E6%9C%9F%E9%96%93%E3%81%94%E3%81%A8"
+  },
+  {
+   "term": "初回10連無料",
+   "hours": 13,
+   "best_rank": 20,
+   "url": "https://x.com/search?q=%E5%88%9D%E5%9B%9E10%E9%80%A3%E7%84%A1%E6%96%99"
+  },
+  {
+   "term": "ファール",
+   "hours": 12,
+   "best_rank": 14,
+   "url": "https://x.com/search?q=%E3%83%95%E3%82%A1%E3%83%BC%E3%83%AB"
+  },
+  {
+   "term": "私の担当ナース",
+   "hours": 12,
+   "best_rank": 16,
+   "url": "https://x.com/search?q=%E7%A7%81%E3%81%AE%E6%8B%85%E5%BD%93%E3%83%8A%E3%83%BC%E3%82%B9"
+  },
+  {
+   "term": "金ノッブ",
+   "hours": 12,
+   "best_rank": 23,
+   "url": "https://x.com/search?q=%E9%87%91%E3%83%8E%E3%83%83%E3%83%96"
+  },
+  {
+   "term": "スクールアイドル",
+   "hours": 12,
+   "best_rank": 25,
+   "url": "https://x.com/search?q=%E3%82%B9%E3%82%AF%E3%83%BC%E3%83%AB%E3%82%A2%E3%82%A4%E3%83%89%E3%83%AB"
+  },
+  {
+   "term": "きょもじゅり",
+   "hours": 11,
+   "best_rank": 5,
+   "url": "https://x.com/search?q=%E3%81%8D%E3%82%87%E3%82%82%E3%81%98%E3%82%85%E3%82%8A"
+  },
+  {
+   "term": "レッドカード",
+   "hours": 11,
+   "best_rank": 10,
+   "url": "https://x.com/search?q=%E3%83%AC%E3%83%83%E3%83%89%E3%82%AB%E3%83%BC%E3%83%89"
+  },
+  {
+   "term": "ワールドカップ",
+   "hours": 11,
+   "best_rank": 14,
+   "url": "https://x.com/search?q=%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%E3%82%AB%E3%83%83%E3%83%97"
+  },
+  {
+   "term": "Liella",
+   "hours": 11,
+   "best_rank": 15,
+   "url": "https://x.com/search?q=Liella"
+  },
+  {
+   "term": "月夜見海月",
+   "hours": 11,
+   "best_rank": 20,
+   "url": "https://x.com/search?q=%E6%9C%88%E5%A4%9C%E8%A6%8B%E6%B5%B7%E6%9C%88"
+  },
+  {
+   "term": "ひっさつマイマイモード",
+   "hours": 11,
+   "best_rank": 24,
+   "url": "https://x.com/search?q=%E3%81%B2%E3%81%A3%E3%81%95%E3%81%A4%E3%83%9E%E3%82%A4%E3%83%9E%E3%82%A4%E3%83%A2%E3%83%BC%E3%83%89"
+  },
+  {
+   "term": "ディス子姐さん",
+   "hours": 11,
+   "best_rank": 31,
+   "url": "https://x.com/search?q=%E3%83%87%E3%82%A3%E3%82%B9%E5%AD%90%E5%A7%90%E3%81%95%E3%82%93"
+  },
+  {
+   "term": "パイナポーチーフ",
+   "hours": 10,
+   "best_rank": 8,
+   "url": "https://x.com/search?q=%E3%83%91%E3%82%A4%E3%83%8A%E3%83%9D%E3%83%BC%E3%83%81%E3%83%BC%E3%83%95"
+  },
+  {
+   "term": "ラミィちゃん",
+   "hours": 10,
+   "best_rank": 11,
+   "url": "https://x.com/search?q=%E3%83%A9%E3%83%9F%E3%82%A3%E3%81%A1%E3%82%83%E3%82%93"
+  },
+  {
+   "term": "Worlds",
+   "hours": 9,
+   "best_rank": 5,
+   "url": "https://x.com/search?q=Worlds"
+  },
+  {
+   "term": "エンドリッキ",
+   "hours": 9,
+   "best_rank": 9,
+   "url": "https://x.com/search?q=%E3%82%A8%E3%83%B3%E3%83%89%E3%83%AA%E3%83%83%E3%82%AD"
+  },
+  {
+   "term": "ラフィーニャ",
+   "hours": 9,
+   "best_rank": 10,
+   "url": "https://x.com/search?q=%E3%83%A9%E3%83%95%E3%82%A3%E3%83%BC%E3%83%8B%E3%83%A3"
+  },
+  {
+   "term": "GenG",
+   "hours": 8,
+   "best_rank": 1,
+   "url": "https://x.com/search?q=GenG"
+  },
+  {
+   "term": "#サッカー日本代表",
+   "hours": 8,
+   "best_rank": 2,
+   "url": "https://x.com/search?q=%23%E3%82%B5%E3%83%83%E3%82%AB%E3%83%BC%E6%97%A5%E6%9C%AC%E4%BB%A3%E8%A1%A8"
+  },
+  {
+   "term": "Ruler",
+   "hours": 8,
+   "best_rank": 4,
+   "url": "https://x.com/search?q=Ruler"
+  },
+  {
+   "term": "Chovy",
+   "hours": 8,
+   "best_rank": 7,
+   "url": "https://x.com/search?q=Chovy"
+  },
+  {
+   "term": "スクラッチ",
+   "hours": 8,
+   "best_rank": 8,
+   "url": "https://x.com/search?q=%E3%82%B9%E3%82%AF%E3%83%A9%E3%83%83%E3%83%81"
+  },
+  {
+   "term": "イングランド",
+   "hours": 8,
+   "best_rank": 11,
+   "url": "https://x.com/search?q=%E3%82%A4%E3%83%B3%E3%82%B0%E3%83%A9%E3%83%B3%E3%83%89"
+  },
+  {
+   "term": "ウェールズ",
+   "hours": 8,
+   "best_rank": 16,
+   "url": "https://x.com/search?q=%E3%82%A6%E3%82%A7%E3%83%BC%E3%83%AB%E3%82%BA"
+  },
+  {
+   "term": "皿のきれいさ",
+   "hours": 8,
+   "best_rank": 17,
+   "url": "https://x.com/search?q=%E7%9A%BF%E3%81%AE%E3%81%8D%E3%82%8C%E3%81%84%E3%81%95"
+  },
+  {
+   "term": "あずきち8周年",
+   "hours": 8,
+   "best_rank": 22,
+   "url": "https://x.com/search?q=%E3%81%82%E3%81%9A%E3%81%8D%E3%81%A18%E5%91%A8%E5%B9%B4"
+  },
+  {
+   "term": "第1759回",
+   "hours": 8,
+   "best_rank": 39,
+   "url": "https://x.com/search?q=%E7%AC%AC1759%E5%9B%9E"
+  }
+ ],
+ "hatena": [
+  {
+   "title": "常時稼働エージェントの作り方（Claude公式ブログを資料化）",
+   "url": "https://speakerdeck.com/minorun365/jouji-kadou-ejento-no-tsukurikata",
+   "users": 133
+  },
+  {
+   "title": "Building always-on agents",
+   "url": "https://claude.com/resources/articles/building-always-on-agents",
+   "users": 96
+  },
+  {
+   "title": "「哲学ってなんなの？ ムダじゃない？」 哲学者に話を聞いてきた - イーアイデム「ジモコロ」",
+   "url": "https://www.e-aidem.com/ch/jimocoro/entry/osore02/",
+   "users": 184
+  },
+  {
+   "title": "わずか4人の造反に自民党内がピリピリ…石破茂と小渕優子があぶり出した｢高市1強｣のほころび",
+   "url": "https://president.jp/articles/-/122183",
+   "users": 47
+  },
+  {
+   "title": "米国、NATO加盟と引き換えに領土割譲を提案 ゼレンスキー氏",
+   "url": "https://www.afpbb.com/articles/-/3662399",
+   "users": 28
+  },
+  {
+   "title": "「出産直後の妻の朝食を、旦那が食べ尽くした」→Xで食い尽くし系問題が再燃、「非常識だと責めるだけでは解決しない」という意見に議論広がる",
+   "url": "https://togetter.com/li/2770431",
+   "users": 256
+  },
+  {
+   "title": "夢グループ、20代からすると「これ買う人いるん？」くらいの認識だけど、おばあちゃんがCMを見た途端「電話して！」と即購入→そこからの顧客を取り込む導線がマジで凄い",
+   "url": "https://togetter.com/li/2770529",
+   "users": 79
+  },
+  {
+   "title": "沖縄知事選の関連動画、兵庫知事選でも発信のアカウントが推計収益の6割独占　宮城でも活動",
+   "url": "https://www.kobe-np.co.jp/news/society/202611/0021030732.shtml",
+   "users": 79
+  },
+  {
+   "title": "[1話]ファンタズマリリィ - 岡山のごみ/沢北下 | 少年ジャンプ＋",
+   "url": "https://shonenjumpplus.com/episode/9253191257737711313",
+   "users": 126
+  },
+  {
+   "title": "バカの家計管理してる",
+   "url": "https://anond.hatelabo.jp/20261114101649",
+   "users": 103
+  },
+  {
+   "title": "大川原冤罪で長期拘束認めた裁判所、避ける検証　訴訟で責任問う遺族：朝日新聞",
+   "url": "https://www.asahi.com/articles/ASVC662TDVC6UPQJ00WM.html",
+   "users": 54
+  },
+  {
+   "title": "@RyuichiYoneyama のポスト on Xアメリカ中間選挙の民主党の勝利が敵失なのはその通りでしょうが、今迄嬉々として「リベラルは何故嫌われるか」を語っていた「識者」の方々は、流石に「保守は何故負けたのか」ー例えば①何でもリベラル・外国人のせいで悪口ばかり②経済政策がご都合主義的で相当に不合理ーを語るべきじゃないですかね",
+   "url": "https://x.com/RyuichiYoneyama/status/2118146813412966555",
+   "users": 19
+  },
+  {
+   "title": "貧乏人向けの金貸しと、Appleの取り立てテクノロジー » p2ptk[.]org",
+   "url": "https://p2ptk.org/monopoly/5681",
+   "users": 14
+  },
+  {
+   "title": "体系的に学ぶ 安全なWebアプリケーションの作り方 第3版 徳丸 浩(著) - ＳＢクリエイティブ",
+   "url": "https://www.hanmoto.com/bd/isbn/9784815631338",
+   "users": 15
+  },
+  {
+   "title": "Xアカウント「概念」の投稿と、私と娘に起きたこと約2年間の記録と事実（前編）｜イモンヌ",
+   "url": "https://note.com/imonnu/n/n8d16ecdb60b7",
+   "users": 17
+  },
+  {
+   "title": "ブルーアーカイブ ゲーム開発部だいぼうけん! 43話(原作／ブルーアーカイブ　漫画／水あさと) | ガンガンONLINE",
+   "url": "https://www.ganganonline.com/title/1851/chapter/134537",
+   "users": 20
+  },
+  {
+   "title": "ユニクロのレディースを着てもしっくりこないという人は、思い切ってメンズの方を試してみてほしい「自分はタートルネックニットが似合わない…という悩みが解消された」",
+   "url": "https://togetter.com/li/2770487",
+   "users": 40
+  },
+  {
+   "title": "フェミニズムが社会に浸透した結果",
+   "url": "https://anond.hatelabo.jp/20261114231126",
+   "users": 63
+  },
+  {
+   "title": "戦争反対界隈、「先制攻撃を始める前提に自衛隊は成り立ってる」という小泉防衛相の発言捏造を始める。",
+   "url": "https://posfie.com/@any_k_tg/p/f0gZrzm",
+   "users": 54
+  },
+  {
+   "title": "AI悪用の攻撃拠点、千台発見　サイトの弱点探索、不正侵入疑い",
+   "url": "https://www.47news.jp/15231027.html",
+   "users": 31
+  },
+  {
+   "title": "BLのセックスシーンは尊いだけで卑猥ではないんだよね",
+   "url": "https://anond.hatelabo.jp/20261114235117",
+   "users": 18
+  },
+  {
+   "title": "第77回紅白歌合戦の出場歌手のこと - WASTE OF POPS 80s-90s",
+   "url": "https://www.wasteofpops.com/entry/2026/11/14/000000",
+   "users": 57
+  },
+  {
+   "title": "AIについての追記",
+   "url": "https://www.ms.u-tokyo.ac.jp/~konno/grad_ai.html",
+   "users": 88
+  },
+  {
+   "title": "「ラヴ上等」出演の「あっすん」を逮捕　無許可風俗営業容疑　名古屋：朝日新聞",
+   "url": "https://www.asahi.com/articles/ASVCG366TVCGOIPE001M.html",
+   "users": 27
+  },
+  {
+   "title": "【国際親善試合】日本がブラジルにW杯のリベンジ達成！2点差を追いつかれるも後半ATに坂元が値千金の勝ち越し弾 - ドメサカブログ",
+   "url": "https://blog.domesoccer.jp/archives/60255528.html",
+   "users": 15
+  },
+  {
+   "title": "『無知のグルメ』いそべあげ回に出てきた靴紐みたいな食感の食べ物がなにかすごく気になる…干し豆腐の可能性は高いか",
+   "url": "https://togetter.com/li/2770556",
+   "users": 22
+  },
+  {
+   "title": "マネジメントされる側の仕事は「文句」を言うこと",
+   "url": "https://speakerdeck.com/riyaamemiya/slides-export-013b776f-8661-4e92-bac0-1ac4285999f9",
+   "users": 132
+  },
+  {
+   "title": "豊臣兄弟、登場人物がいちいち現代人みたいに葛藤するから見ていてイライ..",
+   "url": "https://anond.hatelabo.jp/20261114133215",
+   "users": 151
+  },
+  {
+   "title": "「二度と造れない車両」　新観光列車「赤い星」公開、ラウンジや畳敷き茶室も　JR北海道",
+   "url": "https://www.sankei.com/article/20261114-MBDYXQK3QZK5BPHZTMY6R75TGE/",
+   "users": 13
+  },
+  {
+   "title": "AIで膨らみ続けるテストケースを、リスクベースドテストで選んで回すまでの記録",
+   "url": "https://zenn.dev/pivotmedia/articles/risk-based-testing-for-uat",
+   "users": 19
+  },
+  {
+   "title": "AMD公式「どん底のときに誰がそばにいたか忘れないで」―ゲーマーにアピールするも、CEOの「データセンター・ファースト」発言に対するツッコミ相次ぐ | Game*Spark - 国内・海外ゲーム情報サイト",
+   "url": "https://www.gamespark.jp/article/2026/11/14/174876.html",
+   "users": 8
+  },
+  {
+   "title": "GitHub - libracoder/kiri: A small, fast container runtime for macOS, Windows and Linux",
+   "url": "https://github.com/libracoder/kiri",
+   "users": 14
+  },
+  {
+   "title": "AIチームを率いるとは、どういうこと？ with プログラマー・起業家 amachang Part1 | The Update",
+   "url": "https://theupdate.coffee/episodes/0J7UP7922ZXV6NBTt7w9Jl/",
+   "users": 130
+  },
+  {
+   "title": "たかが創作物に「イヤァァァッ！無理ィィィッ！タスケテェェェッ！」ってなるのがわからない",
+   "url": "https://anond.hatelabo.jp/20261113133512",
+   "users": 24
+  },
+  {
+   "title": "2028アメリカ大統領選挙：ろくな候補者がいないんだが……｜女子大生起業家",
+   "url": "https://note.com/seanky/n/n931f0f83030e",
+   "users": 33
+  },
+  {
+   "title": "デスクトップアプリを自動操作できるAUVが良さげかも | kawarimidoll.com",
+   "url": "https://kawarimidoll.com/posts/202610182/",
+   "users": 4
+  },
+  {
+   "title": "「すげぇ！教科書とかで見たフロッピーや！！これで容量どれくらいあるんですか？」若者のほのぼのとした感想がぶっ刺さるネット民",
+   "url": "https://togetter.com/li/2770437",
+   "users": 73
+  },
+  {
+   "title": "とんかつを切らずに食べる",
+   "url": "https://dailyportalz.jp/kiji/tonkatsu-kiranai",
+   "users": 85
+  },
+  {
+   "title": "農地がホテルや住宅に変わる　312市町村で1割超消失、細る食料基盤 - 日本経済新聞",
+   "url": "https://www.nikkei.com/article/DGXZQOUE216VA0R21C26A0000000/",
+   "users": 22
+  },
+  {
+   "title": "廣井きくりの深酒日記　ぼっち・ざ・ろっく！外伝 66話",
+   "url": "https://comic-fuz.com/manga/viewer/81838",
+   "users": 23
+  }
+ ]
+}
