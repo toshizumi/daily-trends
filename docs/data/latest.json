@@ -1,529 +1,530 @@
 {
- "generated_at": "2026-11-20T11:08+09:00",
+ "generated_at": "2026-11-21T11:01+09:00",
  "today": {
-  "date": "2026-11-20",
-  "collected_at": "2026-11-20T11:08+09:00",
+  "date": "2026-11-21",
+  "collected_at": "2026-11-21T11:01+09:00",
   "errors": {},
   "google": [
    {
-    "term": "マグニチュード",
-    "traffic": "5000+",
-    "news_title": "【速報】水俣市など震度2（熊本日日新聞）",
-    "news_url": "https://news.yahoo.co.jp/articles/5e528b47f8034a7c9974d7e0ac236cde20e35f30",
+    "term": "丸亀製麺",
+    "traffic": "2000+",
+    "news_title": "【きょう実施】丸亀製麺、創業26周年感謝祭の「釜揚げうどん」半額企画 いよいよラストチャンス！並は190円に（Lmaga.jp）",
+    "news_url": "https://news.yahoo.co.jp/articles/842433a12fa8a7045bc35b9ff4bc06b252b9e729",
     "news_source": "Yahoo!ニュース"
    },
    {
-    "term": "金子ノブアキ",
-    "traffic": "1000+",
-    "news_title": "金子ノブアキ 薬物逮捕ジェシー容疑者とは正反対の〝潔癖ぶり〟 ささくれで病院直行も（東スポWEB）",
-    "news_url": "https://news.yahoo.co.jp/articles/2a4c154a17a5965ebbd974cc781f45431dcb2254",
+    "term": "戸田競艇",
+    "traffic": "500+",
+    "news_title": "",
+    "news_url": "",
+    "news_source": ""
+   },
+   {
+    "term": "大韓民国",
+    "traffic": "500+",
+    "news_title": "戦勝が切実な「マズルズ号」が大きな危機を迎えた。 核心戦力7人が負傷で交替されたのだ。",
+    "news_url": "https://www.mk.co.kr/jp/sports/12214792",
+    "news_source": "매일경제"
+   },
+   {
+    "term": "伊藤大海",
+    "traffic": "500+",
+    "news_title": "伊藤大海の“代名詞”がMLB挑戦ではまさかの落とし穴に？「懸念材料の一つだ」と米放送局が警告したのは…一方で「制球力とイニング消化能力」には期待（THE DIGEST）",
+    "news_url": "https://news.yahoo.co.jp/articles/f3c8a0a78eaf81466b4824eefc8d6940232fea99",
     "news_source": "Yahoo!ニュース"
    },
    {
-    "term": "暴力団",
+    "term": "ブルズ 対 ウィザーズ",
     "traffic": "200+",
-    "news_title": "男性を暴行し車のトランクに監禁…現金など奪った強盗傷害などの疑いで暴力団組員の男ら6人を逮捕 グループ内で金銭トラブルか 名古屋（CBCテレビ）",
-    "news_url": "https://news.yahoo.co.jp/articles/d75694aa33c093532f54b5fb440c4e2f98791b0b",
+    "news_title": "Wizards at Bulls Discussion",
+    "news_url": "https://sports.yahoo.com/articles/wizards-bulls-discussion-233000673.html",
+    "news_source": "Yahoo Sports"
+   },
+   {
+    "term": "明治神宮大会",
+    "traffic": "200+",
+    "news_title": "横浜－仙台育英戦で珍事 横浜が１イニング２度のビデオ検証要求 ２度目で判定覆らず 追加点阻止の須江監督がこん身ガッツポーズ（デイリースポーツ）",
+    "news_url": "https://news.yahoo.co.jp/articles/fa2726917a9cb22a3676045a87c16463a0e26c67",
     "news_source": "Yahoo!ニュース"
    },
    {
-    "term": "簗和生",
-    "traffic": "200+",
-    "news_title": "簗和生・前農相が呼び出したのは事務方ナンバー3…「軽微な事案」の説明とは裏腹に国交省中枢で情報共有",
-    "news_url": "https://www.tokyo-np.co.jp/article/529288",
-    "news_source": "東京新聞"
-   },
-   {
-    "term": "ミリオネア",
-    "traffic": "200+",
-    "news_title": "頭脳も一流…クイズ＄ミリオネアで1000万円を獲った俳優（3）元首相の息子がまさかの快挙…伝説の名勝負（映画チャンネル）",
-    "news_url": "https://news.yahoo.co.jp/articles/ba40338345f8c40b816c61fffba5c9bdabffdbf6",
-    "news_source": "Yahoo!ニュース"
-   },
-   {
-    "term": "ピート・ローズ",
-    "traffic": "200+",
-    "news_title": "トランプ氏、故ピート・ローズ氏に死後恩赦 野球賭博で大リーグを永久追放",
-    "news_url": "https://news.yahoo.co.jp/pickup/6603240",
-    "news_source": "Yahoo!ニュース"
-   },
-   {
-    "term": "クリミア半島",
-    "traffic": "200+",
-    "news_title": "露 クリミア橋攻撃受け報復宣言",
-    "news_url": "https://news.yahoo.co.jp/pickup/6603235",
-    "news_source": "Yahoo!ニュース"
-   },
-   {
-    "term": "航空自衛隊 岐阜基地",
+    "term": "ケンミンショー 大阪",
     "traffic": "100+",
-    "news_title": "物価高対策で１万円分のギフトカード配布 岐阜県内の一部の子ども対象",
-    "news_url": "https://www.gifu-np.co.jp/articles/-/801114",
-    "news_source": "岐阜新聞デジタル"
+    "news_title": "",
+    "news_url": "",
+    "news_source": ""
    },
    {
-    "term": "抹茶ティラミスフラペチーノ",
+    "term": "七曲り",
     "traffic": "100+",
-    "news_title": "【きょうから】「またヤバいのきた」スタバ新作に“ティラミス”、抹茶×マスカルポーネなど2種が登場",
-    "news_url": "https://www.lmaga.jp/news/2026/11/1121790/",
-    "news_source": "Lmaga.jp"
+    "news_title": "「七曲り」でトラックの単独事故 復旧めど立たず【長野】（abn長野朝日放送）",
+    "news_url": "https://news.yahoo.co.jp/articles/ed619b2f803d8cd6996c0260b05f0ca5ad78a066",
+    "news_source": "Yahoo!ニュース"
    },
    {
-    "term": "カイロス",
+    "term": "visa",
     "traffic": "100+",
-    "news_title": "カイロスロケット4号機 来年1月打ち上げへ 和歌山の発射場から",
-    "news_url": "https://news.web.nhk/newsweb/na/nd-20261120de78731",
-    "news_source": "NHKニュース"
+    "news_title": "Visa, Mastercard and JPMorgan Customer Data Leaked by Hackers",
+    "news_url": "https://www.wsj.com/finance/banking/visa-mastercard-and-jpmorgan-customer-data-leaked-by-hackers-3b5a0f87",
+    "news_source": "WSJ"
+   },
+   {
+    "term": "ロイス・ルイス",
+    "traffic": "100+",
+    "news_title": "土曜8時前に衝撃ニュース「えー涙涙涙涙」 ついに来た別れ…去就にファン動揺「出されるのか」（Full-Count）",
+    "news_url": "https://news.yahoo.co.jp/articles/48d17c89ce87159c60e5a0e47f06883c9225f1b2",
+    "news_source": "Yahoo!ニュース"
    }
   ],
   "x": [
    {
-    "term": "平和宣言",
-    "hours": 20,
-    "best_rank": 1,
-    "url": "https://x.com/search?q=%E5%B9%B3%E5%92%8C%E5%AE%A3%E8%A8%80"
-   },
-   {
-    "term": "アンソロピック",
-    "hours": 20,
-    "best_rank": 2,
-    "url": "https://x.com/search?q=%E3%82%A2%E3%83%B3%E3%82%BD%E3%83%AD%E3%83%94%E3%83%83%E3%82%AF"
-   },
-   {
-    "term": "念の強さ",
-    "hours": 18,
-    "best_rank": 2,
-    "url": "https://x.com/search?q=%E5%BF%B5%E3%81%AE%E5%BC%B7%E3%81%95"
-   },
-   {
-    "term": "WIXOSS",
+    "term": "ボトムズ",
     "hours": 17,
-    "best_rank": 2,
-    "url": "https://x.com/search?q=WIXOSS"
+    "best_rank": 9,
+    "url": "https://x.com/search?q=%E3%83%9C%E3%83%88%E3%83%A0%E3%82%BA"
    },
    {
-    "term": "ウィクロス",
+    "term": "優秀作品賞",
     "hours": 16,
     "best_rank": 1,
-    "url": "https://x.com/search?q=%E3%82%A6%E3%82%A3%E3%82%AF%E3%83%AD%E3%82%B9"
-   },
-   {
-    "term": "伴天連怪談",
-    "hours": 15,
-    "best_rank": 7,
-    "url": "https://x.com/search?q=%E4%BC%B4%E5%A4%A9%E9%80%A3%E6%80%AA%E8%AB%87"
-   },
-   {
-    "term": "緊急メンテ",
-    "hours": 14,
-    "best_rank": 7,
-    "url": "https://x.com/search?q=%E7%B7%8A%E6%80%A5%E3%83%A1%E3%83%B3%E3%83%86"
-   },
-   {
-    "term": "あなたの顔",
-    "hours": 14,
-    "best_rank": 12,
-    "url": "https://x.com/search?q=%E3%81%82%E3%81%AA%E3%81%9F%E3%81%AE%E9%A1%94"
-   },
-   {
-    "term": "報告徴求命令",
-    "hours": 13,
-    "best_rank": 17,
-    "url": "https://x.com/search?q=%E5%A0%B1%E5%91%8A%E5%BE%B4%E6%B1%82%E5%91%BD%E4%BB%A4"
-   },
-   {
-    "term": "校長先生スナイパー",
-    "hours": 12,
-    "best_rank": 7,
-    "url": "https://x.com/search?q=%E6%A0%A1%E9%95%B7%E5%85%88%E7%94%9F%E3%82%B9%E3%83%8A%E3%82%A4%E3%83%91%E3%83%BC"
-   },
-   {
-    "term": "ボジョレー",
-    "hours": 12,
-    "best_rank": 12,
-    "url": "https://x.com/search?q=%E3%83%9C%E3%82%B8%E3%83%A7%E3%83%AC%E3%83%BC"
-   },
-   {
-    "term": "ピザの日",
-    "hours": 11,
-    "best_rank": 1,
-    "url": "https://x.com/search?q=%E3%83%94%E3%82%B6%E3%81%AE%E6%97%A5"
-   },
-   {
-    "term": "米中ロ首脳",
-    "hours": 11,
-    "best_rank": 8,
-    "url": "https://x.com/search?q=%E7%B1%B3%E4%B8%AD%E3%83%AD%E9%A6%96%E8%84%B3"
-   },
-   {
-    "term": "エアライダー1周年",
-    "hours": 11,
-    "best_rank": 9,
-    "url": "https://x.com/search?q=%E3%82%A8%E3%82%A2%E3%83%A9%E3%82%A4%E3%83%80%E3%83%BC1%E5%91%A8%E5%B9%B4"
-   },
-   {
-    "term": "Love Myself",
-    "hours": 11,
-    "best_rank": 14,
-    "url": "https://x.com/search?q=Love%20Myself"
-   },
-   {
-    "term": "#レコメン",
-    "hours": 10,
-    "best_rank": 1,
-    "url": "https://x.com/search?q=%23%E3%83%AC%E3%82%B3%E3%83%A1%E3%83%B3"
-   },
-   {
-    "term": "最速上映",
-    "hours": 10,
-    "best_rank": 7,
-    "url": "https://x.com/search?q=%E6%9C%80%E9%80%9F%E4%B8%8A%E6%98%A0"
-   },
-   {
-    "term": "ブルライ",
-    "hours": 10,
-    "best_rank": 9,
-    "url": "https://x.com/search?q=%E3%83%96%E3%83%AB%E3%83%A9%E3%82%A4"
-   },
-   {
-    "term": "メンテナンス",
-    "hours": 10,
-    "best_rank": 11,
-    "url": "https://x.com/search?q=%E3%83%A1%E3%83%B3%E3%83%86%E3%83%8A%E3%83%B3%E3%82%B9"
-   },
-   {
-    "term": "第十八話",
-    "hours": 10,
-    "best_rank": 12,
-    "url": "https://x.com/search?q=%E7%AC%AC%E5%8D%81%E5%85%AB%E8%A9%B1"
-   },
-   {
-    "term": "第1764回",
-    "hours": 10,
-    "best_rank": 15,
-    "url": "https://x.com/search?q=%E7%AC%AC1764%E5%9B%9E"
-   },
-   {
-    "term": "パブりん",
-    "hours": 10,
-    "best_rank": 19,
-    "url": "https://x.com/search?q=%E3%83%91%E3%83%96%E3%82%8A%E3%82%93"
-   },
-   {
-    "term": "あなたの所属",
-    "hours": 10,
-    "best_rank": 19,
-    "url": "https://x.com/search?q=%E3%81%82%E3%81%AA%E3%81%9F%E3%81%AE%E6%89%80%E5%B1%9E"
-   },
-   {
-    "term": "愛の重さ診断",
-    "hours": 9,
-    "best_rank": 10,
-    "url": "https://x.com/search?q=%E6%84%9B%E3%81%AE%E9%87%8D%E3%81%95%E8%A8%BA%E6%96%AD"
-   },
-   {
-    "term": "関チーム",
-    "hours": 9,
-    "best_rank": 11,
-    "url": "https://x.com/search?q=%E9%96%A2%E3%83%81%E3%83%BC%E3%83%A0"
-   },
-   {
-    "term": "レギュラー入り",
-    "hours": 9,
-    "best_rank": 13,
-    "url": "https://x.com/search?q=%E3%83%AC%E3%82%AE%E3%83%A5%E3%83%A9%E3%83%BC%E5%85%A5%E3%82%8A"
-   },
-   {
-    "term": "電話会談",
-    "hours": 8,
-    "best_rank": 20,
-    "url": "https://x.com/search?q=%E9%9B%BB%E8%A9%B1%E4%BC%9A%E8%AB%87"
-   },
-   {
-    "term": "ラウール",
-    "hours": 8,
-    "best_rank": 24,
-    "url": "https://x.com/search?q=%E3%83%A9%E3%82%A6%E3%83%BC%E3%83%AB"
-   },
-   {
-    "term": "儀礼上の手配",
-    "hours": 8,
-    "best_rank": 26,
-    "url": "https://x.com/search?q=%E5%84%80%E7%A4%BC%E4%B8%8A%E3%81%AE%E6%89%8B%E9%85%8D"
-   },
-   {
-    "term": "レギュラー化",
-    "hours": 8,
-    "best_rank": 26,
-    "url": "https://x.com/search?q=%E3%83%AC%E3%82%AE%E3%83%A5%E3%83%A9%E3%83%BC%E5%8C%96"
-   },
-   {
-    "term": "なゆーき",
-    "hours": 8,
-    "best_rank": 40,
-    "url": "https://x.com/search?q=%E3%81%AA%E3%82%86%E3%83%BC%E3%81%8D"
-   },
-   {
-    "term": "#ファミ通GTA6プレゼント",
-    "hours": 7,
-    "best_rank": 1,
-    "url": "https://x.com/search?q=%23%E3%83%95%E3%82%A1%E3%83%9F%E9%80%9AGTA6%E3%83%97%E3%83%AC%E3%82%BC%E3%83%B3%E3%83%88"
-   },
-   {
-    "term": "#水見式",
-    "hours": 7,
-    "best_rank": 1,
-    "url": "https://x.com/search?q=%23%E6%B0%B4%E8%A6%8B%E5%BC%8F"
-   },
-   {
-    "term": "世界こどもの日",
-    "hours": 7,
-    "best_rank": 4,
-    "url": "https://x.com/search?q=%E4%B8%96%E7%95%8C%E3%81%93%E3%81%A9%E3%82%82%E3%81%AE%E6%97%A5"
-   },
-   {
-    "term": "ブルーシャワー",
-    "hours": 7,
-    "best_rank": 8,
-    "url": "https://x.com/search?q=%E3%83%96%E3%83%AB%E3%83%BC%E3%82%B7%E3%83%A3%E3%83%AF%E3%83%BC"
+    "url": "https://x.com/search?q=%E5%84%AA%E7%A7%80%E4%BD%9C%E5%93%81%E8%B3%9E"
    },
    {
     "term": "魔法使い",
-    "hours": 7,
-    "best_rank": 9,
+    "hours": 16,
+    "best_rank": 5,
     "url": "https://x.com/search?q=%E9%AD%94%E6%B3%95%E4%BD%BF%E3%81%84"
    },
    {
-    "term": "ハイゲドラフト",
-    "hours": 7,
+    "term": "身長と体重",
+    "hours": 16,
+    "best_rank": 12,
+    "url": "https://x.com/search?q=%E8%BA%AB%E9%95%B7%E3%81%A8%E4%BD%93%E9%87%8D"
+   },
+   {
+    "term": "リーマン予想",
+    "hours": 15,
+    "best_rank": 1,
+    "url": "https://x.com/search?q=%E3%83%AA%E3%83%BC%E3%83%9E%E3%83%B3%E4%BA%88%E6%83%B3"
+   },
+   {
+    "term": "あなたのカード",
+    "hours": 14,
+    "best_rank": 5,
+    "url": "https://x.com/search?q=%E3%81%82%E3%81%AA%E3%81%9F%E3%81%AE%E3%82%AB%E3%83%BC%E3%83%89"
+   },
+   {
+    "term": "DeNA入り",
+    "hours": 13,
+    "best_rank": 8,
+    "url": "https://x.com/search?q=DeNA%E5%85%A5%E3%82%8A"
+   },
+   {
+    "term": "第68回",
+    "hours": 13,
+    "best_rank": 18,
+    "url": "https://x.com/search?q=%E7%AC%AC68%E5%9B%9E"
+   },
+   {
+    "term": "ゼンゼロ",
+    "hours": 12,
+    "best_rank": 8,
+    "url": "https://x.com/search?q=%E3%82%BC%E3%83%B3%E3%82%BC%E3%83%AD"
+   },
+   {
+    "term": "ENHYPEN",
+    "hours": 11,
+    "best_rank": 13,
+    "url": "https://x.com/search?q=ENHYPEN"
+   },
+   {
+    "term": "ラウール",
+    "hours": 10,
+    "best_rank": 3,
+    "url": "https://x.com/search?q=%E3%83%A9%E3%82%A6%E3%83%BC%E3%83%AB"
+   },
+   {
+    "term": "最優秀新人賞",
+    "hours": 10,
+    "best_rank": 7,
+    "url": "https://x.com/search?q=%E6%9C%80%E5%84%AA%E7%A7%80%E6%96%B0%E4%BA%BA%E8%B3%9E"
+   },
+   {
+    "term": "吉野先生",
+    "hours": 10,
+    "best_rank": 8,
+    "url": "https://x.com/search?q=%E5%90%89%E9%87%8E%E5%85%88%E7%94%9F"
+   },
+   {
+    "term": "最大35連分",
+    "hours": 10,
     "best_rank": 9,
-    "url": "https://x.com/search?q=%E3%83%8F%E3%82%A4%E3%82%B2%E3%83%89%E3%83%A9%E3%83%95%E3%83%88"
+    "url": "https://x.com/search?q=%E6%9C%80%E5%A4%A735%E9%80%A3%E5%88%86"
    },
    {
-    "term": "カレンダー",
-    "hours": 7,
+    "term": "金枠衣装",
+    "hours": 10,
     "best_rank": 9,
-    "url": "https://x.com/search?q=%E3%82%AB%E3%83%AC%E3%83%B3%E3%83%80%E3%83%BC"
+    "url": "https://x.com/search?q=%E9%87%91%E6%9E%A0%E8%A1%A3%E8%A3%85"
    },
    {
-    "term": "スキン大会",
+    "term": "衝撃の発表",
+    "hours": 10,
+    "best_rank": 13,
+    "url": "https://x.com/search?q=%E8%A1%9D%E6%92%83%E3%81%AE%E7%99%BA%E8%A1%A8"
+   },
+   {
+    "term": "フライドチキンの日",
+    "hours": 9,
+    "best_rank": 2,
+    "url": "https://x.com/search?q=%E3%83%95%E3%83%A9%E3%82%A4%E3%83%89%E3%83%81%E3%82%AD%E3%83%B3%E3%81%AE%E6%97%A5"
+   },
+   {
+    "term": "特別国際音楽賞",
+    "hours": 9,
+    "best_rank": 13,
+    "url": "https://x.com/search?q=%E7%89%B9%E5%88%A5%E5%9B%BD%E9%9A%9B%E9%9F%B3%E6%A5%BD%E8%B3%9E"
+   },
+   {
+    "term": "ルルーシュのもと",
+    "hours": 9,
+    "best_rank": 15,
+    "url": "https://x.com/search?q=%E3%83%AB%E3%83%AB%E3%83%BC%E3%82%B7%E3%83%A5%E3%81%AE%E3%82%82%E3%81%A8"
+   },
+   {
+    "term": "Brand New",
+    "hours": 9,
+    "best_rank": 18,
+    "url": "https://x.com/search?q=Brand%20New"
+   },
+   {
+    "term": "あとひとり",
+    "hours": 9,
+    "best_rank": 19,
+    "url": "https://x.com/search?q=%E3%81%82%E3%81%A8%E3%81%B2%E3%81%A8%E3%82%8A"
+   },
+   {
+    "term": "地元・横浜",
+    "hours": 9,
+    "best_rank": 20,
+    "url": "https://x.com/search?q=%E5%9C%B0%E5%85%83%E3%83%BB%E6%A8%AA%E6%B5%9C"
+   },
+   {
+    "term": "シーサーちゃん",
+    "hours": 9,
+    "best_rank": 22,
+    "url": "https://x.com/search?q=%E3%82%B7%E3%83%BC%E3%82%B5%E3%83%BC%E3%81%A1%E3%82%83%E3%82%93"
+   },
+   {
+    "term": "第1765回",
+    "hours": 9,
+    "best_rank": 23,
+    "url": "https://x.com/search?q=%E7%AC%AC1765%E5%9B%9E"
+   },
+   {
+    "term": "太ももの日",
+    "hours": 9,
+    "best_rank": 25,
+    "url": "https://x.com/search?q=%E5%A4%AA%E3%82%82%E3%82%82%E3%81%AE%E6%97%A5"
+   },
+   {
+    "term": "ドッペルゲンガー",
+    "hours": 9,
+    "best_rank": 28,
+    "url": "https://x.com/search?q=%E3%83%89%E3%83%83%E3%83%9A%E3%83%AB%E3%82%B2%E3%83%B3%E3%82%AC%E3%83%BC"
+   },
+   {
+    "term": "#PayPayスクラッチくじ",
+    "hours": 8,
+    "best_rank": 1,
+    "url": "https://x.com/search?q=%23PayPay%E3%82%B9%E3%82%AF%E3%83%A9%E3%83%83%E3%83%81%E3%81%8F%E3%81%98"
+   },
+   {
+    "term": "#日本レコード大賞",
+    "hours": 8,
+    "best_rank": 2,
+    "url": "https://x.com/search?q=%23%E6%97%A5%E6%9C%AC%E3%83%AC%E3%82%B3%E3%83%BC%E3%83%89%E5%A4%A7%E8%B3%9E"
+   },
+   {
+    "term": "Lienel新人賞",
+    "hours": 8,
+    "best_rank": 11,
+    "url": "https://x.com/search?q=Lienel%E6%96%B0%E4%BA%BA%E8%B3%9E"
+   },
+   {
+    "term": "マナくん",
+    "hours": 8,
+    "best_rank": 21,
+    "url": "https://x.com/search?q=%E3%83%9E%E3%83%8A%E3%81%8F%E3%82%93"
+   },
+   {
+    "term": "新人賞受賞",
+    "hours": 8,
+    "best_rank": 24,
+    "url": "https://x.com/search?q=%E6%96%B0%E4%BA%BA%E8%B3%9E%E5%8F%97%E8%B3%9E"
+   },
+   {
+    "term": "ポーランド",
+    "hours": 8,
+    "best_rank": 27,
+    "url": "https://x.com/search?q=%E3%83%9D%E3%83%BC%E3%83%A9%E3%83%B3%E3%83%89"
+   },
+   {
+    "term": "BMSG",
+    "hours": 8,
+    "best_rank": 29,
+    "url": "https://x.com/search?q=BMSG"
+   },
+   {
+    "term": "Lulu",
+    "hours": 8,
+    "best_rank": 32,
+    "url": "https://x.com/search?q=Lulu"
+   },
+   {
+    "term": "SING",
     "hours": 7,
-    "best_rank": 10,
-    "url": "https://x.com/search?q=%E3%82%B9%E3%82%AD%E3%83%B3%E5%A4%A7%E4%BC%9A"
+    "best_rank": 5,
+    "url": "https://x.com/search?q=SING"
    },
    {
-    "term": "具現化系",
+    "term": "ボンドルド",
+    "hours": 7,
+    "best_rank": 6,
+    "url": "https://x.com/search?q=%E3%83%9C%E3%83%B3%E3%83%89%E3%83%AB%E3%83%89"
+   },
+   {
+    "term": "ドラケン",
     "hours": 7,
     "best_rank": 11,
-    "url": "https://x.com/search?q=%E5%85%B7%E7%8F%BE%E5%8C%96%E7%B3%BB"
+    "url": "https://x.com/search?q=%E3%83%89%E3%83%A9%E3%82%B1%E3%83%B3"
+   },
+   {
+    "term": "オリックス・宗佑磨",
+    "hours": 7,
+    "best_rank": 15,
+    "url": "https://x.com/search?q=%E3%82%AA%E3%83%AA%E3%83%83%E3%82%AF%E3%82%B9%E3%83%BB%E5%AE%97%E4%BD%91%E7%A3%A8"
+   },
+   {
+    "term": "複数球団",
+    "hours": 7,
+    "best_rank": 24,
+    "url": "https://x.com/search?q=%E8%A4%87%E6%95%B0%E7%90%83%E5%9B%A3"
+   },
+   {
+    "term": "福良さん",
+    "hours": 7,
+    "best_rank": 29,
+    "url": "https://x.com/search?q=%E7%A6%8F%E8%89%AF%E3%81%95%E3%82%93"
    }
   ],
   "hatena": [
    {
-    "title": "AIに悩みを相談する際に気をつけて欲しいこと｜SSC",
-    "url": "https://www.assdr.kyoto-u.ac.jp/ssc/consulting_ai/",
-    "users": 121
+    "title": "１６７年解けなかった「リーマン予想」、生成ＡＩが証明か…アンソロピックの数学者が発表",
+    "url": "https://www.yomiuri.co.jp/science/20261121-GYT1T00089/",
+    "users": 72
    },
    {
-    "title": "「ほぼ全人類が永久に失業する」Anthropic研究者がAIの未来を予測",
-    "url": "https://ascii.jp/elem/000/004/452/4452982/",
-    "users": 440
+    "title": "参政、国政選挙の立候補者「帰化歴」開示へ法案　二重国籍者の出馬禁止：時事ドットコム",
+    "url": "https://www.jiji.com/jc/article?k=2026112000900&g=pol",
+    "users": 97
    },
    {
-    "title": "ヨドバシカメラで家電を購入したらテーブルに着席させられ、電力会社・携帯キャリア・インターネット回線・ウォーターサーバーの営業が20分間続いた",
-    "url": "https://togetter.com/li/2772543",
-    "users": 221
+    "title": "「自衛隊と民間の一体化が必要」 軍・産・マスコミが癒着する安保三文書改定・有識者会議 着々と敷かれる「国家総動員」へのレール | Tansa",
+    "url": "https://tansajp.org/investigativejournal/15663/",
+    "users": 96
    },
    {
-    "title": "【分析】前例なき3首脳会談、中ロが掲げる「新世界秩序」の勝利",
-    "url": "https://www.cnn.co.jp/world/35255173.html",
-    "users": 109
+    "title": "SSDの価格は2027年後半に下落し始める可能性あり",
+    "url": "https://gigazine.net/news/20261120-ssd-prices-outlook/",
+    "users": 76
    },
    {
-    "title": "「やってみる」をやってみよう｜桜林 直子",
-    "url": "https://note.com/sac_ring/n/n527c7b532574",
-    "users": 53
+    "title": "「置き配」届けた後、補償なし　破損や盗難、国交省が指針案",
+    "url": "https://www.47news.jp/15259526.html",
+    "users": 224
    },
    {
-    "title": "電車で座った席の隣でPC打ってた人から突然「あのー仕事してるんですけど」と言われたので思わず「え？がんばれ…？」と答えたら不満そうにどこか行っちゃった",
-    "url": "https://togetter.com/li/2772547",
-    "users": 138
+    "title": "ファンタズマ・リリィ 126話 - ジャンプルーキー！",
+    "url": "https://rookie.shonenjump.com/series/zGZPbQ86a78/TWpXKpZbp0I",
+    "users": 26
    },
    {
-    "title": "「シラケましたネ」高市首相　過去に苦言を呈していた“日本の英語力”…自身の英語には“聞き取りにくい発音”の指摘も | 女性自身",
-    "url": "https://jisin.jp/domestic/2610490/",
-    "users": 41
+    "title": "リニアのトンネル工事 地表付近の川で複数か所から気泡　川の水噴き上げていると報告も　JR東海は工事停止して因果関係調査 | TBS NEWS DIG",
+    "url": "https://newsdig.tbs.co.jp/articles/-/3102836",
+    "users": 34
    },
    {
-    "title": "神ゲー『MONOMOON』ネタバレあんまりなし感想 - のすのゲーム感想ブログ",
-    "url": "https://tetogame.hatenablog.com/entry/2026/11/16/165957",
-    "users": 147
+    "title": "1万円のシンセをAIで魔改造。電子楽器のファームウェア開放が始まった | ギズモード・ジャパン",
+    "url": "https://www.gizmodo.jp/article/0b0516f2-94f8-442e-bdae-2987f090be13/",
+    "users": 34
    },
    {
-    "title": "AIの返答が理解しづらいので、自分の認知特性をAIに分析させてSkillにした - $shibayu36->blog;",
-    "url": "https://blog.shibayu36.org/entry/2026/11/17/120000",
-    "users": 56
+    "title": "ナオキマン氏の起用はさすがにダメだと思うし、あんなの都市伝説じゃない：ロマン優光連載418",
+    "url": "https://bunkaonline.jp/archives/9308",
+    "users": 16
    },
    {
-    "title": "11月に修正されたPHPの脆弱性についてまとめてみた - piyolog",
-    "url": "https://piyolog.hatenadiary.jp/entry/2026/11/20/003148",
-    "users": 82
+    "title": "木原長官 高市首相の中国到着時に段差 \"事前情報あり安全配慮\" | NHKニュース",
+    "url": "https://news.web.nhk/newsweb/na/nd-20261120de79342",
+    "users": 59
    },
    {
-    "title": "マウスやキーボードの電池残量がタスクバーで確認できる「BatteryHub」",
-    "url": "https://pc.watch.impress.co.jp/docs/news/2158043.html",
-    "users": 49
-   },
-   {
-    "title": "【女性初の棋士に】西山朋佳女流四冠、「先生の気持ちはわかっています」師匠が明かした決意の言葉と53年つないだ「襷」 - Smart FLASH/スマフラ[光文社週刊誌]",
-    "url": "https://smart-flash.jp/sports/439023/",
-    "users": 44
-   },
-   {
-    "title": "トランプ米大統領、米中首脳会談で「台湾独立を支持しない」と発言　新華社が報道",
-    "url": "https://www.sankei.com/article/20261119-CDUQMQ4BQRMR5PH2JRMAQUHFYU/?outputType=asynd",
-    "users": 31
-   },
-   {
-    "title": "史上初の米中露首脳会談、「核戦争に勝者なし」と核不拡散へ「平和宣言」…中露に同調目立つトランプ氏",
-    "url": "https://www.yomiuri.co.jp/world/20261119-GYT1T00382/",
-    "users": 74
-   },
-   {
-    "title": "日本応急手当普及員協議会が「救命行為に関する昨今のSNS上の言説について」という声明を発表…結局、訴訟リスクへの不安について触れていないとツッコミ多数",
-    "url": "https://togetter.com/li/2772567",
-    "users": 116
-   },
-   {
-    "title": "未完成スワロー | 【特別読み切り】 / マガポケ | 少年マガジン公式無料漫画アプリ",
-    "url": "https://pocket.shonenmagazine.com/title/03408/episode/446648",
-    "users": 23
-   },
-   {
-    "title": "TVアニメ『新 美味しんぼ』メインPV | 美味しんぼ",
-    "url": "https://www.youtube.com/watch?v=K7DZiGev_8I",
+    "title": "ブルーライトカットのめがね、目の負担軽減の助けにならず　23年国際研究で結論",
+    "url": "https://www.cnn.co.jp/fringe/35255242.html",
     "users": 40
    },
    {
-    "title": "【速報】米中ロが「平和宣言」発表",
-    "url": "https://www.47news.jp/15256779.html",
-    "users": 546
-   },
-   {
-    "title": "昔付き合ってたドイツ人は7年間ずっと夕食に同じパンとチーズを食べ続けていたが、ある時日本のカレーを作ってあげたら「緑色だから食べたくない」と味も見ずに拒否された",
-    "url": "https://togetter.com/li/2772602",
-    "users": 44
-   },
-   {
-    "title": "次男の世代には『はると』くんが何人もいて、区別するための呼び方が楽しい「新しい時代のあだ名のつけ方ええな…」「可愛くて感性が豊か」",
-    "url": "https://togetter.com/li/2772594",
-    "users": 41
-   },
-   {
-    "title": "NYダウ1100ドル安、5万ドル割れ　アンソロピック上場で換金売り - 日本経済新聞",
-    "url": "https://www.nikkei.com/article/DGXZQOGN19CX30Z11C26A1000000/",
-    "users": 61
-   },
-   {
-    "title": "陸自〝思想調査〟問題　出所や真正性理由に調査せずは不適切　政府が答弁書　報道機関への公益通報と指摘の議員に｜熊本日日新聞社",
-    "url": "https://kumanichi.com/articles/2059769",
-    "users": 69
-   },
-   {
-    "title": "「オントロジー」とは結局何なのか　Palantir、Databricks、Snowflake、NVIDIAで中身が違う理由",
-    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2611/19/news008.html",
-    "users": 23
-   },
-   {
-    "title": "Muse の VM は約2時間で入れ替わる（実測と対策） - Qiita",
-    "url": "https://qiita.com/mryo0826/items/c05efd7ac228fe85ab44",
-    "users": 23
-   },
-   {
-    "title": "プーチン氏「ヤルタ合意で世界は破局を回避した」　大国による世界主導を正当化",
-    "url": "https://www.sankei.com/article/20261119-FJEH26WQ5NIDFHC2SKSQE5VGEM/?outputType=asynd",
-    "users": 37
-   },
-   {
-    "title": "弱者の「抵抗」を描いた漫画って、多分平成以後の日本の漫画でもほとんどないと思いますね。絶無と言っていいと思います。",
-    "url": "https://posfie.com/@golden_haniwa/p/NDmN0IF",
-    "users": 340
-   },
-   {
-    "title": "女も自立しろじゃないんだよ。種の保存のために子を宿す器の機能を持たせ、育児をする本能も持たせ、はい「男と同じように働け」は無理。→「男性が女性と同じだけ家事育児介護したら、おそらく女性は男性と同じだけ働けるのではないでしょうか。」",
-    "url": "https://posfie.com/@_vO____Ov_/p/PtNbsxh",
-    "users": 147
-   },
-   {
-    "title": "スバル、米国生産の3列SUV「アセント」を日本市場に導入 価格は770万円で150台限定",
-    "url": "https://car.watch.impress.co.jp/docs/news/2157154.html",
-    "users": 29
-   },
-   {
-    "title": "高市首相「法的問題ない」　関文科相の政治資金パーティー問題 | 毎日新聞",
-    "url": "https://mainichi.jp/articles/20261119/k00/00m/010/251000c",
-    "users": 19
-   },
-   {
-    "title": "湘南美容クリニックのSBC、162万人分の個人情報流出　パスワードは「暗号化せず保存していた」",
-    "url": "https://www.itmedia.co.jp/news/article/2611/20/2000003355/",
-    "users": 27
-   },
-   {
-    "title": "毒物転売し１億円以上の利益得たか…勤務先工場から盗んだ容疑で男を追送検、自宅から袋見つかる",
-    "url": "https://www.yomiuri.co.jp/national/20261119-GYT1T00401/",
-    "users": 19
-   },
-   {
-    "title": "＜主張＞米中露首脳会談　再び開くことは許されぬ　社説",
-    "url": "https://www.sankei.com/article/20261120-3PAW33MU6FJHVA45RP4G26MYIY/",
+    "title": "Claudeを使い「リーマン予想」を証明か　Anthropic数学者が発表　Lean検証も通過、数学界が精査へ",
+    "url": "https://japan.cnet.com/article/35255245/",
     "users": 22
    },
    {
-    "title": "第2話 覚悟 / Honey Creep - 柳本光晴 | サンデーうぇぶり",
-    "url": "https://www.sunday-webry.com/episode/12207421984543447898",
-    "users": 58
+    "title": "「Windows Server 2028」で「WSUS」や「SMB 1.0」、「VBScript」などが削除へ／「Windows PowerShell 5.1」「WDS」は非推奨に、レガシーBIOSでの起動も不可",
+    "url": "https://forest.watch.impress.co.jp/docs/news/2158261.html",
+    "users": 41
    },
    {
-    "title": "北米でロマンポルノ特集上映、「（秘）色情めす市場」「四畳半襖の裏張り」など12本 - 映画ナタリー",
-    "url": "https://natalie.mu/eiga/news/698313",
+    "title": "MADE IN YAMATO - 第２５話　キレ喰いの恐怖 | ヤンマガWeb",
+    "url": "https://yanmaga.jp/viewer/comics/MADE_IN_YAMATO/693915a992fae04a314f63840b9ddc06?cid=06A0000000001025117O",
+    "users": 78
+   },
+   {
+    "title": "店員による不正行為が原因で中止になったくら寿司のちいかわコラボ皿が公式LINEを通じた抽選プレゼントの形に…「まだ集客に利用するの？」「処分はどうなった」など",
+    "url": "https://togetter.com/li/2773047",
+    "users": 66
+   },
+   {
+    "title": "『恋ってなんで変と似てるの』【読切】恋ってなんで変と似てるの - ホニャポコ | COMIC OGYAAA!!",
+    "url": "https://comic-ogyaaa.com/episode/12207421984535542079",
+    "users": 72
+   },
+   {
+    "title": "中国で現象級の流行となる『FX戦士くるみちゃん』｜上海在住のえいちゃん",
+    "url": "https://note.com/eichan_sh/n/n40f5bbbd1121",
+    "users": 344
+   },
+   {
+    "title": "から揚げ粉をエリンギの全身にかけてオーブンで焼くだけで「なんかすごい唐揚げ感がする！」鶏肉唐揚げのように中から旨味成分汁が染み出て「超ウマー！」のエリンギ料理",
+    "url": "https://togetter.com/li/2772992",
+    "users": 119
+   },
+   {
+    "title": "おバカパーツで 馬改造 第15馬｜ピックガードの下にピックアップを埋め込むと音はどうなるの？ | ギターいじリストのおうち",
+    "url": "https://guitar-ijiri.com/blog/gakki-ijiri/stupid-remodeling-vol15_pickup-under-pickguard/",
     "users": 11
    },
    {
-    "title": "高市内閣の“新たな火種”…関文科大臣の政治資金パーティーめぐる問題に“2つの疑惑”　野党は問責決議案提出も辞さない構え | TBS NEWS DIG",
-    "url": "https://newsdig.tbs.co.jp/articles/-/3096207",
-    "users": 12
+    "title": "モダンな情シスは、AIエージェントを育て、任せ、圧倒的な生産性を生む｜kajinari | モダンな情シス",
+    "url": "https://note.com/kajinari/n/n19c73d819b14",
+    "users": 25
    },
    {
-    "title": "こんな面白いものを毎年送ってこられると困るので、今年からは書店に置いてもらえるようにした——水町綜『われらムゲン野球群』担当編集者エッセイ｜Hayakawa Books & Magazines（β）",
-    "url": "https://www.hayakawabooks.com/n/ndfac10bd467b",
-    "users": 6
+    "title": "[1話]ハーレム勇者伝説 - 津夏なつな/千種利広 | 少年ジャンプ＋",
+    "url": "https://shonenjumpplus.com/episode/9253191257982514218",
+    "users": 91
    },
    {
-    "title": "Genie 4 is now available",
-    "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/genie-4-now-available-project-genie/",
+    "title": "関文科相に辞任論が浮上　自民幹部は「更迭するしかない」 | 毎日新聞",
+    "url": "https://mainichi.jp/articles/20261120/k00/00m/010/367000c",
     "users": 32
    },
    {
-    "title": "『ガールズ＆パンツァーもっとらぶらぶ作戦です！』第7話ノンクレジットED映像｜家元シスターズ『いいえ！もっとLOVEでしょう？～Can’t Stop Tank Love～』",
-    "url": "https://www.youtube.com/watch?v=GXEyIvPxIxE",
+    "title": "『子供を主人公にしたら、子供は見ないですよ』 特撮映像を作る上で、これほどガキの心情を持ったまま商業主義を理解した言葉はないな。 子供は視点の高さを合わせてやると、途端に相手を見下し始めるので、『ちょっと上から引き上げてやる』ぐらいが心地いい。オトナはこれがわからんで失敗する。→「ああ、だから女児向け作品であるプリキュアは中学生なのか」",
+    "url": "https://posfie.com/@petaritape/p/rTKfKcw",
+    "users": 87
+   },
+   {
+    "title": "名古屋での「移民政策反対デモ」準備中の発言は差別的と認定　愛知県、人権条例に基づき公表：中日新聞Web",
+    "url": "https://www.chunichi.co.jp/article/1342561",
+    "users": 21
+   },
+   {
+    "title": "中国、日本に「誤った言動の是正」要求「真に客観的かつ理性的になるべき」",
+    "url": "https://www.afpbb.com/articles/-/3663547",
+    "users": 14
+   },
+   {
+    "title": "【週末駅弁】函館駅「天然岩海苔二段弁当」",
+    "url": "https://travel.watch.impress.co.jp/docs/series/ekiben/2155888.html",
     "users": 6
    },
    {
-    "title": "約2,500万人のデータで「Firefox」の“指紋”対策を強化 ～Mozillaが研究成果を発表／一意に識別されるユーザーの割合を75％から46％に削減",
-    "url": "https://forest.watch.impress.co.jp/docs/news/2157865.html",
-    "users": 30
+    "title": "どれだけGeminiが賢くなってもAIオタクが避ける理由。ついに解消の可能性 - すまほん!!",
+    "url": "https://smhn.info/202611-gemini-subscription-third-party-harness-december-2",
+    "users": 8
    },
    {
-    "title": "米中ロ首脳、史上初会談　トランプ大統領、核軍縮に意欲",
-    "url": "https://www.47news.jp/15256251.html",
-    "users": 6
+    "title": "トランプ氏、ICCは「制御不能」 米中ロ3か国で非難と強調",
+    "url": "https://www.afpbb.com/articles/-/3663542",
+    "users": 7
+   },
+   {
+    "title": "高市首相　APECでトランプ氏に背後から手を添えるも“無視”に「恥ずかしい」の声…識者も驚く“ぼっち外交”のレベル | 女性自身",
+    "url": "https://jisin.jp/domestic/2610725/",
+    "users": 7
+   },
+   {
+    "title": "[アップデート] AWS STS の GetScopedCredentials で権限と有効期間を絞った認証情報を作ってみた | DevelopersIO",
+    "url": "https://dev.classmethod.jp/articles/aws-sts-get-scoped-credentials/",
+    "users": 11
+   },
+   {
+    "title": "定数削減法案　野党「少数意見の排除だ」　与党は来週の採決を提案",
+    "url": "https://news.tv-asahi.co.jp/news_politics/articles/000549411.html",
+    "users": 8
+   },
+   {
+    "title": "蚊帳の外の高市外交　「米国頼み」限界浮き彫り、習氏とは会談できず",
+    "url": "https://www.nishinippon.co.jp/item/1562543/",
+    "users": 61
+   },
+   {
+    "title": "「女子枠を憲法違反と見る憲法学者が多いのでは」日経新聞記事が話題に",
+    "url": "https://posfie.com/@Elif87995911/p/N49I1dY",
+    "users": 83
+   },
+   {
+    "title": "高市首相抗議デモに1万人、靴下も買えない貧しさに怒り……中国メディアが報じた日本 #エキスパートトピ（高口康太） - エキスパート - Yahoo!ニュース",
+    "url": "https://news.yahoo.co.jp/expert/articles/ce0a8f95dc31de99e63a8949cf218177e9253e4a",
+    "users": 28
+   },
+   {
+    "title": "『ワタシってサバサバしてるから』は初期の「なんだこの厚顔無恥な女」という認識から「網浜いけー！ぶちかませー！お前ならやれる！」になったのヘイトコントロールがすごい",
+    "url": "https://togetter.com/li/2772902",
+    "users": 14
+   },
+   {
+    "title": "ウクライナへ大規模攻撃、プーチン氏が「痛烈な」報復表明後",
+    "url": "https://www.afpbb.com/articles/-/3663506",
+    "users": 7
+   },
+   {
+    "title": "ZOZOTOWNの退会者含む1,518万人分の情報が漏えい　WEAR by ZOZOでも1,393万人分に（ビジネス＋IT） - Yahoo!ニュース",
+    "url": "https://news.yahoo.co.jp/articles/1739163b2e1fd496107c05cb8b455d37d52be5d9",
+    "users": 14
+   },
+   {
+    "title": "社説：高市首相訪中　冷遇の演出から見える認知戦 : 読売新聞",
+    "url": "https://www.yomiuri.co.jp/editorial/20261119-GYT1T00411/",
+    "users": 142
+   },
+   {
+    "title": "保険金不正請求のタマホーム、損保会社へは「数万円水増し」の見積書…顧客の自己負担軽減で「信頼」狙いか",
+    "url": "https://www.yomiuri.co.jp/economy/20261121-GYT1T00021/",
+    "users": 17
+   },
+   {
+    "title": "「KARTE」への不正アクセスに関する当社調査結果と、サービス再開の見通し等のお知らせ",
+    "url": "https://plaid.co.jp/news/20261120/",
+    "users": 57
    }
   ]
  },
- "history_days": 40,
+ "history_days": 41,
  "history_since": "2026-10-12",
  "dates": [
+  "2026-11-21",
   "2026-11-20",
   "2026-11-19",
   "2026-11-18",
@@ -568,121 +569,148 @@
  "wiki_yesterday": [
   {
    "article": "太田裕美",
-   "views": 305293
-  },
-  {
-   "article": "福岡智彦",
-   "views": 72499
-  },
-  {
-   "article": "必読書150",
-   "views": 71827
-  },
-  {
-   "article": "江夏豊",
-   "views": 59924
-  },
-  {
-   "article": "アントニオ猪木",
-   "views": 49533
-  },
-  {
-   "article": "倍賞美津子",
-   "views": 40887
+   "views": 111954
   },
   {
    "article": "宇野千代",
-   "views": 39440
+   "views": 51173
   },
   {
-   "article": "飯沼愛",
-   "views": 27690
+   "article": "尾崎士郎",
+   "views": 43739
   },
   {
-   "article": "ロバート・パティンソン",
-   "views": 27067
+   "article": "池松壮亮",
+   "views": 33315
   },
   {
-   "article": "生坂ダム殺人事件",
-   "views": 26515
+   "article": "福岡智彦",
+   "views": 31527
   },
   {
-   "article": "森保一",
-   "views": 22748
+   "article": "江夏豊",
+   "views": 22602
   },
   {
-   "article": "アントニオ・バルガス",
-   "views": 22660
+   "article": "松金よね子",
+   "views": 21828
   },
   {
    "article": "木綿のハンカチーフ",
-   "views": 22558
+   "views": 20781
   },
   {
-   "article": "福田師王",
-   "views": 20538
+   "article": "ロウディ・テレス",
+   "views": 18558
   },
   {
-   "article": "菊地直子",
-   "views": 19927
+   "article": "パピヨン_(お笑い)",
+   "views": 18083
   },
   {
-   "article": "吉成由貴",
-   "views": 19508
+   "article": "松井秀喜",
+   "views": 17404
   },
   {
-   "article": "モナキ",
-   "views": 19192
+   "article": "グランド・セフト・オートVI",
+   "views": 16123
   },
   {
-   "article": "ギリヤーク尼ヶ崎",
-   "views": 18729
+   "article": "アントニオ猪木",
+   "views": 14869
   },
   {
-   "article": "大岩剛",
-   "views": 18403
+   "article": "瀬戸サオリ",
+   "views": 14682
   },
   {
-   "article": "サイモン・ケリー猪木",
-   "views": 17454
+   "article": "倍賞美津子",
+   "views": 14590
+  },
+  {
+   "article": "根尾昂",
+   "views": 14296
+  },
+  {
+   "article": "はしだのりひこ",
+   "views": 14042
+  },
+  {
+   "article": "加藤和彦",
+   "views": 13773
+  },
+  {
+   "article": "ヤルタ会談",
+   "views": 13648
+  },
+  {
+   "article": "ザ・フォーク・クルセダーズ",
+   "views": 12874
   }
  ],
- "wiki_date": "2026-11-18",
+ "wiki_date": "2026-11-19",
  "wiki_rising": [
   {
+   "article": "太田裕美",
+   "recent_avg": 59607,
+   "base_avg": 0,
+   "ratio": null
+  },
+  {
    "article": "中田乃愛",
-   "recent_avg": 52210,
+   "recent_avg": 53385,
    "base_avg": 0,
    "ratio": null
   },
   {
    "article": "江夏豊",
-   "recent_avg": 47366,
-   "base_avg": 0,
-   "ratio": null
-  },
-  {
-   "article": "太田裕美",
-   "recent_avg": 43613,
+   "recent_avg": 50595,
    "base_avg": 0,
    "ratio": null
   },
   {
    "article": "ジェンスン・フアン",
-   "recent_avg": 52122,
-   "base_avg": 5620,
-   "ratio": 9.3
-  },
-  {
-   "article": "正木智也",
-   "recent_avg": 30010,
-   "base_avg": 5606,
-   "ratio": 5.4
+   "recent_avg": 30704,
+   "base_avg": 12139,
+   "ratio": 2.5
   }
  ],
  "windows": {
   "7": {
    "recurring": [
+    {
+     "term": "戸田競艇",
+     "days": 2,
+     "sources": [
+      "google"
+     ],
+     "dates": [
+      "2026-11-18",
+      "2026-11-21"
+     ]
+    },
+    {
+     "term": "ラウール",
+     "days": 2,
+     "sources": [
+      "x"
+     ],
+     "dates": [
+      "2026-11-20",
+      "2026-11-21"
+     ]
+    },
+    {
+     "term": "魔法使い",
+     "days": 2,
+     "sources": [
+      "x"
+     ],
+     "dates": [
+      "2026-11-20",
+      "2026-11-21"
+     ]
+    },
     {
      "term": "念の強さ",
      "days": 2,
@@ -787,40 +815,40 @@
     "covered_days": 7,
     "articles": [
      {
-      "article": "中田乃愛",
-      "views": 365471
+      "article": "太田裕美",
+      "views": 417247
      },
      {
-      "article": "ジェンスン・フアン",
-      "views": 364855
+      "article": "中田乃愛",
+      "views": 373692
      },
      {
       "article": "江夏豊",
-      "views": 331561
-     },
-     {
-      "article": "太田裕美",
-      "views": 305293
+      "views": 354163
      },
      {
       "article": "宇野千代",
-      "views": 218180
+      "views": 224869
      },
      {
-      "article": "正木智也",
-      "views": 210067
-     },
-     {
-      "article": "モナキ",
-      "views": 207350
+      "article": "ジェンスン・フアン",
+      "views": 214930
      },
      {
       "article": "飯沼愛",
-      "views": 194833
+      "views": 202049
+     },
+     {
+      "article": "モナキ",
+      "views": 199111
      },
      {
       "article": "川端かなこ",
       "views": 185398
+     },
+     {
+      "article": "正木智也",
+      "views": 178261
      },
      {
       "article": "宗山塁",
@@ -831,32 +859,32 @@
       "views": 161579
      },
      {
+      "article": "ロバート・パティンソン",
+      "views": 159595
+     },
+     {
       "article": "吉川平介",
       "views": 149934
      },
      {
-      "article": "ロバート・パティンソン",
-      "views": 149526
+      "article": "豊臣秀次",
+      "views": 145437
      },
      {
       "article": "VIVANT",
-      "views": 145105
-     },
-     {
-      "article": "豊臣秀次",
-      "views": 138701
+      "views": 134091
      },
      {
       "article": "坂元達裕",
       "views": 124050
      },
      {
-      "article": "荒川事件",
-      "views": 121384
-     },
-     {
       "article": "豊臣秀長",
       "views": 116339
+     },
+     {
+      "article": "福岡智彦",
+      "views": 104026
      },
      {
       "article": "黒島結菜",
@@ -864,35 +892,39 @@
      },
      {
       "article": "EBiDAN",
-      "views": 98386
-     },
-     {
-      "article": "Ayumu_Imazu",
-      "views": 94062
-     },
-     {
-      "article": "ウィキペディア",
-      "views": 89260
+      "views": 96601
      },
      {
       "article": "必読書150",
       "views": 87861
      },
      {
+      "article": "ウィキペディア",
+      "views": 87452
+     },
+     {
+      "article": "Ayumu_Imazu",
+      "views": 87269
+     },
+     {
       "article": "M!LK",
-      "views": 85167
+      "views": 84023
      },
      {
       "article": "石橋静河",
-      "views": 83256
+      "views": 81311
      },
      {
-      "article": "坂口涼太郎",
-      "views": 79677
+      "article": "瀬戸サオリ",
+      "views": 74262
      },
      {
-      "article": "井口資仁",
-      "views": 77543
+      "article": "尾崎士郎",
+      "views": 73714
+     },
+     {
+      "article": "宮下今日子",
+      "views": 73239
      },
      {
       "article": "宮沢氷魚",
@@ -901,10 +933,6 @@
      {
       "article": "福田師王",
       "views": 72541
-     },
-     {
-      "article": "福岡智彦",
-      "views": 72499
      }
     ]
    }
@@ -961,18 +989,6 @@
       "2026-11-01",
       "2026-11-08",
       "2026-11-15"
-     ]
-    },
-    {
-     "term": "乃木坂46ANN",
-     "days": 3,
-     "sources": [
-      "x"
-     ],
-     "dates": [
-      "2026-10-22",
-      "2026-11-05",
-      "2026-11-19"
      ]
     },
     {
@@ -1096,18 +1112,6 @@
      ]
     },
     {
-     "term": "ユナイテッド",
-     "days": 3,
-     "sources": [
-      "x"
-     ],
-     "dates": [
-      "2026-10-22",
-      "2026-11-01",
-      "2026-11-09"
-     ]
-    },
-    {
      "term": "VIVANT",
      "days": 3,
      "sources": [
@@ -1192,25 +1196,36 @@
      ]
     },
     {
-     "term": "緊急メンテ",
+     "term": "戸田競艇",
      "days": 2,
      "sources": [
-      "x"
+      "google"
      ],
      "dates": [
-      "2026-10-22",
-      "2026-11-20"
+      "2026-11-18",
+      "2026-11-21"
      ]
     },
     {
-     "term": "メンテナンス",
+     "term": "ラウール",
      "days": 2,
      "sources": [
       "x"
      ],
      "dates": [
-      "2026-10-22",
-      "2026-11-20"
+      "2026-11-20",
+      "2026-11-21"
+     ]
+    },
+    {
+     "term": "魔法使い",
+     "days": 2,
+     "sources": [
+      "x"
+     ],
+     "dates": [
+      "2026-11-20",
+      "2026-11-21"
      ]
     },
     {
@@ -1233,6 +1248,17 @@
      "dates": [
       "2026-11-19",
       "2026-11-20"
+     ]
+    },
+    {
+     "term": "乃木坂46ANN",
+     "days": 2,
+     "sources": [
+      "x"
+     ],
+     "dates": [
+      "2026-11-05",
+      "2026-11-19"
      ]
     },
     {
@@ -1275,7 +1301,7 @@
     "articles": [
      {
       "article": "宇野千代",
-      "views": 1226561
+      "views": 1237685
      },
      {
       "article": "熊谷正寿",
@@ -1283,47 +1309,51 @@
      },
      {
       "article": "VIVANT",
-      "views": 774940
+      "views": 762055
      },
      {
       "article": "松井秀喜",
-      "views": 725860
+      "views": 743264
      },
      {
       "article": "渋谷謙人",
       "views": 716165
      },
      {
-      "article": "土田大",
-      "views": 680096
-     },
-     {
       "article": "村上龍",
       "views": 560151
-     },
-     {
-      "article": "石橋静河",
-      "views": 494701
      },
      {
       "article": "ジェンスン・フアン",
       "views": 494123
      },
      {
+      "article": "石橋静河",
+      "views": 490879
+     },
+     {
       "article": "モナキ",
-      "views": 461096
+      "views": 473088
      },
      {
       "article": "GMOインターネットグループ",
       "views": 440349
      },
      {
+      "article": "太田裕美",
+      "views": 417247
+     },
+     {
       "article": "中田乃愛",
-      "views": 365471
+      "views": 373692
      },
      {
       "article": "豊臣秀次",
-      "views": 360979
+      "views": 367715
+     },
+     {
+      "article": "江夏豊",
+      "views": 354163
      },
      {
       "article": "俺のこと、なんか言ってた?",
@@ -1334,12 +1364,8 @@
       "views": 339009
      },
      {
-      "article": "江夏豊",
-      "views": 331561
-     },
-     {
       "article": "M!LK",
-      "views": 317786
+      "views": 316772
      },
      {
       "article": "PHP_(プログラミング言語)",
@@ -1347,11 +1373,7 @@
      },
      {
       "article": "ゴジラ-0.0",
-      "views": 305976
-     },
-     {
-      "article": "太田裕美",
-      "views": 305293
+      "views": 311832
      },
      {
       "article": "南京事件",
@@ -1363,35 +1385,39 @@
      },
      {
       "article": "ブラッサム",
-      "views": 295633
+      "views": 295547
      },
      {
       "article": "宮下今日子",
-      "views": 289394
-     },
-     {
-      "article": "ウ・ヨンウ弁護士は天才肌",
-      "views": 286975
-     },
-     {
-      "article": "工藤公康",
-      "views": 279051
+      "views": 291282
      },
      {
       "article": "富栄ドラム",
       "views": 278724
      },
      {
-      "article": "リンリン_(俳優)",
-      "views": 265086
-     },
-     {
       "article": "豊臣秀長",
       "views": 263345
      },
      {
+      "article": "工藤公康",
+      "views": 259310
+     },
+     {
+      "article": "ウ・ヨンウ弁護士は天才肌",
+      "views": 257950
+     },
+     {
       "article": "ちばてつや",
       "views": 252684
+     },
+     {
+      "article": "横田慎太郎",
+      "views": 247629
+     },
+     {
+      "article": "731部隊",
+      "views": 243211
      }
     ]
    }
@@ -1796,19 +1822,19 @@
      },
      {
       "article": "宇野千代",
-      "views": 2523209
+      "views": 2574382
      },
      {
       "article": "VIVANT",
-      "views": 2126759
+      "views": 2119041
+     },
+     {
+      "article": "石橋静河",
+      "views": 1507050
      },
      {
       "article": "簗和生",
       "views": 1504677
-     },
-     {
-      "article": "石橋静河",
-      "views": 1496055
      },
      {
       "article": "猪俣周杜",
@@ -1820,7 +1846,7 @@
      },
      {
       "article": "M!LK",
-      "views": 1070304
+      "views": 1067516
      },
      {
       "article": "熊谷正寿",
@@ -1832,23 +1858,19 @@
      },
      {
       "article": "富栄ドラム",
-      "views": 989719
-     },
-     {
-      "article": "中島歩",
-      "views": 942484
+      "views": 981138
      },
      {
       "article": "Timelesz",
       "views": 929257
      },
      {
-      "article": "ブラッサム",
-      "views": 902118
+      "article": "中島歩",
+      "views": 922497
      },
      {
-      "article": "宮下今日子",
-      "views": 898063
+      "article": "ブラッサム",
+      "views": 913983
      },
      {
       "article": "千葉小3女児殺害事件",
@@ -1859,20 +1881,20 @@
       "views": 879926
      },
      {
+      "article": "宮下今日子",
+      "views": 863460
+     },
+     {
       "article": "工藤公康",
       "views": 780170
      },
      {
       "article": "モナキ",
-      "views": 767760
-     },
-     {
-      "article": "Search",
-      "views": 741365
+      "views": 779752
      },
      {
       "article": "松井秀喜",
-      "views": 725860
+      "views": 743264
      },
      {
       "article": "渋谷謙人",
@@ -1880,11 +1902,15 @@
      },
      {
       "article": "豊臣秀次",
-      "views": 684996
+      "views": 691732
      },
      {
       "article": "土田大",
       "views": 680096
+     },
+     {
+      "article": "Search",
+      "views": 679731
      },
      {
       "article": "張本勲",

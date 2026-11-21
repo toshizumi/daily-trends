@@ -1,0 +1,521 @@
+{
+ "date": "2026-11-21",
+ "collected_at": "2026-11-21T11:01+09:00",
+ "errors": {},
+ "google": [
+  {
+   "term": "丸亀製麺",
+   "traffic": "2000+",
+   "news_title": "【きょう実施】丸亀製麺、創業26周年感謝祭の「釜揚げうどん」半額企画 いよいよラストチャンス！並は190円に（Lmaga.jp）",
+   "news_url": "https://news.yahoo.co.jp/articles/842433a12fa8a7045bc35b9ff4bc06b252b9e729",
+   "news_source": "Yahoo!ニュース"
+  },
+  {
+   "term": "戸田競艇",
+   "traffic": "500+",
+   "news_title": "",
+   "news_url": "",
+   "news_source": ""
+  },
+  {
+   "term": "大韓民国",
+   "traffic": "500+",
+   "news_title": "戦勝が切実な「マズルズ号」が大きな危機を迎えた。 核心戦力7人が負傷で交替されたのだ。",
+   "news_url": "https://www.mk.co.kr/jp/sports/12214792",
+   "news_source": "매일경제"
+  },
+  {
+   "term": "伊藤大海",
+   "traffic": "500+",
+   "news_title": "伊藤大海の“代名詞”がMLB挑戦ではまさかの落とし穴に？「懸念材料の一つだ」と米放送局が警告したのは…一方で「制球力とイニング消化能力」には期待（THE DIGEST）",
+   "news_url": "https://news.yahoo.co.jp/articles/f3c8a0a78eaf81466b4824eefc8d6940232fea99",
+   "news_source": "Yahoo!ニュース"
+  },
+  {
+   "term": "ブルズ 対 ウィザーズ",
+   "traffic": "200+",
+   "news_title": "Wizards at Bulls Discussion",
+   "news_url": "https://sports.yahoo.com/articles/wizards-bulls-discussion-233000673.html",
+   "news_source": "Yahoo Sports"
+  },
+  {
+   "term": "明治神宮大会",
+   "traffic": "200+",
+   "news_title": "横浜－仙台育英戦で珍事 横浜が１イニング２度のビデオ検証要求 ２度目で判定覆らず 追加点阻止の須江監督がこん身ガッツポーズ（デイリースポーツ）",
+   "news_url": "https://news.yahoo.co.jp/articles/fa2726917a9cb22a3676045a87c16463a0e26c67",
+   "news_source": "Yahoo!ニュース"
+  },
+  {
+   "term": "ケンミンショー 大阪",
+   "traffic": "100+",
+   "news_title": "",
+   "news_url": "",
+   "news_source": ""
+  },
+  {
+   "term": "七曲り",
+   "traffic": "100+",
+   "news_title": "「七曲り」でトラックの単独事故 復旧めど立たず【長野】（abn長野朝日放送）",
+   "news_url": "https://news.yahoo.co.jp/articles/ed619b2f803d8cd6996c0260b05f0ca5ad78a066",
+   "news_source": "Yahoo!ニュース"
+  },
+  {
+   "term": "visa",
+   "traffic": "100+",
+   "news_title": "Visa, Mastercard and JPMorgan Customer Data Leaked by Hackers",
+   "news_url": "https://www.wsj.com/finance/banking/visa-mastercard-and-jpmorgan-customer-data-leaked-by-hackers-3b5a0f87",
+   "news_source": "WSJ"
+  },
+  {
+   "term": "ロイス・ルイス",
+   "traffic": "100+",
+   "news_title": "土曜8時前に衝撃ニュース「えー涙涙涙涙」 ついに来た別れ…去就にファン動揺「出されるのか」（Full-Count）",
+   "news_url": "https://news.yahoo.co.jp/articles/48d17c89ce87159c60e5a0e47f06883c9225f1b2",
+   "news_source": "Yahoo!ニュース"
+  }
+ ],
+ "x": [
+  {
+   "term": "ボトムズ",
+   "hours": 17,
+   "best_rank": 9,
+   "url": "https://x.com/search?q=%E3%83%9C%E3%83%88%E3%83%A0%E3%82%BA"
+  },
+  {
+   "term": "優秀作品賞",
+   "hours": 16,
+   "best_rank": 1,
+   "url": "https://x.com/search?q=%E5%84%AA%E7%A7%80%E4%BD%9C%E5%93%81%E8%B3%9E"
+  },
+  {
+   "term": "魔法使い",
+   "hours": 16,
+   "best_rank": 5,
+   "url": "https://x.com/search?q=%E9%AD%94%E6%B3%95%E4%BD%BF%E3%81%84"
+  },
+  {
+   "term": "身長と体重",
+   "hours": 16,
+   "best_rank": 12,
+   "url": "https://x.com/search?q=%E8%BA%AB%E9%95%B7%E3%81%A8%E4%BD%93%E9%87%8D"
+  },
+  {
+   "term": "リーマン予想",
+   "hours": 15,
+   "best_rank": 1,
+   "url": "https://x.com/search?q=%E3%83%AA%E3%83%BC%E3%83%9E%E3%83%B3%E4%BA%88%E6%83%B3"
+  },
+  {
+   "term": "あなたのカード",
+   "hours": 14,
+   "best_rank": 5,
+   "url": "https://x.com/search?q=%E3%81%82%E3%81%AA%E3%81%9F%E3%81%AE%E3%82%AB%E3%83%BC%E3%83%89"
+  },
+  {
+   "term": "DeNA入り",
+   "hours": 13,
+   "best_rank": 8,
+   "url": "https://x.com/search?q=DeNA%E5%85%A5%E3%82%8A"
+  },
+  {
+   "term": "第68回",
+   "hours": 13,
+   "best_rank": 18,
+   "url": "https://x.com/search?q=%E7%AC%AC68%E5%9B%9E"
+  },
+  {
+   "term": "ゼンゼロ",
+   "hours": 12,
+   "best_rank": 8,
+   "url": "https://x.com/search?q=%E3%82%BC%E3%83%B3%E3%82%BC%E3%83%AD"
+  },
+  {
+   "term": "ENHYPEN",
+   "hours": 11,
+   "best_rank": 13,
+   "url": "https://x.com/search?q=ENHYPEN"
+  },
+  {
+   "term": "ラウール",
+   "hours": 10,
+   "best_rank": 3,
+   "url": "https://x.com/search?q=%E3%83%A9%E3%82%A6%E3%83%BC%E3%83%AB"
+  },
+  {
+   "term": "最優秀新人賞",
+   "hours": 10,
+   "best_rank": 7,
+   "url": "https://x.com/search?q=%E6%9C%80%E5%84%AA%E7%A7%80%E6%96%B0%E4%BA%BA%E8%B3%9E"
+  },
+  {
+   "term": "吉野先生",
+   "hours": 10,
+   "best_rank": 8,
+   "url": "https://x.com/search?q=%E5%90%89%E9%87%8E%E5%85%88%E7%94%9F"
+  },
+  {
+   "term": "最大35連分",
+   "hours": 10,
+   "best_rank": 9,
+   "url": "https://x.com/search?q=%E6%9C%80%E5%A4%A735%E9%80%A3%E5%88%86"
+  },
+  {
+   "term": "金枠衣装",
+   "hours": 10,
+   "best_rank": 9,
+   "url": "https://x.com/search?q=%E9%87%91%E6%9E%A0%E8%A1%A3%E8%A3%85"
+  },
+  {
+   "term": "衝撃の発表",
+   "hours": 10,
+   "best_rank": 13,
+   "url": "https://x.com/search?q=%E8%A1%9D%E6%92%83%E3%81%AE%E7%99%BA%E8%A1%A8"
+  },
+  {
+   "term": "フライドチキンの日",
+   "hours": 9,
+   "best_rank": 2,
+   "url": "https://x.com/search?q=%E3%83%95%E3%83%A9%E3%82%A4%E3%83%89%E3%83%81%E3%82%AD%E3%83%B3%E3%81%AE%E6%97%A5"
+  },
+  {
+   "term": "特別国際音楽賞",
+   "hours": 9,
+   "best_rank": 13,
+   "url": "https://x.com/search?q=%E7%89%B9%E5%88%A5%E5%9B%BD%E9%9A%9B%E9%9F%B3%E6%A5%BD%E8%B3%9E"
+  },
+  {
+   "term": "ルルーシュのもと",
+   "hours": 9,
+   "best_rank": 15,
+   "url": "https://x.com/search?q=%E3%83%AB%E3%83%AB%E3%83%BC%E3%82%B7%E3%83%A5%E3%81%AE%E3%82%82%E3%81%A8"
+  },
+  {
+   "term": "Brand New",
+   "hours": 9,
+   "best_rank": 18,
+   "url": "https://x.com/search?q=Brand%20New"
+  },
+  {
+   "term": "あとひとり",
+   "hours": 9,
+   "best_rank": 19,
+   "url": "https://x.com/search?q=%E3%81%82%E3%81%A8%E3%81%B2%E3%81%A8%E3%82%8A"
+  },
+  {
+   "term": "地元・横浜",
+   "hours": 9,
+   "best_rank": 20,
+   "url": "https://x.com/search?q=%E5%9C%B0%E5%85%83%E3%83%BB%E6%A8%AA%E6%B5%9C"
+  },
+  {
+   "term": "シーサーちゃん",
+   "hours": 9,
+   "best_rank": 22,
+   "url": "https://x.com/search?q=%E3%82%B7%E3%83%BC%E3%82%B5%E3%83%BC%E3%81%A1%E3%82%83%E3%82%93"
+  },
+  {
+   "term": "第1765回",
+   "hours": 9,
+   "best_rank": 23,
+   "url": "https://x.com/search?q=%E7%AC%AC1765%E5%9B%9E"
+  },
+  {
+   "term": "太ももの日",
+   "hours": 9,
+   "best_rank": 25,
+   "url": "https://x.com/search?q=%E5%A4%AA%E3%82%82%E3%82%82%E3%81%AE%E6%97%A5"
+  },
+  {
+   "term": "ドッペルゲンガー",
+   "hours": 9,
+   "best_rank": 28,
+   "url": "https://x.com/search?q=%E3%83%89%E3%83%83%E3%83%9A%E3%83%AB%E3%82%B2%E3%83%B3%E3%82%AC%E3%83%BC"
+  },
+  {
+   "term": "#PayPayスクラッチくじ",
+   "hours": 8,
+   "best_rank": 1,
+   "url": "https://x.com/search?q=%23PayPay%E3%82%B9%E3%82%AF%E3%83%A9%E3%83%83%E3%83%81%E3%81%8F%E3%81%98"
+  },
+  {
+   "term": "#日本レコード大賞",
+   "hours": 8,
+   "best_rank": 2,
+   "url": "https://x.com/search?q=%23%E6%97%A5%E6%9C%AC%E3%83%AC%E3%82%B3%E3%83%BC%E3%83%89%E5%A4%A7%E8%B3%9E"
+  },
+  {
+   "term": "Lienel新人賞",
+   "hours": 8,
+   "best_rank": 11,
+   "url": "https://x.com/search?q=Lienel%E6%96%B0%E4%BA%BA%E8%B3%9E"
+  },
+  {
+   "term": "マナくん",
+   "hours": 8,
+   "best_rank": 21,
+   "url": "https://x.com/search?q=%E3%83%9E%E3%83%8A%E3%81%8F%E3%82%93"
+  },
+  {
+   "term": "新人賞受賞",
+   "hours": 8,
+   "best_rank": 24,
+   "url": "https://x.com/search?q=%E6%96%B0%E4%BA%BA%E8%B3%9E%E5%8F%97%E8%B3%9E"
+  },
+  {
+   "term": "ポーランド",
+   "hours": 8,
+   "best_rank": 27,
+   "url": "https://x.com/search?q=%E3%83%9D%E3%83%BC%E3%83%A9%E3%83%B3%E3%83%89"
+  },
+  {
+   "term": "BMSG",
+   "hours": 8,
+   "best_rank": 29,
+   "url": "https://x.com/search?q=BMSG"
+  },
+  {
+   "term": "Lulu",
+   "hours": 8,
+   "best_rank": 32,
+   "url": "https://x.com/search?q=Lulu"
+  },
+  {
+   "term": "SING",
+   "hours": 7,
+   "best_rank": 5,
+   "url": "https://x.com/search?q=SING"
+  },
+  {
+   "term": "ボンドルド",
+   "hours": 7,
+   "best_rank": 6,
+   "url": "https://x.com/search?q=%E3%83%9C%E3%83%B3%E3%83%89%E3%83%AB%E3%83%89"
+  },
+  {
+   "term": "ドラケン",
+   "hours": 7,
+   "best_rank": 11,
+   "url": "https://x.com/search?q=%E3%83%89%E3%83%A9%E3%82%B1%E3%83%B3"
+  },
+  {
+   "term": "オリックス・宗佑磨",
+   "hours": 7,
+   "best_rank": 15,
+   "url": "https://x.com/search?q=%E3%82%AA%E3%83%AA%E3%83%83%E3%82%AF%E3%82%B9%E3%83%BB%E5%AE%97%E4%BD%91%E7%A3%A8"
+  },
+  {
+   "term": "複数球団",
+   "hours": 7,
+   "best_rank": 24,
+   "url": "https://x.com/search?q=%E8%A4%87%E6%95%B0%E7%90%83%E5%9B%A3"
+  },
+  {
+   "term": "福良さん",
+   "hours": 7,
+   "best_rank": 29,
+   "url": "https://x.com/search?q=%E7%A6%8F%E8%89%AF%E3%81%95%E3%82%93"
+  }
+ ],
+ "hatena": [
+  {
+   "title": "１６７年解けなかった「リーマン予想」、生成ＡＩが証明か…アンソロピックの数学者が発表",
+   "url": "https://www.yomiuri.co.jp/science/20261121-GYT1T00089/",
+   "users": 72
+  },
+  {
+   "title": "参政、国政選挙の立候補者「帰化歴」開示へ法案　二重国籍者の出馬禁止：時事ドットコム",
+   "url": "https://www.jiji.com/jc/article?k=2026112000900&g=pol",
+   "users": 97
+  },
+  {
+   "title": "「自衛隊と民間の一体化が必要」 軍・産・マスコミが癒着する安保三文書改定・有識者会議 着々と敷かれる「国家総動員」へのレール | Tansa",
+   "url": "https://tansajp.org/investigativejournal/15663/",
+   "users": 96
+  },
+  {
+   "title": "SSDの価格は2027年後半に下落し始める可能性あり",
+   "url": "https://gigazine.net/news/20261120-ssd-prices-outlook/",
+   "users": 76
+  },
+  {
+   "title": "「置き配」届けた後、補償なし　破損や盗難、国交省が指針案",
+   "url": "https://www.47news.jp/15259526.html",
+   "users": 224
+  },
+  {
+   "title": "ファンタズマ・リリィ 126話 - ジャンプルーキー！",
+   "url": "https://rookie.shonenjump.com/series/zGZPbQ86a78/TWpXKpZbp0I",
+   "users": 26
+  },
+  {
+   "title": "リニアのトンネル工事 地表付近の川で複数か所から気泡　川の水噴き上げていると報告も　JR東海は工事停止して因果関係調査 | TBS NEWS DIG",
+   "url": "https://newsdig.tbs.co.jp/articles/-/3102836",
+   "users": 34
+  },
+  {
+   "title": "1万円のシンセをAIで魔改造。電子楽器のファームウェア開放が始まった | ギズモード・ジャパン",
+   "url": "https://www.gizmodo.jp/article/0b0516f2-94f8-442e-bdae-2987f090be13/",
+   "users": 34
+  },
+  {
+   "title": "ナオキマン氏の起用はさすがにダメだと思うし、あんなの都市伝説じゃない：ロマン優光連載418",
+   "url": "https://bunkaonline.jp/archives/9308",
+   "users": 16
+  },
+  {
+   "title": "木原長官 高市首相の中国到着時に段差 \"事前情報あり安全配慮\" | NHKニュース",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261120de79342",
+   "users": 59
+  },
+  {
+   "title": "ブルーライトカットのめがね、目の負担軽減の助けにならず　23年国際研究で結論",
+   "url": "https://www.cnn.co.jp/fringe/35255242.html",
+   "users": 40
+  },
+  {
+   "title": "Claudeを使い「リーマン予想」を証明か　Anthropic数学者が発表　Lean検証も通過、数学界が精査へ",
+   "url": "https://japan.cnet.com/article/35255245/",
+   "users": 22
+  },
+  {
+   "title": "「Windows Server 2028」で「WSUS」や「SMB 1.0」、「VBScript」などが削除へ／「Windows PowerShell 5.1」「WDS」は非推奨に、レガシーBIOSでの起動も不可",
+   "url": "https://forest.watch.impress.co.jp/docs/news/2158261.html",
+   "users": 41
+  },
+  {
+   "title": "MADE IN YAMATO - 第２５話　キレ喰いの恐怖 | ヤンマガWeb",
+   "url": "https://yanmaga.jp/viewer/comics/MADE_IN_YAMATO/693915a992fae04a314f63840b9ddc06?cid=06A0000000001025117O",
+   "users": 78
+  },
+  {
+   "title": "店員による不正行為が原因で中止になったくら寿司のちいかわコラボ皿が公式LINEを通じた抽選プレゼントの形に…「まだ集客に利用するの？」「処分はどうなった」など",
+   "url": "https://togetter.com/li/2773047",
+   "users": 66
+  },
+  {
+   "title": "『恋ってなんで変と似てるの』【読切】恋ってなんで変と似てるの - ホニャポコ | COMIC OGYAAA!!",
+   "url": "https://comic-ogyaaa.com/episode/12207421984535542079",
+   "users": 72
+  },
+  {
+   "title": "中国で現象級の流行となる『FX戦士くるみちゃん』｜上海在住のえいちゃん",
+   "url": "https://note.com/eichan_sh/n/n40f5bbbd1121",
+   "users": 344
+  },
+  {
+   "title": "から揚げ粉をエリンギの全身にかけてオーブンで焼くだけで「なんかすごい唐揚げ感がする！」鶏肉唐揚げのように中から旨味成分汁が染み出て「超ウマー！」のエリンギ料理",
+   "url": "https://togetter.com/li/2772992",
+   "users": 119
+  },
+  {
+   "title": "おバカパーツで 馬改造 第15馬｜ピックガードの下にピックアップを埋め込むと音はどうなるの？ | ギターいじリストのおうち",
+   "url": "https://guitar-ijiri.com/blog/gakki-ijiri/stupid-remodeling-vol15_pickup-under-pickguard/",
+   "users": 11
+  },
+  {
+   "title": "モダンな情シスは、AIエージェントを育て、任せ、圧倒的な生産性を生む｜kajinari | モダンな情シス",
+   "url": "https://note.com/kajinari/n/n19c73d819b14",
+   "users": 25
+  },
+  {
+   "title": "[1話]ハーレム勇者伝説 - 津夏なつな/千種利広 | 少年ジャンプ＋",
+   "url": "https://shonenjumpplus.com/episode/9253191257982514218",
+   "users": 91
+  },
+  {
+   "title": "関文科相に辞任論が浮上　自民幹部は「更迭するしかない」 | 毎日新聞",
+   "url": "https://mainichi.jp/articles/20261120/k00/00m/010/367000c",
+   "users": 32
+  },
+  {
+   "title": "『子供を主人公にしたら、子供は見ないですよ』 特撮映像を作る上で、これほどガキの心情を持ったまま商業主義を理解した言葉はないな。 子供は視点の高さを合わせてやると、途端に相手を見下し始めるので、『ちょっと上から引き上げてやる』ぐらいが心地いい。オトナはこれがわからんで失敗する。→「ああ、だから女児向け作品であるプリキュアは中学生なのか」",
+   "url": "https://posfie.com/@petaritape/p/rTKfKcw",
+   "users": 87
+  },
+  {
+   "title": "名古屋での「移民政策反対デモ」準備中の発言は差別的と認定　愛知県、人権条例に基づき公表：中日新聞Web",
+   "url": "https://www.chunichi.co.jp/article/1342561",
+   "users": 21
+  },
+  {
+   "title": "中国、日本に「誤った言動の是正」要求「真に客観的かつ理性的になるべき」",
+   "url": "https://www.afpbb.com/articles/-/3663547",
+   "users": 14
+  },
+  {
+   "title": "【週末駅弁】函館駅「天然岩海苔二段弁当」",
+   "url": "https://travel.watch.impress.co.jp/docs/series/ekiben/2155888.html",
+   "users": 6
+  },
+  {
+   "title": "どれだけGeminiが賢くなってもAIオタクが避ける理由。ついに解消の可能性 - すまほん!!",
+   "url": "https://smhn.info/202611-gemini-subscription-third-party-harness-december-2",
+   "users": 8
+  },
+  {
+   "title": "トランプ氏、ICCは「制御不能」 米中ロ3か国で非難と強調",
+   "url": "https://www.afpbb.com/articles/-/3663542",
+   "users": 7
+  },
+  {
+   "title": "高市首相　APECでトランプ氏に背後から手を添えるも“無視”に「恥ずかしい」の声…識者も驚く“ぼっち外交”のレベル | 女性自身",
+   "url": "https://jisin.jp/domestic/2610725/",
+   "users": 7
+  },
+  {
+   "title": "[アップデート] AWS STS の GetScopedCredentials で権限と有効期間を絞った認証情報を作ってみた | DevelopersIO",
+   "url": "https://dev.classmethod.jp/articles/aws-sts-get-scoped-credentials/",
+   "users": 11
+  },
+  {
+   "title": "定数削減法案　野党「少数意見の排除だ」　与党は来週の採決を提案",
+   "url": "https://news.tv-asahi.co.jp/news_politics/articles/000549411.html",
+   "users": 8
+  },
+  {
+   "title": "蚊帳の外の高市外交　「米国頼み」限界浮き彫り、習氏とは会談できず",
+   "url": "https://www.nishinippon.co.jp/item/1562543/",
+   "users": 61
+  },
+  {
+   "title": "「女子枠を憲法違反と見る憲法学者が多いのでは」日経新聞記事が話題に",
+   "url": "https://posfie.com/@Elif87995911/p/N49I1dY",
+   "users": 83
+  },
+  {
+   "title": "高市首相抗議デモに1万人、靴下も買えない貧しさに怒り……中国メディアが報じた日本 #エキスパートトピ（高口康太） - エキスパート - Yahoo!ニュース",
+   "url": "https://news.yahoo.co.jp/expert/articles/ce0a8f95dc31de99e63a8949cf218177e9253e4a",
+   "users": 28
+  },
+  {
+   "title": "『ワタシってサバサバしてるから』は初期の「なんだこの厚顔無恥な女」という認識から「網浜いけー！ぶちかませー！お前ならやれる！」になったのヘイトコントロールがすごい",
+   "url": "https://togetter.com/li/2772902",
+   "users": 14
+  },
+  {
+   "title": "ウクライナへ大規模攻撃、プーチン氏が「痛烈な」報復表明後",
+   "url": "https://www.afpbb.com/articles/-/3663506",
+   "users": 7
+  },
+  {
+   "title": "ZOZOTOWNの退会者含む1,518万人分の情報が漏えい　WEAR by ZOZOでも1,393万人分に（ビジネス＋IT） - Yahoo!ニュース",
+   "url": "https://news.yahoo.co.jp/articles/1739163b2e1fd496107c05cb8b455d37d52be5d9",
+   "users": 14
+  },
+  {
+   "title": "社説：高市首相訪中　冷遇の演出から見える認知戦 : 読売新聞",
+   "url": "https://www.yomiuri.co.jp/editorial/20261119-GYT1T00411/",
+   "users": 142
+  },
+  {
+   "title": "保険金不正請求のタマホーム、損保会社へは「数万円水増し」の見積書…顧客の自己負担軽減で「信頼」狙いか",
+   "url": "https://www.yomiuri.co.jp/economy/20261121-GYT1T00021/",
+   "users": 17
+  },
+  {
+   "title": "「KARTE」への不正アクセスに関する当社調査結果と、サービス再開の見通し等のお知らせ",
+   "url": "https://plaid.co.jp/news/20261120/",
+   "users": 57
+  }
+ ]
+}
