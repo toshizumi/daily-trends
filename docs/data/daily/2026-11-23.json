@@ -1,0 +1,521 @@
+{
+ "date": "2026-11-23",
+ "collected_at": "2026-11-23T10:28+09:00",
+ "errors": {},
+ "google": [
+  {
+   "term": "豊橋市 鳥インフルエンザ",
+   "traffic": "2000+",
+   "news_title": "2022年12月以来…愛知県豊橋市の養鶏場で鳥インフルエンザの疑い 精密検査で陽性となればニワトリ約7.9万羽を殺処分",
+   "news_url": "https://news.yahoo.co.jp/articles/99c95657e69ac6325b63f1e16b7ecd6ecc3d4913",
+   "news_source": "Yahoo!ニュース"
+  },
+  {
+   "term": "u-17サッカー大韓民国代表",
+   "traffic": "2000+",
+   "news_title": "[U-17W杯]韓国が圧巻9得点0失点でGL突破一番乗り!! ギリシャ&ウルグアイも32強確定、サウジはフランス破る大金星",
+   "news_url": "https://news.yahoo.co.jp/articles/a0e42eed39d70481805e414aba2a9b5da92c18bc",
+   "news_source": "Yahoo!ニュース"
+  },
+  {
+   "term": "田中 みな実",
+   "traffic": "500+",
+   "news_title": "田中みな実「表情優しくなった？」「目が違う気がする！」「体調は…」最新姿に反響「すっごく綺麗」第１子妊娠中",
+   "news_url": "https://article.auone.jp/632e6ace-0c5e-43d0-bb45-c994382083d6",
+   "news_source": "au Webポータル"
+  },
+  {
+   "term": "番付",
+   "traffic": "500+",
+   "news_title": "初場所の新番付どうなる？ 藤凌駕は新三役、朝乃山は三役復帰へ、若隆景は再入幕有力（日刊スポーツ）",
+   "news_url": "https://news.yahoo.co.jp/articles/adfd4ccf26f16f2d3ea478203ef4fb0dced8a8a3",
+   "news_source": "Yahoo!ニュース"
+  },
+  {
+   "term": "ソウル",
+   "traffic": "200+",
+   "news_title": "韓国俳優、ソウル・聖水のビルが推定70億ウォンに…12年で約3.3倍（KOREA WAVE）",
+   "news_url": "https://news.yahoo.co.jp/articles/4ee7cc564b5edcf9d88da6abad18446a642f8743",
+   "news_source": "Yahoo!ニュース"
+  },
+  {
+   "term": "ウィザーズ 対 マジック",
+   "traffic": "100+",
+   "news_title": "Wizards vs Magic Preview: Washington returns home to face Magic",
+   "news_url": "https://www.bulletsforever.com/washington-wizards-preview/74261/wizards-vs-magic-preview-washington-returns-home-to-face-magic",
+   "news_source": "Bullets Forever"
+  },
+  {
+   "term": "ららぽーと豊洲",
+   "traffic": "100+",
+   "news_title": "豊洲で2026年のクリスマス夜パフェイベント！予約開始は23日（月・祝）",
+   "news_url": "https://toyosu.tokyo/event/lalachancegarden-tokyo-bay-xmas-parfait-2026-info/",
+   "news_source": "とよすと"
+  },
+  {
+   "term": "ジャズ 対 マーベリックス",
+   "traffic": "100+",
+   "news_title": "Preview: Utah Jazz Host Dallas Mavericks",
+   "news_url": "https://utahjazz.com/news/preview-utah-jazz-host-dallas-mavericks",
+   "news_source": "NBA.com"
+  },
+  {
+   "term": "ブルズ 対 ナゲッツ",
+   "traffic": "100+",
+   "news_title": "Bulls vs. Nuggets Preview: How to Watch, Injury Report & Odds",
+   "news_url": "https://sports.yahoo.com/articles/bulls-vs-nuggets-preview-watch-225233883.html",
+   "news_source": "Yahoo Sports"
+  },
+  {
+   "term": "ロバート",
+   "traffic": "100+",
+   "news_title": "100万円が“激安”と感じたロバート秋山のプレゼン力 本物の社長となった秋山の成功を予感（日刊スポーツ）",
+   "news_url": "https://news.yahoo.co.jp/articles/a75e9850d21b087ce06eda00b99efff6792e2d98",
+   "news_source": "Yahoo!ニュース"
+  }
+ ],
+ "x": [
+  {
+   "term": "勤労感謝の日",
+   "hours": 22,
+   "best_rank": 1,
+   "url": "https://x.com/search?q=%E5%8B%A4%E5%8A%B4%E6%84%9F%E8%AC%9D%E3%81%AE%E6%97%A5"
+  },
+  {
+   "term": "ヒーロー名",
+   "hours": 22,
+   "best_rank": 6,
+   "url": "https://x.com/search?q=%E3%83%92%E3%83%BC%E3%83%AD%E3%83%BC%E5%90%8D"
+  },
+  {
+   "term": "#個性診断",
+   "hours": 18,
+   "best_rank": 3,
+   "url": "https://x.com/search?q=%23%E5%80%8B%E6%80%A7%E8%A8%BA%E6%96%AD"
+  },
+  {
+   "term": "S/弱点",
+   "hours": 17,
+   "best_rank": 11,
+   "url": "https://x.com/search?q=S/%E5%BC%B1%E7%82%B9"
+  },
+  {
+   "term": "A/弱点",
+   "hours": 17,
+   "best_rank": 12,
+   "url": "https://x.com/search?q=A/%E5%BC%B1%E7%82%B9"
+  },
+  {
+   "term": "夫婦の日",
+   "hours": 15,
+   "best_rank": 1,
+   "url": "https://x.com/search?q=%E5%A4%AB%E5%A9%A6%E3%81%AE%E6%97%A5"
+  },
+  {
+   "term": "兄さんの日",
+   "hours": 15,
+   "best_rank": 9,
+   "url": "https://x.com/search?q=%E5%85%84%E3%81%95%E3%82%93%E3%81%AE%E6%97%A5"
+  },
+  {
+   "term": "バズーカ",
+   "hours": 11,
+   "best_rank": 2,
+   "url": "https://x.com/search?q=%E3%83%90%E3%82%BA%E3%83%BC%E3%82%AB"
+  },
+  {
+   "term": "希望の唄",
+   "hours": 11,
+   "best_rank": 12,
+   "url": "https://x.com/search?q=%E5%B8%8C%E6%9C%9B%E3%81%AE%E5%94%84"
+  },
+  {
+   "term": "背番号3",
+   "hours": 11,
+   "best_rank": 30,
+   "url": "https://x.com/search?q=%E8%83%8C%E7%95%AA%E5%8F%B73"
+  },
+  {
+   "term": "バルコラ",
+   "hours": 10,
+   "best_rank": 1,
+   "url": "https://x.com/search?q=%E3%83%90%E3%83%AB%E3%82%B3%E3%83%A9"
+  },
+  {
+   "term": "ヴィルツ",
+   "hours": 9,
+   "best_rank": 1,
+   "url": "https://x.com/search?q=%E3%83%B4%E3%82%A3%E3%83%AB%E3%83%84"
+  },
+  {
+   "term": "エルデナリ",
+   "hours": 9,
+   "best_rank": 1,
+   "url": "https://x.com/search?q=%E3%82%A8%E3%83%AB%E3%83%87%E3%83%8A%E3%83%AA"
+  },
+  {
+   "term": "ユナイテッド",
+   "hours": 9,
+   "best_rank": 3,
+   "url": "https://x.com/search?q=%E3%83%A6%E3%83%8A%E3%82%A4%E3%83%86%E3%83%83%E3%83%89"
+  },
+  {
+   "term": "まむちー",
+   "hours": 9,
+   "best_rank": 9,
+   "url": "https://x.com/search?q=%E3%81%BE%E3%82%80%E3%81%A1%E3%83%BC"
+  },
+  {
+   "term": "リヴァプール",
+   "hours": 9,
+   "best_rank": 11,
+   "url": "https://x.com/search?q=%E3%83%AA%E3%83%B4%E3%82%A1%E3%83%97%E3%83%BC%E3%83%AB"
+  },
+  {
+   "term": "B/弱点",
+   "hours": 9,
+   "best_rank": 26,
+   "url": "https://x.com/search?q=B/%E5%BC%B1%E7%82%B9"
+  },
+  {
+   "term": "#乃木坂工事中",
+   "hours": 8,
+   "best_rank": 1,
+   "url": "https://x.com/search?q=%23%E4%B9%83%E6%9C%A8%E5%9D%82%E5%B7%A5%E4%BA%8B%E4%B8%AD"
+  },
+  {
+   "term": "連休最終日",
+   "hours": 8,
+   "best_rank": 2,
+   "url": "https://x.com/search?q=%E9%80%A3%E4%BC%91%E6%9C%80%E7%B5%82%E6%97%A5"
+  },
+  {
+   "term": "マイルCS",
+   "hours": 8,
+   "best_rank": 2,
+   "url": "https://x.com/search?q=%E3%83%9E%E3%82%A4%E3%83%ABCS"
+  },
+  {
+   "term": "エングモア",
+   "hours": 8,
+   "best_rank": 3,
+   "url": "https://x.com/search?q=%E3%82%A8%E3%83%B3%E3%82%B0%E3%83%A2%E3%82%A2"
+  },
+  {
+   "term": "デリフト",
+   "hours": 8,
+   "best_rank": 4,
+   "url": "https://x.com/search?q=%E3%83%87%E3%83%AA%E3%83%95%E3%83%88"
+  },
+  {
+   "term": "ソボスライ",
+   "hours": 8,
+   "best_rank": 6,
+   "url": "https://x.com/search?q=%E3%82%BD%E3%83%9C%E3%82%B9%E3%83%A9%E3%82%A4"
+  },
+  {
+   "term": "フェルミン",
+   "hours": 8,
+   "best_rank": 9,
+   "url": "https://x.com/search?q=%E3%83%95%E3%82%A7%E3%83%AB%E3%83%9F%E3%83%B3"
+  },
+  {
+   "term": "トバさん",
+   "hours": 8,
+   "best_rank": 15,
+   "url": "https://x.com/search?q=%E3%83%88%E3%83%90%E3%81%95%E3%82%93"
+  },
+  {
+   "term": "サカモトデイズ",
+   "hours": 8,
+   "best_rank": 15,
+   "url": "https://x.com/search?q=%E3%82%B5%E3%82%AB%E3%83%A2%E3%83%88%E3%83%87%E3%82%A4%E3%82%BA"
+  },
+  {
+   "term": "サカデイ",
+   "hours": 8,
+   "best_rank": 16,
+   "url": "https://x.com/search?q=%E3%82%B5%E3%82%AB%E3%83%87%E3%82%A4"
+  },
+  {
+   "term": "ウラのレポート",
+   "hours": 8,
+   "best_rank": 19,
+   "url": "https://x.com/search?q=%E3%82%A6%E3%83%A9%E3%81%AE%E3%83%AC%E3%83%9D%E3%83%BC%E3%83%88"
+  },
+  {
+   "term": "伝説の個性",
+   "hours": 8,
+   "best_rank": 38,
+   "url": "https://x.com/search?q=%E4%BC%9D%E8%AA%AC%E3%81%AE%E5%80%8B%E6%80%A7"
+  },
+  {
+   "term": "#MILESixTONES生配信",
+   "hours": 7,
+   "best_rank": 1,
+   "url": "https://x.com/search?q=%23MILESixTONES%E7%94%9F%E9%85%8D%E4%BF%A1"
+  },
+  {
+   "term": "#日向坂で会いましょう",
+   "hours": 7,
+   "best_rank": 2,
+   "url": "https://x.com/search?q=%23%E6%97%A5%E5%90%91%E5%9D%82%E3%81%A7%E4%BC%9A%E3%81%84%E3%81%BE%E3%81%97%E3%82%87%E3%81%86"
+  },
+  {
+   "term": "ムニョス",
+   "hours": 7,
+   "best_rank": 4,
+   "url": "https://x.com/search?q=%E3%83%A0%E3%83%8B%E3%83%A7%E3%82%B9"
+  },
+  {
+   "term": "ジャパンカップ",
+   "hours": 7,
+   "best_rank": 7,
+   "url": "https://x.com/search?q=%E3%82%B8%E3%83%A3%E3%83%91%E3%83%B3%E3%82%AB%E3%83%83%E3%83%97"
+  },
+  {
+   "term": "エンベウモ",
+   "hours": 7,
+   "best_rank": 9,
+   "url": "https://x.com/search?q=%E3%82%A8%E3%83%B3%E3%83%99%E3%82%A6%E3%83%A2"
+  },
+  {
+   "term": "ブライトン",
+   "hours": 7,
+   "best_rank": 9,
+   "url": "https://x.com/search?q=%E3%83%96%E3%83%A9%E3%82%A4%E3%83%88%E3%83%B3"
+  },
+  {
+   "term": "古戦場予選",
+   "hours": 7,
+   "best_rank": 10,
+   "url": "https://x.com/search?q=%E5%8F%A4%E6%88%A6%E5%A0%B4%E4%BA%88%E9%81%B8"
+  },
+  {
+   "term": "ゲームの日",
+   "hours": 7,
+   "best_rank": 13,
+   "url": "https://x.com/search?q=%E3%82%B2%E3%83%BC%E3%83%A0%E3%81%AE%E6%97%A5"
+  },
+  {
+   "term": "ラメンス",
+   "hours": 7,
+   "best_rank": 14,
+   "url": "https://x.com/search?q=%E3%83%A9%E3%83%A1%E3%83%B3%E3%82%B9"
+  },
+  {
+   "term": "ケルケズ",
+   "hours": 7,
+   "best_rank": 15,
+   "url": "https://x.com/search?q=%E3%82%B1%E3%83%AB%E3%82%B1%E3%82%BA"
+  },
+  {
+   "term": "ポチェッティーノ",
+   "hours": 7,
+   "best_rank": 17,
+   "url": "https://x.com/search?q=%E3%83%9D%E3%83%81%E3%82%A7%E3%83%83%E3%83%86%E3%82%A3%E3%83%BC%E3%83%8E"
+  }
+ ],
+ "hatena": [
+  {
+   "title": "ここ1か月くらい、PCに勝手に Adobe Express Photos が勝手にインストールされたっていう問い合わせが多発してるんですが、さすがにこれはAdobeさんやりすぎじゃないでしょうか・・・？ しかも、Windows+Shift+Sを勝手に上書きして、機能劣化版のスクショツールに置き換わるんですよ…→「これマジでクソ過ぎてAdobe系製品全部消したい」",
+   "url": "https://posfie.com/@petaritape/p/tgzVdbL",
+   "users": 109
+  },
+  {
+   "title": "Claude Code を安全に「自走」させるなら、もう Docker Sandboxes 一択でよくない？と思った話。｜YamaC / ﾔﾏｼｰ",
+   "url": "https://note.com/yamac_/n/n198bdc344c64",
+   "users": 58
+  },
+  {
+   "title": "2026年11月21日をもって世界はシンギュラリティに突入した｜たてはま",
+   "url": "https://note.com/cgbeginner/n/n5856d402f125",
+   "users": 225
+  },
+  {
+   "title": "Agent Harnessを理解するために、150行ほどのPythonで自作してみた - Qiita",
+   "url": "https://qiita.com/yamamoto_a_genee/items/76562c5c80032ad9e962",
+   "users": 78
+  },
+  {
+   "title": "オバマ氏を「へつらい屋」とやゆ　トランプ氏、天皇陛下写真 | NEWSjp",
+   "url": "https://news.jp/i/1497045677678232364",
+   "users": 99
+  },
+  {
+   "title": "なんでみんなそんなにセルフレジに戸惑うんだ？ UIや導線が統一されてない..",
+   "url": "https://anond.hatelabo.jp/20261122011458",
+   "users": 214
+  },
+  {
+   "title": "なぜ日本人はアウシュヴィッツが好きなのか｜日居月諸",
+   "url": "https://note.com/nikkyo/n/n72fbc5c51f5e",
+   "users": 37
+  },
+  {
+   "title": "冷め切った夫婦channel 冷め切った夫婦channel",
+   "url": "https://manga-one.com/manga/28783/chapter/362449",
+   "users": 38
+  },
+  {
+   "title": "AndroidスマホがWindows PCのサブ画面に？マイクロソフトが新機能 - すまほん!!",
+   "url": "https://smhn.info/202611-microsoft-link-to-windows-extend-display-android-second-screen",
+   "users": 46
+  },
+  {
+   "title": "融雪剤散布でアリが草食に、多雪地域の生態系に影響か　弘前大学チーム - 日本経済新聞",
+   "url": "https://www.nikkei.com/article/DGXZQOUD2210L0S6A121C2000000/",
+   "users": 53
+  },
+  {
+   "title": "首相出席削減、自民が議論本格化　高市氏意向背景？野党反発―国会改革：時事ドットコム",
+   "url": "https://www.jiji.com/sp/article?k=2026112200200&g=pol",
+   "users": 20
+  },
+  {
+   "title": "[アップデート]AWSアカウント作成がとんでもなく別物になったので動作の違いを見てみた[新しいAWSエクスペリエンス] | DevelopersIO",
+   "url": "https://dev.classmethod.jp/articles/new-aws-signup/",
+   "users": 29
+  },
+  {
+   "title": "消費税減税、防衛費増と「トレードオフ」　成長投資は財源を先行確保 - 日本経済新聞",
+   "url": "https://www.nikkei.com/article/DGXZQOUA212RY0R21C26A1000000/",
+   "users": 26
+  },
+  {
+   "title": "枝野氏、立民復党を希望　「原点に立ち返る」（共同通信） - Yahoo!ニュース",
+   "url": "https://news.yahoo.co.jp/articles/de3b7c0dd34de14db6c4239fe71f5ca6861c0a12",
+   "users": 22
+  },
+  {
+   "title": "証明が得られたあとに−−証明を理解するという仕事｜加藤文元",
+   "url": "https://note.com/katobungen/n/n2326bd68a80e",
+   "users": 23
+  },
+  {
+   "title": "工学系プログラマー絵描きが生成AIでイラストや漫画を生成してみた感想",
+   "url": "https://anond.hatelabo.jp/20261122140104",
+   "users": 40
+  },
+  {
+   "title": "裁判傍聴マニアだが何故か記事運営削除されたので追記を供養替わりに書く",
+   "url": "https://anond.hatelabo.jp/20261122225729",
+   "users": 46
+  },
+  {
+   "title": "飲酒運転疑われた男性、「腸発酵症候群」だった　体内でアルコール醸造　19年米",
+   "url": "https://www.cnn.co.jp/fringe/35255279.html",
+   "users": 24
+  },
+  {
+   "title": "ヤニねこ - 425mg | ヤンマガWeb",
+   "url": "https://yanmaga.jp/viewer/comics/%E3%83%A4%E3%83%8B%E3%81%AD%E3%81%93/1a5d685f4389cdbe4fac771863f33575?cid=06A0000000001065587S",
+   "users": 12
+  },
+  {
+   "title": "トランプ氏、SNSでオバマ氏を揶揄　上皇ご夫妻との写真、自身と習氏の写真と並べて投稿",
+   "url": "https://www.sankei.com/article/20261123-V2RNK7UYFZOKZNEDCZFQUPVM7M/",
+   "users": 46
+  },
+  {
+   "title": "「米国はイスラエルの奴隷なのか？」、イスラエル大使の問題発言にアメリカ人激怒（海外の反応）",
+   "url": "https://kaikore.blogspot.com/2026/11/blog-post_22.html",
+   "users": 20
+  },
+  {
+   "title": "ここまで情報漏洩してもGoogle、Amazon、Apple辺りがやらかしていないのは流石では？→漏洩させている側がサイバー攻撃用にクラウドを使っているからできない説が浮上",
+   "url": "https://togetter.com/li/2773653",
+   "users": 66
+  },
+  {
+   "title": "中国のＺ世代はなぜ毛沢東と「反清」を夢見るのか",
+   "url": "https://japan.hani.co.kr/arti/international/cn_tw/57480.html",
+   "users": 18
+  },
+  {
+   "title": "冬の大学に水筒で「アツアツの出汁」を持参、卒論やレポートの合間に飲むとメンタルに効いた話に「だしってなんかホッとする」",
+   "url": "https://togetter.com/li/2773773",
+   "users": 77
+  },
+  {
+   "title": "ラブユアマークス／ジャンプ＋漫画賞2026年7-8月期 - 晴雲 | 少年ジャンプ＋",
+   "url": "https://shonenjumpplus.com/episode/9253191257982514324",
+   "users": 29
+  },
+  {
+   "title": "中国車39カ国で日本車超え、ドイツなどで販売数逆転　EVが切り崩し - 日本経済新聞",
+   "url": "https://www.nikkei.com/article/DGXZQOUC105240Q6A111C2000000/",
+   "users": 116
+  },
+  {
+   "title": "第120話 裸の付き合い / となりの席のヤツがそういう目で見てくる - mmk | サンデーうぇぶり",
+   "url": "https://www.sunday-webry.com/episode/12207421984548200709",
+   "users": 18
+  },
+  {
+   "title": "家賃の値上がり、53,700円以下の物件が見つからない……都内で住む生活保護受給者に地方への移住を勧める声が集まるが、そう単純な話ではなかった",
+   "url": "https://togetter.com/li/2773747",
+   "users": 241
+  },
+  {
+   "title": "「委託したとこ全部漏洩してんじゃんよ💢」プレイド『KARTE』の不正アクセスで、ZOZOTOWNや三菱UFJ銀行など影響を受けた企業が次々判明…不安や警戒の声が広がる",
+   "url": "https://togetter.com/li/2773732",
+   "users": 104
+  },
+  {
+   "title": "Google が実践する最先端の SRE",
+   "url": "https://sre-magazine.net/articles/7/aoto/",
+   "users": 85
+  },
+  {
+   "title": "出社してオフィスで働く頻度の最適解とは？",
+   "url": "https://gigazine.net/news/20261122-work-at-office/",
+   "users": 14
+  },
+  {
+   "title": "この時代に、なぜ技術カンファレンス・勉強会に行くのか｜Subaru Nakamura(varu3)",
+   "url": "https://note.com/varu3/n/n4476366008f8",
+   "users": 12
+  },
+  {
+   "title": "片耳を失聴してる娘が自動車学校に申し込んだら警察署→免許センターとたらい回しされたが、免許センターの警察官が「許可も糞もあるか！」と学校に電話してくれてよかった",
+   "url": "https://togetter.com/li/2773767",
+   "users": 44
+  },
+  {
+   "title": "ワークフローからハーネスへ — Web フレームワークの作者たちが AI エージェントに向かう理由",
+   "url": "https://speakerdeck.com/azukiazusa1/slide-ca142a4a-9ec4-4750-91c1-07892c44a423",
+   "users": 64
+  },
+  {
+   "title": "【魚拓】裁判傍聴マニアだが闇バ〇ト事件が限界突破しすぎていてどんだけヤバイか書く",
+   "url": "https://megalodon.jp/2026-1122-1435-47/https://anond.hatelabo.jp:443/20261122095858",
+   "users": 123
+  },
+  {
+   "title": "「連続企業爆破事件」益永利明死刑囚が東京拘置所で死亡…１９７４年の三菱重工ビル爆破事件では８人死亡・１６５人重軽傷",
+   "url": "https://www.yomiuri.co.jp/national/20261122-GYT1T00132/",
+   "users": 39
+  },
+  {
+   "title": "定年後のセカンドキャリアとしての大学教員になるための留意事項 - 大学アドミニストレーターを目指す大学関係者のブログ",
+   "url": "https://www.daigaku23.com/entry/2026/11/22/080729",
+   "users": 14
+  },
+  {
+   "title": "実家帰省時に母が作った唐揚げを食べたら味が変わっていて「レシピ変えたの？」と聞いたら「リュウジのレシピに変えたの！美味しいよね〜」と…お袋の味が食べたかったのに",
+   "url": "https://togetter.com/li/2773869",
+   "users": 8
+  },
+  {
+   "title": "ナオキマンが発信してきたこと（前編）｜雨宮純",
+   "url": "https://note.com/caffelover/n/n0e6fee367342",
+   "users": 236
+  },
+  {
+   "title": "日本人の個人情報「需要ある」「ハッキング容易」…セキュリティー軽視、経営層に危機感届かず",
+   "url": "https://www.yomiuri.co.jp/national/20261122-GYT1T00208/",
+   "users": 11
+  }
+ ]
+}
