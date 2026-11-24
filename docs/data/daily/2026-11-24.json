@@ -1,0 +1,521 @@
+{
+ "date": "2026-11-24",
+ "collected_at": "2026-11-24T14:11+09:00",
+ "errors": {},
+ "google": [
+  {
+   "term": "南海電車 人身事故",
+   "traffic": "20000+",
+   "news_title": "南海高野線の今宮戎駅で男女２人が区間急行にはねられ死亡…１２３本が運休・１３万人に影響（読売新聞オンライン）",
+   "news_url": "https://news.yahoo.co.jp/articles/88ee27851af8d734747563360dc7402b42c8df0c",
+   "news_source": "Yahoo!ニュース"
+  },
+  {
+   "term": "横浜denaベイスターズ",
+   "traffic": "2000+",
+   "news_title": "2027年シーズン 選手契約について",
+   "news_url": "https://www.baystars.co.jp/news/2026/11/1124_05.php",
+   "news_source": "横浜DeNAベイスターズ"
+  },
+  {
+   "term": "かっぱ 寿司 閉店",
+   "traffic": "2000+",
+   "news_title": "かっぱ寿司、赤字9億円で15店舗閉店へ 「おいしくなった」のに回転ずし「3強」に引き離された元王者",
+   "news_url": "https://news.yahoo.co.jp/articles/d991f5b90ca1ad20a3e62547188dc62145eb16c4",
+   "news_source": "Yahoo!ニュース"
+  },
+  {
+   "term": "ミセスグリーンアップル",
+   "traffic": "2000+",
+   "news_title": "Mrs. GREEN APPLE藤澤涼架が考案したコラボメニューが大好評！ガスト全店で単品販売スタート（THE FIRST TIMES）",
+   "news_url": "https://news.yahoo.co.jp/articles/1fd453357547a62fdbed1c5943782db90bb1fdf4",
+   "news_source": "Yahoo!ニュース"
+  },
+  {
+   "term": "ビアードパパ プリキュア",
+   "traffic": "500+",
+   "news_title": "大反響コラボ再び！ 『名探偵プリキュア！×ビアードパパ』“史上最上級にかわいい”プリキュアシューが、数量限定で12月1日登場！ | 株式会社DAY TO LIFEのプレスリリース",
+   "news_url": "https://prtimes.jp/main/html/rd/p/000000446.000007024.html",
+   "news_source": "PR TIMES"
+  },
+  {
+   "term": "ベンヤミン・ネタニヤフ",
+   "traffic": "500+",
+   "news_title": "公約破らないと組閣できず イスラエル連立交渉で識者（共同通信）",
+   "news_url": "https://news.yahoo.co.jp/articles/b546e7596a0587315470dc84bbf73a1af8b0811c",
+   "news_source": "Yahoo!ニュース"
+  },
+  {
+   "term": "シェフ",
+   "traffic": "200+",
+   "news_title": "仏「天才双子シェフ」に聞く 美食のトレンドは再びフランスへ",
+   "news_url": "https://www.nikkei.com/article/DGXZQOUD090ZM0Z01C26A1000000/",
+   "news_source": "日本経済新聞"
+  },
+  {
+   "term": "佐久間宣行",
+   "traffic": "200+",
+   "news_title": "佐久間宣行、【セブン‐イレブン】230円商品を「やば、うまっ！」「これ買っちゃうかも」「いかんいかん帰り道にこれが買えると…」と絶賛（ねとらぼ）",
+   "news_url": "https://news.yahoo.co.jp/articles/ef1905167dea01b48bb9204766ec9da38918387c",
+   "news_source": "Yahoo!ニュース"
+  },
+  {
+   "term": "河野佳",
+   "traffic": "200+",
+   "news_title": "",
+   "news_url": "",
+   "news_source": ""
+  },
+  {
+   "term": "船迫大雅",
+   "traffic": "200+",
+   "news_title": "",
+   "news_url": "",
+   "news_source": ""
+  }
+ ],
+ "x": [
+  {
+   "term": "革ジャン",
+   "hours": 19,
+   "best_rank": 3,
+   "url": "https://x.com/search?q=%E9%9D%A9%E3%82%B8%E3%83%A3%E3%83%B3"
+  },
+  {
+   "term": "#あなたの年齢を当てます",
+   "hours": 18,
+   "best_rank": 1,
+   "url": "https://x.com/search?q=%23%E3%81%82%E3%81%AA%E3%81%9F%E3%81%AE%E5%B9%B4%E9%BD%A2%E3%82%92%E5%BD%93%E3%81%A6%E3%81%BE%E3%81%99"
+  },
+  {
+   "term": "私の語彙力",
+   "hours": 16,
+   "best_rank": 5,
+   "url": "https://x.com/search?q=%E7%A7%81%E3%81%AE%E8%AA%9E%E5%BD%99%E5%8A%9B"
+  },
+  {
+   "term": "取締役会",
+   "hours": 16,
+   "best_rank": 11,
+   "url": "https://x.com/search?q=%E5%8F%96%E7%B7%A0%E5%BD%B9%E4%BC%9A"
+  },
+  {
+   "term": "#KEPIGAME",
+   "hours": 15,
+   "best_rank": 2,
+   "url": "https://x.com/search?q=%23KEPIGAME"
+  },
+  {
+   "term": "和食の日",
+   "hours": 13,
+   "best_rank": 2,
+   "url": "https://x.com/search?q=%E5%92%8C%E9%A3%9F%E3%81%AE%E6%97%A5"
+  },
+  {
+   "term": "恋ちゃん",
+   "hours": 13,
+   "best_rank": 15,
+   "url": "https://x.com/search?q=%E6%81%8B%E3%81%A1%E3%82%83%E3%82%93"
+  },
+  {
+   "term": "連休明け",
+   "hours": 12,
+   "best_rank": 1,
+   "url": "https://x.com/search?q=%E9%80%A3%E4%BC%91%E6%98%8E%E3%81%91"
+  },
+  {
+   "term": "エヌビディア",
+   "hours": 12,
+   "best_rank": 8,
+   "url": "https://x.com/search?q=%E3%82%A8%E3%83%8C%E3%83%93%E3%83%87%E3%82%A3%E3%82%A2"
+  },
+  {
+   "term": "タクちゃん",
+   "hours": 12,
+   "best_rank": 11,
+   "url": "https://x.com/search?q=%E3%82%BF%E3%82%AF%E3%81%A1%E3%82%83%E3%82%93"
+  },
+  {
+   "term": "兄さんの日",
+   "hours": 11,
+   "best_rank": 8,
+   "url": "https://x.com/search?q=%E5%85%84%E3%81%95%E3%82%93%E3%81%AE%E6%97%A5"
+  },
+  {
+   "term": "上林誠知",
+   "hours": 11,
+   "best_rank": 10,
+   "url": "https://x.com/search?q=%E4%B8%8A%E6%9E%97%E8%AA%A0%E7%9F%A5"
+  },
+  {
+   "term": "ジョンハン",
+   "hours": 11,
+   "best_rank": 18,
+   "url": "https://x.com/search?q=%E3%82%B8%E3%83%A7%E3%83%B3%E3%83%8F%E3%83%B3"
+  },
+  {
+   "term": "参加・視聴",
+   "hours": 11,
+   "best_rank": 24,
+   "url": "https://x.com/search?q=%E5%8F%82%E5%8A%A0%E3%83%BB%E8%A6%96%E8%81%B4"
+  },
+  {
+   "term": "ショート・メドレー込み",
+   "hours": 11,
+   "best_rank": 26,
+   "url": "https://x.com/search?q=%E3%82%B7%E3%83%A7%E3%83%BC%E3%83%88%E3%83%BB%E3%83%A1%E3%83%89%E3%83%AC%E3%83%BC%E8%BE%BC%E3%81%BF"
+  },
+  {
+   "term": "#MILK結成12周年",
+   "hours": 10,
+   "best_rank": 1,
+   "url": "https://x.com/search?q=%23MILK%E7%B5%90%E6%88%9012%E5%91%A8%E5%B9%B4"
+  },
+  {
+   "term": "フアン氏",
+   "hours": 10,
+   "best_rank": 6,
+   "url": "https://x.com/search?q=%E3%83%95%E3%82%A2%E3%83%B3%E6%B0%8F"
+  },
+  {
+   "term": "鰹節の日",
+   "hours": 10,
+   "best_rank": 10,
+   "url": "https://x.com/search?q=%E9%B0%B9%E7%AF%80%E3%81%AE%E6%97%A5"
+  },
+  {
+   "term": "しゃべくり",
+   "hours": 9,
+   "best_rank": 3,
+   "url": "https://x.com/search?q=%E3%81%97%E3%82%83%E3%81%B9%E3%81%8F%E3%82%8A"
+  },
+  {
+   "term": "進化の日",
+   "hours": 9,
+   "best_rank": 6,
+   "url": "https://x.com/search?q=%E9%80%B2%E5%8C%96%E3%81%AE%E6%97%A5"
+  },
+  {
+   "term": "Nvidia",
+   "hours": 9,
+   "best_rank": 7,
+   "url": "https://x.com/search?q=Nvidia"
+  },
+  {
+   "term": "休み明け",
+   "hours": 9,
+   "best_rank": 11,
+   "url": "https://x.com/search?q=%E4%BC%91%E3%81%BF%E6%98%8E%E3%81%91"
+  },
+  {
+   "term": "阪神FA補強",
+   "hours": 9,
+   "best_rank": 12,
+   "url": "https://x.com/search?q=%E9%98%AA%E7%A5%9EFA%E8%A3%9C%E5%BC%B7"
+  },
+  {
+   "term": "タクヤくん",
+   "hours": 9,
+   "best_rank": 12,
+   "url": "https://x.com/search?q=%E3%82%BF%E3%82%AF%E3%83%A4%E3%81%8F%E3%82%93"
+  },
+  {
+   "term": "強打の外野手",
+   "hours": 9,
+   "best_rank": 13,
+   "url": "https://x.com/search?q=%E5%BC%B7%E6%89%93%E3%81%AE%E5%A4%96%E9%87%8E%E6%89%8B"
+  },
+  {
+   "term": "リーグ3連覇",
+   "hours": 9,
+   "best_rank": 14,
+   "url": "https://x.com/search?q=%E3%83%AA%E3%83%BC%E3%82%B03%E9%80%A3%E8%A6%87"
+  },
+  {
+   "term": "契約合意",
+   "hours": 9,
+   "best_rank": 15,
+   "url": "https://x.com/search?q=%E5%A5%91%E7%B4%84%E5%90%88%E6%84%8F"
+  },
+  {
+   "term": "スティーブ",
+   "hours": 9,
+   "best_rank": 16,
+   "url": "https://x.com/search?q=%E3%82%B9%E3%83%86%E3%82%A3%E3%83%BC%E3%83%96"
+  },
+  {
+   "term": "X-Men",
+   "hours": 9,
+   "best_rank": 17,
+   "url": "https://x.com/search?q=X-Men"
+  },
+  {
+   "term": "ガシャ開催期間ごと",
+   "hours": 9,
+   "best_rank": 19,
+   "url": "https://x.com/search?q=%E3%82%AC%E3%82%B7%E3%83%A3%E9%96%8B%E5%82%AC%E6%9C%9F%E9%96%93%E3%81%94%E3%81%A8"
+  },
+  {
+   "term": "初回10連無料",
+   "hours": 9,
+   "best_rank": 20,
+   "url": "https://x.com/search?q=%E5%88%9D%E5%9B%9E10%E9%80%A3%E7%84%A1%E6%96%99"
+  },
+  {
+   "term": "プレミアムパス特典",
+   "hours": 9,
+   "best_rank": 21,
+   "url": "https://x.com/search?q=%E3%83%97%E3%83%AC%E3%83%9F%E3%82%A2%E3%83%A0%E3%83%91%E3%82%B9%E7%89%B9%E5%85%B8"
+  },
+  {
+   "term": "全会一致",
+   "hours": 9,
+   "best_rank": 23,
+   "url": "https://x.com/search?q=%E5%85%A8%E4%BC%9A%E4%B8%80%E8%87%B4"
+  },
+  {
+   "term": "インサイダー",
+   "hours": 9,
+   "best_rank": 37,
+   "url": "https://x.com/search?q=%E3%82%A4%E3%83%B3%E3%82%B5%E3%82%A4%E3%83%80%E3%83%BC"
+  },
+  {
+   "term": "#日本語ボキャブラリーテスト",
+   "hours": 8,
+   "best_rank": 4,
+   "url": "https://x.com/search?q=%23%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%83%9C%E3%82%AD%E3%83%A3%E3%83%96%E3%83%A9%E3%83%AA%E3%83%BC%E3%83%86%E3%82%B9%E3%83%88"
+  },
+  {
+   "term": "バザールでござーる",
+   "hours": 8,
+   "best_rank": 8,
+   "url": "https://x.com/search?q=%E3%83%90%E3%82%B6%E3%83%BC%E3%83%AB%E3%81%A7%E3%81%94%E3%81%96%E3%83%BC%E3%82%8B"
+  },
+  {
+   "term": "M!LK12",
+   "hours": 8,
+   "best_rank": 12,
+   "url": "https://x.com/search?q=M%21LK12"
+  },
+  {
+   "term": "ドゥームズデイ",
+   "hours": 8,
+   "best_rank": 12,
+   "url": "https://x.com/search?q=%E3%83%89%E3%82%A5%E3%83%BC%E3%83%A0%E3%82%BA%E3%83%87%E3%82%A4"
+  },
+  {
+   "term": "インテリヤクザ",
+   "hours": 8,
+   "best_rank": 12,
+   "url": "https://x.com/search?q=%E3%82%A4%E3%83%B3%E3%83%86%E3%83%AA%E3%83%A4%E3%82%AF%E3%82%B6"
+  },
+  {
+   "term": "オペラ記念日",
+   "hours": 8,
+   "best_rank": 14,
+   "url": "https://x.com/search?q=%E3%82%AA%E3%83%9A%E3%83%A9%E8%A8%98%E5%BF%B5%E6%97%A5"
+  }
+ ],
+ "hatena": [
+  {
+   "title": "もうオタク趣味って弱者男性のモノじゃないんだな…",
+   "url": "https://anond.hatelabo.jp/20261123200150",
+   "users": 401
+  },
+  {
+   "title": "女がコンテンツを廃れさせる、の正体がついに判明。デンマークのレゴ社の研究調査結果によると、「男は好きなキャラクターになりきるのに対し、女は好きなキャラクターを自分の分身として扱う傾向が強い」模様。つまり女に創作を任せると「世界観ガン無視な女によるプライベート物語」と化しやすくオワコン化が加速する。",
+   "url": "https://posfie.com/@Acg3C2/p/bOMoG6E",
+   "users": 175
+  },
+  {
+   "title": "NECの「バザールでござーる」今日で引退。約35年の歴史に幕",
+   "url": "https://pc.watch.impress.co.jp/docs/news/2158462.html",
+   "users": 240
+  },
+  {
+   "title": "中国で縦型ショートドラマを作成する制作陣のドキュメンタリーがNHKスペシャルで放映、監督の濃いキャラクターと熱い展開が話題に",
+   "url": "https://togetter.com/li/2774163",
+   "users": 418
+  },
+  {
+   "title": "臨界世界 縦の支配 中国 ショートドラマの光と影 | NHKスペシャル",
+   "url": "https://www.web.nhk/tv/an/special/pl/series-tep-2NY2QQLPM3/ep/QWEGAQEGBD",
+   "users": 136
+  },
+  {
+   "title": "ロシアが年内に核弾頭搭載の衛星打ち上げ計画か ドイツ報道 | NHKニュース",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261124de80347",
+   "users": 129
+  },
+  {
+   "title": "押井 守「ある思いを違う世代に伝えるには、人間の寿命があまりにも短すぎる。だから人間は同じ過ちを繰り返すんですよ」WEBインタビュー ｜ AKANE MAGAZINE",
+   "url": "https://akanemagazine.jp/mamoruoshii2026autumn-2/",
+   "users": 70
+  },
+  {
+   "title": "保育士ら50人全員退職へ…来年度こまった　墨田区の公設民営保育園、運営体制の紆余曲折で「待遇ダウン」：東京新聞デジタル",
+   "url": "https://www.tokyo-np.co.jp/article/530161",
+   "users": 58
+  },
+  {
+   "title": "NTT 研究所の正体 - IOWNとNTTの研究所",
+   "url": "https://endecl.hatenablog.com/entry/2026/05/04/223141",
+   "users": 42
+  },
+  {
+   "title": "アシックスの革靴を履いてから他のメーカーの革靴は履けなくなった…ビジネスシューズもパンプスも「全力疾走できる」と愛用者が多いが、4ブランドが終了し新シリーズに",
+   "url": "https://togetter.com/li/2773573",
+   "users": 64
+  },
+  {
+   "title": "ケチャップで食パンに字を書いて毎朝Twitterに投稿していた方、来月あたりに常用漢字全2136文字を完食できる見込みだと発表「狂気を見た」",
+   "url": "https://togetter.com/li/2774098",
+   "users": 166
+  },
+  {
+   "title": "エヌビディア、不倫問題で辞任したフアン氏のCEO復帰発表　国家安保上のリスクないと「確信」",
+   "url": "https://www.cnn.co.jp/tech/35255303.html",
+   "users": 133
+  },
+  {
+   "title": "「勝ち筋」という用語の流行にみる経営の貧困｜S_KUMA",
+   "url": "https://note.com/clever_eel2325/n/n389f5821ab24",
+   "users": 43
+  },
+  {
+   "title": "【スタートアップの中の人】Newspicksの取材を受ける際の心得７つ｜松田祐樹＠MD-Farm",
+   "url": "https://note.com/matsuda_mdfarm/n/n579f66efa982",
+   "users": 26
+  },
+  {
+   "title": "「命の采配」という、医療に潜む文系権力",
+   "url": "https://blog.tinect.jp/?p=91597",
+   "users": 78
+  },
+  {
+   "title": "マンガ・アニメ投稿、ＡＩ検知の８割超が著作権侵害…文化庁が対海賊版システム推進へ",
+   "url": "https://www.yomiuri.co.jp/politics/20261124-GYT1T00033/",
+   "users": 54
+  },
+  {
+   "title": "この世に存在する『見た目はダウンっぽくてめっちゃ暖かそうなのに実際は何も着てないに相当する防寒性ゼロの中綿のコート』って一体なんなんだ？",
+   "url": "https://togetter.com/li/2774250",
+   "users": 55
+  },
+  {
+   "title": "Museに後れを取るアップルとグーグル　AIエージェント戦争のジレンマ【西田宗千佳のイマトミライ】",
+   "url": "https://www.watch.impress.co.jp/docs/series/nishida/2158551.html",
+   "users": 65
+  },
+  {
+   "title": "実家に空き巣が入った時、防犯カメラがカラースプレーで塗り潰され、警報が鳴って5分くらいでセコムと警察が到着したがもぬけの殻…値がつきそうな物は全部持っていかれた",
+   "url": "https://togetter.com/li/2774266",
+   "users": 84
+  },
+  {
+   "title": "宵宮凪がマネに夜食を作る理由 第9話",
+   "url": "https://manga-one.com/manga/28498/chapter/362242",
+   "users": 25
+  },
+  {
+   "title": "iPhoneに乗り換えてでも使う価値があるかも!?　新型センサー搭載「Apple Watch Series 12」を使ってみた",
+   "url": "https://k-tai.watch.impress.co.jp/docs/review/2157103.html",
+   "users": 93
+  },
+  {
+   "title": "DHH氏が開発する「Omarchy 4.5」リリース。一般的なマルチウィンドウをサポート。最速7秒で導入、Appleシリコン対応、Webアプリ版MS Office用ランチャーなど新機能",
+   "url": "https://www.publickey1.jp/blog/26/dhhomarchy_457applewebms_office.html",
+   "users": 83
+  },
+  {
+   "title": "AWS Emulator を使用してローカルで AWS に対してアプリケーションをテストする | Amazon Web Services",
+   "url": "https://aws.amazon.com/jp/blogs/news/test-your-applications-against-aws-locally-with-aws-emulator/",
+   "users": 92
+  },
+  {
+   "title": "月額1000円台のVPSで“自分専用AIテスト環境”を作れる！　さくらのVPS＋さくらのAI Engine＋OpenCodeでゲーム開発に挑戦【イニシャルB【特別編】】[Sponsored]",
+   "url": "https://internet.watch.impress.co.jp/docs/topic/shimizu_sp/2126965.html",
+   "users": 55
+  },
+  {
+   "title": "その質問に答えるな！――なぜか丸め込まれる人のための『誤謬論入門』",
+   "url": "https://dain.cocolog-nifty.com/myblog/2026/11/post-5d92c3.html",
+   "users": 487
+  },
+  {
+   "title": "新幹線や有名スポットって年々混雑してきてない？→「どこから人が湧いてきたんだろう」円安やインバウンド、SNSによる一極集中などさまざまな説",
+   "url": "https://togetter.com/li/2774135",
+   "users": 200
+  },
+  {
+   "title": "コードを書くコストが下がった今、ソフトウェアエンジニアリングの価値はどこにあるのか - Qiita",
+   "url": "https://qiita.com/figueiredoluiz/items/1d6751643b84db67812e",
+   "users": 51
+  },
+  {
+   "title": "【関文科相に政治資金規正法違反の疑い】自宅家賃420万円を政治資金で支出していた | 文春オンライン",
+   "url": "https://bunshun.jp/articles/-/93953",
+   "users": 30
+  },
+  {
+   "title": "実家で家族と大学院合格おめでとう会を開いたところ、父が酔った勢いで「私と妹には腹違いの姉がいる」とカミングアウト、楽しい食卓が一瞬で静まり返って地獄と化している",
+   "url": "https://togetter.com/li/2774270",
+   "users": 62
+  },
+  {
+   "title": "競馬予想AI Agentを自分専用競馬新聞プロダクトとして再構築した - PoCから本番への華麗なる移行のはなし - Lean Baseball",
+   "url": "https://shinyorke.hatenablog.com/entry/keiba-ai-agent-product",
+   "users": 72
+  },
+  {
+   "title": "NVIDIA、CEOにジェンスン・ファン氏復帰　「安保上のリスクなし」 - 日本経済新聞",
+   "url": "https://www.nikkei.com/article/DGXZQOGN232LV0T21C26A1000000/",
+   "users": 453
+  },
+  {
+   "title": "カップヌードルミュージアムに行った報告をXにアップしたら12時間ロック、「合意のない裸の描写を禁止するルールに違反しています」とのこと…「ヌード」ルがダメらしい",
+   "url": "https://togetter.com/li/2774298",
+   "users": 38
+  },
+  {
+   "title": "万博跡地「500億円投資」維新副代表の衝撃音声を公開する",
+   "url": "https://gendai.media/articles/-/173289",
+   "users": 26
+  },
+  {
+   "title": "アフリカでは携帯電話が普及したことにより部族間のホットラインが成立して部族抗争が減ったらしい「話し合いは大事」「技術の進歩の勝利だ」",
+   "url": "https://togetter.com/li/2774234",
+   "users": 62
+  },
+  {
+   "title": "かつて数学を学んでいたエンジニアがAIと数学について思うこと",
+   "url": "https://zenn.dev/339/articles/8efd1f1baec355",
+   "users": 54
+  },
+  {
+   "title": "旦那、晩ごはん作ってくれるのはいいけど、焼きうどん作るのに4000円も使うのやめてほしい→「何を入れたら4000円になるのか」「和牛入ってそう」",
+   "url": "https://togetter.com/li/2774166",
+   "users": 134
+  },
+  {
+   "title": "集合住宅の空室でキャッシュカード受け取りか、内見予約システム悪用し住人装う…口座不正開設容疑のベトナム人ら",
+   "url": "https://www.yomiuri.co.jp/national/20261123-GYT1T00205/",
+   "users": 56
+  },
+  {
+   "title": "【ブラックフライデーで買いたいUdemyのAI関連講座】Claude Code、MCP、ハーネス設計など、AIとコーディングエージェントを「使いこなす」ための人気講座をまとめてレビュー！ - はてなニュース",
+   "url": "https://hatenanews.com/articles/2026/11/24/093000",
+   "users": 27
+  },
+  {
+   "title": "維新重鎮が万博跡地「500億円投資トラブル」に関与か",
+   "url": "https://gendai.media/articles/-/173294",
+   "users": 22
+  },
+  {
+   "title": "SELECTしかしていないのに、PostgreSQLのマイグレーションがロック待ちで失敗した話",
+   "url": "https://zenn.dev/naokisuzuki27/articles/cb1a5ac0e23763",
+   "users": 50
+  }
+ ]
+}
