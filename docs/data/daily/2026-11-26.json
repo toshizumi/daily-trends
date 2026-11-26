@@ -1,0 +1,521 @@
+{
+ "date": "2026-11-26",
+ "collected_at": "2026-11-26T12:25+09:00",
+ "errors": {},
+ "google": [
+  {
+   "term": "護衛艦",
+   "traffic": "2000+",
+   "news_title": "海上自衛隊の未来を担う「巨大艦」ついに起工！ 艦隊を支える“縁の下の力持ち”が世代交代へ",
+   "news_url": "https://news.yahoo.co.jp/articles/c05aa4284add222cad44f65a703beb6bfd3a62e1",
+   "news_source": "Yahoo!ニュース"
+  },
+  {
+   "term": "朝倉未来",
+   "traffic": "1000+",
+   "news_title": "「えぐすぎる」朝倉未来戦へ、グスタボのマッスル肉体が話題！8年前のリベンジへ（イーファイト）",
+   "news_url": "https://news.yahoo.co.jp/articles/8599ba56d4faea213febd09b4690d35387a8c2f2",
+   "news_source": "Yahoo!ニュース"
+  },
+  {
+   "term": "問責決議案",
+   "traffic": "1000+",
+   "news_title": "【速報】「真摯に丁寧に説明を尽くす」関文科大臣 野党が参議院に問責決議案が提出 政治資金パーティーめぐる問題",
+   "news_url": "https://news.yahoo.co.jp/articles/0f33ae40198d945d98786c3e0112396e4c43ec8b",
+   "news_source": "Yahoo!ニュース"
+  },
+  {
+   "term": "大野雄大",
+   "traffic": "500+",
+   "news_title": "【中日】大野雄大２年連続アップ！4000万増の２億1000万で更改 工藤新監督への相談内容とは（日刊スポーツ）",
+   "news_url": "https://news.yahoo.co.jp/articles/2a0455cbeb8549621dffa6ffb09fc5ee599641f7",
+   "news_source": "Yahoo!ニュース"
+  },
+  {
+   "term": "アズプロ リセマラ",
+   "traffic": "500+",
+   "news_title": "星霊と旅するオープンワールドRPG「アズールプロミリア」本日配信開始",
+   "news_url": "https://game.watch.impress.co.jp/docs/news/2158515.html",
+   "news_source": "GAME Watch"
+  },
+  {
+   "term": "airpods",
+   "traffic": "200+",
+   "news_title": "Every Great Black Friday Apple Deal We’ve Found on iPads, AirPods, and More",
+   "news_url": "https://www.nytimes.com/wirecutter/money/apple-black-friday-deals-2026/",
+   "news_source": "The New York Times"
+  },
+  {
+   "term": "軽スーパーハイトワゴン",
+   "traffic": "200+",
+   "news_title": "【標準顔なのにターボ搭載！しかも200万円以下】日産「ルークス」が改良…人気の「見えルークス！」対応ナビも約8万円安く",
+   "news_url": "https://carview.yahoo.co.jp/article/detail/8683ba80d439fe8702f102220e4f7e568a841bdc/",
+   "news_source": "carview!"
+  },
+  {
+   "term": "ウォリアーズ 対 キングス",
+   "traffic": "200+",
+   "news_title": "Is Yaxel Lendeborg playing tonight? Warriors vs. Kings NBA Cup injury report",
+   "news_url": "https://sports.yahoo.com/nba/articles/yaxel-lendeborg-playing-tonight-warriors-164947914.html",
+   "news_source": "Yahoo Sports"
+  },
+  {
+   "term": "microsoft update",
+   "traffic": "200+",
+   "news_title": "Microsoft built a near-perfect native WinUI Search for Windows 11, but it ignores your moved taskbar, and its design VP says a fix is coming with no date",
+   "news_url": "https://www.windowslatest.com/2026/11/23/microsoft-built-a-near-perfect-native-winui-search-for-windows-11-but-it-ignores-your-moved-taskbar-and-its-design-vp-says-a-fix-is-coming-with-no-date/",
+   "news_source": "Windows Latest"
+  },
+  {
+   "term": "ピーター・ティール",
+   "traffic": "100+",
+   "news_title": "ピーター・ティールが約195億円相当のパランティア株を購入、AI株乱高下のなか",
+   "news_url": "https://news.yahoo.co.jp/articles/fb2777d7d2eceb4f6623a86c1ab9cad15568eab6",
+   "news_source": "Yahoo!ニュース"
+  }
+ ],
+ "x": [
+  {
+   "term": "風呂の日",
+   "hours": 18,
+   "best_rank": 1,
+   "url": "https://x.com/search?q=%E9%A2%A8%E5%91%82%E3%81%AE%E6%97%A5"
+  },
+  {
+   "term": "ファンたじっくプリキュア",
+   "hours": 18,
+   "best_rank": 1,
+   "url": "https://x.com/search?q=%E3%83%95%E3%82%A1%E3%83%B3%E3%81%9F%E3%81%98%E3%81%A3%E3%81%8F%E3%83%97%E3%83%AA%E3%82%AD%E3%83%A5%E3%82%A2"
+  },
+  {
+   "term": "大野くん",
+   "hours": 15,
+   "best_rank": 6,
+   "url": "https://x.com/search?q=%E5%A4%A7%E9%87%8E%E3%81%8F%E3%82%93"
+  },
+  {
+   "term": "ベストドレッサー賞",
+   "hours": 15,
+   "best_rank": 10,
+   "url": "https://x.com/search?q=%E3%83%99%E3%82%B9%E3%83%88%E3%83%89%E3%83%AC%E3%83%83%E3%82%B5%E3%83%BC%E8%B3%9E"
+  },
+  {
+   "term": "丸ちゃん",
+   "hours": 15,
+   "best_rank": 11,
+   "url": "https://x.com/search?q=%E4%B8%B8%E3%81%A1%E3%82%83%E3%82%93"
+  },
+  {
+   "term": "双子の日",
+   "hours": 14,
+   "best_rank": 7,
+   "url": "https://x.com/search?q=%E5%8F%8C%E5%AD%90%E3%81%AE%E6%97%A5"
+  },
+  {
+   "term": "メルブラ",
+   "hours": 13,
+   "best_rank": 6,
+   "url": "https://x.com/search?q=%E3%83%A1%E3%83%AB%E3%83%96%E3%83%A9"
+  },
+  {
+   "term": "アリシオン",
+   "hours": 13,
+   "best_rank": 14,
+   "url": "https://x.com/search?q=%E3%82%A2%E3%83%AA%E3%82%B7%E3%82%AA%E3%83%B3"
+  },
+  {
+   "term": "#大野智誕生祭2026",
+   "hours": 12,
+   "best_rank": 3,
+   "url": "https://x.com/search?q=%23%E5%A4%A7%E9%87%8E%E6%99%BA%E8%AA%95%E7%94%9F%E7%A5%AD2026"
+  },
+  {
+   "term": "#ポリティカルパン",
+   "hours": 10,
+   "best_rank": 1,
+   "url": "https://x.com/search?q=%23%E3%83%9D%E3%83%AA%E3%83%86%E3%82%A3%E3%82%AB%E3%83%AB%E3%83%91%E3%83%B3"
+  },
+  {
+   "term": "ファンプリ",
+   "hours": 10,
+   "best_rank": 4,
+   "url": "https://x.com/search?q=%E3%83%95%E3%82%A1%E3%83%B3%E3%83%97%E3%83%AA"
+  },
+  {
+   "term": "漂流教室",
+   "hours": 10,
+   "best_rank": 6,
+   "url": "https://x.com/search?q=%E6%BC%82%E6%B5%81%E6%95%99%E5%AE%A4"
+  },
+  {
+   "term": "グラコロ",
+   "hours": 10,
+   "best_rank": 6,
+   "url": "https://x.com/search?q=%E3%82%B0%E3%83%A9%E3%82%B3%E3%83%AD"
+  },
+  {
+   "term": "第1770回",
+   "hours": 10,
+   "best_rank": 15,
+   "url": "https://x.com/search?q=%E7%AC%AC1770%E5%9B%9E"
+  },
+  {
+   "term": "テレッテッテー",
+   "hours": 10,
+   "best_rank": 15,
+   "url": "https://x.com/search?q=%E3%83%86%E3%83%AC%E3%83%83%E3%83%86%E3%83%83%E3%83%86%E3%83%BC"
+  },
+  {
+   "term": "ルターパック",
+   "hours": 10,
+   "best_rank": 24,
+   "url": "https://x.com/search?q=%E3%83%AB%E3%82%BF%E3%83%BC%E3%83%91%E3%83%83%E3%82%AF"
+  },
+  {
+   "term": "ケーちゃん",
+   "hours": 10,
+   "best_rank": 27,
+   "url": "https://x.com/search?q=%E3%82%B1%E3%83%BC%E3%81%A1%E3%82%83%E3%82%93"
+  },
+  {
+   "term": "石田三成",
+   "hours": 9,
+   "best_rank": 1,
+   "url": "https://x.com/search?q=%E7%9F%B3%E7%94%B0%E4%B8%89%E6%88%90"
+  },
+  {
+   "term": "スピノザの診察室",
+   "hours": 9,
+   "best_rank": 4,
+   "url": "https://x.com/search?q=%E3%82%B9%E3%83%94%E3%83%8E%E3%82%B6%E3%81%AE%E8%A8%BA%E5%AF%9F%E5%AE%A4"
+  },
+  {
+   "term": "ドラゴン桜",
+   "hours": 9,
+   "best_rank": 8,
+   "url": "https://x.com/search?q=%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3%E6%A1%9C"
+  },
+  {
+   "term": "玉矢総理",
+   "hours": 9,
+   "best_rank": 9,
+   "url": "https://x.com/search?q=%E7%8E%89%E7%9F%A2%E7%B7%8F%E7%90%86"
+  },
+  {
+   "term": "ニッポニア",
+   "hours": 9,
+   "best_rank": 10,
+   "url": "https://x.com/search?q=%E3%83%8B%E3%83%83%E3%83%9D%E3%83%8B%E3%82%A2"
+  },
+  {
+   "term": "ペンの日",
+   "hours": 9,
+   "best_rank": 11,
+   "url": "https://x.com/search?q=%E3%83%9A%E3%83%B3%E3%81%AE%E6%97%A5"
+  },
+  {
+   "term": "フォローの日",
+   "hours": 9,
+   "best_rank": 12,
+   "url": "https://x.com/search?q=%E3%83%95%E3%82%A9%E3%83%AD%E3%83%BC%E3%81%AE%E6%97%A5"
+  },
+  {
+   "term": "あなたの適正エージェント",
+   "hours": 9,
+   "best_rank": 15,
+   "url": "https://x.com/search?q=%E3%81%82%E3%81%AA%E3%81%9F%E3%81%AE%E9%81%A9%E6%AD%A3%E3%82%A8%E3%83%BC%E3%82%B8%E3%82%A7%E3%83%B3%E3%83%88"
+  },
+  {
+   "term": "Claude Duet",
+   "hours": 9,
+   "best_rank": 17,
+   "url": "https://x.com/search?q=Claude%20Duet"
+  },
+  {
+   "term": "タカシくん",
+   "hours": 9,
+   "best_rank": 17,
+   "url": "https://x.com/search?q=%E3%82%BF%E3%82%AB%E3%82%B7%E3%81%8F%E3%82%93"
+  },
+  {
+   "term": "ブラック希望",
+   "hours": 9,
+   "best_rank": 26,
+   "url": "https://x.com/search?q=%E3%83%96%E3%83%A9%E3%83%83%E3%82%AF%E5%B8%8C%E6%9C%9B"
+  },
+  {
+   "term": "ベストナイン",
+   "hours": 8,
+   "best_rank": 1,
+   "url": "https://x.com/search?q=%E3%83%99%E3%82%B9%E3%83%88%E3%83%8A%E3%82%A4%E3%83%B3"
+  },
+  {
+   "term": "#齋藤樹愛羅生誕祭2026",
+   "hours": 8,
+   "best_rank": 2,
+   "url": "https://x.com/search?q=%23%E9%BD%8B%E8%97%A4%E6%A8%B9%E6%84%9B%E7%BE%85%E7%94%9F%E8%AA%95%E7%A5%AD2026"
+  },
+  {
+   "term": "上田綺世",
+   "hours": 8,
+   "best_rank": 5,
+   "url": "https://x.com/search?q=%E4%B8%8A%E7%94%B0%E7%B6%BA%E4%B8%96"
+  },
+  {
+   "term": "全権委任法",
+   "hours": 8,
+   "best_rank": 8,
+   "url": "https://x.com/search?q=%E5%85%A8%E6%A8%A9%E5%A7%94%E4%BB%BB%E6%B3%95"
+  },
+  {
+   "term": "樹里ちゃん",
+   "hours": 8,
+   "best_rank": 10,
+   "url": "https://x.com/search?q=%E6%A8%B9%E9%87%8C%E3%81%A1%E3%82%83%E3%82%93"
+  },
+  {
+   "term": "ガッチャーン",
+   "hours": 8,
+   "best_rank": 10,
+   "url": "https://x.com/search?q=%E3%82%AC%E3%83%83%E3%83%81%E3%83%A3%E3%83%BC%E3%83%B3"
+  },
+  {
+   "term": "ニュース超特急",
+   "hours": 8,
+   "best_rank": 15,
+   "url": "https://x.com/search?q=%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9%E8%B6%85%E7%89%B9%E6%80%A5"
+  },
+  {
+   "term": "Juice",
+   "hours": 8,
+   "best_rank": 15,
+   "url": "https://x.com/search?q=Juice"
+  },
+  {
+   "term": "ラファーガ",
+   "hours": 8,
+   "best_rank": 22,
+   "url": "https://x.com/search?q=%E3%83%A9%E3%83%95%E3%82%A1%E3%83%BC%E3%82%AC"
+  },
+  {
+   "term": "香取慎吾",
+   "hours": 8,
+   "best_rank": 29,
+   "url": "https://x.com/search?q=%E9%A6%99%E5%8F%96%E6%85%8E%E5%90%BE"
+  },
+  {
+   "term": "大野さん",
+   "hours": 8,
+   "best_rank": 31,
+   "url": "https://x.com/search?q=%E5%A4%A7%E9%87%8E%E3%81%95%E3%82%93"
+  },
+  {
+   "term": "ユーキさん",
+   "hours": 8,
+   "best_rank": 31,
+   "url": "https://x.com/search?q=%E3%83%A6%E3%83%BC%E3%82%AD%E3%81%95%E3%82%93"
+  }
+ ],
+ "hatena": [
+  {
+   "title": "日本語サイトで指定しておきたいCSS 2026年版 - Qiita",
+   "url": "https://qiita.com/tofu_frontend/items/6a1bb7d80a58736eef0e",
+   "users": 231
+  },
+  {
+   "title": "1Password、従業員のGitHubアカウント経由で顧客の氏名とメールアドレスが流出したと発表 — BigGo ファイナンス",
+   "url": "https://finance.biggo.jp/news/86bd3431-ad2e-4b18-b885-4fb6393beb46",
+   "users": 152
+  },
+  {
+   "title": "ネズミ退治へ「大作戦」 浦安駅一帯 市民から苦情相次ぐ",
+   "url": "https://www.chibanippo.co.jp//articles/1696879",
+   "users": 133
+  },
+  {
+   "title": "「日本一うまいコロッケそば」と言われる駅そば・桃中軒のみしまコロッケそばを食べてみた / 立ち食いそば放浪記：第411回 静岡県三島",
+   "url": "https://rocketnews24.com/2026/11/25/2868038/",
+   "users": 119
+  },
+  {
+   "title": "｢静岡だけのせい｣から一転｢全工区の問題｣に…リニア開業発表を｢無期限延期｣したJR東海の苦しすぎる言い訳",
+   "url": "https://president.jp/articles/-/122996",
+   "users": 74
+  },
+  {
+   "title": "観測者から当事者へ、AI 時代にドメインへ深入りする知識と技術 / From Observer to Practitioner: Going Deep into Domains in the Age of AI",
+   "url": "https://speakerdeck.com/nrslib/from-observer-to-practitioner-going-deep-into-domains-in-the-age-of-ai",
+   "users": 125
+  },
+  {
+   "title": "東京都民に配ったQUOカードPayが「残高ゼロ」…子育て支援金9000万円分、不正流出か：東京新聞デジタル",
+   "url": "https://www.tokyo-np.co.jp/article/530676",
+   "users": 106
+  },
+  {
+   "title": "「防衛族」怒りの矛先が首相官邸に　防衛費の大幅増額、期待裏切られ：朝日新聞",
+   "url": "https://www.asahi.com/articles/ASVCT45NZVCTUTFK01CM.html",
+   "users": 76
+  },
+  {
+   "title": "MetaのAIエージェント Museを1ヶ月使い倒してわかったこと | kinoko dev",
+   "url": "https://dev.sin5d.com/meta-muse-usage",
+   "users": 43
+  },
+  {
+   "title": "【AED問題】女性の尊厳を高く釣り上げたまま下げられない国の末路が「救命テント」の登場なんですよ。もうお笑いでしょこれ(笑)普通に考えて1分ごとに救命率が10%下がるんだからテント設営している間に死ぬか、後遺症の確率大な訳だが、、、",
+   "url": "https://posfie.com/@yonepo665/p/33PCSxA",
+   "users": 285
+  },
+  {
+   "title": "外国人労働者、東北GDP底上げ　農・水産業「いないと成り立たず」 - 日本経済新聞",
+   "url": "https://www.nikkei.com/article/DGXZQOCC18CUY0Y6A111C2000000/",
+   "users": 52
+  },
+  {
+   "title": "「AI検索に電話番号が……」鳴りやまぬコールセンター　バッファローは壊れた「顧客導線」をどう改善した？",
+   "url": "https://www.itmedia.co.jp/business/articles/2611/26/news015.html",
+   "users": 87
+  },
+  {
+   "title": "査読者への信頼：査読制度はいかにして科学的正当性の指標となったのか（文献紹介）",
+   "url": "https://current.ndl.go.jp/car/287767",
+   "users": 70
+  },
+  {
+   "title": "「コテとかドライヤーとか毎回抜くってこと？」電源OFFでもコンセントは抜くべき？ 抜く派・抜かない派で議論になるも、火災につながりかねない理由がある",
+   "url": "https://togetter.com/li/2775046",
+   "users": 70
+  },
+  {
+   "title": "闇バイト対策として日本刀を挙げる意見に「たぶん意味ない」と投稿したVTuberのかなえ先生にXで猛批判が集まるが、実際に日本刀を使いこなすのは難しい",
+   "url": "https://togetter.com/li/2774873",
+   "users": 260
+  },
+  {
+   "title": "デュラン・デュランのアンディ・テイラー死去 - amass",
+   "url": "https://amass.jp/193232/",
+   "users": 28
+  },
+  {
+   "title": "Amazon Bedrockの存在意義がようやくわかったのに、新参者だと使えない話 - Sweet Escape",
+   "url": "https://www.keisuke69.net/entry/2026/11/26/085248",
+   "users": 43
+  },
+  {
+   "title": "MCPに新機能「Skills over MCP」登場。ツールとの接続だけでなく使い方のスキルもMCP経由で提供",
+   "url": "https://www.publickey1.jp/blog/26/mcpskills_over_mcpmcp.html",
+   "users": 61
+  },
+  {
+   "title": "パスワード管理「1Password」でデータ流出、一部顧客の氏名やメールアドレスなど／パスワード保管庫やその鍵は無事、招待・復旧メールを装ったフィッシングに注意",
+   "url": "https://forest.watch.impress.co.jp/docs/news/2159320.html",
+   "users": 38
+  },
+  {
+   "title": "山上被告弁護団「重くても10年」控訴審で主張へ　安倍氏銃撃事件：朝日新聞",
+   "url": "https://www.asahi.com/articles/ASVCT347GVCTPTIL00LM.html",
+   "users": 76
+  },
+  {
+   "title": "高齢者は家を借りられない、なんてない。―門前払いの現実を変える。影山桐子さんが挑む、安心できる社会―｜LIFULL STORIES",
+   "url": "https://media.lifull.com/stories/20260312343/",
+   "users": 28
+  },
+  {
+   "title": "異様なこぶの「ゾンビ魚」　農業や観光に影響、タイで高まる不安 | 毎日新聞",
+   "url": "https://mainichi.jp/articles/20261125/k00/00m/030/091000c",
+   "users": 83
+  },
+  {
+   "title": "Update on a security incident involving 1Password’s backend systems. | 1Password",
+   "url": "https://1password.com/blog/update-on-nov-2026-security-incident",
+   "users": 67
+  },
+  {
+   "title": "ファンたじっくプリキュア！ | 東映アニメーション",
+   "url": "https://www.toei-anim.co.jp/tv/funtasic_precure/",
+   "users": 15
+  },
+  {
+   "title": "キング・クリムゾンの創設メンバー　マイケル・ジャイルズ死去 - amass",
+   "url": "https://amass.jp/193233/",
+   "users": 19
+  },
+  {
+   "title": "組織レベルごとの品質定義（リライト）｜snsk",
+   "url": "https://note.com/_snsk/n/n9473a6e95b1c",
+   "users": 77
+  },
+  {
+   "title": "アンソロピックに無断販売された日本の書籍、絶版が複数含まれていたと判明…ＡＩ学習で大量スキャンか",
+   "url": "https://www.yomiuri.co.jp/culture/20261125-GYT1T00293/",
+   "users": 367
+  },
+  {
+   "title": "海なんてだいきらい・海なんてだいきらい | ビッコミ（ビッグコミックス）",
+   "url": "https://bigcomics.jp/episodes/1096008c32ad5",
+   "users": 15
+  },
+  {
+   "title": "やめろ好きになってしまう第74話 2学期の終わり｜ヤンジャン＋集英社公式・ジャンプ系青年マンガ誌アプリ",
+   "url": "https://ynjn.jp/viewer/21346/327149",
+   "users": 119
+  },
+  {
+   "title": "視界を包む巨大LEDビジョン、日本初“フレームレス・シアター”「ゼリアル」2027年夏・池袋に誕生",
+   "url": "https://av.watch.impress.co.jp/docs/news/2159003.html",
+   "users": 49
+  },
+  {
+   "title": "二階堂地獄ゴルフ - 福本伸行 / 第１５６話「無知」 | コミックDAYS",
+   "url": "https://comic-days.com/episode/12207421984434344660",
+   "users": 37
+  },
+  {
+   "title": "ChordTube - YouTube の曲のコード進行・キー・BPM",
+   "url": "https://chordtube.net/",
+   "users": 81
+  },
+  {
+   "title": "メンズファッション入門 - 日記",
+   "url": "https://deplico.hatenablog.com/entry/2026/11/25/002507",
+   "users": 321
+  },
+  {
+   "title": "日本の猫は日本ぽい顔をしているらしいが、ドイツの公園で見かけた猫はあまりにもドイツ人顔だった「げるみゃ〜ん」「気難しそうですね…」",
+   "url": "https://togetter.com/li/2775062",
+   "users": 35
+  },
+  {
+   "title": "「Google Workspace MCPサーバ」と「Google Workspace CLI」が正式版としてリリース",
+   "url": "https://www.publickey1.jp/blog/26/google_workspace_mcpgoogle_workspace_cli.html",
+   "users": 34
+  },
+  {
+   "title": "Button Sounds — tactile SFX for your UI",
+   "url": "https://buttons.joshwcomeau.com/",
+   "users": 39
+  },
+  {
+   "title": "「ゲーム感覚で勤労意欲高める」特別報酬、宅配代行サービス配達員に不信感",
+   "url": "https://www.yomiuri.co.jp/national/20261125-GYT1T00395/",
+   "users": 40
+  },
+  {
+   "title": "押井守 | ORAL HISTORY COLLECTION",
+   "url": "https://zen.ac.jp/harc/archives/modern_history/oral_history/contents/04_017",
+   "users": 15
+  },
+  {
+   "title": "Skills - Model Context Protocol",
+   "url": "https://modelcontextprotocol.io/extensions/skills/overview",
+   "users": 16
+  },
+  {
+   "title": "｢静岡だけのせい｣から一転｢全工区の問題｣に…リニア開業発表を｢無期限延期｣したJR東海の苦しすぎる言い訳（プレジデントオンライン） - Yahoo!ニュース",
+   "url": "https://news.yahoo.co.jp/articles/9d6f9b73d6131a062c683c9da94f70527228be0a",
+   "users": 85
+  }
+ ]
+}
