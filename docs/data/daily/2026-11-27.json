@@ -1,0 +1,521 @@
+{
+ "date": "2026-11-27",
+ "collected_at": "2026-11-27T12:32+09:00",
+ "errors": {},
+ "google": [
+  {
+   "term": "宮根誠司",
+   "traffic": "2000+",
+   "news_title": "宮根誠司、『ミヤネ屋』卒業までの裏側明かす 3年前に一度「辞めさせてくれ」と直訴していた（オリコン）",
+   "news_url": "https://news.yahoo.co.jp/articles/a5812411bfb2a4737d320fce3b437e49f4b64d9d",
+   "news_source": "Yahoo!ニュース"
+  },
+  {
+   "term": "偽造",
+   "traffic": "1000+",
+   "news_title": "上司を無断で子の奨学金の保証人に 文書偽造で市職員を懲戒免職（朝日新聞）",
+   "news_url": "https://news.yahoo.co.jp/articles/71e8293dcdf7731fe9b2d2e6dc38d1449a05373c",
+   "news_source": "Yahoo!ニュース"
+  },
+  {
+   "term": "マンジャロ",
+   "traffic": "1000+",
+   "news_title": "マンジャロ無許可販売疑い 女逮捕",
+   "news_url": "https://news.yahoo.co.jp/pickup/6604158",
+   "news_source": "Yahoo!ニュース"
+  },
+  {
+   "term": "退職代行 モームリ",
+   "traffic": "500+",
+   "news_title": "退職代行「モームリ」、最も利用された企業上位50社発表 業種と回数のデータ公開 利用の経緯も調査（オリコン）",
+   "news_url": "https://news.yahoo.co.jp/articles/174b2dc5cac370c6f5efa16fdac1b57fdb184384",
+   "news_source": "Yahoo!ニュース"
+  },
+  {
+   "term": "金ロー",
+   "traffic": "200+",
+   "news_title": "「金曜ロードショー」『ミッキーのクリスマススペシャル』地上波初放送【今後のラインナップ掲載】（オリコン）",
+   "news_url": "https://news.yahoo.co.jp/articles/72666d8006d8e49f7f517af07b47c34476150462",
+   "news_source": "Yahoo!ニュース"
+  },
+  {
+   "term": "神田愛花",
+   "traffic": "200+",
+   "news_title": "神田愛花「よし、始めようって」夫日村勇紀のプロポーズを自らお膳立て",
+   "news_url": "https://www.nikkansports.com/entertainment/news/202611260000897.html",
+   "news_source": "日刊スポーツ"
+  },
+  {
+   "term": "坂上忍",
+   "traffic": "200+",
+   "news_title": "井本昌也が多摩川初優出で初V/ボートレース多摩川（マクール）",
+   "news_url": "https://news.yahoo.co.jp/articles/8037c293e0a71e6ffbed365e5463ff0291bc7742",
+   "news_source": "Yahoo!ニュース"
+  },
+  {
+   "term": "大城卓三",
+   "traffic": "200+",
+   "news_title": "",
+   "news_url": "",
+   "news_source": ""
+  },
+  {
+   "term": "渡辺俊介",
+   "traffic": "200+",
+   "news_title": "「ご、50歳！？」伝説右腕の“変態投法” 一日限り復活…球界震撼「有形指定文化財」（Full-Count）",
+   "news_url": "https://news.yahoo.co.jp/articles/8383aef750020319a3449111631659463c1242a0",
+   "news_source": "Yahoo!ニュース"
+  },
+  {
+   "term": "東出 昌大",
+   "traffic": "200+",
+   "news_title": "東出昌大の優しさに覚悟も定まった 歴戦の演技派たちが務めた名美役射止めた井筒しま 真夜中の雨に溺れそうに",
+   "news_url": "https://news.yahoo.co.jp/articles/1cf94bccb90d5e11912aedb43fb6c080a587fb7e",
+   "news_source": "Yahoo!ニュース"
+  }
+ ],
+ "x": [
+  {
+   "term": "阿部ちゃん",
+   "hours": 18,
+   "best_rank": 1,
+   "url": "https://x.com/search?q=%E9%98%BF%E9%83%A8%E3%81%A1%E3%82%83%E3%82%93"
+  },
+  {
+   "term": "あべちゃん",
+   "hours": 18,
+   "best_rank": 7,
+   "url": "https://x.com/search?q=%E3%81%82%E3%81%B9%E3%81%A1%E3%82%83%E3%82%93"
+  },
+  {
+   "term": "聡ちゃん",
+   "hours": 17,
+   "best_rank": 5,
+   "url": "https://x.com/search?q=%E8%81%A1%E3%81%A1%E3%82%83%E3%82%93"
+  },
+  {
+   "term": "ファビアン",
+   "hours": 16,
+   "best_rank": 5,
+   "url": "https://x.com/search?q=%E3%83%95%E3%82%A1%E3%83%93%E3%82%A2%E3%83%B3"
+  },
+  {
+   "term": "アズプロ",
+   "hours": 16,
+   "best_rank": 10,
+   "url": "https://x.com/search?q=%E3%82%A2%E3%82%BA%E3%83%97%E3%83%AD"
+  },
+  {
+   "term": "Thanksgiving",
+   "hours": 15,
+   "best_rank": 12,
+   "url": "https://x.com/search?q=Thanksgiving"
+  },
+  {
+   "term": "🟥🟥ランダムマスターデッキ",
+   "hours": 13,
+   "best_rank": 1,
+   "url": "https://x.com/search?q=%F0%9F%9F%A5%F0%9F%9F%A5%E3%83%A9%E3%83%B3%E3%83%80%E3%83%A0%E3%83%9E%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%87%E3%83%83%E3%82%AD"
+  },
+  {
+   "term": "風呂の日",
+   "hours": 13,
+   "best_rank": 1,
+   "url": "https://x.com/search?q=%E9%A2%A8%E5%91%82%E3%81%AE%E6%97%A5"
+  },
+  {
+   "term": "#阿部亮平誕生祭2026",
+   "hours": 13,
+   "best_rank": 2,
+   "url": "https://x.com/search?q=%23%E9%98%BF%E9%83%A8%E4%BA%AE%E5%B9%B3%E8%AA%95%E7%94%9F%E7%A5%AD2026"
+  },
+  {
+   "term": "タラップ最適化問題",
+   "hours": 13,
+   "best_rank": 8,
+   "url": "https://x.com/search?q=%E3%82%BF%E3%83%A9%E3%83%83%E3%83%97%E6%9C%80%E9%81%A9%E5%8C%96%E5%95%8F%E9%A1%8C"
+  },
+  {
+   "term": "PUMA",
+   "hours": 13,
+   "best_rank": 11,
+   "url": "https://x.com/search?q=PUMA"
+  },
+  {
+   "term": "モビルスーツアキネーターチャレンジ",
+   "hours": 11,
+   "best_rank": 11,
+   "url": "https://x.com/search?q=%E3%83%A2%E3%83%93%E3%83%AB%E3%82%B9%E3%83%BC%E3%83%84%E3%82%A2%E3%82%AD%E3%83%8D%E3%83%BC%E3%82%BF%E3%83%BC%E3%83%81%E3%83%A3%E3%83%AC%E3%83%B3%E3%82%B8"
+  },
+  {
+   "term": "阿部くん",
+   "hours": 11,
+   "best_rank": 20,
+   "url": "https://x.com/search?q=%E9%98%BF%E9%83%A8%E3%81%8F%E3%82%93"
+  },
+  {
+   "term": "#にじONELIFE",
+   "hours": 10,
+   "best_rank": 1,
+   "url": "https://x.com/search?q=%23%E3%81%AB%E3%81%98ONELIFE"
+  },
+  {
+   "term": "#ゴールデンラヴィット",
+   "hours": 10,
+   "best_rank": 1,
+   "url": "https://x.com/search?q=%23%E3%82%B4%E3%83%BC%E3%83%AB%E3%83%87%E3%83%B3%E3%83%A9%E3%83%B4%E3%82%A3%E3%83%83%E3%83%88"
+  },
+  {
+   "term": "即席カレーの日",
+   "hours": 10,
+   "best_rank": 7,
+   "url": "https://x.com/search?q=%E5%8D%B3%E5%B8%AD%E3%82%AB%E3%83%AC%E3%83%BC%E3%81%AE%E6%97%A5"
+  },
+  {
+   "term": "モンテロ",
+   "hours": 10,
+   "best_rank": 12,
+   "url": "https://x.com/search?q=%E3%83%A2%E3%83%B3%E3%83%86%E3%83%AD"
+  },
+  {
+   "term": "レバノン",
+   "hours": 9,
+   "best_rank": 2,
+   "url": "https://x.com/search?q=%E3%83%AC%E3%83%90%E3%83%8E%E3%83%B3"
+  },
+  {
+   "term": "JACKPOT",
+   "hours": 9,
+   "best_rank": 3,
+   "url": "https://x.com/search?q=JACKPOT"
+  },
+  {
+   "term": "#松島聡誕生祭2026",
+   "hours": 9,
+   "best_rank": 4,
+   "url": "https://x.com/search?q=%23%E6%9D%BE%E5%B3%B6%E8%81%A1%E8%AA%95%E7%94%9F%E7%A5%AD2026"
+  },
+  {
+   "term": "ノーベル賞制定記念日",
+   "hours": 9,
+   "best_rank": 12,
+   "url": "https://x.com/search?q=%E3%83%8E%E3%83%BC%E3%83%99%E3%83%AB%E8%B3%9E%E5%88%B6%E5%AE%9A%E8%A8%98%E5%BF%B5%E6%97%A5"
+  },
+  {
+   "term": "タカラトミーモール",
+   "hours": 8,
+   "best_rank": 9,
+   "url": "https://x.com/search?q=%E3%82%BF%E3%82%AB%E3%83%A9%E3%83%88%E3%83%9F%E3%83%BC%E3%83%A2%E3%83%BC%E3%83%AB"
+  },
+  {
+   "term": "ジュンくん",
+   "hours": 8,
+   "best_rank": 9,
+   "url": "https://x.com/search?q=%E3%82%B8%E3%83%A5%E3%83%B3%E3%81%8F%E3%82%93"
+  },
+  {
+   "term": "第1771回",
+   "hours": 8,
+   "best_rank": 34,
+   "url": "https://x.com/search?q=%E7%AC%AC1771%E5%9B%9E"
+  },
+  {
+   "term": "#レコメン",
+   "hours": 7,
+   "best_rank": 2,
+   "url": "https://x.com/search?q=%23%E3%83%AC%E3%82%B3%E3%83%A1%E3%83%B3"
+  },
+  {
+   "term": "馬場ちゃん",
+   "hours": 7,
+   "best_rank": 3,
+   "url": "https://x.com/search?q=%E9%A6%AC%E5%A0%B4%E3%81%A1%E3%82%83%E3%82%93"
+  },
+  {
+   "term": "マイキー",
+   "hours": 7,
+   "best_rank": 3,
+   "url": "https://x.com/search?q=%E3%83%9E%E3%82%A4%E3%82%AD%E3%83%BC"
+  },
+  {
+   "term": "比江島慎",
+   "hours": 7,
+   "best_rank": 4,
+   "url": "https://x.com/search?q=%E6%AF%94%E6%B1%9F%E5%B3%B6%E6%85%8E"
+  },
+  {
+   "term": "鷹ちゃん",
+   "hours": 7,
+   "best_rank": 8,
+   "url": "https://x.com/search?q=%E9%B7%B9%E3%81%A1%E3%82%83%E3%82%93"
+  },
+  {
+   "term": "イブラヒム",
+   "hours": 7,
+   "best_rank": 9,
+   "url": "https://x.com/search?q=%E3%82%A4%E3%83%96%E3%83%A9%E3%83%92%E3%83%A0"
+  },
+  {
+   "term": "カップ焼きそば",
+   "hours": 7,
+   "best_rank": 10,
+   "url": "https://x.com/search?q=%E3%82%AB%E3%83%83%E3%83%97%E7%84%BC%E3%81%8D%E3%81%9D%E3%81%B0"
+  },
+  {
+   "term": "Eden",
+   "hours": 7,
+   "best_rank": 12,
+   "url": "https://x.com/search?q=Eden"
+  },
+  {
+   "term": "シャッフルメドレー",
+   "hours": 7,
+   "best_rank": 15,
+   "url": "https://x.com/search?q=%E3%82%B7%E3%83%A3%E3%83%83%E3%83%95%E3%83%AB%E3%83%A1%E3%83%89%E3%83%AC%E3%83%BC"
+  },
+  {
+   "term": "線状降水帯",
+   "hours": 7,
+   "best_rank": 20,
+   "url": "https://x.com/search?q=%E7%B7%9A%E7%8A%B6%E9%99%8D%E6%B0%B4%E5%B8%AF"
+  },
+  {
+   "term": "俳優部門",
+   "hours": 7,
+   "best_rank": 23,
+   "url": "https://x.com/search?q=%E4%BF%B3%E5%84%AA%E9%83%A8%E9%96%80"
+  },
+  {
+   "term": "先生の血圧",
+   "hours": 7,
+   "best_rank": 24,
+   "url": "https://x.com/search?q=%E5%85%88%E7%94%9F%E3%81%AE%E8%A1%80%E5%9C%A7"
+  },
+  {
+   "term": "組立家具の日",
+   "hours": 7,
+   "best_rank": 27,
+   "url": "https://x.com/search?q=%E7%B5%84%E7%AB%8B%E5%AE%B6%E5%85%B7%E3%81%AE%E6%97%A5"
+  },
+  {
+   "term": "アズールプロミリア",
+   "hours": 7,
+   "best_rank": 36,
+   "url": "https://x.com/search?q=%E3%82%A2%E3%82%BA%E3%83%BC%E3%83%AB%E3%83%97%E3%83%AD%E3%83%9F%E3%83%AA%E3%82%A2"
+  },
+  {
+   "term": "#玉ねぎ増量コク増量ビーフシチューパイ",
+   "hours": 6,
+   "best_rank": 1,
+   "url": "https://x.com/search?q=%23%E7%8E%89%E3%81%AD%E3%81%8E%E5%A2%97%E9%87%8F%E3%82%B3%E3%82%AF%E5%A2%97%E9%87%8F%E3%83%93%E3%83%BC%E3%83%95%E3%82%B7%E3%83%81%E3%83%A5%E3%83%BC%E3%83%91%E3%82%A4"
+  },
+  {
+   "term": "比江島さん",
+   "hours": 6,
+   "best_rank": 7,
+   "url": "https://x.com/search?q=%E6%AF%94%E6%B1%9F%E5%B3%B6%E3%81%95%E3%82%93"
+  }
+ ],
+ "hatena": [
+  {
+   "title": "西武・そごうの「さ、ひっくり返そう。」をきぬた歯科が「デザイナーの自己満足」と酷評し、業界で大激論→「優れた広告」と「売上につながる広告」は何が違うのか？",
+   "url": "https://togetter.com/li/2775444",
+   "users": 404
+  },
+  {
+   "title": "女の子キャラ振り向き系dreamcoreについて - nomolkのブログ",
+   "url": "https://nomolk.hatenablog.com/entry/2026/11/27/013158",
+   "users": 123
+  },
+  {
+   "title": "“司法試験なし”で裁判官へ…勤務中オンカジ賭博6万回・278万円横領の元簡裁判事、「罷免判決」の主任裁判員が職員選考に懸念 | 弁護士JPニュース",
+   "url": "https://www.ben54.jp/news/4123",
+   "users": 76
+  },
+  {
+   "title": "情報量が4倍のQRコードを作ろう - Qiita",
+   "url": "https://qiita.com/reipandada/items/17496db6ac5f64a5e61a",
+   "users": 104
+  },
+  {
+   "title": "新築マンション、居住せず１年以内売却で譲渡益５２％課税検討…投機的取引の抑制狙う",
+   "url": "https://www.yomiuri.co.jp/economy/20261127-GYT1T00005/",
+   "users": 153
+  },
+  {
+   "title": "不倫男殺す同盟 - はまち乃藍 | 少年ジャンプ＋",
+   "url": "https://shonenjumpplus.com/episode/9253191257982514778",
+   "users": 246
+  },
+  {
+   "title": "主人公とヒロインが結ばれてたのに最終話や続編で別れて他の人とくっついてるのを見せられ「これがリアルだ」ってやってきた作品に怒り狂ったことがある",
+   "url": "https://togetter.com/li/2774782",
+   "users": 77
+  },
+  {
+   "title": "千葉真一×沢田研二「魔界転生」無料配信！吉永小百合・天海祐希・妻夫木聡ら出演の時代劇も - 映画ナタリー",
+   "url": "https://natalie.mu/eiga/news/699720",
+   "users": 22
+  },
+  {
+   "title": "Xユーザーのつじもと清美さん: 「今回の中国・深圳で行われたAPEC。外務省から「APECでの正式な2国間会談はゼロ」を確認した。 なおロシアのプーチン大統領と行ったのは正式な会談ではなく、「意見交換」とのこと。 また「はじめから2国間会談はしない方針でAPECに望んだのか？」と聞くと、外務省は「結果的にゼロだった」とのこと」 / X",
+   "url": "https://x.com/tsujimotokiyomi/status/2125842215302033742",
+   "users": 158
+  },
+  {
+   "title": "米、スペースXに衛星100万基の配備承認　宇宙にAIデータセンター構築へ",
+   "url": "https://www.cnn.co.jp/usa/35255487.html",
+   "users": 43
+  },
+  {
+   "title": "さくらインターネット、AIを月額固定料金で提供する「シンプルAI」発表、システムへの組み込み用途を想定",
+   "url": "https://www.publickey1.jp/blog/26/aiai_1.html",
+   "users": 72
+  },
+  {
+   "title": "2026-11-26 LayerXにおけるAI Agentを支えるデータ基盤のアーキテクチャと設計思想 / The Architecture and Design Philosophy of the Data Platform For AI Agents at LayerX",
+   "url": "https://speakerdeck.com/civitaspo/the-architecture-and-design-philosophy-of-the-data-platform-for-ai-agents-at-layerx",
+   "users": 66
+  },
+  {
+   "title": "デジタル庁デザインシステムをどう使うか：導入先に合わせた「ローカルデザインシステム」を作る｜デジタル庁ニュース",
+   "url": "https://digital-agency-news.digital.go.jp/articles/2026-11-26",
+   "users": 93
+  },
+  {
+   "title": "取引先の若者に「似通う」とチャットで伝えたら「方言やめてください」→広辞苑のスクショを送ったところ、その若者は上司にチャットから即キックされてた",
+   "url": "https://togetter.com/li/2775408",
+   "users": 132
+  },
+  {
+   "title": "「日本教育学会倫理委員会の見解（2026年10月27日公開）」の公開",
+   "url": "https://researchmap.jp/blogs/blog_entries/view/110725/dde90edf4c96727543d3b2df14f5799c?frame_id=650494",
+   "users": 48
+  },
+  {
+   "title": "Skills over MCP、めっちゃよさそう | ashunar0",
+   "url": "https://ashunar0.dev/posts/skills-over-mcp/",
+   "users": 36
+  },
+  {
+   "title": "友人のプロの音楽家は頻繁に幼稚園や小学校の先生から「子どものために」や「教育のために」と無償での演奏をお願いされるので「先生も無料で働いているのですか？」と返す",
+   "url": "https://togetter.com/li/2775487",
+   "users": 51
+  },
+  {
+   "title": "Aniwaffle | Expressive, lovable AI voices for your characters",
+   "url": "https://aniwaffle.com/",
+   "users": 52
+  },
+  {
+   "title": "深圳APECで中国が高市首相を冷遇　なぜアジアで日本擁護の声が広がらないのか #エキスパートトピ（高橋浩祐） - エキスパート - Yahoo!ニュース",
+   "url": "https://news.yahoo.co.jp/expert/articles/18608df7a236ed76b2cdd2e309e07976c03d6000",
+   "users": 40
+  },
+  {
+   "title": "「車を買ったのにシートヒーターは月額サブスク必須」などを禁止--米NY州",
+   "url": "https://japan.cnet.com/article/35255471/",
+   "users": 45
+  },
+  {
+   "title": "SSH is a GUI framework | ssh zydra.sh",
+   "url": "https://zydra.sh/articles/ssh-is-a-gui-framework/",
+   "users": 53
+  },
+  {
+   "title": "なぜ、私たちは親を否定できないのか。｜公認心理師・信田さよ子が語る、世代間連鎖を防ぐ方法｜LIFULL STORIES",
+   "url": "https://media.lifull.com/crossviews/20240404113/",
+   "users": 31
+  },
+  {
+   "title": "これから高齢独身男性に襲ってくる地獄",
+   "url": "https://anond.hatelabo.jp/20261126200243",
+   "users": 481
+  },
+  {
+   "title": "【Claude Code】鹿野さんが実践するエンジニアの日常業務を爆速にする最新推しツール 大公開",
+   "url": "https://speakerdeck.com/tonkotsuboy_com/index-1f2ed0d2-597d-459d-abf2-db8db109c5d6",
+   "users": 330
+  },
+  {
+   "title": "トランプ氏娘婿、プーチン氏は核兵器を使用せず「自制を示してきた」　「偉大な政治家」と形容",
+   "url": "https://www.cnn.co.jp/world/35255492.html",
+   "users": 13
+  },
+  {
+   "title": "AI使って開発するなら、モデリングするんだよ - 4つの図で始めるモデリングと、AIにモデルを実装させるアーキテクチャ",
+   "url": "https://speakerdeck.com/littlehands/umtp-suraido-20261125",
+   "users": 25
+  },
+  {
+   "title": "エンジニア2人・8ヶ月で新規事業を立ち上げる──「フルAI開発」のふりかえり - コネヒト開発者ブログ",
+   "url": "https://tech.connehito.com/entry/2026/11/26/100507",
+   "users": 40
+  },
+  {
+   "title": "UI style guides",
+   "url": "https://aresluna.org/ui-style-guides/",
+   "users": 34
+  },
+  {
+   "title": "市民の婚姻届を市議が無断撮影しSNS投稿　鎌倉市が情報流出と発表（朝日新聞） - Yahoo!ニュース",
+   "url": "https://news.yahoo.co.jp/articles/ed931395f21292bf50f8a243a657d267602121c6",
+   "users": 73
+  },
+  {
+   "title": "AIが書いたコードを、「わかる」コードに変える | gihyo.jp",
+   "url": "https://gihyo.jp/article/2026/10/engineer-ai-sounding-board-05",
+   "users": 34
+  },
+  {
+   "title": "国民民主政治塾に出席の官僚　休日出勤扱いで旅費は税金から　専門家「政官の関係再考を」",
+   "url": "https://www.sankei.com/article/20261126-OXIHBIADYFE53HZKPE2NDNQCEI/?outputType=asynd",
+   "users": 41
+  },
+  {
+   "title": "【やじうまミニレビュー】 工具のマキタバッテリがPCの電源に!? 最大100Wの純正アダプタを使ってみた",
+   "url": "https://pc.watch.impress.co.jp/docs/column/yajiuma-mini-review/2159706.html",
+   "users": 39
+  },
+  {
+   "title": "事業理解を深めるために、皆さんどうなさってますか｜Sayuri",
+   "url": "https://note.com/sayurishsd/n/n40b2815c9363",
+   "users": 27
+  },
+  {
+   "title": "すっかり社畜と化してしまった生活を、まんざらでもなく思う日々 - 自意識高い系男子",
+   "url": "https://ta-nishi.hatenablog.com/entry/2026/11/26/202850",
+   "users": 10
+  },
+  {
+   "title": "【これはヤバすぎる】保育士50人が一斉退職！自殺者も！東京・墨田区の保育園は性犯罪・パワハラ・不明瞭会計「不祥事のデパート」 | アサ芸プラス",
+   "url": "https://www.asagei.com/excerpt/350546",
+   "users": 34
+  },
+  {
+   "title": "第27話 タケモトの過去3 / 神引きのモナーク - 杉浦次郎/オキウミレイ | サンデーうぇぶり",
+   "url": "https://www.sunday-webry.com/episode/12207421984576041679",
+   "users": 15
+  },
+  {
+   "title": "デザインの成果と、デザイン組織の成果｜大﨑 優｜CONCENT",
+   "url": "https://note.com/osakiyu/n/ne51c0d03b0b4",
+   "users": 15
+  },
+  {
+   "title": "Anthropic、MCPサーバーがスキルを配信する「Skills over MCP」をパブリックベータ公開 ―Tasks、Elicitationの一般提供も開始 | gihyo.jp",
+   "url": "https://gihyo.jp/article/2026/11/skills-over-mcp",
+   "users": 38
+  },
+  {
+   "title": "GitHub - datadog-labs/ephyra: A property-based testing library for the LLM era",
+   "url": "https://github.com/datadog-labs/ephyra",
+   "users": 18
+  },
+  {
+   "title": "世界最小規模の「下関漁港閘門」をジョイフルから堪能する　特等席がファミレスにあった",
+   "url": "https://dailyportalz.jp/kiji/shimonoseki-gyoko-koumon",
+   "users": 4
+  }
+ ]
+}
