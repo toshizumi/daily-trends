@@ -1,0 +1,521 @@
+{
+ "date": "2026-11-28",
+ "collected_at": "2026-11-28T12:10+09:00",
+ "errors": {},
+ "google": [
+  {
+   "term": "チワワ",
+   "traffic": "10000+",
+   "news_title": "クマに襲われたチワワの｢ハクくん｣ 脚を骨折し首にもけが 一時姿を消すも生還【専門家の解説は】",
+   "news_url": "https://newsdig.tbs.co.jp/articles/-/3117009",
+   "news_source": "TBS NEWS DIG"
+  },
+  {
+   "term": "伊藤大海",
+   "traffic": "2000+",
+   "news_title": "日本ハム伊藤大海、カブス移籍へ…米報道 佐藤輝明と同僚に 2025年沢村賞＆最多勝2回（Full-Count）",
+   "news_url": "https://news.yahoo.co.jp/articles/06a3144e6522370d11a47cfce79e96cf7ee88b55",
+   "news_source": "Yahoo!ニュース"
+  },
+  {
+   "term": "生活費",
+   "traffic": "200+",
+   "news_title": "夫婦で50歳から早期退職、運用資産が3割下がっても売らずに済ませるには、現金は生活費の何年分必要か（LIMO）",
+   "news_url": "https://news.yahoo.co.jp/articles/4fe84ab38d1a222ba92559ec6b5ac6332bc78018",
+   "news_source": "Yahoo!ニュース"
+  },
+  {
+   "term": "ネイキッド",
+   "traffic": "200+",
+   "news_title": "Vツインエンジン搭載の新型700ccネイキッド登場 アルミ製片持ちスイングアーム＆シート下デュアルサイレンサー採用のBENDA「Vinster 700」公開",
+   "news_url": "https://news.yahoo.co.jp/articles/3ab00601efcb17fe38a59e83144d460a42a781ad",
+   "news_source": "Yahoo!ニュース"
+  },
+  {
+   "term": "福田康夫",
+   "traffic": "200+",
+   "news_title": "福田康夫氏死去が内外に〝波紋〟【点描・永田町】：時事ドットコム",
+   "news_url": "https://www.jiji.com/jc/v8?id=202623tenbyo",
+   "news_source": "時事ドットコム"
+  },
+  {
+   "term": "齋藤綱記",
+   "traffic": "200+",
+   "news_title": "3年連続40試合超！ 中日で開花した”元日ハム左腕”が契約更改 今季チーム最多53登板（ベースボールチャンネル）",
+   "news_url": "https://news.yahoo.co.jp/articles/1e8045f740846e1533a32d1297376fa0376041f2",
+   "news_source": "Yahoo!ニュース"
+  },
+  {
+   "term": "the manzai マスターズ",
+   "traffic": "200+",
+   "news_title": "『アサヒビール スマドリTHE MANZAI2026』（C）フジテレビ",
+   "news_url": "https://www.sankei.com/article/20261128-AVBSERMB3ZLALMD3EUXFSQH67Y/photo/ZQRRVBH3FJOAVFYORPXI7IGCSI/",
+   "news_source": "産経ニュース"
+  },
+  {
+   "term": "小平奈緒",
+   "traffic": "100+",
+   "news_title": "「金メダリストでありながら…」小平奈緒さん、引退4年〝人生激変〟40歳の現在に「これこそ真のオリンピアン」「こういう人になりたい」の声（西スポWEB OTTO!）",
+   "news_url": "https://news.yahoo.co.jp/articles/1227120a6c0a099a1cf979a992adb5dc438a2d68",
+   "news_source": "Yahoo!ニュース"
+  },
+  {
+   "term": "レブロン・ジェームズ",
+   "traffic": "100+",
+   "news_title": "レブロンが新天地で初のトリプルダブル…ヒーローになぞらえた発言にマクシーも反応",
+   "news_url": "https://nba.docomo.ne.jp/news/200042",
+   "news_source": "NBA docomo"
+  },
+  {
+   "term": "ピストンズ 対 バックス",
+   "traffic": "100+",
+   "news_title": "See Detroit Pistons host Milwaukee Bucks in NBA Cup action",
+   "news_url": "https://www.freep.com/picture-gallery/sports/nba/pistons/2026/11/27/detroit-pistons-photos-milwaukee-bucks-nba-cup/92987771007/",
+   "news_source": "Detroit Free Press"
+  }
+ ],
+ "x": [
+  {
+   "term": "東方キャラ性格診断",
+   "hours": 19,
+   "best_rank": 1,
+   "url": "https://x.com/search?q=%E6%9D%B1%E6%96%B9%E3%82%AD%E3%83%A3%E3%83%A9%E6%80%A7%E6%A0%BC%E8%A8%BA%E6%96%AD"
+  },
+  {
+   "term": "宇多田ヒカル",
+   "hours": 15,
+   "best_rank": 4,
+   "url": "https://x.com/search?q=%E5%AE%87%E5%A4%9A%E7%94%B0%E3%83%92%E3%82%AB%E3%83%AB"
+  },
+  {
+   "term": "大槻教授",
+   "hours": 15,
+   "best_rank": 7,
+   "url": "https://x.com/search?q=%E5%A4%A7%E6%A7%BB%E6%95%99%E6%8E%88"
+  },
+  {
+   "term": "正門くん",
+   "hours": 15,
+   "best_rank": 8,
+   "url": "https://x.com/search?q=%E6%AD%A3%E9%96%80%E3%81%8F%E3%82%93"
+  },
+  {
+   "term": "中川圭太",
+   "hours": 14,
+   "best_rank": 5,
+   "url": "https://x.com/search?q=%E4%B8%AD%E5%B7%9D%E5%9C%AD%E5%A4%AA"
+  },
+  {
+   "term": "INFP",
+   "hours": 13,
+   "best_rank": 9,
+   "url": "https://x.com/search?q=INFP"
+  },
+  {
+   "term": "#SixTONES_Closer",
+   "hours": 12,
+   "best_rank": 1,
+   "url": "https://x.com/search?q=%23SixTONES_Closer"
+  },
+  {
+   "term": "Dear WOMAN",
+   "hours": 11,
+   "best_rank": 4,
+   "url": "https://x.com/search?q=Dear%20WOMAN"
+  },
+  {
+   "term": "少子化対策",
+   "hours": 11,
+   "best_rank": 11,
+   "url": "https://x.com/search?q=%E5%B0%91%E5%AD%90%E5%8C%96%E5%AF%BE%E7%AD%96"
+  },
+  {
+   "term": "マエリベリー・ハーン",
+   "hours": 11,
+   "best_rank": 13,
+   "url": "https://x.com/search?q=%E3%83%9E%E3%82%A8%E3%83%AA%E3%83%99%E3%83%AA%E3%83%BC%E3%83%BB%E3%83%8F%E3%83%BC%E3%83%B3"
+  },
+  {
+   "term": "日本人限定",
+   "hours": 10,
+   "best_rank": 4,
+   "url": "https://x.com/search?q=%E6%97%A5%E6%9C%AC%E4%BA%BA%E9%99%90%E5%AE%9A"
+  },
+  {
+   "term": "ひとりぼっちのハブラシ",
+   "hours": 10,
+   "best_rank": 8,
+   "url": "https://x.com/search?q=%E3%81%B2%E3%81%A8%E3%82%8A%E3%81%BC%E3%81%A3%E3%81%A1%E3%81%AE%E3%83%8F%E3%83%96%E3%83%A9%E3%82%B7"
+  },
+  {
+   "term": "INTP・探究",
+   "hours": 10,
+   "best_rank": 10,
+   "url": "https://x.com/search?q=INTP%E3%83%BB%E6%8E%A2%E7%A9%B6"
+  },
+  {
+   "term": "倶楽部の夢",
+   "hours": 10,
+   "best_rank": 15,
+   "url": "https://x.com/search?q=%E5%80%B6%E6%A5%BD%E9%83%A8%E3%81%AE%E5%A4%A2"
+  },
+  {
+   "term": "猫と人の日",
+   "hours": 9,
+   "best_rank": 10,
+   "url": "https://x.com/search?q=%E7%8C%AB%E3%81%A8%E4%BA%BA%E3%81%AE%E6%97%A5"
+  },
+  {
+   "term": "配信データ",
+   "hours": 9,
+   "best_rank": 10,
+   "url": "https://x.com/search?q=%E9%85%8D%E4%BF%A1%E3%83%87%E3%83%BC%E3%82%BF"
+  },
+  {
+   "term": "断りの連絡",
+   "hours": 9,
+   "best_rank": 13,
+   "url": "https://x.com/search?q=%E6%96%AD%E3%82%8A%E3%81%AE%E9%80%A3%E7%B5%A1"
+  },
+  {
+   "term": "ルナチャイルド",
+   "hours": 9,
+   "best_rank": 26,
+   "url": "https://x.com/search?q=%E3%83%AB%E3%83%8A%E3%83%81%E3%83%A3%E3%82%A4%E3%83%AB%E3%83%89"
+  },
+  {
+   "term": "吉野先生",
+   "hours": 8,
+   "best_rank": 6,
+   "url": "https://x.com/search?q=%E5%90%89%E9%87%8E%E5%85%88%E7%94%9F"
+  },
+  {
+   "term": "闇古戦場",
+   "hours": 8,
+   "best_rank": 7,
+   "url": "https://x.com/search?q=%E9%97%87%E5%8F%A4%E6%88%A6%E5%A0%B4"
+  },
+  {
+   "term": "マルケス引退",
+   "hours": 8,
+   "best_rank": 8,
+   "url": "https://x.com/search?q=%E3%83%9E%E3%83%AB%E3%82%B1%E3%82%B9%E5%BC%95%E9%80%80"
+  },
+  {
+   "term": "ENFP・天真爛漫",
+   "hours": 8,
+   "best_rank": 16,
+   "url": "https://x.com/search?q=ENFP%E3%83%BB%E5%A4%A9%E7%9C%9F%E7%88%9B%E6%BC%AB"
+  },
+  {
+   "term": "ISFP・気まま",
+   "hours": 8,
+   "best_rank": 17,
+   "url": "https://x.com/search?q=ISFP%E3%83%BB%E6%B0%97%E3%81%BE%E3%81%BE"
+  },
+  {
+   "term": "阪神入り決断",
+   "hours": 8,
+   "best_rank": 20,
+   "url": "https://x.com/search?q=%E9%98%AA%E7%A5%9E%E5%85%A5%E3%82%8A%E6%B1%BA%E6%96%AD"
+  },
+  {
+   "term": "INTJ・孤高の策謀家",
+   "hours": 8,
+   "best_rank": 27,
+   "url": "https://x.com/search?q=INTJ%E3%83%BB%E5%AD%A4%E9%AB%98%E3%81%AE%E7%AD%96%E8%AC%80%E5%AE%B6"
+  },
+  {
+   "term": "あなたの恋愛タイプ",
+   "hours": 8,
+   "best_rank": 37,
+   "url": "https://x.com/search?q=%E3%81%82%E3%81%AA%E3%81%9F%E3%81%AE%E6%81%8B%E6%84%9B%E3%82%BF%E3%82%A4%E3%83%97"
+  },
+  {
+   "term": "マリニン",
+   "hours": 7,
+   "best_rank": 1,
+   "url": "https://x.com/search?q=%E3%83%9E%E3%83%AA%E3%83%8B%E3%83%B3"
+  },
+  {
+   "term": "#正門良規誕生祭2026",
+   "hours": 7,
+   "best_rank": 2,
+   "url": "https://x.com/search?q=%23%E6%AD%A3%E9%96%80%E8%89%AF%E8%A6%8F%E8%AA%95%E7%94%9F%E7%A5%AD2026"
+  },
+  {
+   "term": "新人さん",
+   "hours": 7,
+   "best_rank": 2,
+   "url": "https://x.com/search?q=%E6%96%B0%E4%BA%BA%E3%81%95%E3%82%93"
+  },
+  {
+   "term": "高橋光成",
+   "hours": 7,
+   "best_rank": 3,
+   "url": "https://x.com/search?q=%E9%AB%98%E6%A9%8B%E5%85%89%E6%88%90"
+  },
+  {
+   "term": "ダイヤモンドバックス",
+   "hours": 7,
+   "best_rank": 6,
+   "url": "https://x.com/search?q=%E3%83%80%E3%82%A4%E3%83%A4%E3%83%A2%E3%83%B3%E3%83%89%E3%83%90%E3%83%83%E3%82%AF%E3%82%B9"
+  },
+  {
+   "term": "キスマイ",
+   "hours": 7,
+   "best_rank": 6,
+   "url": "https://x.com/search?q=%E3%82%AD%E3%82%B9%E3%83%9E%E3%82%A4"
+  },
+  {
+   "term": "鶴瓶さん",
+   "hours": 7,
+   "best_rank": 11,
+   "url": "https://x.com/search?q=%E9%B6%B4%E7%93%B6%E3%81%95%E3%82%93"
+  },
+  {
+   "term": "大画面派",
+   "hours": 7,
+   "best_rank": 14,
+   "url": "https://x.com/search?q=%E5%A4%A7%E7%94%BB%E9%9D%A2%E6%B4%BE"
+  },
+  {
+   "term": "リード曲",
+   "hours": 7,
+   "best_rank": 16,
+   "url": "https://x.com/search?q=%E3%83%AA%E3%83%BC%E3%83%89%E6%9B%B2"
+  },
+  {
+   "term": "シザーハンズ",
+   "hours": 7,
+   "best_rank": 16,
+   "url": "https://x.com/search?q=%E3%82%B7%E3%82%B6%E3%83%BC%E3%83%8F%E3%83%B3%E3%82%BA"
+  },
+  {
+   "term": "カンフェティ",
+   "hours": 7,
+   "best_rank": 16,
+   "url": "https://x.com/search?q=%E3%82%AB%E3%83%B3%E3%83%95%E3%82%A7%E3%83%86%E3%82%A3"
+  },
+  {
+   "term": "雨の土曜日",
+   "hours": 7,
+   "best_rank": 18,
+   "url": "https://x.com/search?q=%E9%9B%A8%E3%81%AE%E5%9C%9F%E6%9B%9C%E6%97%A5"
+  },
+  {
+   "term": "補強成功",
+   "hours": 7,
+   "best_rank": 19,
+   "url": "https://x.com/search?q=%E8%A3%9C%E5%BC%B7%E6%88%90%E5%8A%9F"
+  },
+  {
+   "term": "こよちゃん5周年",
+   "hours": 7,
+   "best_rank": 25,
+   "url": "https://x.com/search?q=%E3%81%93%E3%82%88%E3%81%A1%E3%82%83%E3%82%935%E5%91%A8%E5%B9%B4"
+  }
+ ],
+ "hatena": [
+  {
+   "title": "なぜAIは超難問を解けるのに、あなたの現場では“綺麗なゴミ”を量産するのか？ - サッとぶ",
+   "url": "https://kei-1010.hatenablog.com/entry/2026/11/27/133416",
+   "users": 175
+  },
+  {
+   "title": "女の理想はセックスできるお父さん、男の理想はセックスできる男友達｜めるめる",
+   "url": "https://note.com/merumeru99/n/n6f453c31615b",
+   "users": 260
+  },
+  {
+   "title": "はあちゅうさんの「ムカつく相手に開示請求しまくったら誰も言及してくれなくなり、ネットでの存在感を失う」という展開は現代SNS御伽噺のひとつに数えられそう。その意味で、ネットで喧嘩を売りまくって存在感を維持し続ける溝口さん界隈の戦術は正しいのかも。嫌だけど",
+   "url": "https://posfie.com/@golden_haniwa/p/BN195kk",
+   "users": 132
+  },
+  {
+   "title": "100年前の新聞を10日間購読する｜岡田悠",
+   "url": "https://note.com/hyosasa/n/nd36879962602",
+   "users": 101
+  },
+  {
+   "title": "ピクリエの二次創作政治禁止の声明は筋が悪い",
+   "url": "https://anond.hatelabo.jp/20261126184704",
+   "users": 87
+  },
+  {
+   "title": "びわ湖くんが「アンチのせいで」と冬コミ不参加を報告→前回のコミケで何が起きたのか、近隣サークルから続々と証言→改めて「コミケにお客様はいない」と再認識する",
+   "url": "https://togetter.com/li/2775867",
+   "users": 137
+  },
+  {
+   "title": "「性行為を伴うAV禁止を検討」Xで430万回表示、立憲民主党が「誤情報」と否定　今後の検討も「未定」 - 弁護士ドットコムニュース",
+   "url": "https://www.bengo4.com/c_23/n_21247/",
+   "users": 74
+  },
+  {
+   "title": "なぜ、売名で熊狩りする人が居ないのか",
+   "url": "https://anond.hatelabo.jp/20261127093828",
+   "users": 20
+  },
+  {
+   "title": "《「クズ」と激しく罵倒も》百田尚樹代表　関文科相の問責に反対…真意説明も“二枚舌”と批判殺到 | 女性自身",
+   "url": "https://jisin.jp/domestic/2612095/",
+   "users": 43
+  },
+  {
+   "title": "｢もう管理職はいらない｣　震源はシリコンバレー、AIで消える肩書と階層 - 日本経済新聞",
+   "url": "https://www.nikkei.com/article/DGXZQOGN246EE0U6A121C2000000/",
+   "users": 77
+  },
+  {
+   "title": "『これから高齢独身男性に襲ってくる地獄』へのコメント",
+   "url": "https://b.hatena.ne.jp/entry/s/anond.hatelabo.jp/20261126200243",
+   "users": 59
+  },
+  {
+   "title": "プーチン氏の盟友ルカシェンコ氏、ウクライナの領土巡るロシアの主張に疑問符　「その理屈ならロシアはモンゴルに」",
+   "url": "https://www.cnn.co.jp/world/35255529.html",
+   "users": 23
+  },
+  {
+   "title": "参政党はグーグルに１億円超を支出…２０２５年参院選、新興政党中心に多額の「ＳＮＳ広告費」",
+   "url": "https://www.yomiuri.co.jp/politics/20261127-GYT1T00343/",
+   "users": 37
+  },
+  {
+   "title": "警察 ICC赤根所長の安全確保 最高ランク「特A」で警戒強化 | NHKニュース",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261127de82788",
+   "users": 42
+  },
+  {
+   "title": "「女性がSNSで申告する男のモラハラ」の何割かは「課題解決能力がなくてよしよししてほしいだけの女が思い通りにならなくて逆ギレしてるだけ」の可能性があるという話",
+   "url": "https://posfie.com/@golden_haniwa/p/hfBNdRn",
+   "users": 132
+  },
+  {
+   "title": "関芳弘文科相に新たな政治資金規正法違反疑惑が発覚《稲田元防衛相が講師の食事会で300万円の収入を計上していた》 | 文春オンライン",
+   "url": "https://bunshun.jp/articles/-/94118",
+   "users": 30
+  },
+  {
+   "title": "ノンフライヤーはからあげだけじゃない　夕飯作りラクにしてくれるかも",
+   "url": "https://kaden.watch.impress.co.jp/docs/column/iikoto/2160002.html",
+   "users": 35
+  },
+  {
+   "title": "そもそもドンバスの親ロシア派の武装蜂起は地元主導ではなく、ロシア極右人脈とロシア軍・情報機関の工作（黒井文太郎） - エキスパート - Yahoo!ニュース",
+   "url": "https://news.yahoo.co.jp/expert/articles/462fe0726b7a0de7fe28b403a3965b27c33c2cc3",
+   "users": 82
+  },
+  {
+   "title": "NHKのニュース記事は基本的に1週間で削除されるのが仕様だよと - 電脳塵芥",
+   "url": "https://nou-yunyun.hatenablog.com/entry/2026/11/27/230000",
+   "users": 23
+  },
+  {
+   "title": "田中ほさな編 後編 / ぼくのわたしのマンガ道 - アンソロジー | COMIC Y-OURS(ユアーズ)",
+   "url": "https://comic-y-ours.com/episode/12207421984349247456",
+   "users": 19
+  },
+  {
+   "title": "ウクライナ軍、レーザー兵器でロシア無人機を初撃墜 - 日本経済新聞",
+   "url": "https://www.nikkei.com/article/DGXZQOGR27BRB0X21C26A1000000/",
+   "users": 37
+  },
+  {
+   "title": "関芳弘文科相に新たな政治資金規正法違反疑惑が発覚《稲田元防衛相が講師の食事会で300万円の収入を計上していた》（文春オンライン） - Yahoo!ニュース",
+   "url": "https://news.yahoo.co.jp/articles/1e2c7d1635f2f5dd7062e28c78c319c0e6f4bcc0",
+   "users": 50
+  },
+  {
+   "title": "Suicaペンギンの銅像、鉄道博物館に引っ越し案　新宿駅の展示終了へ - 日本経済新聞",
+   "url": "https://www.nikkei.com/article/DGXZQOUC279OT0X21C26A1000000/",
+   "users": 44
+  },
+  {
+   "title": "便通改善のために食べて良かった食品ランキング - 予防保守ラボ",
+   "url": "https://mk01.hatenadiary.com/entry/2026/11/27/051456",
+   "users": 39
+  },
+  {
+   "title": "「日本語で」と書いても AI が英語に戻るので、Stop フックで止めた",
+   "url": "https://zenn.dev/hitori_pm/articles/cc955887656339",
+   "users": 21
+  },
+  {
+   "title": "Eduardo Garzón @edugaresp スペイン語からの翻訳 これは衝撃的だ。極右、あるいは極右に支えられた右派が政権を握る国では、経済が壊滅的な状況に陥る。危機、景気後退、さらには預金封鎖まで起きる。これは意見ではなく、データだ（しかもGDPや雇用といった従来の指標を使っている）。国別に振り返ってみよう 🧵",
+   "url": "https://x.com/edugaresp/status/2125504212981133527",
+   "users": 12
+  },
+  {
+   "title": "AWSのAI-DLC v2に学ぶ AIにドメイン境界を守らせる設計",
+   "url": "https://speakerdeck.com/j5ik2o/archcon2026",
+   "users": 21
+  },
+  {
+   "title": "シンプルな構文で美しい図を自動生成する「D2」が進化、非営利化で独自レイアウトエンジンもオープンソース化",
+   "url": "https://gigazine.net/news/20261127-d2/",
+   "users": 65
+  },
+  {
+   "title": "はじめての Lean",
+   "url": "https://unaoya.github.io/lean-intro/",
+   "users": 246
+  },
+  {
+   "title": "高市氏に個人献金1億円超、首相就任効果で前年比増　収支報告書 | 毎日新聞",
+   "url": "https://mainichi.jp/articles/20261127/kyd/00m/010/002000c",
+   "users": 24
+  },
+  {
+   "title": "「都市伝説」ユーチューバー“偽情報対策と矛盾ない”官房長官 | NHKニュース",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261127de82735",
+   "users": 159
+  },
+  {
+   "title": "内定式の帰りに100人位いる時に陽キャが「飲み放題付き3500円行く人！」と声をかけていたとき…「あれ蹴って1000円くらいのケーキ食べに行こ」と誘った6人と今も仲良しな話",
+   "url": "https://togetter.com/li/2775649",
+   "users": 70
+  },
+  {
+   "title": "45歳で大学生の子供2人持ちだから稼ぎたいという人が入社、初日に助手席に乗せて車庫を出たら携帯2台手に持ってスマホゲーム、その後楽な仕事を要求して最後は辞めていった",
+   "url": "https://togetter.com/li/2775912",
+   "users": 24
+  },
+  {
+   "title": "ヒートテックを今すぐ捨てろ｜アキ",
+   "url": "https://note.com/aki_pua_street/n/ne41bb78f7243",
+   "users": 631
+  },
+  {
+   "title": "「『ボトムズ』は火薬と硝煙と油の匂いがしなきゃいけない」――押井守が“軍オタ全開”で挑んだメカ描写「もう楽しくって仕方ない！」【押井守監督インタビュー・中編】",
+   "url": "https://lp.p.pia.jp/article/news/528375/index.html?detail=true",
+   "users": 109
+  },
+  {
+   "title": "フェミニストに裏切られた。",
+   "url": "https://anond.hatelabo.jp/20261128003123",
+   "users": 18
+  },
+  {
+   "title": "クマ撃ちの女 - 安島薮太 / 第149話 | くらげバンチ",
+   "url": "https://kuragebunch.com/episode/12207421984345552785",
+   "users": 16
+  },
+  {
+   "title": "【資料公開】コードを書くAI、アーキテクチャーを決める組織",
+   "url": "https://www.ryuzee.com/contents/blog/14629",
+   "users": 65
+  },
+  {
+   "title": "COP31の決裂を「気候正義」から読み解く――先進国の「慈善的責任論」の限界と、COP32への新たな展望｜鬼頭秀一",
+   "url": "https://note.com/jinkan/n/n229428af255a",
+   "users": 8
+  },
+  {
+   "title": "利益844万円、利益率92%　関文科相が官僚呼んだパーティー：朝日新聞",
+   "url": "https://www.asahi.com/articles/ASVCS4D87VCSUTIL01RM.html",
+   "users": 19
+  }
+ ]
+}
